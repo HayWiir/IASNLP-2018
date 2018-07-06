@@ -48,7 +48,7 @@ Concatenating Individual Document Feature sets (300 nos.) into a Single Document
 ```
 concatenate_articles.py
 ```
-Rule Based Tagging:
+Rule Based Tagger:
 ```
 ```
 Calculate F1 Score of Rule Based Model:
