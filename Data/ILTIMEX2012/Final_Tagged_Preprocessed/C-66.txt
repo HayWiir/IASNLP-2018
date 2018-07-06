@@ -1,0 +1,555 @@
+	
+नई	O	JJ	NaN	NaN
+दिल्ली	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारतीय	O	JJ	NaN	NaN
+टीम	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+रोजारियो	O	XC	NaN	NaN
+अर्जेंटीना	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+29	B-D	QC	NaN	DAC
+अगस्त	I-D	NN	PIV	NaN
+से	O	PSP	NaN	NaN
+शुरू	O	NN	NaN	NaN
+होने	O	VM	NaN	NaN
+वाले	O	PSP	NaN	NaN
+महिला	O	NN	NaN	NaN
+हॉकी	O	XC	NaN	NaN
+वर्ल्ड	O	XC	NaN	NaN
+कप	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+मुश्किल	O	JJ	NaN	NaN
+पूल	O	NN	NaN	NaN
+मिला	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारतीय	O	JJ	NaN	NaN
+टीम	O	NN	NaN	NaN
+महाराज	O	XC	NaN	NaN
+कृष्ण	O	XC	NaN	NaN
+कौशिक	O	NNP	NaN	NaN
+की	O	PSP	NaN	NaN
+मार्गदर्शन	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+शिद्दत	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+इसकी	O	PRP	NaN	NaN
+तैयारियों	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+जुटी	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+यह	O	DEM	NaN	NaN
+टूर्नामेंट	O	NN	NaN	NaN
+29	B-P	QC	NaN	DAC
+अगस्त	I-P	NN	PIV	NaN
+से	I-P	PSP	NaN	NaN
+11	I-P	QC	NaN	DAC
+सितंबर	I-P	NNP	PIV	NaN
+तक	O	RP	NaN	NaN
+होगा	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+की	O	PSP	NaN	NaN
+महिला	O	NN	NaN	NaN
+हॉकी	O	JJ	NaN	NaN
+टीम	O	NN	NaN	NaN
+ने	O	PSP	NaN	NaN
+हाल	O	NN	NaN	NaN
+ही	O	RP	NaN	NaN
+में	O	PSP	NaN	NaN
+चीन	O	NNP	NaN	NaN
+का	O	PSP	NaN	NaN
+दौरा	O	NN	NaN	NaN
+किया	O	VM	NaN	NaN
+और	O	CC	NaN	NaN
+फिलहाल	O	RB	NaN	NaN
+वह	O	PRP	NaN	NaN
+न्यू	O	XC	NaN	NaN
+जीलैंड	O	NNP	NaN	NaN
+के	O	PSP	NaN	NaN
+दौरे	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+है	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारतीय	O	JJ	NaN	NaN
+की	O	PSP	NaN	NaN
+उम्मीदें	O	NN	NaN	NaN
+इस	O	DEM	NaN	NaN
+वर्ल्ड	O	XC	NaN	NaN
+कप	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+गरीब	O	JJ	NaN	NaN
+मजदूर	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+बेटी	O	NN	NaN	NaN
+रानी	O	NN	NaN	NaN
+रामपाल	O	NNP	NaN	NaN
+और	O	CC	NaN	NaN
+कप्तान	O	XC	NaN	NaN
+सुरिंदर	O	XC	NaN	NaN
+कौर	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+साथ	O	NST	NaN	NaN
+गोलरक्षक	O	JJ	NaN	NaN
+दीपिका	O	NN	NaN	NaN
+मूर्ति	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+हैं	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+को	O	PSP	NaN	NaN
+यदि	O	CC	NaN	NaN
+इस	O	DEM	NaN	NaN
+वर्ल्ड	O	XC	NaN	NaN
+कप	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+अच्छा	O	JJ	NaN	NaN
+प्रदर्शन	O	NN	NaN	NaN
+करना	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+तो	O	CC	NaN	NaN
+उसे	O	PRP	NaN	NaN
+यह	O	DEM	NaN	NaN
+उम्मीद	O	NN	NaN	NaN
+करनी	O	VM	NaN	NaN
+होगी	O	VAUX	NaN	NaN
+कि	O	CC	NaN	NaN
+उसके	O	PRP	NaN	NaN
+अनुभवी	O	JJ	NaN	NaN
+सेंटर	O	NN	NaN	NaN
+हाफ	O	XC	NaN	NaN
+ममता	O	NN	NaN	NaN
+खरब	O	JJ	NaN	NaN
+जल्द	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+जल्द	O	NN	NaN	NaN
+फिट	O	VM	NaN	NaN
+हो	O	VAUX	NaN	NaN
+जाएं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+को	O	PSP	NaN	NaN
+12	O	QC	NaN	DAC
+टीमों	O	NN	NaN	NaN
+इस	O	DEM	NaN	NaN
+वर्ल्ड	O	XC	NaN	NaN
+कप	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+में	O	PSP	NaN	NaN
+मौजूदा	O	JJ	NaN	NaN
+वर्ल्ड	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+ओलिंपिक	O	JJ	NaN	NaN
+चैंपियन	O	NN	NaN	NaN
+हॉलैंड	O	NN	NaN	NaN
+	
+सशक्त	O	JJ	NaN	NaN
+ऑस्ट्रेलिया	O	NN	NaN	NaN
+	
+जर्मनी	O	NNP	NaN	NaN
+जापान	O	NNP	NaN	NaN
+और	O	CC	NaN	NaN
+न्यू	O	XC	NaN	NaN
+जीलैंड	O	NNP	NaN	NaN
+के	O	PSP	NaN	NaN
+साथ	O	NST	NaN	NaN
+रखा	O	VM	NaN	NaN
+गया	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+मेजबान	O	XC	NaN	NaN
+अर्जेंटीना	O	NNP	NaN	NaN
+चीन	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+स्पेन	O	NN	NaN	NaN
+	
+इंग्लैंड	O	NNP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+और	O	CC	NaN	NaN
+साउथ	O	XC	NaN	NaN
+अफ्रीका	O	NNP	NaN	NaN
+की	O	PSP	NaN	NaN
+टीमें	O	NN	NaN	NaN
+पूल	O	NN	NaN	NaN
+बी	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+हैं	O	VM	NaN	NaN
+	
+।	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+अपने	O	PRP	NaN	NaN
+अभियान	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+आगाज	O	NN	NaN	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+में	O	PSP	NaN	NaN
+टूर्नामेंट	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+दूसरे	B-D	QO	NaN	NaN
+दिन	I-D	NN	PIV	NaN
+हॉलैंड	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+खिलाफ	O	PSP:?	NaN	NaN
+मैच	O	NN	NaN	NaN
+कर	O	VM	NaN	NaN
+करेगा	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+टूर्नामेंट	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+उद्घाटन	O	NN	NaN	NaN
+मैच	O	XC	NaN	NaN
+चीन	O	NNP	NaN	NaN
+और	O	CC	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+खेला	O	VM	NaN	NaN
+जाएगा	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+महिला	O	NN	NaN	NaN
+वर्ल्ड	O	XC	NaN	NaN
+कप	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+कार्यक्रम	O	NN	NaN	NaN
+इस	O	DEM	NaN	NaN
+प्रकार	O	NN	NaN	NaN
+है	O	VM	NaN	NaN
+	
+29	B-D	QC	NaN	DAC
+अगस्त	I-D	JJ	PIV	NaN
+पूल	O	NN	NaN	NaN
+बी	O	VM	NaN	NaN
+	
+चीन	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+स्पेन	O	NN	NaN	NaN
+वि	O	RP	NaN	NaN
+इंग्लैंड	O	NNP	NaN	NaN
+तथा	O	CC	NaN	NaN
+अर्जेंटीना	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+30	B-D	QC	NaN	DAC
+अगस्त	I-D	JJ	PIV	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+	
+हॉलैंड	O	NN	NaN	NaN
+वि	O	XC	NaN	NaN
+भारत	O	NNP	NaN	NaN
+जर्मनी	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+न्यूजीलैंड	O	NNP	NaN	NaN
+तथा	O	CC	NaN	NaN
+ऑस्ट्रेलिया	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+जापान	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+31	B-D	QC	NaN	DAC
+अगस्त	I-D	JJ	PIV	NaN
+पूल	O	NN	NaN	NaN
+बी	O	VM	NaN	NaN
+	
+चीन	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+इंग्लैंड	O	NNP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+अफ्रीका	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+स्पेन	O	NN	NaN	NaN
+अर्जेंटीना	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+1	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+ऑस्ट्रेलिया	O	NNP	NaN	NaN
+हॉलैंड	O	NN	NaN	NaN
+विन्यूजीलैंड	O	RP	NaN	NaN
+तथा	O	CC	NaN	NaN
+जर्मनी	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+जापान	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+2	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+बी	O	VM	NaN	NaN
+	
+साउथ	O	XC	NaN	NaN
+अफ्रीका	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+चीन	O	NNP	NaN	NaN
+इंग्लैंड	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+तथा	O	CC	NaN	NaN
+स्पेन	O	NN	NaN	NaN
+वि	O	RP	NaN	NaN
+अर्जेंटीना	O	NN	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+3	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+जर्मनी	O	NNP	NaN	NaN
+ऑस्ट्रेलिया	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+हॉलैंड	O	NN	NaN	NaN
+तथा	O	CC	NaN	NaN
+जापान	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+न्यूजीलैंड	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+4	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+बी	O	VM	NaN	NaN
+	
+इंग्लैंड	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+अफ्रीका	O	NNP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+स्पेन	O	NN	NaN	NaN
+तथा	O	CC	NaN	NaN
+चीन	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+अर्जेंटीना	O	NN	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+5	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+जापान	O	NNP	NaN	NaN
+जर्मनी	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+हॉलैंड	O	NN	NaN	NaN
+तथा	O	CC	NaN	NaN
+न्यूजीलैंड	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+ऑस्ट्रेलिया	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+6	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+बी	O	VM	NaN	NaN
+	
+स्पेन	O	NN	NaN	NaN
+वि	O	XC	NaN	NaN
+चीन	O	NNP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+कोरिया	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+साउथ	O	XC	NaN	NaN
+अफ्रीका	O	NNP	NaN	NaN
+तथा	O	CC	NaN	NaN
+अर्जेंटीना	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+इंग्लैंड	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+7	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+	
+भारत	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+न्यूजीलैंड	O	NNP	NaN	NaN
+हॉलैंड	O	NN	NaN	NaN
+वि	O	XC	NaN	NaN
+जापान	O	NNP	NaN	NaN
+तथा	O	CC	NaN	NaN
+ऑस्ट्रेलिया	O	NNP	NaN	NaN
+वि	O	RP	NaN	NaN
+जर्मनी	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+8	B-D	QC	NaN	DAC
+सितंबर	I-D	XC	PIV	NaN
+	
+विश्राम	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+दिन	B-D	NN	PIV	NaN
+	
+।	O	SYM	NaN	NaN
+	
+9	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+	
+क्लासिफिकेशन	O	XC	NaN	NaN
+मैच	O	NN	NaN	NaN
+	
+11	O	QC	NaN	DAC
+-	O	SYM	NaN	DAC
+12वें	O	QC	NaN	DAC
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+मैच	O	NN	NaN	NaN
+	
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+में	O	PSP	NaN	NaN
+छठे	O	VM	NaN	NaN
+वि	O	VAUX	NaN	NaN
+पूल	O	XC	NaN	NaN
+बी	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+छठे	O	QO	NaN	NaN
+स्थान	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+रही	O	VM	NaN	NaN
+टीमों	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+और	O	CC	NaN	NaN
+सेमीफाइनल	O	NN	NaN	NaN
+10	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+	
+क्लासिफिकेशन	O	XC	NaN	NaN
+मैच	O	NN	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+नौंवे	O	JJ	NaN	NaN
+-दसवें	O	NN	NaN	DAC
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+मैच	O	NN	NaN	NaN
+	
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+में	O	PSP	NaN	NaN
+पांचवें	O	QO	NaN	NaN
+वि	O	XC	NaN	NaN
+पूल	O	XC	NaN	NaN
+बी	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+पांचवें	O	QO	NaN	NaN
+स्थान	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+रही	O	VM	NaN	NaN
+टीमों	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+	
+।	O	SYM	NaN	NaN
+	
+सातवे-आठवें	O	NN	NaN	DAC
+स्थान	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+मैच	O	NN	NaN	NaN
+	
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+में	O	PSP	NaN	NaN
+चौथे	O	QO	NaN	NaN
+वि	O	XC	NaN	NaN
+पूल	O	XC	NaN	NaN
+बी	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+चौथे	O	QO	NaN	NaN
+स्थान	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+रही	O	VM	NaN	NaN
+टीमों	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+पांचवें-छठे	O	JJ	NaN	DAC
+स्थान	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+मैच	O	NN	NaN	NaN
+	
+पूल	O	NN	NaN	NaN
+ए	O	SYM	NaN	NaN
+में	O	PSP	NaN	NaN
+तीसरे	O	QO	NaN	NaN
+वि	O	XC	NaN	NaN
+पूल	O	XC	NaN	NaN
+बी	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+तीसरे	O	QO	NaN	NaN
+स्थान	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+रही	O	VM	NaN	NaN
+टीमों	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+11	B-D	QC	NaN	DAC
+सितंबर	I-D	NNP	PIV	NaN
+	
+तीसरे	O	QO	NaN	NaN
+स्थान	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+मैच	O	NN	NaN	NaN
+सेमीफाइनल	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+हारने	O	VM	NaN	NaN
+वाली	O	PSP	NaN	NaN
+दोनों	O	JJ	NaN	NaN
+टीमों	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बीच	O	NST	NaN	NaN
+	
+।	O	SYM	NaN	NaN
+	
+और	O	CC	NaN	NaN
+फाइनल	O	NN	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+	

@@ -1,0 +1,542 @@
+	
+रंजीत	O	XC	NaN	NaN
+कुमार	O	NNP	NaN	NaN
+नई	O	JJ	NaN	NaN
+दिल्ली	O	NNP	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+उड़ीसा	O	XC	NaN	NaN
+के	O	PSP	NaN	NaN
+समुद्र	O	XC	NaN	NaN
+तट	O	NN	NaN	NaN
+बालासोर	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+एंटी	O	XC	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+परीक्षण	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+दौरान	O	NST	NaN	NaN
+हमलावर	O	NN	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+अपने	O	PRP	NaN	NaN
+रास्ते	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+भटक	O	VM	NaN	NaN
+गई	O	VAUX	NaN	NaN
+इसलिए	O	SYM	NaN	NaN
+बचाव	O	NN	NaN	NaN
+वाली	O	PSP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+इंटेलिजेंस	O	XC	NaN	NaN
+प्रणाली	O	NN	NaN	NaN
+ने	O	PSP	NaN	NaN
+समझ	O	VM	NaN	NaN
+लिया	O	VAUX	NaN	NaN
+कि	O	CC	NaN	NaN
+इसे	O	PRP	NaN	NaN
+खुद	O	PRP	NaN	NaN
+को	O	PSP	NaN	NaN
+सक्रिय	O	JJ	NaN	NaN
+करने	O	VM	NaN	NaN
+की	O	PSP	NaN	NaN
+जरूरत	O	NN	NaN	NaN
+नहीं	O	NEG	NaN	NaN
+है	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+इस	O	SYM	NaN	NaN
+परीक्षण	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+भारत	O	NNP	NaN	NaN
+की	O	PSP	NaN	NaN
+अडवांस्ड	O	JJ	NaN	NaN
+एयर	O	XC	NaN	NaN
+डिफेंस	O	NN	NaN	NaN
+यानी	O	CC	NaN	NaN
+बचाव	O	NN	NaN	NaN
+वाली	O	PSP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+नहीं	O	NEG	NaN	NaN
+बल्कि	O	SYM	NaN	NaN
+देश	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+विकसित	O	JJ	NaN	NaN
+पृथ्वी	O	NN	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+विश्वसनीयता	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+सवाल	O	NN	NaN	NaN
+खड़े	O	JJ	NaN	NaN
+हो	O	VM	NaN	NaN
+सकते	O	VAUX	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+यहां	O	SYM	NaN	NaN
+रक्षा	O	XC	NaN	NaN
+सूत्रों	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+कहना	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+कि	O	CC	NaN	NaN
+इस	O	DEM	NaN	NaN
+विफलता	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+भारत	O	NNP	NaN	NaN
+के	O	PSP	NaN	NaN
+एंटी	O	XC	NaN	NaN
+मिसाइल	O	XC	NaN	NaN
+विकास	O	XC	NaN	NaN
+कार्यक्रम	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+भी	O	RP	NaN	NaN
+झटका	O	NN	NaN	NaN
+लगा	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+इस	O	SYM	NaN	NaN
+विफलता	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+इसके	O	PRP	NaN	NaN
+विकास	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+तैनाती	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+और	O	CC	NaN	NaN
+देरी	O	NN	NaN	NaN
+होगी	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+भारत	O	SYM	NaN	NaN
+ने	O	PSP	NaN	NaN
+एंटी	O	XC	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+पहला	O	QO	NaN	NaN
+सफल	O	JJ	NaN	NaN
+परीक्षण	O	XC	NaN	NaN
+नवंबर	B-D	NNP	PIV	NaN
+	I-D
+2006	I-D	SYM	NaN	DAC
+में	O	PSP	NaN	NaN
+किया	O	VM	NaN	NaN
+था	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+उड़ीसा	O	SYM	NaN	NaN
+के	O	PSP	NaN	NaN
+बालासोर	O	NN	NaN	NaN
+समुद्र	O	XC	NaN	NaN
+तट	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+दुश्मन	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+आसमान	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+ही	O	RP	NaN	NaN
+ध्वस्त	O	JJ	NaN	NaN
+करने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+जिस	O	DEM	NaN	NaN
+अडवांस्ड	O	XC	NaN	NaN
+एयर	O	XC	NaN	NaN
+डिफेंस	O	XC	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+परीक्षण	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+तैयारी	O	NN	NaN	NaN
+की	O	VM	NaN	NaN
+गई	O	VAUX	NaN	NaN
+थी	O	VAUX	NaN	NaN
+वह	O	PRP	NaN	NaN
+दुश्मन	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+पृथ्वी	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+समुद्र	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+गिर	O	VM	NaN	NaN
+जाने	O	VAUX	NaN	NaN
+की	O	PSP	NaN	NaN
+वजह	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+नहीं	O	NEG	NaN	NaN
+छूटी	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+सोमवार	B-D	SYM	PIV	NaN
+को	O	PSP	NaN	NaN
+हुए	O	VAUX	NaN	NaN
+परीक्षण	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बारे	O	PSP	NaN	NaN
+में	O	PSP	NaN	NaN
+यहां	O	PRP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+वैज्ञानिकों	O	NN	NaN	NaN
+ने	O	PSP	NaN	NaN
+बताया	O	VM	NaN	NaN
+कि	O	CC	NaN	NaN
+दुश्मन	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+छूटने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+T	O
+20	O
+सेकंड	O	PSP	PIV	NaN
+बाद	O
+T	O
+कुछ	O
+सिस्टम	O
+के	O
+ठीक	O
+से	O	PSP	NaN	NaN
+नहीं	O	NEG	NaN	NaN
+काम	O	SYM	NaN	NaN
+करने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+कारण	O	SYM	NaN	NaN
+यह	O	PRP	NaN	NaN
+पथ	O
+से	O	NN	NaN	NaN
+भटक	O
+गई	O
+और	O
+यह	O
+वांछित	O
+ऊंचाई	O
+तक	O
+नहीं	O
+पहुंच	O
+पाई	O
+।	O	SYM	NaN	NaN
+	
+250	O
+किलोमीटर	O	CC	NaN	NaN
+दूर	O
+तक	O
+मार	O
+करने	O
+वाली	O
+पृथ्वी	O
+मिसाइल	O	SYM	NaN	NaN
+को	O	PSP	NaN	NaN
+दुश्मन	O	SYM	NaN	NaN
+की	O	PSP	NaN	NaN
+मिसाइल	O	SYM	NaN	NaN
+के	O	PSP	NaN	NaN
+तौर	O
+पर	O	SYM	NaN	NaN
+छोड़ा	O
+गया	O	SYM	NaN	NaN
+था	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+यहां	O	SYM	NaN	NaN
+मिसाइल	O	SYM	NaN	NaN
+वैज्ञानिकों	O	SYM	NaN	NaN
+ने	O
+बताया	O
+कि	O	CC	NaN	NaN
+मिशन	O
+कंट्रोल	O
+सेंटर	O
+के	O
+कंप्यूटर	O
+ने	O
+अपने	O
+रेडार	O
+की	O
+मदद	O	SYM	NaN	NaN
+से	O
+हमलावर	O	NN	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+पथ	O
+को	O
+देखकर	O
+समझा	O
+कि	O
+चूंकि	O	CC	NaN	NaN
+दुश्मन	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+मिसाइल	O	NN	NaN	NaN
+भटक	O	SYM	NaN	NaN
+गई	O
+है	O
+इसलिए	O
+इसे	O
+रोकने	O
+की	O	PSP	NaN	NaN
+जरूरत	O
+नहीं	O	RP	NaN	NaN
+है	O
+।	O	SYM	NaN	NaN
+	
+इसलिए	O	CC	NaN	NaN
+उसने	O	PSP	NaN	NaN
+दुश्मन	O	SYM	NaN	NaN
+की	O
+मिसाइल	O	JJ	NaN	NaN
+को	O
+समुद्र	O
+में	O
+स्वत	O
+ही	O
+गिरने	O
+दिया	O
+।	O	SYM	NaN	NaN
+	
+हालांकि	O
+यह	O
+एंटी-	O	SYM	NaN	DAC
+मिसाइल	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+एक	O
+खासियत	O
+बताई	O
+जा	O
+रही	O	RP	NaN	NaN
+है	O	SYM	NaN	NaN
+लेकिन	O
+हमलावर	O
+मिसाइल	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+पथ	O
+से	O
+भटकने	O	PSP	NaN	NaN
+के	O
+कारणों	O	PSP	NaN	NaN
+का	O	NN	NaN	NaN
+विश्लेषण	O
+किया	O
+जाएगा	O
+।	O	SYM	NaN	NaN
+	
+एंटी	O
+मिसाइल	O
+का	O
+पहला	O
+सफल	O
+परीक्षण	O	PSP	NaN	NaN
+नवंबर	B-D
+	I-D
+2006	I-D
+में	O
+किया	O	CC	NaN	NaN
+गया	O
+था	O
+।	O	SYM	NaN	NaN
+	
+इसका	O
+दूसरा	O
+सफल	O
+परीक्षण	O	PSP	NaN	NaN
+दिसंबर	B-D
+	I-D
+2007	I-D
+में	O
+किया	O	SYM	NaN	NaN
+गया	O
+।	O
+	
+लेकिन	O
+तीसरे	O
+सफल	O
+परीक्षण	O
+में	O
+चूंकि	O
+हमलावर	O
+मिसाइल	O
+ही	O
+नहीं	O
+चली	O
+इसलिए	O
+अब	O
+इसका	O
+परीक्षण	O
+फिर	O
+किया	O
+जाएगा	O
+।	O
+	
+एक	O
+पृथ्वी	O
+मिसाइल	O
+को	O
+हमलावर	O
+मिसाइल	O
+के	O
+तौर	O
+पर	O
+छोड़ा	O
+गया	O
+था	O
+और	O
+बचाव	O
+वाली	O
+एंटी	O
+मिसाइल	O
+को	O
+निर्देश	O
+था	O
+कि	O
+दुश्मन	O
+की	O
+कोई	O
+मिसाइल	O
+देखते	O
+ही	O
+स्वत	O
+सक्रिय	O
+हो	O
+जाए	O
+।	O
+	
+लेकिन	O
+चूंकि	O
+दुश्मन	O
+की	O
+मिसाइल	O
+खुद	O
+ही	O
+गिरती	O
+नजर	O
+आई	O
+इसलिए	O
+एंटी	O
+मिसाइल	O
+ने	O
+अपने	O
+म्यान	O
+में	O
+ही	O
+रहना	O
+बेहतर	O
+समझा	O
+।	O
+	
+यह	O
+एंटी	O
+मिसाइल	O
+वायुमंडल	O
+के	O
+भीतर	O
+प्रवेश	O
+कर	O
+चुकी	O
+दुश्मन	O
+की	O
+मिसाइल	O
+से	O
+निबटने	O
+के	O
+लिए	O
+डिजाइन	O
+की	O
+गई	O
+थी	O
+।	O
+	
+यदि	O
+हमलावर	O
+पृथ्वी	O
+मिसाइल	O
+अपने	O
+पथ	O
+पर	O
+रहती	O
+तो	O
+15	O
+किलोमीटर	O
+की	O
+ऊंचाई	O
+पर	O
+इससे	O
+आसमान	O
+में	O
+टकराने	O
+के	O
+लिए	O
+यह	O
+स्वत	O
+ही	O
+छूट	O
+जाती	O
+।	O
+	
+दुश्मन	O
+की	O
+बलिस्टिक	O
+मिसाइल	O
+को	O
+आसमान	O
+में	O
+ही	O
+मार	O
+गिराने	O
+के	O
+लिए	O
+डीआरडीओ	O
+के	O
+वैज्ञानिकों	O
+ने	O
+एंडो	O
+एटमोसफेरिक	O
+मिसाइल	O
+का	O
+विकास	O
+किया	O
+है	O
+जो	O
+वायुमंडल	O
+के	O
+भीतर	O
+15	O
+किलोमीटर	O
+की	O
+ऊंचाई	O
+पर	O
+दुश्मन	O
+की	O
+मिसाइल	O
+को	O
+गिराएगी	O
+जब	O
+कि	O
+एक्जो	O
+एटमोसफेरिक	O
+मिसाइल	O
+वायुमंडल	O
+से	O
+बाहर	O
+80	O
+किलोमीटर	O
+की	O
+ऊंचाई	O
+पर	O
+दुश्मन	O
+की	O
+मिसाइल	O
+को	O
+गिराने	O
+के	O
+लिए	O
+डिजाइन	O
+की	O
+गई	O
+है	O
+।	O
+	
+	

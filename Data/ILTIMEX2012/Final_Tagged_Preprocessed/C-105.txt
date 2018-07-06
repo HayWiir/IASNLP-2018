@@ -1,0 +1,550 @@
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+घर	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+शान	O	NN	NaN	NaN
+होता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+यह	O	DEM	NaN	NaN
+शान	O	NN	NaN	NaN
+बनी	O	VM	NaN	NaN
+रहे	O	VAUX	NaN	NaN
+	
+इसके	O	PRP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+ऐसे	O	DEM	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+लंबे	B-P	JJ	NaN	NaN
+समय	I-P	NN	PIV	NaN
+तक	O	RP	NaN	NaN
+संभालकर	O	VM	NaN	NaN
+रखना	O	VM	NaN	NaN
+होगा	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+खुद	O	PRP	NaN	NaN
+अपनी	O	PRP	NaN	NaN
+खूबसूरती	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+कहानी	O	NN	NaN	NaN
+कहता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+घुमावदार	O	JJ	NaN	NaN
+कोने	O	NN	NaN	NaN
+	
+मटीरियल	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+मजबूती	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+पेंट	O	NN	NaN	NaN
+या	O	CC	NaN	NaN
+पॉलिश	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+आकर्षण	O	NN	NaN	NaN
+इसे	O	PRP	NaN	NaN
+सालों	B-D	NN	PIV	NaN
+बाद	I-D	NST	NaN	NaN
+भी	O	RP	NaN	NaN
+जिंदा	O	JJ	NaN	NaN
+रखता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+विशेषकर	O	RB	NaN	NaN
+बड़े	O	NNP	NaN	NaN
+कमरों	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+रखने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+सही	O	JJ	NaN	NaN
+रहता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+इसके	O	PRP	NaN	NaN
+अलावा	O	PSP:?	NaN	NaN
+	
+यह	O	PRP	NaN	NaN
+ट्रडीशनल	O	JJ	NaN	NaN
+इंटीरियर	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+लग्जरी	O	XC	NaN	NaN
+लुक	O	NN	NaN	NaN
+देने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+भी	O	RP	NaN	NaN
+बिल्कुल	O	RB	NaN	NaN
+फीट	O	NN	NaN	NaN
+होता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+अगर	O	CC	NaN	NaN
+किसी	O	PRP	NaN	NaN
+पुरानी	O	JJ	NaN	NaN
+बिल्डिंग	O	NN	NaN	NaN
+	
+जिसमें	O	PRP	NaN	NaN
+बड़े	O	NNP	NaN	NaN
+-	O	SYM	NaN	DAC
+बड़े	O	NNP	NaN	NaN
+कमरे	O	NN	NaN	NaN
+	
+ऊंची	O	JJ	NaN	NaN
+छत	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+लकड़ी	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+फर्श	O	NN	NaN	NaN
+हों	O	VM	NaN	NaN
+	
+में	O	PSP	NaN	NaN
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+किया	O	VM	NaN	NaN
+जाए	O	VAUX	NaN	NaN
+	
+तो	O	CC	NaN	NaN
+एक	O	QC	NaN	NaN
+अलग	O	JJ	NaN	NaN
+ही	O	RP	NaN	NaN
+बात	O	NN	NaN	NaN
+नजर	O	NN	NaN	NaN
+आती	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+किसी	O	PRP	NaN	NaN
+भी	O	RP	NaN	NaN
+तरह	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+शामिल	O	JJ	NaN	NaN
+हो	O	VM	NaN	NaN
+सकता	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+	
+चाहे	O	CC:?	NaN	NaN
+यह	O	PRP	NaN	NaN
+बैठने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+हो	O	VM	NaN	NaN
+	
+सोने	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+या	O	CC	NaN	NaN
+फिर	O	RB	NaN	NaN
+स्टोरेज	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+कोई	O	PRP	NaN	NaN
+पीस	O	NN	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+पुराने	O	JJ	NaN	NaN
+दौर	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+वुड	O	XC	NaN	NaN
+कार्विंग	O	NN	NaN	NaN
+आर्ट	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+काफी	O	QF	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+किया	O	VM	NaN	NaN
+जाता	O	VAUX	NaN	NaN
+था	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+अगर	O	CC	NaN	NaN
+आप	O	PRP	NaN	NaN
+वुड	O	NN	NaN	NaN
+कार्विंग	O	NN	NaN	NaN
+वाला	O	PSP	NaN	NaN
+कोई	O	PRP	NaN	NaN
+पीस	O	NN	NaN	NaN
+जैसे	O	RP	NaN	NaN
+	
+सोफा	O	NN	NaN	NaN
+या	O	CC	NaN	NaN
+कुर्सी	O	NN	NaN	NaN
+खरीदते	O	VM	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+	
+तो	O	CC	NaN	NaN
+फिर	O	RB	NaN	NaN
+उस	O	DEM	NaN	NaN
+पर	O	PSP	NaN	NaN
+कुशन	O	NN	NaN	NaN
+आदि	O	RP	NaN	NaN
+की	O	PSP	NaN	NaN
+अनदेखी	O	JJ	NaN	NaN
+कर	O	VM	NaN	NaN
+सकते	O	VAUX	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+	
+क्योंकि	O	CC	NaN	NaN
+कार्विंग	O	NN	NaN	NaN
+ही	O	RP	NaN	NaN
+इसका	O	PRP	NaN	NaN
+सबसे	O	INTF	NaN	NaN
+बड़ा	O	XC	NaN	NaN
+आकर्षण	O	NN	NaN	NaN
+होगा	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+अगर	O	CC	NaN	NaN
+कुशन	O	NN	NaN	NaN
+रखना	O	VM	NaN	NaN
+ही	O	RP	NaN	NaN
+चाहते	O	VM	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+	
+तो	O	CC	NaN	NaN
+सिल्क	O	XC	NaN	NaN
+	
+वेलवेट	O	NN	NaN	NaN
+या	O	CC	NaN	NaN
+सैटिन	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+बने	O	VM	NaN	NaN
+कुशन	O	NN	NaN	NaN
+कवर	O	NN	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+करें	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+इससे	O	PRP	NaN	NaN
+अलग	O	JJ	NaN	NaN
+ही	O	RP	NaN	NaN
+लुक	O	VM	NaN	NaN
+आएगा	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+स्टाइल	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+अलमारी	O	NN	NaN	NaN
+	
+मेज	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+कुर्सी	O	NN	NaN	NaN
+बेहद	O	JJ	NaN	NaN
+पसंद	O	NN	NaN	NaN
+किए	O	VM	NaN	NaN
+जाते	O	VAUX	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+मार्केट	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+इनकी	O	PRP	NaN	NaN
+काफी	O	QF	NaN	NaN
+डिमांड	O	NN	NaN	NaN
+रहती	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+इंटीरियर	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+फेवरिट	O	NN	NaN	NaN
+थीम	O	NN	NaN	NaN
+होने	O	VM	NaN	NaN
+लगी	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+यहां	O	PRP	NaN	NaN
+तक	O	RP	NaN	NaN
+कि	O	CC	NaN	NaN
+इस	O	DEM	NaN	NaN
+थीम	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+इंटरनैशनल	O	XC	NaN	NaN
+लेवल	O	NNP	NaN	NaN
+पर	O	PSP	NaN	NaN
+भी	O	RP	NaN	NaN
+काफी	O	QF	NaN	NaN
+पंसद	O	JJ	NaN	NaN
+किया	O	VM	NaN	NaN
+जाता	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+अगर	O	CC	NaN	NaN
+एंटीक	O	JJ	NaN	NaN
+थीम	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+ट्रडिशनल	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+साथ	O	NST	NaN	NaN
+मिक्स	O	NN	NaN	NaN
+करके	O	VM	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+कर	O	VM	NaN	NaN
+रहे	O	VAUX	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+	
+तो	O	CC	NaN	NaN
+इसमें	O	PRP	NaN	NaN
+सावधानी	O	NN	NaN	NaN
+बरतनी	O	VM	NaN	NaN
+चाहिए	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+बस	O	RP	NaN	NaN
+यूं	O	RP	NaN	NaN
+ही	O	RP	NaN	NaN
+कुछ	O	QF	NaN	NaN
+भी	O	RP	NaN	NaN
+यहां	O	PRP	NaN	NaN
+-	O	SYM	NaN	DAC
+वहां	O	PRP	NaN	NaN
+रख	O	VM	NaN	NaN
+देने	O	VM	NaN	NaN
+से	O	PSP	NaN	NaN
+विजुअल	O	JJ	NaN	NaN
+अट्रैक्शन	O	NN	NaN	NaN
+खत्म	O	JJ	NaN	NaN
+भी	O	RP	NaN	NaN
+हो	O	VM	NaN	NaN
+सकता	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+करने	O	VM	NaN	NaN
+पर	O	PSP	NaN	NaN
+फ्लोर	O	NN	NaN	NaN
+	
+जीने	O	VM	NaN	NaN
+की	O	PSP	NaN	NaN
+सीढि़यां	O	NN	NaN	NaN
+	
+छजली	O	NN	NaN	NaN
+	
+वॉल	O	XC	NaN	NaN
+पैनलिंग	O	NNP	NaN	NaN
+	
+टाइल्स	O	NN	NaN	NaN
+आदि	O	RP	NaN	NaN
+भी	O	RP	NaN	NaN
+उससे	O	PRP	NaN	NaN
+मैच	O	NN	NaN	NaN
+करते	O	VM	NaN	NaN
+हुए	O	VAUX	NaN	NaN
+ही	O	RP	NaN	NaN
+अच्छे	O	JJ	NaN	NaN
+लगते	O	VM	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+इसके	O	PRP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+वुडन	O	XC	NaN	NaN
+फ्लोर	O	NNP	NaN	NaN
+और	O	CC	NaN	NaN
+वुड	O	XC	NaN	NaN
+पैनलिंग	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+आइडिया	O	NN	NaN	NaN
+अच्छा	O	JJ	NaN	NaN
+रहेगा	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+हालांकि	O	CC	NaN	NaN
+कॉन्ट्रास्ट	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+जरिए	O	PSP	NaN	NaN
+भी	O	RP	NaN	NaN
+विजुअल	O	JJ	NaN	NaN
+इफेक्ट	O	NN	NaN	NaN
+ला	O	VM	NaN	NaN
+सकते	O	VAUX	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+देखभाल	O	NN	NaN	NaN
+करना	O	VM	NaN	NaN
+बेहद	O	INTF	NaN	NaN
+जरूरी	O	JJ	NaN	NaN
+होता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+इसके	O	PRP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+सबसे	O	INTF	NaN	NaN
+जरूरी	O	JJ	NaN	NaN
+है	O	VM	NaN	NaN
+कि	O	CC	NaN	NaN
+इस	O	DEM	NaN	NaN
+तरह	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+हवादार	O	JJ	NaN	NaN
+जगह	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+रखा	O	VM	NaN	NaN
+जाए	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+नैचरल	O	JJ	NaN	NaN
+लाइट	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+इसके	O	PRP	NaN	NaN
+मटीरियल	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+रखरखाव	O	NN	NaN	NaN
+ठीक	O	JJ	NaN	NaN
+होता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+अगर	O	CC	NaN	NaN
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+हार्डवुड	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+इस्तेमाल	O	NN	NaN	NaN
+हो	O	VM	NaN	NaN
+	
+तो	O	CC	NaN	NaN
+यह	O	DEM	NaN	NaN
+ध्यान	O	NN	NaN	NaN
+रखें	O	VM	NaN	NaN
+कि	O	CC	NaN	NaN
+इस	O	DEM	NaN	NaN
+तरह	O	NN	NaN	NaN
+का	O	PSP	NaN	NaN
+सारा	O	QF	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+एक	O	QC	NaN	NaN
+ही	O	RP	NaN	NaN
+जगह	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+इकट्ठा	O	JJ	NaN	NaN
+न	O	NEG	NaN	NaN
+हो	O	VM	NaN	NaN
+जाए	O	VAUX	NaN	NaN
+	
+क्योंकि	O	CC	NaN	NaN
+ज्यादा	O	QF	NaN	NaN
+लकड़ी	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+वह	O	PRP	NaN	NaN
+जगह	O	NN	NaN	NaN
+डल	O	XC	NaN	NaN
+	
+डार्क	O	XC	NaN	NaN
+	
+छोटी	O	JJ	NaN	NaN
+और	O	CC	NaN	NaN
+क्राउडेड	O	JJ	NaN	NaN
+नजर	O	NN	NaN	NaN
+आने	O	VM	NaN	NaN
+लगेगी	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+अगर	O	CC	NaN	NaN
+ज्यादा	O	QF	NaN	NaN
+वुड	O	NN	NaN	NaN
+एक	O	QC	NaN	NaN
+जगह	O	NN	NaN	NaN
+हो	O	VM	NaN	NaN
+	
+तो	O	CC	NaN	NaN
+उसका	O	PRP	NaN	NaN
+असर	O	NN	NaN	NaN
+कम	O	QF	NaN	NaN
+करने	O	VM	NaN	NaN
+के	O	PSP	NaN	NaN
+लिए	O	PSP	NaN	NaN
+हल्के	O	JJ	NaN	NaN
+शेड	O	NN	NaN	NaN
+की	O	PSP	NaN	NaN
+फ्लोर	O	NN	NaN	NaN
+कवरिंग	O	XC	NaN	NaN
+	
+पर्दे	O	XC	NaN	NaN
+	
+दीवारों	O	NN	NaN	NaN
+के	O	PSP	NaN	NaN
+रंग	O	NN	NaN	NaN
+और	O	CC	NaN	NaN
+पेंटिंग्स	O	NN	NaN	NaN
+आदि	O	RP	NaN	NaN
+यूज	O	NN	NaN	NaN
+करें	O	VM	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+कुल	O	QF	NaN	NaN
+मिलाकर	O	VM	NaN	NaN
+	
+एंटीक	O	JJ	NaN	NaN
+फर्नीचर	O	NN	NaN	NaN
+बेहद	O	INTF	NaN	NaN
+कीमती	O	JJ	NaN	NaN
+होता	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+	
+दाम	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+भी	O	RP	NaN	NaN
+और	O	CC	NaN	NaN
+लुक	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+भी	O	RP	NaN	NaN
+	
+इसलिए	O	CC	NaN	NaN
+इसकी	O	PRP	NaN	NaN
+नियमित	O	JJ	NaN	NaN
+साफ	O	XC	NaN	NaN
+-	O	SYM	NaN	DAC
+सफाई	O	NN	NaN	NaN
+	
+पॉलिश	O	NN	NaN	NaN
+	
+वार्निश	O	NN	NaN	NaN
+समेत	O	PSP	NaN	NaN
+तमाम	O	JJ	NaN	NaN
+देखरेख	O	NN	NaN	NaN
+पर	O	PSP	NaN	NaN
+काफी	O	QF	NaN	NaN
+ध्यान	O	NN	NaN	NaN
+देना	O	VM	NaN	NaN
+चाहिए	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+	

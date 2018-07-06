@@ -1,0 +1,537 @@
+	
+आज	B-D	NN	PIV	NaN
+हमारे	O	PRP	NaN	NaN
+समाज	O	NN	NaN	NaN
+को	O	PSP	NaN	NaN
+दहेज़	O	NNP	NaN	NaN
+नामक	O	JJ	NaN	NaN
+दीमक	O	NN	NaN	NaN
+लग	O	VM	NaN	NaN
+गया	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+जो	O	PRP	NaN	NaN
+प्रतिदिन	B-F	NN	PIV	NaN
+किसी	O	PRP	NaN	NaN
+न	O	NEG	NaN	NaN
+किसी	O	PRP	NaN	NaN
+की	O	PSP	NaN	NaN
+बहन-बेटी	O	NN	NaN	DAC
+को	O	PSP	NaN	NaN
+खा	O	VM	NaN	NaN
+रहा	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+कानून	O	SYM	NaN	NaN
+सख्त	O	JJ	NaN	NaN
+नहीं	O	NEG	NaN	NaN
+होने	O	VM	NaN	NaN
+की	O	PSP	NaN	NaN
+वजह	O	NN	NaN	NaN
+से	O	PSP	NaN	NaN
+बहन-बेटी	O	NN	NaN	DAC
+को	O	PSP	NaN	NaN
+जलाया	O	VM	NaN	NaN
+जा	O	VAUX	NaN	NaN
+रहा	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+गला	O	NN	NaN	NaN
+घोट	O	VM	NaN	NaN
+कर	O	VAUX	NaN	NaN
+दफनाया	O	VM	NaN	NaN
+जा	O	VAUX	NaN	NaN
+रहा	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+दहेज़	O	SYM	NaN	NaN
+की	O	PSP	NaN	NaN
+मांग	O	NN	NaN	NaN
+पूरी	O	JJ	NaN	NaN
+न	O	NEG	NaN	NaN
+होने	O	VM	NaN	NaN
+पर	O	PSP	NaN	NaN
+लालची	O	JJ	NaN	NaN
+भेड़िए	O	XC	NaN	NaN
+बहन-बेटी	O	NN	NaN	DAC
+को	O	PSP	NaN	NaN
+इतना	O	QF	NaN	NaN
+परेशान	O	JJ	NaN	NaN
+करते	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+कि	O	CC	NaN	NaN
+वो	O	PRP	NaN	NaN
+तंग	O	JJ	NaN	NaN
+आकर	O	VM	NaN	NaN
+खुदखुशी	O	NN	NaN	NaN
+कर	O	VM	NaN	NaN
+लेती	O	VAUX	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+ऐसी	O	SYM	NaN	NaN
+दहेज़	O	NNP	NaN	NaN
+से	O	PSP	NaN	NaN
+जुडी	O	VM	NaN	NaN
+खबर	O	NN	NaN	NaN
+हम	O	PRP	NaN	NaN
+हर	O	QF	NaN	NaN
+रोज	B-F	NN	PIV	NaN
+समाचार	O	JJ	NaN	NaN
+पत्रों	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+पढ़ते	O	VM	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+टीवी	O	SYM	NaN	NaN
+पर	O	SYM	NaN	NaN
+देखते-सुनते	O	VM	NaN	DAC
+हैं	O	VAUX	NaN	NaN
+मगर	O	SYM	NaN	NaN
+किसी	O	PRP	NaN	NaN
+ने	O	PSP	NaN	NaN
+सोचा	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+कि	O	CC	NaN	NaN
+हमारा	O	PRP	NaN	NaN
+समाज	O	NN	NaN	NaN
+किस	O	WQ	NaN	NaN
+दिशा	O	NN	NaN	NaN
+में	O	PSP	NaN	NaN
+जा	O	VM	NaN	NaN
+रहा	O	VAUX	NaN	NaN
+है	O	VAUX	NaN	NaN
+।	O	SYM	NaN	NaN
+	
+क्या	O	SYM	NaN	NaN
+कभी	O	PRP	NaN	NaN
+आपने	O	PRP	NaN	NaN
+सोचा	O	VM	NaN	NaN
+है	O	VAUX	NaN	NaN
+एक	O	QC	NaN	NaN
+तरफ	O	NST	NaN	NaN
+हम	O	PRP	NaN	NaN
+लड़का-लड़की	O	PSP	NaN	DAC
+एक	O
+सामान	O
+की	O
+बातें	O
+करते	O	VM	NaN	NaN
+हैं	O	VAUX	NaN	NaN
+दूसरी	O	SYM	NaN	NaN
+तरफ	O
+कन्या	O
+भूर्ण	O
+हत्या	O
+कर	O
+रहे	O
+हैं	O	VM	NaN	NaN
+जिससे	O
+हर	B-F
+साल	I-F
+लिंगअनुपात	O	SYM	NaN	NaN
+गिरता	O
+जा	O
+रहा	O
+है	O
+।	O	SYM	NaN	NaN
+	
+जो	O
+जागे	O
+हुए	O
+इंसान	O
+हैं	O
+उनकी	O
+बच्चियां	O	SYM	NaN	NaN
+दहेज़	O
+के	O	PSP	NaN	NaN
+लालची	O	SYM	NaN	NaN
+भेड़ियों	O
+का	O
+निवाला	O
+बन	O
+रही	O
+हैं	O
+।	O	SYM	NaN	NaN
+	
+देश	O
+की	O	PSP	NaN	NaN
+सरकार	O
+को	O
+कठोर	O
+कानून	O
+बनाना	O
+होगा	O
+इस	O
+तेज	O	SYM	NaN	NaN
+दौड़ते	O
+दहेज़	O
+पर	O
+लगाम	O
+लगाना	O
+होगा	O
+।	O	SYM	NaN	NaN
+	
+समाज	O
+के	O	PSP	NaN	NaN
+सोए	O
+इंसानों	O
+को	O
+जागना	O
+होगा	O
+।	O	SYM	NaN	NaN
+	
+बेंगलुरु	O
+मे	O	PRP	NaN	NaN
+5	O	SYM	NaN	DAC
+स्टार	O	SYM	NaN	NaN
+होटल	O
+के	O	PSP	NaN	NaN
+बिना	O
+बच्ची	O
+की	O	PSP	NaN	NaN
+शादी	O	SYM	NaN	NaN
+करना	O
+मुश्किल	O
+है	O
+तो	O	CC	NaN	NaN
+यूपी	O	SYM	NaN	NaN
+में	O
+मुंह	O
+मांगी	O	JJ	NaN	NaN
+ख्वाहिश	O
+पूरी	O
+किये	O
+बिना	O
+नामुमकिन	O
+है	O
+।	O	SYM	NaN	NaN
+	
+ये	O
+किसी	O
+एक-	O
+दो	O
+राज्य	O
+की	O
+समस्या	O
+नहीं	O
+है	O
+देश	O
+के	O
+हर	O
+राज्य	O
+मे	O	PSP	NaN	NaN
+दहेज़	O	NNP	NaN	NaN
+ने	O
+जड़ें	O
+जमा	O
+रखी	O
+है	O
+हमें	O
+मिलकर	O
+दहेज़	O
+की	O
+जड़ें	O
+काटनी	O
+होगीं	O
+।	O	SYM	NaN	NaN
+	
+क्या	O
+राजस्थान	O
+के	O
+सीकर	O
+जिले	O
+के	O
+रोलसाबसर	O
+के	O
+कायमखानी	O	SYM	NaN	NaN
+कौम	O
+के	O
+लोगों	O
+की	O
+तरह	O
+बढ़ते	O	SYM	NaN	NaN
+दहेज़	O
+को	O	PRP	NaN	NaN
+रोका	O	SYM	NaN	NaN
+नहीं	O	SYM	NaN	NaN
+जा	O	SYM	NaN	NaN
+सकता	O	SYM	NaN	NaN
+अगर	O	SYM	NaN	NaN
+हमारी	O
+सोच	O
+बदले	O
+हम	O
+एक	O
+हो	O
+तो	O
+रोके	O	PSP	NaN	NaN
+जा	O	VAUX	NaN	NaN
+सकते	O	SYM	NaN	NaN
+हैं	O
+।	O	SYM	NaN	NaN
+	
+जानना	O
+चाहते	O
+हो	O	SYM	NaN	NaN
+तो	O
+आओ	O
+मैं	O
+बताता	O
+हूं	O
+रोलसाबसर	O
+के	O
+आस-पास	O
+के	O
+27	O	QC	NaN	DAC
+गांवो	O	SYM	NaN	NaN
+के	O	PSP	NaN	NaN
+कायमखानी	O	SYM	NaN	NaN
+लोगों	O	NN	NaN	NaN
+ने	O	SYM	NaN	NaN
+मिलकर	O
+आज	B-P
+से	I-P	PSP	NaN	NaN
+8	I-P	SYM	NaN	DAC
+साल	I-P
+पहले	I-P
+मीटिंग	O
+कर	O
+ये	O
+निर्णय	O
+लिया	O
+कि	O
+बेटी	O
+की	O	PSP	NaN	NaN
+शादी	O
+में	O	SYM	NaN	NaN
+11	O	SYM	NaN	DAC
+हजार	O
+रुपयों	O
+से	O	SYM	NaN	NaN
+ज्यादा	O
+दहेज़	O
+में	O
+नहीं	O
+दिया	O
+जाए	O
+चाहे	O
+अमीर	O
+हो	O
+या	O	SYM	NaN	NaN
+गरीब	O	SYM	NaN	NaN
+लड़के	O
+के	O
+पिता	O
+11	O
+हजार	O
+रुपयों	O
+से	O
+ज्यादा	O
+नहीं	O
+लेगा	O
+अगर	O
+लिया	O
+तो	O
+उसे	O
+समाज	O
+मे	O
+दण्डित	O
+किया	O
+जाएगा	O
+।	O
+	
+दहेज़	O
+में	O
+दिया	O
+जाने	O
+वाला	O
+सामान	O
+एक	O
+कमरे	O
+में	O
+रखा	O
+जाए	O
+10	O
+हजार	O
+रुपयों	O
+से	O
+ज्यादा	O
+कीमत	O
+का	O
+कोई	O
+आइटम	O
+दहेज़	O
+में	O
+न	O
+दिया	O
+जाए	O
+।	O
+	
+उस	B-D
+समय	I-D
+रंगीन	O
+टीवी	O
+फ्रिज	O
+चक्की	O
+वॉशिंग	O
+मशीन	O
+मोटर	O
+साइकिल	O
+पूरी	O
+तरह	O
+से	O
+पाबंद	O
+की	O
+दहेज़	O
+का	O
+कोई	O
+सामान	O
+टेन्ट	O
+में	O
+दिखावे	O
+के	O
+लिए	O
+नहीं	O
+रखा	O
+जाता	O
+है	O
+।	O
+	
+यूं	O
+कहूं	O
+कि	O
+दिखावा	O
+पूरी	O
+तरह	O
+से	O
+बंद	O
+है	O
+।	O
+	
+पहले	O
+शादी	O
+में	O
+7-8	B-P
+घंटे	I-P
+लग	O
+जाया	O
+करते	O
+थे	O
+पर	O
+अब	O
+2	B-P
+घंटे	I-P
+में	O
+शादी	O
+हो	O
+जाती	O
+है	O
+।	O
+	
+कॉम्पीटीशन	O
+के	O
+ज़माने	O
+में	O
+लोगों	O
+के	O
+पास	O
+वक्त	O
+नहीं	O
+है	O
+इस	O
+वक्त	O
+की	O
+कमी	O
+के	O
+कारण	O
+ही	O
+लोगों	O
+की	O
+सोच	O
+बदली	O
+आज	B-D
+कदम	O
+से	O
+कदम	O
+मिलाकर	O
+वक्त	O
+के	O
+साथ	O
+चल	O
+रहे	O
+हैं	O
+।	O
+	
+अमीर-गरीब	O
+के	O
+बीच	O
+की	O
+दीवार	O
+गिरा	O
+दी	O
+गई	O
+मगर	O
+अफ़सोस	O
+की	O
+इतने	B-P
+सालों	I-P
+के	I-P
+बाद	I-P
+भी	O
+इसका	O
+क्षेत्र	O
+नहीं	O
+बढ़ा	O
+ये	O
+रणनीति	O
+जंहा	O
+से	O
+शुरू	O
+हुई	O
+वही	O
+है	O
+।	O
+	
+इसके	O
+कदम	O
+आगे	O
+नहीं	O
+बढ़	O
+पा	O
+रहे	O
+हैं	O
+।	O
+	
+क्यों	O
+ना	O
+हम	O
+सब	O
+मिलकर	O
+आवाज	O
+उठाएं	O
+आओ	O
+मिलकर	O
+दहेज़	O
+के	O
+लिए	O
+सख्त	O
+कानून	O
+बनवाए	O
+।	O
+	
+दुखी	O
+बेटी	O
+का	O
+सुखी	O
+जीवन	O
+बनाए	O
+।	O
+	
+आरिफ	O
+खान	O
+रोलसाबसर	O
+ईमेलः	O
+INTARIFGMAILCOM	O
+	
