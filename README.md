@@ -35,3 +35,24 @@ pos:
 ```
 
 ## How to Run
+
+BIO, PIV, DAC Tagger:
+```
+datascript2.py
+```
+Parts of Speech Tagger:
+```
+POS_tagging.py
+```
+Concatenating Individual Document Feature sets (300 nos.) into a Single Document: 
+```
+concatenate_articles.py
+```
+Rule Based Tagging:
+```
+```
+Calculate F1 Score of Rule Based Model:
+```
+F1ScoreCalc.py
+```
+
