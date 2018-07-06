@@ -1,0 +1,512 @@
+नई	नई	JJ		adj	f	any		any
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+(	(	SYM		punc				
+बिजनेस	बिजनेस	XC		unk				
+डेस्क	डेस्क	NN	0	n	m	sg	3	d
+)	)	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+बीते	बीत	VM	एं	v	any	sg	2	
+दो	दे	VAUX	एं	v	any	pl	2	
+दिनों	दिन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+प्रदर्शन	प्रदर्शन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सुधार	सुधार	NN	0	n	m	sg	3	d
+देखने	देख	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+मिला	मिला	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+9	9	QC		num				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+कमजोरी	कमजोरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+खुला	खुला	JJ		adj	m	sg		d
+रुपया	रुपया	NN	0	n	m	sg	3	d
+11	11	QC		num				
+बजे	बज	NN	एं	v	any	sg	2	
+के	का	PSP	का	psp	m	sg		o
+आस-पास	आस-पास	NST		unk				
+64.41	64.41	QC		num				
+के	का	PSP	का	psp	m	sg		o
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कारोबार	कारोबार	NN	0	n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+हुआ	हो	VAUX	या	v	m	sg	any	
+देखा	देख	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कारोबार	कारोबार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रुपया	रुपया	NN	0	n	m	sg	3	d
+बीते	बीत	VM	एं	v	any	sg	2	
+दो	दो	QC	0	n	m	sg	3	d
+महीने	महीना	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+उच्चतम	उच्चतम	JJ	0	n	m	sg	3	d
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पहुंच	पहुंच	VM		unk				
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+शुरुआती	शुरुआती	NN		unk				
+उतार-चढ़ाव	उतार-चढ़ाव	NNP		punc				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रुपया	रुपया	NN	0	n	m	sg	3	d
+बीते	बीत	VM	एं	v	any	sg	2	
+दिन	दिन	NN	0	n	m	sg	3	d
+20	20	QC		num				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+मजबूती	मजबूती	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+दो	दो	QC	0	n	m	sg	3	d
+महीने	महीना	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+उच्चतम	उच्चतम	JJ	0	n	m	sg	3	d
+64.50	64.50	QC		num				
+के	का	PSP	का	psp	m	sg		o
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+बंद	बंद	JJ		adj	any	any		any
+हुआ	हो	VM	या	v	m	sg	any	
+,	,	SYM		punc				
+जबकि	जबकि	CC		avy				
+एसएंडपी	एसएंडपी	NN		unk				
+ने	ने	PSP		psp				
+भारत	भारत	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+क्रेडिट	क्रेडिट	JJ		unk				
+रेटिंग	रेटिंग	NN		unk				
+को	को	PSP		psp				
+अपरिवर्तित	अपरिवर्तित	JJ		adj	any	any		any
+रखा	रखा	VM	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+दिन	दिन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कारोबार	कारोबार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रुपया	रुपया	NN	0	n	m	sg	3	d
+डॉलर	डॉलर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबला	JJ	0	n	m	pl	3	d
+64.83	64.83	QC		num				
+के	का	PSP	का	psp	m	sg		o
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कारोबार	कारोबार	NN	0	n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+दिखा	दिखा	VAUX	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+डॉलर	डॉलर	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबला	JJ	0	n	m	pl	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+में	में	PSP		psp				
+आई	आ	VM	या	v	f	sg	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+मजबूती	मजबूती	NN	0	n	f	sg	3	d
+एक	एक	QC		adj	any	any		any
+बेहतर	बेहतर	JJ		adj	any	any		any
+संकेत	संकेत	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+मजबूत	मजबूत	JJ		adj	any	any		any
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+महंगाई	महंगाई	NN		unk				
+पर	पर	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+हद	हद	NN	0	n	f	sg	3	d
+तक	तक	RP		avy				
+लगाम	लगाम	NN	0	n	f	sg	3	d
+लगने	लग	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+संभावना	संभावना	NN	0	n	f	sg	3	d
+बढ़	बढ़	NNP		unk				
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जानिए	जान	VM	एं	v	any	sg	2h	
+रुपए	रुपया	NN	0	n	m	pl		d
+की	का	PSP	का	psp	f	sg		d
+मजबूती	मजबूती	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+आम	आम	JJ	0	n	m	sg	3	d
+आदमी	आदमी	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+कौन	कौन	WQ		avy				
+से	से	PSP	0	v	any	any	any	
+4	4	QC		num				
+बड़े	बड़े	NNP		punc				
+फायदे	फायदा	NN	0	n	m	pl	3	d
+होंगे	हो	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+मजबूत	मजबूत	JJ		adj	any	any		any
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+वो	वो	PRP		unk				
+लोग	लोग	NN	0	n	m	sg	3	d
+खुश	खुश	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+जिन्हें	जो	PRP	को	pn	any	pl	3	o
+विदेश	विदेश	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सैर	सैर	NN	0	n	f	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+काफी	काफी	INTF	0	n	f	sg	3	d
+भाता	भा	JJ	ता	v	m	sg	any	
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+क्योंकि	क्योंकि	CC		adv				
+अब	अब	PRP		adv				
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+मजबूत	मजबूत	JJ		adj	any	any		any
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+हवाई	हवाई	XC	0	n	f	sg	3	d
+किराए	किराया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पहले	पहले	NST		adv				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबला	JJ	0	n	m	pl	3	d
+थोड़े	थोड़े	NN		adv				
+कम	कम	QF		adj	any	any		any
+पैसे	पैसा	NN	0	n	m	pl	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+होंगे	हो	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+फर्ज	फर्ज	NN	0	n	m	sg	3	d
+कीजिए	कीजिए	VM		unk				
+अगर	अगर	CC		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+न्यूयॉर्क	न्यूयॉर्क	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+हवाई	हवाई	XC	0	n	f	sg	3	d
+सैर	सैर	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+3000	3000	QC		num				
+डॉलर	डॉलर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+टिकट	टिकट	NN	0	n	m	sg	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+खरीद	खरीद	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+तो	तो	CC		avy				
+अब	अब	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+कम	कम	QF		adj	any	any		any
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+होंगे	हो	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अगर	अगर	CC		adv				
+आपके	आप	PRP	का	pn	m	pl	any	d
+बच्चे	बच्चा	NN	0	n	m	pl	3	d
+विदेश	विदेश	XC	0	n	m	sg	3	d
+में	में	PSP		psp				
+पढ़ाई	पढ़ाई	NNP		unk				
+कर	कर	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+तो	तो	CC		avy				
+रुपए	रुपया	NN	0	n	m	pl		d
+का	का	PSP	का	psp	m	sg		d
+मजबूत	मजबूत	JJ		adj	any	any		any
+होना	हो	VM	ना	v	m	sg	any	
+आपके	आप	PRP	का	pn	m	pl	any	d
+लिए	ले	PSP	या	v	m	pl	any	
+एक	एक	QC		adj	any	any		any
+अच्छी	अच्छी	JJ		adj	f	any		any
+खबर	खबर	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+क्योंकि	क्योंकि	CC		adv				
+अब	अब	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+पहले	पहले	NST		adv				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबला	JJ	0	n	m	pl	3	d
+थोड़े	थोड़े	NN		adv				
+कम	कम	QF		adj	any	any		any
+पैसे	पैसा	NN	0	n	m	pl	3	d
+भेजने	भेज	VM	ना	v	m	pl	any	
+होंगे	हो	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+मान	मान	VM	0	v	any	any	any	
+लीजिए	ले	VAUX	एं	v	any	sg	2h	
+अगर	अगर	CC		adv				
+आपका	आप	PRP	का	pn	m	sg	any	d
+बच्चा	बच्चा	NN	0	n	m	sg	3	d
+अमेरिका	अमेरिका	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+पढ़ाई	पढ़ाई	XC		unk				
+कर	कर	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+आपको	आप	PRP	को	pn	any	any	any	o
+डॉलर	डॉलर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+हिसाब	हिसाब	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+भेजने	भेज	VM	ना	v	m	pl	any	
+पड़ते	पड़ते	NNP		punc				
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+अगर	अगर	CC		adv				
+डॉलर	डॉलर	NN		unk				
+मजबूत	मजबूत	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+तो	तो	CC		avy				
+आप	आप	PRP	0	pn	any	any	any	o
+ज्यादा	ज्यादा	QF		adj	m	sg		d
+रुपए	रुपया	NN	0	n	m	pl		d
+भेजते	भेज	VM	ता	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+अब	अब	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+डॉलर	डॉलर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कमजोर	कमजोर	JJ		adj	any	any		any
+(	(	SYM		punc				
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+मजबूत	मजबूत	JJ		adj	any	any		any
+)	)	SYM		punc				
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+कम	कम	QF		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+भेजने	भेज	VM	ना	v	m	pl	any	
+होंगे	हो	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+तो	तो	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+से	से	PSP	0	v	any	any	any	
+विदेश	विदेश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पढ़	पढ़	NNP		punc				
+रहे	रह	VAUX	एं	v	any	sg	2	
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+पढ़ाई	पढ़ाई	XC		unk				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+अभिभावकों	अभिभावक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+राहत	राहत	NN	0	n	f	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+डॉलर	डॉलर	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+कमजोर	कमजोर	JJ		adj	any	any		any
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+क्रूड	क्रूड	XC		unk				
+ऑयल	ऑयल	XC		unk				
+सस्ता	सस्ता	NN		adj	m	sg		d
+हो	हो	VM	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+जो	जो	PRP		avy				
+देश	देश	NN	0	n	m	sg	3	d
+कच्चे	कच्चा	JJ		adj	m	sg		o
+तेल	तेल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+आयात	आयात	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+उन्हें	उन्हें	PRP		unk				
+अब	अब	PRP		adv				
+पहले	पहले	NST		adv				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबला	NN	0	n	m	pl	3	d
+(	(	SYM		punc				
+डॉलर	डॉलर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबले	NN		psp	m	sg		o
+)	)	SYM		punc				
+कम	कम	QF		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+होंगे	हो	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+जैसे	जैसे	CC		adv				
+देश	देश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिहाज	लिहाज	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+देखा	देख	VM	या	v	m	sg	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+तो	तो	CC		avy				
+अगर	अगर	CC		adv				
+क्रूड	क्रूड	XC		unk				
+आयल	आयल	XC		unk				
+सस्ता	सस्ता	NN		adj	m	sg		d
+होगा	हो	VM	गा	v	m	sg	2	
+तो	तो	CC		avy				
+सीधे	सीधे	JJ		adv				
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+महंगाई	महंगाई	NN		unk				
+थमने	थम	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+संभावना	संभावना	NN	0	n	f	sg	3	d
+बढ़ेगी	बढ़ेगी	VM		v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आम	आम	JJ	0	n	m	sg	3	d
+उपभोक्ताओं	उपभोक्ता	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खाने-पीने	खाने-पीने	NN		unk				
+और	और	CC		adv				
+अन्य	अन्य	JJ		adj	any	any		any
+जरूरी	जरूरी	JJ		adj	f	any		any
+सामानों	सामान	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+आपूर्ति	आपूर्ति	NN	0	n	f	sg	3	d
+परिवहन	परिवहन	NN	0	n	m	sg	3	d
+माध्यम	माध्यम	NN		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+की	कर	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+महंगाई	महंगाई	NN		unk				
+थम	थम	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+अगर	अगर	CC		adv				
+डॉलर	डॉलर	NN		unk				
+कमजोर	कमजोर	JJ		adj	any	any		any
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तो	तो	CC		avy				
+डॉलर	डॉलर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मुकाबले	मुकाबला	JJ	0	n	m	pl	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+जिन	जिन	PRP	0	n	m	sg	3	d
+भी	भी	RP		adv				
+मदों	मदों	NN		unk				
+में	में	PSP		psp				
+पेमेंट	पेमेंट	NN		unk				
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+वह	वह	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+सस्ता	सस्ता	JJ		adj	m	sg		d
+हो	हो	VM	0	v	any	any	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+यह	यह	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+एक	एक	QC		adj	any	any		any
+राहत	राहत	NN	0	n	f	sg	3	d
+भरी	भर	VM	या	v	f	sg	any	
+खबर	खबर	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

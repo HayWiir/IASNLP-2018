@@ -1,0 +1,224 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+आजमगढ़	आजमगढ़	NN		punc				
+:	:	SYM		punc				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+माह	माह	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+चलाया	चला	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+मुसीबत	मुसीबत	NN	0	n	f	sg	3	d
+बन	बन	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+तिराहे	तिराहे	NN		unk				
+व	व	CC		avy				
+चौराहों	चौराहा	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चे	चे	XC		unk				
+¨	¨	NNP		unk				
+कग	कग	NN		unk				
+करती	कर	VM	ता	v	f	sg	any	
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+देख	देख	VM	0	v	any	any	any	
+चालक	चालक	NN	0	n	m	sg	3	d
+रास्ता	रास्ता	NN	0	n	m	sg	3	d
+बदल	बदल	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+जनपद	जनपद	NN	0	n	m	sg	3	d
+भर	भर	RP	0	v	any	any	any	
+में	में	PSP		psp				
+चलाए	चला	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+28	28	QC		num				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+चालान	चालान	NN	0	n	m	sg	3	d
+काटे	काट	VM	एं	v	any	sg	2	
+व	व	CC		avy				
+22	22	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+समन	समन	NN		unk				
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+वसूला	वसूल	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+माह	माह	NN		unk				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चलाया	चला	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+चालकों	चालक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+यातायात	यातायात	NN	0	n	m	sg	3	d
+संबंधी	संबंधी	JJ	0	n	m	sg	3	d
+जानकारियां	जानकारियां	NN		unk				
+देने	दे	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+यातायात	यातायात	NN	0	n	m	sg	3	d
+प्रभारी	प्रभारी	JJ		adj	f	any		any
+अंगद	अंगद	XC	0	n	m	sg	3	d
+तिवारी	तिवारी	NNP	0	n	f	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+तिरंगा	तिरंगा	XC	0	n	m	sg	3	d
+तिराहा	तिराहा	NNP		unk				
+पर	पर	PSP		psp				
+दोपहिया	दोपहिया	JJ		unk				
+व	व	CC		avy				
+चारपहिया	चारपहिया	XC		unk				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+चे	चे	PSP		unk				
+¨	¨	JJ		unk				
+कग	कग	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+29	29	QC		num				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चालान	चालान	NN	0	n	m	sg	3	d
+काटकर	काट	VM	कर	v	any	any	any	
+22	22	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+समन	समन	NN		unk				
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+वसूला	वसूल	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जनपद	जनपद	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नरौली	नरौली	NN		unk				
+तिराहा	तिराहा	NNP		unk				
+,	,	SYM		punc				
+भंवरनाथ	भंवरनाथ	XC		unk				
+चौराहा	चौराहा	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+हाफिजपुर	हाफिजपुर	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चलाया	चला	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चे	चे	PSP		unk				
+¨	¨	JJ		unk				
+कग	कग	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+शामत	शामत	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालक	चालक	NN	0	n	m	sg	3	d
+दूर	दूर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	NN		unk				
+होते	हो	VM	ता	v	m	pl	any	
+देख	देख	VAUX	0	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+रास्ते	रास्ता	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+बदल	बदल	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>

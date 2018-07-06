@@ -16,11 +16,11 @@ filenames = []
 for indexval in good_files:
     #parses xml file
     str_index=str(indexval)
-    tagged_file ='C-' + str_index + '.txt'
+    tagged_file ='../Data/ILTIMEX2012/Final_Tagged_Preprocessed/C-' + str_index + '.txt'
     filenames.append(tagged_file)
 print(filenames)
 
-with open('final.txt', 'w') as outfile:
+with open('../Data/ILTIMEX2012/final.txt', 'w') as outfile:
     for fname in filenames:
         with open(fname) as infile:
             for line in infile:

@@ -1,0 +1,725 @@
+पटना	पट	NNP	ना	v	m	sg	any	
+[	[	SYM		punc				
+जेएनएन	जेएनएन	NNP		unk				
+]	]	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+बिहार	बिहार	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मधेपुरा	मधेपुरा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+बिहारी	बिहारी	JJ	0	n	m	sg	3	d
+गंज	गंज	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+जदयू	जदयू	NN		unk				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+निरंजन	निरंजन	XC	0	n	m	sg	3	d
+मेहता	मेहता	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+इन	इन	DEM		pn	any	pl	3	o
+दिनों	दिन	NN	0	n	m	pl	3	o
+एक	एक	QC		adj	any	any		any
+ऑडियो	ऑडियो	XC		unk				
+क्लिप	क्लिप	NN	0	n	f	sg	3	d
+वायरल	वायरल	JJ		unk				
+हो	हो	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+जदयू	जदयू	NN		unk				
+विधायक	विधायक	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+मुखिया	मुखिया	NN	0	n	m	sg	3	d
+रहते	रह	VM	ता	v	m	pl	any	
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+दिलाने	दिला	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+एक	एक	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+10	10	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाने	लगा	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+नंदन	नंदन	XC		adj	any	any		any
+मेहता	मेहता	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+उसने	उसने	PRP		unk				
+ये	यह	DEM	0	pn	any	pl	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+विधानसभा	विधानसभा	JJ		unk				
+चुनाव	चुनाव	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+लगभग	लगभग	RB		adv				
+6	6	QC		num				
+माह	माह	NN		unk				
+पहले	पहले	NST		adv				
+दिये	दे	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+और	और	CC		adv				
+जब	जब	PRP		adv				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+देेने	देेने	VM		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+भी	भी	RP		adv				
+जब	जब	PRP		adv				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+हुई	हो	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+कई	कई	QF		adj	any	any		d
+बार	बार	RP		adv				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+जी	जी	NN	0	v	any	any	any	
+से	से	PSP	0	v	any	any	any	
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मांगने	मांगने	VM		unk				
+गए	गए	VAUX		unk				
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+जी	जी	NN	0	v	any	any	any	
+उन्हें	उन्हें	PRP		unk				
+दुत्कार	दुत्कार	NN		unk				
+दिया	दे	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+संबंध	संबंध	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जब	जब	PRP		adv				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+निरंजन	निरंजन	XC	0	n	m	sg	3	d
+मेहता	मेहता	NNP		unk				
+जी	जी	NN	0	v	any	any	any	
+से	से	PSP	0	v	any	any	any	
+बात	बात	NN	0	n	f	sg	3	d
+कि	कि	RP		avy				
+गई	गई	VAUX		unk				
+तो	तो	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+आरोप	आरोप	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+विरोधियों	विरोधी	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+साजिश	साजिश	NN	0	n	f	sg	3	d
+करार	करार	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+और	और	CC		adv				
+उन्होंने	उन्होंने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जारी	जारी	JJ	0	n	f	sg	3	d
+ऑडियो	ऑडियो	XC		unk				
+क्लिप	क्लिप	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+कहीं	कहीं	PRP		adv				
+भी	भी	RP		adv				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+देने-दिलाने	देने-दिलाने	VM		v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+बात	बात	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाने	लगा	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+को	को	PSP		psp				
+पहचानने	पहचान	VM	ना	v	m	pl	any	
+तक	तक	RP		avy				
+से	से	PSP	0	v	any	any	any	
+इनकार	इनकार	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+नंदन	नंदन	XC		adj	any	any		any
+मेहता	मेहता	NNP		unk				
+ने	ने	PSP		psp				
+मुख्यमंत्री	मुख्यमंत्री	JJ	0	n	m	sg	3	d
+नीतीश	नीतीश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+भी	भी	RP		adv				
+पत्र	पत्र	NN	0	n	m	sg	3	d
+लिखकर	लिख	VM	कर	v	any	any	any	
+अवगत	अवगत	JJ		adj	any	any		any
+कराया	करा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+उन्होंने	उन्होंने	PRP		unk				
+लिखा	लिखा	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+चार	चार	QC		adj	any	any		any
+साल	साल	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+जी	जी	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+दिलाने	दिला	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+मुझसे	मुझसे	PRP		unk				
+एक	एक	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+दस	दस	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लिए	ले	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+जब	जब	PRP		adv				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+मिली	मिल	VM	या	v	f	sg	any	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+मैंने	मैं	PRP	ने	pn	any	sg	1	o
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+काफी	काफी	QF	0	n	f	sg	3	d
+दिनों	दिन	NN	0	n	m	pl	3	o
+तक	तक	RP		avy				
+दौड़ाने	दौड़ाने	VM		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+जी	जी	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+पच्चीस	पच्चीस	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रूपये	रूपया	NN	0	n	m	pl	3	d
+लौटाए	लौटा	VM	एं	v	any	sg	2	
+और	और	CC		adv				
+बाद	बाद	NST		adv				
+बाकी	बाकी	JJ		adj	f	any		any
+रकम	रकम	NN	0	n	f	sg	3	d
+मांगने	मांगने	VM		unk				
+जाता	जा	VAUX	ता	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+तो	तो	CC		avy				
+मुझे	मुझे	PRP		unk				
+धौंस	धौंस	NN	0	n	f	sg	3	d
+दिखाकर	दिखा	VM	कर	v	any	any	any	
+भगा	भगा	VAUX	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+गरीब	गरीब	JJ		adj	any	any		any
+आदमी	आदमी	NN	0	n	m	sg	3	d
+हूं	है	VM	है	v	any	sg	1	
+और	और	CC		adv				
+कर्ज	कर्ज	NN	0	n	m	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+उन्हें	उन्हें	PRP		unk				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+उनसे	उनसे	PRP		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+बातचीत	बातचीत	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+दी	दे	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+धमकी	धमकी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+अॉडियो	अॉडियो	NN		unk				
+क्लिप	क्लिप	NN	0	n	f	sg	3	d
+मैं	मैं	PRP	0	pn	any	sg	1	d
+साक्ष्य	साक्ष्य	NN		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पेश	पेश	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+.	.	SYM		punc				
+</s>
+<s>
+मुझे	मुझे	PRP		unk				
+मेरे	मेरे	PRP		unk				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+दिलवाने	दिलवाने	VM		unk				
+में	में	PSP		psp				
+मेरी	मेरी	PRP		unk				
+मदद	मदद	NN	0	n	f	sg	3	d
+करें	कर	VM	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ऑडियो	ऑडियो	XC		unk				
+क्लिप	क्लिप	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+बातचीत	बातचीत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंश	अंश	NN	0	n	m	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+इतना	इतना	QF		adj	m	sg		d
+नाटक	नाटक	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+यहां	यहाँ	PRP		adv				
+झरता	झरता	NN		unk				
+है	है	VM	है	v	any	sg	2	
+पैसा	पैसा	NN	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+सुन	सुन	VM	0	v	any	any	any	
+लीजिये	ले	VAUX	एं	v	any	sg	2h	
+लफुआ	लफुआ	NN		unk				
+नय	नय	JJ	0	n	m	sg	3	d
+बइठल	बइठल	NN		unk				
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+उधर	उधर	PRP		adv				
+घसक	घसक	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बैठिये	बैठ	VM	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+शुरू	शुरू	NN		avy				
+से	से	PSP	0	v	any	any	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+लाइन	लाइन	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+हम	हम	PRP		unk				
+चढाये	चढा	VM	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+चाहे	चाहे	CC:?		adv				
+डीपीओ	डीपीओ	NN		unk				
+हो	हो	VM	0	v	any	any	any	
+या	या	CC		avy				
+कलेक्टर	कलेक्टर	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+मधेपुरा	मधेपुरा	NNP		unk				
+में	में	PSP		psp				
+लाइन	लाइन	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+आपको	आप	PRP	को	pn	any	any	any	o
+हम	हम	PRP		unk				
+चढाये	चढा	VM	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+नरेंद्र	नरेंद्र	JJ	0	n	m	sg	3	d
+बाबू	बाबू	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+मदद	मदद	NN	0	n	f	sg	3	d
+किये	कर	VM	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पैसा	पैसा	NN	0	n	m	sg	3	d
+आपसे	आप	PRP	से	pn	any	any	any	o
+मांगने	मांगने	VM		unk				
+नहीं	नहीं	NEG		adv				
+गए	गए	VM		unk				
+थे	था	VAUX	था	v	m	pl	any	
+,	,	SYM		punc				
+आप	आप	PRP	0	pn	any	any	any	o
+पैसा	पैसा	NN	0	n	m	sg	3	d
+फेंक	फेंक	VM	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+चले	चल	VM	एं	v	any	sg	2	
+गये	गये	VAUX		unk				
+,	,	SYM		punc				
+आपका	आप	PRP	का	pn	m	sg	any	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहानी	कहानी	NN	0	n	f	sg	3	d
+क्या	क्या	WQ		avy				
+हुआ	हो	VM	या	v	m	sg	any	
+सुन	सुन	VM	0	v	any	any	any	
+लीजिए	ले	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+पैसा	पैसा	NN	0	n	m	sg	3	d
+आप	आप	PRP	0	pn	any	any	any	o
+हमको	हमको	PRP		unk				
+दिए	दे	VM	या	v	m	pl	any	
+,	,	SYM		punc				
+आपका	आप	PRP	का	pn	m	sg	any	d
+वाजिब	वाजिब	JJ		adj	any	any		any
+बात	बात	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसके	उसके	PRP		unk				
+बाद	बाद	NST		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+बोले	बोल	VM	एं	v	any	sg	2	
+कि	कि	CC		avy				
+तीस	तीस	QC		adj	any	any		any
+हजार	हजार	NN	0	n	m	sg	3	d
+हमको	हमको	PRP		unk				
+वापस	वापस	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दीजिए	दे	VAUX	एं	v	any	sg	2h	
+तो	तो	CC		avy				
+हम	हम	PRP		unk				
+पच्चीस	पच्चीस	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+आपको	आप	PRP	को	pn	any	any	any	o
+वापस	वापस	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+हम	हम	PRP		unk				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+वापस	वापस	JJ		adj	any	any		any
+मांग	मांग	VM		unk				
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+चुप	चुप	JJ		adj	any	any		any
+रहिये	रह	VM	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+सुनिए	सुन	VM	एं	v	any	sg	2h	
+न	न	NEG		adv				
+सर	सर	NN		adj	any	any		any
+.	.	SYM		punc				
+</s>
+<s>
+विधायक--चुप	विधायक--चुप	NN		unk				
+रहिये	रह	VM	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+उसके	उसके	PRP		unk				
+बाद	बाद	NST		adv				
+हम	हम	PRP		unk				
+एक	एक	QC		adj	any	any		any
+बजरंगबली	बजरंगबली	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+मंदिर	मंदिर	NN	0	n	m	sg	3	d
+बनवा	बनवा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसमें	उसमें	PRP		unk				
+यही	यही	PRP		avy				
+बोला	बोल	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+हम	हम	PRP		unk				
+उसमे	उसमे	PRP		unk				
+प्लास्टर	प्लास्टर	NN	0	n	m	sg	3	d
+करवा	करवा	VM	0	v	any	any	any	
+देते	दे	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+हम	हम	PRP		unk				
+बोले	बोल	VM	एं	v	any	sg	2	
+कि	कि	CC		avy				
+इसमें	इसमें	PRP		pn	any	sg	3	o
+ज्यादा	ज्यादा	QF		adj	m	sg		d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+होगा	हो	VM	गा	v	m	sg	2	
+तब	तब	PRP		adv				
+भी	भी	RP		adv				
+यह	यह	PRP	0	pn	any	sg	3	d
+करवाने	करवा	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+तैयार	तैयार	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+सर	सर	NN		adj	any	any		any
+हम	हम	PRP		unk				
+एक	एक	QC		adj	any	any		any
+हजार	हजार	NN	0	n	m	sg	3	d
+बोले	बोल	VM	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+--चुप	--चुप	NN		unk				
+रहिये	रह	VM	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+सर	सर	NN		adj	any	any		any
+अब	अब	PRP		adv				
+केस	केस	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+केस	केस	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+तो	तो	CC		avy				
+हम	हम	PRP		unk				
+क्या	क्या	WQ		avy				
+करें	कर	VM	एं	v	any	pl	1	
+?	?	SYM		punc				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+वापस	वापस	JJ		adj	any	any		any
+नही	नही	NEG		unk				
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कर्जा	कर्जा	NN	0	n	m	sg	3	d
+नय	नय	JJ	0	n	m	sg	3	d
+धारतें	धारतें	NN		unk				
+हैं	है	VM	है	v	any	pl	1	
+किसी	किसी	PRP		unk				
+का	का	PSP	का	psp	m	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+केस	केस	NN	0	n	m	sg	3	d
+जो	जो	PRP		avy				
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+हाईकोर्ट	हाईकोर्ट	NN		unk				
+में	में	PSP		psp				
+एक्को	एक्को	NN		unk				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+घर	घर	NN	0	n	m	sg	3	d
+मे	मा	PSP	0	n	m	pl	3	d
+नही	नही	NEG		unk				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+पहले	पहले	NST		adv				
+भी	भी	RP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+दिए	दे	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+जो	जो	PRP		avy				
+आप	आप	PRP	0	pn	any	any	any	o
+दिए	दे	VM	या	v	m	pl	any	
+उ	उ	SYM		n	m	sg	3	d
+रखल	रखल	NN		unk				
+नय	नय	JJ	0	n	m	sg	3	d
+न	न	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसमें	उसमें	PRP		unk				
+समय	समय	NN	0	n	m	sg	3	d
+लगेगा	लग	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+निकालेंगे	निकाल	VM	गा	v	m	pl	1	
+तब	तब	PRP		adv				
+देंगे	दे	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+निरंजन	निरंजन	XC	0	n	m	sg	3	d
+मेहता	मेहता	NNP		unk				
+शुद्ध	शुद्ध	JJ		adj	any	any		any
+आदमी	आदमी	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+-	-	SYM		punc				
+केस	केस	NN	0	n	m	sg	3	d
+जो	जो	PRP		avy				
+घर	घर	NN	0	n	m	sg	3	d
+मे	मा	PSP	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+न	न	NEG		adv				
+एक	एक	QC		adj	any	any		any
+रुपया	रुपया	NN	0	n	m	sg	3	d
+घर	घर	NN	0	n	m	sg	3	d
+मे	मा	PSP	0	n	m	pl	3	d
+नही	नही	NEG		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक--	विधायक--	NN		unk				
+आपको	आप	PRP	को	pn	any	any	any	o
+पहले	पहले	NST		adv				
+हम	हम	PRP		unk				
+10	10	QC		num				
+--	--	NN		unk				
+10	10	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+करके	कर	VM	कर	v	any	any	any	
+तीस	तीस	QC		adj	any	any		any
+हजार	हजार	QC	0	n	m	sg	3	d
+देंगे	दे	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+तब	तब	PRP		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+हम	हम	PRP		unk				
+पर	पर	PSP		psp				
+पंचायती	पंचायती	NN		adj	f	any		any
+बेठाइये	बेठाइये	VM		unk				
+गा	गा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+--	--	NN		unk				
+हम	हम	PRP		unk				
+पंचायती	पंचायती	NN		adj	f	any		any
+में	में	PSP		psp				
+नही	नही	NEG		unk				
+पडेंगे	पड	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सर	सर	NN		adj	any	any		any
+केस	केस	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कैसे	कैसे	WQ		adv				
+केस	केस	NN	0	n	m	sg	3	d
+लडेंगे	लड	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+आठ	आठ	QC	0	n	m	sg	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंदर	अंदर	NST	0	n	m	sg	3	d
+में	में	PSP		psp				
+दस	दस	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+भी	भी	RP		adv				
+दे	दे	VM	0	v	any	any	any	
+दीजियेगा	दे	VAUX	गा	v	m	sg	2h	
+न	न	NEG		adv				
+सर	सर	NN		adj	any	any		any
+तो	तो	CC		avy				
+बहुत	बहुत	QF		adj	any	any		any
+मदद	मदद	NN	0	n	f	sg	3	d
+होगा	हो	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+--हां	--हां	NN		unk				
+दे	दे	VM	0	v	any	any	any	
+देंगे	दे	VAUX	गा	v	m	pl	1	
+चलिए	चल	VM	एं	v	any	sg	2h	
+जाइये	जा	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>

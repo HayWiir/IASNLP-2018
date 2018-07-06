@@ -1,0 +1,137 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+मुहम्मदाबाद	मुहम्मदाबाद	JJ		unk				
+गोहना	गोहना	NN		unk				
+(	(	SYM		punc				
+मऊ	मऊ	NN		unk				
+)	)	SYM		punc				
+:	:	SYM		punc				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+प्रशासन	प्रशासन	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+बुधवार	बुधवार	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+रात	रात	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+दिन	दिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+चे	चे	PSP		unk				
+¨	¨	JJ		unk				
+कग	कग	NN		unk				
+में	में	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+70	70	QC		num				
+दोपहिया	दोपहिया	JJ		unk				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+चालान	चालान	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+दो	दो	QC	0	n	m	sg	3	d
+मोटरसाइकिलें	मोटरसाइकिल	NN	0	n	f	pl	3	d
+सीज	सीज	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गईं	गईं	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+स्वामियों	स्वामियों	NN		unk				
+से	से	PSP	0	v	any	any	any	
+10	10	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+शमन	शमन	NN	0	n	m	sg	3	d
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+वसूला	वसूल	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
+कोतवाली	कोतवाली	JJ	0	n	f	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+रात	रात	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+मुहम्मदाबाद	मुहम्मदाबाद	JJ		unk				
+गोहना	गोहना	NN		unk				
+व	व	CC		avy				
+आजमगढ़	आजमगढ़	NNP		punc				
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+उम्मनपुर	उम्मनपुर	NNP		unk				
+बॉर्डर	बॉर्डर	NN		unk				
+तथा	तथा	CC		adv				
+कैलेंडर	कैलेंडर	NN	0	n	m	sg	3	d
+तिराहे	तिराहे	NN		unk				
+पर	पर	PSP		psp				
+इधर	इधर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+उधर	उधर	NST		adv				
+आने	आ	VM	ना	v	m	pl	any	
+व	व	CC		avy				
+जाने	जान	VM	एं	v	any	sg	2	
+वाले	वाला	PSP	0	n	m	pl	3	d
+दो	दो	QC	0	n	m	sg	3	d
+पहिया	पहिया	NN	0	n	m	sg	3	d
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+गहन	गहन	JJ		adj	any	any		any
+चे	चे	NN		unk				
+¨	¨	JJ		unk				
+कग	कग	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+दिन	दिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+गहन	गहन	JJ		adj	any	any		any
+चे	चे	QC		unk				
+¨	¨	NN		unk				
+कग	कग	NN		unk				
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+चे	चे	XC		punc				
+¨	¨	NNP		punc				
+कग	कग	NN		punc				
+में	में	PSP		psp				
+कोतवाली	कोतवाली	JJ	0	n	f	sg	3	d
+प्रभारी	प्रभारी	NN		adj	f	any		any
+आरके	आरके	XC		unk				
+द्विवेदी	द्विवेदी	NNP		unk				
+,	,	SYM		punc				
+अजय	अजय	XC	0	n	f	sg	3	d
+तिवारी	तिवारी	NNP	0	n	f	sg	3	d
+,	,	SYM		punc				
+महेंद्र	महेंद्र	XC		unk				
+यादव	यादव	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+रणजीत	रणजीत	XC		unk				
+आदि	आदि	RP	0	n	m	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लोग	लोग	NN	0	n	m	sg	3	d
+उपस्थित	उपस्थित	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>

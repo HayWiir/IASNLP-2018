@@ -1,0 +1,218 @@
+गजरौला	गजरौला	NN		unk				
+:	:	SYM		punc				
+नगर	नगर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बडे	बडा	JJ		adj	m	sg		o
+व्यापारियों	व्यापारी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+जोडकर	जोड	VM	कर	v	any	any	any	
+अवैध	अवैध	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+चलाने	चला	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+संचालक	संचालक	NN	0	n	m	sg	3	d
+पिछले	पिछला	JJ		adj	m	sg		o
+कुछ	कुछ	QF		adj	any	any		d
+दिनों	दिन	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+परिवार	परिवार	NN	0	n	m	sg	3	d
+सहित	सहित	JJ		psp				
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसके	उसके	PRP		unk				
+घर	घर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+ताला	ताला	NN	0	n	m	sg	3	d
+लटका	लटका	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+बात	बात	NN	0	n	f	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+उसके	उसके	PRP		unk				
+खिलाफ	खिलाफ	PSP:?		psp				
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+किसी	किसी	PRP		unk				
+ने	ने	PSP		psp				
+थाने	थाना	VM	0	n	m	pl	3	d
+में	में	PSP		psp				
+सूचना	सूचना	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+दी	दे	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+संचालक	संचालक	JJ	0	n	m	sg	3	d
+ग्रुप	ग्रुप	NN	0	n	m	sg	3	d
+बनाकर	बनाकर	VM	0	n	m	sg	3	d
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+चलाता	चला	VM	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सभी	सभी	QF	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रकम	रकम	NN	0	n	f	sg	3	d
+एकत्र	एकत्र	JJ		adv				
+होने	हो	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+जिसके	जो	PRP	का	pn	m	pl	3	d
+नाम	नाम	NN	0	n	m	sg	3	d
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+छूटती	छूट	VM	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+उसे	उसे	PRP		unk				
+दे	दे	VM	0	v	any	any	any	
+देता	दे	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+काफी	काफी	QF	0	n	f	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+करोडों	करोड	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+उसकी	उसकी	PRP		unk				
+तरफ	तरफ	NST		adv				
+चल	चल	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुछ	कुछ	QF		adj	any	any		d
+लोगों	लोग	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+लाखों	लाख	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+उसने	उसने	PRP		unk				
+ब्याज	ब्याज	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+भी	भी	RP		adv				
+ले	ले	VM	0	v	any	any	any	
+रखे	रख	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+उस	उस	PRP		unk				
+पर	पर	PSP		psp				
+करोडों	करोड	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+रकम	रकम	NN	0	n	f	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+लापता	लापता	JJ		adj	m	sg		d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसको	इसको	PRP		pn	any	sg	3	o
+लेकर	ले	VM	कर	v	any	any	any	
+संबंधित	संबंधित	JJ		unk				
+व्यापारी	व्यापारी	NN	0	n	m	sg	3	d
+परेशान	परेशान	JJ		adj	any	any		any
+जरूर	जरूर	RB		adv				
+हैं	है	VM	है	v	any	pl	1	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+उसके	उसके	PRP		unk				
+खिलाफ	खिलाफ	PSP:?		psp				
+थाने	थाना	VM	0	n	m	pl	3	d
+नहीं	नहीं	NEG		adv				
+पहुंचा	पहुंचा	VM		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+इसकी	इसकी	PRP		pn	f	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+इंकार	इंकार	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वजह	वजह	NN	0	n	f	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+मोटी	मोटी	JJ		unk				
+रकम	रकम	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लेन-देन	लेन-देन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+हिसाब	हिसाब	NN	0	n	m	sg	3	d
+देना	दे	VM	ना	v	m	sg	any	
+काम	काम	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+व्यापारियों	व्यापारी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+भारी	भारी	JJ		adv				
+लग	लग	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+इससे	इससे	PRP		pn	any	sg	3	o
+कतरा	कतरा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+चौपला	चौपला	QO		unk				
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+फरार	फरार	NN	0	n	m	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+व्यापारी	व्यापारी	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रिश्तेदारों	रिश्तेदार	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+संपर्क	संपर्क	NN	0	n	m	sg	3	d
+बनाकर	बनाकर	VM	0	n	m	sg	3	d
+उसका	उसका	PRP	0	v	any	any	any	
+पता	पता	JJ	0	n	m	sg	3	d
+लगाने	लगा	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+कोशिश	कोशिश	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जुटे	जुट	VM	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

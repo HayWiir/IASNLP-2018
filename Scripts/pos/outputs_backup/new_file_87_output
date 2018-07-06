@@ -1,0 +1,260 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+रोहतक	रोहतक	NN		unk				
+:	:	SYM		punc				
+साइबर	साइबर	JJ		unk				
+क्राइम	क्राइम	NN		unk				
+थमने	थम	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+नाम	नाम	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+ले	ले	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कभी	कभी	PRP		adv				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+आम	आम	JJ	0	n	m	sg	3	d
+आदमी	आदमी	NN	0	n	m	sg	3	d
+तो	तो	RP		avy				
+कभी	कभी	PRP		adv				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+खास	खास	JJ		adj	any	any		any
+आदमी	आदमी	NN	0	n	m	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+अपराध	अपराध	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+शिकार	शिकार	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+तरीके	तरीका	NN	0	n	m	pl	3	d
+अपना	अपना	PRP	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+साइबर	साइबर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अपराधी	अपराधी	NN	0	n	m	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+चंगुल	चंगुल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+फंसा	फँसा	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+वारदात	वारदात	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अंजाम	अंजाम	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसा	ऐसा	PRP		adj	m	sg		d
+ही	ही	RP		adv				
+एक	एक	QC		adj	any	any		any
+नया	नया	JJ		adj	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+सामने	सामना	NST	0	n	m	pl	3	d
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+पीजीआइएमएस	पीजीआइएमएस	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+सीनियर	सीनियर	JJ	0	n	m	sg	3	d
+डॉक्टर	डॉक्टर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+क्रेडिट	क्रेडिट	JJ		unk				
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+आरोपियों	आरोपियों	NN		unk				
+ने	ने	PSP		psp				
+पांच	पांच	QC		unk				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+उडा	उडा	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+महिला	महिला	NN	0	n	f	sg	3	d
+डॉक्टर	डॉक्टर	NN		unk				
+ने	ने	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+कानूनी	कानूनी	JJ		adj	f	any		any
+कार्रवाई	कार्रवाई	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पीजीआइएमएस	पीजीआइएमएस	NN		unk				
+में	में	PSP		psp				
+सीनियर	सीनियर	JJ	0	n	m	sg	3	d
+डॉक्टर	डॉक्टर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+काम	काम	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+डॉ	डॉ	XC		unk				
+.	.	SYM		punc				
+</s>
+<s>
+नीतिका	नीतिका	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+शुक्रवार	शुक्रवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+उनके	उनके	PRP		unk				
+मोबाइल	मोबाइल	NN		unk				
+पर	पर	PSP		psp				
+मैसेज	मैसेज	NN		unk				
+आया	आ	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मैसेज	मैसेज	NN		unk				
+था	था	VM	था	v	m	sg	any	
+क्रेडिट	क्रेडिट	JJ		unk				
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ओटीपी	ओटीपी	NN		unk				
+यानी	यानी	CC		avy				
+वन	वन	XC	0	n	m	sg	3	d
+टाइम	टाइम	XC	0	n	m	sg	3	d
+पासवर्ड	पासवर्ड	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+पासवर्ड	पासवर्ड	NN		unk				
+आते	आ	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+उनके	उनके	PRP		unk				
+माथे	माथा	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+बल	बल	NN	0	n	m	sg	3	d
+पड	पड	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+एक	एक	QC		adj	any	any		any
+ट्रांजेक्शन	ट्रांजेक्शन	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बीस	बीस	QC		adj	any	any		any
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+रकम	रकम	NN	0	n	f	sg	3	d
+निर्धारित	निर्धारित	JJ		adj	any	any		any
+थी	था	VM	था	v	f	sg	any	
+जबकि	जबकि	CC		avy				
+दूसरे	दूसरा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पांच	पांच	QC		unk				
+हजार	हजार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+तक	तक	RP		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+कुछ	कुछ	QF		adj	any	any		d
+समझ	समझ	VM	0	v	any	any	any	
+पाती	पा	VAUX	ता	v	f	sg	any	
+और	और	CC		adv				
+निर्णय	निर्णय	NN	0	n	m	sg	3	d
+लेती	ले	VM	ता	v	f	sg	any	
+तब	तब	PRP		adv				
+तक	तक	RP		avy				
+उनके	उनके	PRP		unk				
+क्रेडिट	क्रेडिट	JJ		unk				
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पांच	पांच	QC		unk				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+कट	कट	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+उन्होंने	उन्होंने	PRP		unk				
+इसके	इसके	PRP		pn	m	pl	3	d
+तुरंत	तुरंत	RB		adv				
+बाद	बाद	NST		adv				
+ही	ही	RP		adv				
+क्रेडिट	क्रेडिट	JJ		unk				
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+ब्लॉक	ब्लॉक	NN		unk				
+करवा	करवा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+उन्होंने	उन्होंने	PRP		unk				
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+धोखाधडी	धोखाधडी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+कानूनी	कानूनी	JJ		adj	f	any		any
+कार्रवाई	कार्रवाई	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

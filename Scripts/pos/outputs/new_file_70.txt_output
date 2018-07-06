@@ -1,0 +1,226 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+फरीदाबाद	फरीदाबाद	NN		unk				
+:	:	SYM		punc				
+पूर्व	पूर्व	NST		adv				
+रणजी	रणजी	JJ		unk				
+खिलाडी	खिलाडी	NN	0	n	m	sg	3	d
+संजय	संजय	XC	0	n	m	sg	3	d
+भाटिया	भाटिया	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+गुलाबी	गुलाबी	NN	0	n	f	sg	3	d
+गेंद	गेंद	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+होने	हो	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+टूर्नामेंट	टूर्नामेंट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+फिजिकली	फिजिकली	JJ		unk				
+चैलेंज्ड	चैलेंज्ड	XC		unk				
+क्रिकेट	क्रिकेट	XC	0	n	m	sg	3	d
+एसोसिएशन	एसोसिएशन	NNP	0	n	m	sg	3	d
+ऑफ	ऑफ	XC		unk				
+इंडिया	इंडिया	NNP		unk				
+को	को	PSP		psp				
+50	50	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+मदद	मदद	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+टूर्नामेंट	टूर्नामेंट	NN		unk				
+भिवानी	भिवानी	NN		unk				
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+तीन	तीन	QC	0	n	m	sg	3	d
+दिसंबर	दिसंबर	NNP	0	n	m	sg	3	d
+तक	तक	RP		avy				
+होगा	हो	VM	गा	v	m	sg	2	
+,	,	SYM		punc				
+इसमें	इसमें	PRP		pn	any	sg	3	o
+देशभर	देशभर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दिव्यांग	दिव्यांग	XC		unk				
+खिलाडी	खिलाडी	NN	0	n	m	sg	3	d
+भाग	भाग	VM	0	v	any	any	any	
+लेंगे	ले	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+टूर्नामेंट	टूर्नामेंट	NN		unk				
+में	में	PSP		psp				
+इंडिया	इंडिया	XC		unk				
+रेड	रेड	XC		unk				
+,	,	SYM		punc				
+इंडिया	इंडिया	XC		unk				
+ग्रीन	ग्रीन	NNP		unk				
+और	और	CC		adv				
+इंडिया	इंडिया	XC		unk				
+ब्लयू	ब्लयू	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+तीन	तीन	QC	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+बनाई	बना	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+फिजिकली	फिजिकली	JJ		unk				
+चैलेंज्ड	चैलेंज्ड	XC		unk				
+क्रिकेट	क्रिकेट	XC	0	n	m	sg	3	d
+एसोसिएशन	एसोसिएशन	NNP	0	n	m	sg	3	d
+ऑफ	ऑफ	XC		unk				
+इंडिया	इंडिया	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+महासचिव	महासचिव	XC	0	n	m	sg	3	d
+रवि	रवि	XC	0	n	m	sg	3	d
+चौहान	चौहान	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+दिव्यांग	दिव्यांग	XC		unk				
+क्रिकेटरों	क्रिकेटरों	NN		unk				
+को	को	PSP		psp				
+आसानी	आसानी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+स्पॉन्सर	स्पॉन्सर	NN		unk				
+नहीं	नहीं	NEG		adv				
+मिलते	मिल	VM	ता	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+उन्हें	उन्हें	PRP		unk				
+कई	कई	QF		adj	any	any		d
+जगहों	जगहों	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कुछ	कुछ	QF		adj	any	any		d
+फंड	फंड	NN	0	n	m	sg	3	d
+जुटाकर	जुटा	VM	कर	v	any	any	any	
+टूर्नामेंट	टूर्नामेंट	NN		unk				
+आयोजित	आयोजित	JJ		adj	any	any		any
+करवाने	करवा	VM	ना	v	m	pl	any	
+पडते	पड	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+हर	हर	QF		adj	any	any		any
+टूर्नामेंट	टूर्नामेंट	NN		unk				
+में	में	PSP		psp				
+दिव्यांग	दिव्यांग	XC		unk				
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+नकद	नकद	JJ	0	n	m	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+दी	दे	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+ताकि	ताकि	CC		avy				
+उनकी	उनकी	PRP		unk				
+आर्थिक	आर्थिक	JJ		adj	any	any		any
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+खराब	खराब	JJ		adj	any	any		any
+न	न	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+एसोसिएशन	एसोसिएशन	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+भिवानी	भिवानी	NN		unk				
+में	में	PSP		psp				
+होने	हो	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+टूर्नामेंट	टूर्नामेंट	NN		unk				
+में	में	PSP		psp				
+मदद	मदद	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पूर्व	पूर्व	JJ		adj	any	any		any
+रणजी	रणजी	JJ		unk				
+खिलाडी	खिलाडी	NN	0	n	m	sg	3	d
+संजय	संजय	XC	0	n	m	sg	3	d
+भाटिया	भाटिया	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मदद	मदद	NN	0	n	f	sg	3	d
+मांगी	मांगी	VM		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+पूर्व	पूर्व	XC		adv				
+रणजी	रणजी	NNP		unk				
+खिलाडी	खिलाडी	NN	0	n	m	sg	3	d
+संजय	संजय	XC	0	n	m	sg	3	d
+भाटिया	भाटिया	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+रवि	रवि	XC	0	n	m	sg	3	d
+चौहान	चौहान	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+50	50	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+चेक	चेक	VM	0	n	m	sg	3	d
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+संजय	संजय	XC	0	n	m	sg	3	d
+भाटिया	भाटिया	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+दिव्यांग	दिव्यांग	XC		unk				
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+बीसीसीआइ	बीसीसीआइ	NN		unk				
+से	से	PSP	0	v	any	any	any	
+मान्यता	मान्यता	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+मिलने	मिल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+आर्थिक	आर्थिक	JJ		adj	any	any		any
+परेशानी	परेशानी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सामना	सामना	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+पड	पड	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+शहर	शहर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+उद्यमियों	उद्यमियों	NN		unk				
+को	को	PSP		psp				
+भी	भी	RP		adv				
+इन	इन	DEM		pn	any	pl	3	o
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+मदद	मदद	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+आगे	आगा	NST	0	n	m	pl	3	d
+आना	आ	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>

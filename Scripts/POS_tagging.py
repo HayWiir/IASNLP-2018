@@ -17,22 +17,22 @@ import re
 
 #log=""
 #Set Defaults
-file=open("festivals.txt",'r')
+file=open("extras/festivals.txt",'r')
 text=file.read()
 file.close()
 festivals=text.split(".")
-file=open("daysOfWeek.txt",'r')
+file=open("extras/daysOfWeek.txt",'r')
 text=file.read()
 file.close()
 days=text.split()
-file=open("monthOfYear.txt",'r')
+file=open("extras/monthOfYear.txt",'r')
 text=file.read()
 file.close()
 months=text.split()
 
 # Additional pivot tokens manually annotated from the text document
 # Tweak this and include more tokens if CRF++ gives erroneous values.
-file=open("timeLogs.txt",'r')
+file=open("extras/timeLogs.txt",'r')
 text=file.read()
 file.close()
 tempList=text.split()
@@ -67,7 +67,7 @@ for indexval in range(1,301):
     #parses xml file
     str_index=str(indexval)
     print("Processing File:"+str_index)
-    tree = ET.parse('Plain_Text/C-' + str_index + '.xml')    
+    tree = ET.parse('../Data/ILTIMEX2012/Plain_Text/C-' + str_index + '.xml')    
     root = tree.getroot()
  
     #creates input file for POS tagger
@@ -77,9 +77,9 @@ for indexval in range(1,301):
     pos_input_file.close()
 
     #system commands for hindi-pos-tagger
-    os.system('cp /home/kunal/Documents/ILTIMEX2012/hindi.input.txt /home/kunal/Documents/ILTIMEX2012/pos')
+    os.system('cp hindi.input.txt pos/')
     os.system('cd pos && make tag')
-    os.system('cd pos && cp /home/kunal/Documents/ILTIMEX2012/pos/hindi.output /home/kunal/Documents/ILTIMEX2012') #copies output file to main directory
+    os.system('cd pos && cp hindi.output ../') #copies output file to main directory
 
 
     #reformatting output file
@@ -88,8 +88,10 @@ for indexval in range(1,301):
     for i in range(len(pos_output_str)):
         pos_output_str[i] = pos_output_str[i].split('\t')
 
+    os.system('rm hindi.input.txt && rm hindi.output')    
+
     #gets tagged data file
-    tagged_file = open('BIO_TaggedM/C-' + str_index + '.txt', 'r+')
+    tagged_file = open('../Data/ILTIMEX2012/BIO_TaggedM/C-' + str_index + '.txt', 'r+')
     tagged_file_str = tagged_file.readlines()
 
 
@@ -132,7 +134,7 @@ for indexval in range(1,301):
             p_count+=1
             f_count += 1
             if  f_count > 8:
-                file_val.add(str_index)
+                # file_val.add(str_index)
                 #print('GOT'+ str(len(file_val)))
                 f_count = 0
                 t_count+=1
@@ -141,7 +143,7 @@ for indexval in range(1,301):
             
 
     #The tagged file is overwritten with resulting output.
-    new_tagged_file = open('BIO_TaggedM/C-' + str_index + '.txt', 'w+')
+    new_tagged_file = open('../Data/ILTIMEX2012/Final_Tagged_Preprocessed/C-' + str_index + '.txt', 'w+')
     # new_tagged_file = open('BIO_TaggedM/temp.txt', 'w+')
     new_tagged_file.writelines(tagged_file_str)
 

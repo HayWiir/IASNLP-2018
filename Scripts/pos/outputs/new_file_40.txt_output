@@ -1,0 +1,165 @@
+हाथरस	हाथरस	XC		unk				
+:	:	SYM		punc				
+सादाबाद	सादाबाद	JJ		unk				
+में	में	PSP		psp				
+विद्युत	विद्युत	XC		unk				
+एसडीओ	एसडीओ	XC		unk				
+देहात	देहात	NN	0	n	m	sg	3	d
+ऐपी	ऐपी	JJ		unk				
+¨	¨	NN		unk				
+सह	सह	NN	0	v	any	any	any	
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+बुधवार	बुधवार	NN		unk				
+को	को	PSP		psp				
+बिसावर	बिसावर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पैंठ	पैंठ	NN		unk				
+बाजार	बाजार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+विद्युत	विद्युत	XC		unk				
+कैंप	कैंप	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+जहां	जहाँ	PRP		adv				
+उपभोक्ताओं	उपभोक्ता	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+बढ़े	बढ़े	JJ		adv				
+विद्युत	विद्युत	XC		unk				
+बिलों	बिल	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+समस्याएं	समस्या	NN	0	n	f	pl		d
+पेश	पेश	JJ	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+ही	ही	RP		adv				
+निस्तारण	निस्तारण	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+विद्युत	विद्युत	XC		unk				
+शिविर	शिविर	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बकाया	बकाया	VM		adj	m	sg		d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+जेई	जेई	XC		unk				
+राजन	राजन	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+प्रदीप	प्रदीप	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+लाइनमेन	लाइनमेन	XC		unk				
+रंजीत	रंजीत	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+रामवीर	रामवीर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+होशियार	होशियार	JJ		adj	any	any		any
+¨	¨	NN		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+शंकर	शंकर	XC	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	NN	0	v	any	any	any	
+आदि	आदि	RP	0	n	m	sg	3	d
+मौजूद	मौजूद	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+सिकंदराराऊ	सिकंदराराऊ	NNP		unk				
+:	:	SYM		punc				
+विद्युत	विद्युत	XC		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बुधवार	बुधवार	NN		unk				
+को	को	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आधा	आधा	QF	0	n	m	sg	3	d
+दर्जन	दर्जन	NN	0	n	m	sg	3	d
+मोहल्लों	मोहल्ला	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+चेकिंग	चेकिंग	NN		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चलाया	चला	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बडे़	बडे़	NN		punc				
+बकायेदारों	बकायेदारों	NN		unk				
+से	से	PSP	0	v	any	any	any	
+वसूली	वसूली	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+अधिशासी	अधिशासी	XC		punc				
+अभियन्ता	अभियंता	XC	0	n	m	sg		d
+अखिलेश	अखिलेश	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+अधिशासी	अधिशासी	XC		punc				
+अभियन्ता	अभियंता	XC	0	n	m	sg		d
+मीटर	मीटर	XC	0	n	m	sg	3	d
+एके	एके	XC		unk				
+रोहिला	रोहिला	NN		unk				
+,	,	SYM		punc				
+जेई	जेई	XC		unk				
+पंकज	पंकज	XC		adj	any	any		any
+चौबे	चौबे	NNP		unk				
+,	,	SYM		punc				
+अमित	अमित	JJ		adj	any	any		any
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+विकास	विकास	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+मोहल्ला	मोहल्ला	JJ	0	n	m	sg	3	d
+ब्राह्मणपुरी	ब्राह्मणपुरी	NNP		unk				
+,	,	SYM		punc				
+मटकोटा	मटकोटा	NNP		unk				
+,	,	SYM		punc				
+चादगढ़ी	चादगढ़ी	NN		punc				
+,	,	SYM		punc				
+बारहसैनी	बारहसैनी	NN		unk				
+,	,	SYM		punc				
+दमदमा	दमदमा	XC		unk				
+,	,	SYM		punc				
+नौरंगाबाद	नौरंगाबाद	JJ		unk				
+पश्चिमी	पश्चिमी	NN		adj	f	any		any
+में	में	PSP		psp				
+चेकिंग	चेकिंग	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>

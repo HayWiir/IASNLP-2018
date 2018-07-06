@@ -1,0 +1,348 @@
+मेरठ	मेरठ	NN		unk				
+:	:	SYM		punc				
+पिछले	पिछला	JJ		adj	m	sg		o
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+16	16	QC		num				
+जून	जून	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+'	'	SYM		punc				
+सबकी	सबकी	QF		adj	any	any		any
+रसोई	रसोई	NN	0	n	f	sg	3	d
+'	'	SYM		punc				
+गरीबों	गरीब	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+सौगात	सौगात	NN	0	n	f	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+आई	आ	VAUX	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+महंगाई	महंगाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+दौर	दौर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+महज	महज	RB		adj	any	any		any
+पांच	पांच	QC		unk				
+रुपए	रुपया	NN	0	n	m	pl		d
+की	का	PSP	का	psp	f	sg		d
+थाली	थाली	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+तमाम	तमाम	JJ		adj	any	any		any
+भूखे	भूखा	NN	0	n	m	pl	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उम्मीद	उम्मीद	NN	0	n	f	sg	3	d
+जगा	जगा	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+एसके	एसके	XC		unk				
+सूरी	सूरी	NNP		adj	f	any		any
+की	का	PSP	का	psp	f	sg		d
+अगुआई	अगुआई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+मेडिकल	मेडिकल	XC		adj	any	any		any
+कालेज	कालेज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मरीज	मरीज	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+तीमारदारों	तीमारदार	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+रात	रात	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+भी	भी	RP		adv				
+भोजन	भोजन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शुक्रवार	शुक्रवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+इसका	इसका	PRP		pn	m	sg	3	d
+शुभारंभ	शुभारंभ	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पांच	पांच	QC		unk				
+रुपए	रुपया	NN	0	n	m	pl		d
+की	का	PSP	का	psp	f	sg		d
+थाली	थाली	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+छोला-चावल	छोला-चावल	NN		unk				
+व	व	CC		avy				
+राजमा-चावल	राजमा-चावल	NN		unk				
+दिया	दे	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वरिष्ठ	वरिष्ठ	JJ		adj	any	any		any
+सर्जन	सर्जन	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+समाजसेवी	समाजसेवी	JJ	0	n	m	sg	3	d
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+शिवकुमार	शिवकुमार	XC		unk				
+सूरी	सूरी	NNP		adj	f	any		any
+और	और	CC		adv				
+उनके	उनके	PRP		unk				
+सहयोगियों	सहयोगी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+शुक्रवार	शुक्रवार	JJ	0	n	m	sg	3	d
+शाम	शाम	NN	0	n	f	sg	3	d
+मेडिकल	मेडिकल	XC		adj	any	any		any
+कैंपस	कैंपस	NNP		unk				
+में	में	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+करा	करा	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मेडिकल	मेडिकल	XC		adj	any	any		any
+प्राचार्य	प्राचार्य	NN	0	n	m	sg	3	d
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+कीर्ति	कीर्ति	NN	0	n	f	sg	3	d
+दूबे	दूबे	VM		unk				
+,	,	SYM		punc				
+माया	माया	XC	0	n	f	sg	3	d
+आनंद	आनंद	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+एवं	एवं	CC		avy				
+डा	डा	XC	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+सचिन	सचिन	NN		unk				
+समेत	समेत	PSP		psp				
+कई	कई	QF		adj	any	any		d
+अन्य	अन्य	JJ		adj	any	any		any
+शामिल	शामिल	JJ		adj	any	any		any
+हुए	हो	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+मौजूद	मौजूद	JJ		adj	any	any		any
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+सबकी	सबकी	QF		adj	any	any		any
+रसोई	रसोई	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सराहना	सराह	NN	ना	v	m	sg	any	
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+एसके	एसके	XC		unk				
+सूरी	सूरी	NNP		adj	f	any		any
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+16	16	QC		num				
+जून	जून	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+बच्चा	बच्चा	NN	0	n	m	sg	3	d
+पार्क	पार्क	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+निरोग	निरोग	JJ		unk				
+चैरिटेबल	चैरिटेबल	NN		unk				
+ट्रस्ट	ट्रस्ट	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+छह	छह	QC		adj	any	any		any
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+लाला	लाला	XC	0	n	m	sg	3	d
+लाजपत	लाजपत	XC		unk				
+राय	राय	XC	0	n	f	sg	3	d
+मेडिकल	मेडिकल	XC		adj	any	any		any
+कालेज	कालेज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दोपहर	दोपहर	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+सबकी	सबकी	QF		adj	any	any		any
+रसोई	रसोई	NN	0	n	f	sg	3	d
+शुरू	शुरू	NN		avy				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शुरू	शुरू	NN		avy				
+में	में	PSP		psp				
+300	300	QC		num				
+लोगों	लोग	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+भोजन	भोजन	NN	0	n	m	sg	3	d
+बनाया	बना	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+रोजाना	रोजाना	NN		adv				
+500	500	QC		num				
+थालियों	थाली	NN	0	n	f	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+खपत	खपत	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कार्यक्रम	कार्यक्रम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मुख्य	मुख्य	JJ		adj	any	any		any
+अतिथि	अतिथि	NN	0	n	m	sg	3	d
+मंडलायुक्त	मंडलायुक्त	JJ		unk				
+डा	डा	XC	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+प्रभात	प्रभात	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+भी	भी	RP		adv				
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+सूरी	सूरी	NNP		adj	f	any		any
+के	का	PSP	का	psp	m	sg		o
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रशंसा	प्रशंसा	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शुक्रवार	शुक्रवार	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रात	रात	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+पांच	पांच	QC		unk				
+रुपए	रुपया	NN	0	n	m	pl		d
+की	का	PSP	का	psp	f	sg		d
+थाली	थाली	NN	0	n	f	sg	3	d
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+करा	करा	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+एसके	एसके	XC		unk				
+सूरी	सूरी	NNP		adj	f	any		any
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+17	17	QC		num				
+दिसंबर	दिसंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+बेगमपुल	बेगमपुल	JJ		unk				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+पीपी	पीपी	XC		unk				
+मोटर	मोटर	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+सबकी	सबकी	QF		adj	any	any		any
+रसोई	रसोई	NN	0	n	f	sg	3	d
+12	12	QC		num				
+बजे	बज	NN	एं	v	any	sg	2	
+से	से	PSP	0	v	any	any	any	
+आयोजित	आयोजित	JJ		adj	any	any		any
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सबकी	सबकी	QF		adj	any	any		any
+रसोई	रसोई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+दस	दस	QC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+का	का	PSP	का	psp	m	sg		d
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+अब	अब	PRP		adv				
+पांच	पांच	QC		unk				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+दिया	दे	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+सूरी	सूरी	NNP		adj	f	any		any
+ने	ने	PSP		psp				
+समाज	समाज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सभी	सभी	QF	0	n	m	sg	3	d
+वर्ग	वर्ग	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+सहयोगियों	सहयोगी	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+आभार	आभार	NN	0	n	m	sg	3	d
+जताया	जता	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+गरीबों	गरीब	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+भोजन	भोजन	NN	0	n	m	sg	3	d
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+कराने	करा	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+मुहिम	मुहिम	NN	0	n	m	sg	3	d
+जहां	जहाँ	PRP		adv				
+तक	तक	RP		avy				
+पहुंचे	पहुंचे	VM		unk				
+,	,	SYM		punc				
+वो	वो	PRP		unk				
+मानवता	मानवता	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बडी	बडी	JJ		adj	f	any		any
+सेवा	सेवा	NN	0	n	f	sg	3	d
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,359 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+अमृतसर	अमृतसर	NN		unk				
+:	:	SYM		punc				
+पंजाब	पंजाब	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+अस्पतालों	अस्पताल	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+आने	आ	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+मरीजों	मरीज	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+दस	दस	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+ओपीडी	ओपीडी	NN		unk				
+पर्ची	पर्ची	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जाते	जा	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+ज्यादातर	ज्यादातर	JJ		unk				
+चिकित्सा	चिकित्सा	XC	0	n	f	sg	3	d
+सुविधाएं	सुविधा	NN	0	n	f	pl		d
+निशुल्क	निशुल्क	JJ		unk				
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+करवाई	करवा	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+या	या	CC		avy				
+फिर	फिर	RB	0	v	any	any	any	
+बहुत	बहुत	QF		adj	any	any		any
+ही	ही	RP		adv				
+कम	कम	QF		adj	any	any		any
+दामों	दाम	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+.	.	SYM		punc				
+</s>
+<s>
+अमृतसर	अमृतसर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+ईएनटी	ईएनटी	JJ		unk				
+अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मरीजों	मरीज	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+पर्ची	पर्ची	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+एवज	एवज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दस	दस	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+ही	ही	RP		adv				
+लिए	ले	VM	या	v	m	pl	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+पार्किंग	पार्किंग	NN		unk				
+में	में	PSP		psp				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+खडा	खडा	JJ		adj	m	sg		d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उनसे	उनसे	PRP		unk				
+बीस	बीस	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+खुलासा	खुलासा	NN	0	n	m	sg	3	d
+आरटीआइ	आरटीआइ	CC		unk				
+कार्यकर्ता	कार्यकर्ता	NN	0	n	m	sg	3	d
+रा	रा	PSP		unk				
+¨	¨	JJ		unk				
+जदर	जदर	NN		unk				
+शर्मा	शर्मा	XC		unk				
+राजू	राजू	NNP		avy				
+व	व	CC		avy				
+र	र	RP		n	m	sg	3	d
+¨	¨	XC		unk				
+वदर	वदर	XC		unk				
+सुल्तान	सुल्तान	NNP		unk				
+¨	¨	XC		unk				
+वड	वड	NNP		unk				
+ने	ने	PSP		psp				
+शनिवार	शनिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पत्रकारों	पत्रकार	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+बातचीत	बातचीत	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+इएनटी	इएनटी	NN		unk				
+अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+पार्किंग	पार्किंग	XC		unk				
+स्टैंड	स्टैंड	NNP		unk				
+पर	पर	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+नियम	नियम	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+कायदा	कायदा	NN		unk				
+लागू	लागू	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+होता	हो	VM	ता	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मरीजों	मरीज	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+ओपीडी	ओपीडी	NN		unk				
+स्लिप	स्लिप	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दस	दस	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लिए	ले	VM	या	v	m	pl	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+खडा	खडा	JJ		adj	m	sg		d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उन्हें	उन्हें	PRP		unk				
+बीस	बीस	QC		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+पचास	पचास	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+तक	तक	RP		avy				
+देने	दे	VM	ना	v	m	pl	any	
+पडते	पड	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पार्किंग	पार्किंग	NN		unk				
+में	में	PSP		psp				
+बैठा	बैठा	VM	0	v	any	any	any	
+ठेकेदार	ठेकेदार	NN	0	n	m	sg	3	d
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+मर्जी	मर्जी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रेट	रेट	NN	0	n	m	sg	3	d
+निर्धारित	निर्धारित	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+मरीजों	मरीज	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+आर्थिक	आर्थिक	JJ		adj	any	any		any
+शोषण	शोषण	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+इस	इस	DEM		pn	any	sg	3	o
+ठेकेदार	ठेकेदार	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पूछा	पूछ	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+उसने	उसने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नियमों	नियम	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+ही	ही	RP		adv				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+लेता	ले	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+रा	रा	XC		unk				
+¨	¨	NN		unk				
+जदर	जदर	JJ		unk				
+शर्मा	शर्मा	NN		unk				
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+ऐसी	ऐसी	PRP		adj	f	any		any
+ही	ही	RP		adv				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+इएसआइ	इएसआइ	XC		unk				
+अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+देखने	देख	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+मिलती	मिल	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+कार्यरत	कार्यरत	JJ		unk				
+ठेकेदार	ठेकेदार	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+आर्थिक	आर्थिक	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कमजोर	कमजोर	JJ		adj	any	any		any
+मरीजों	मरीज	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+शोषण	शोषण	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+बाज	बाज	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+आ	आ	VM		v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	DEM		adv				
+ठेकेदारों	ठेकेदार	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+टेंडर	टेंडर	NN	0	n	m	sg	3	d
+रद	रद	NN		unk				
+करके	कर	VM	कर	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+जानी	जान	VAUX	या	v	f	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+इस	इस	DEM		pn	any	sg	3	o
+संबंध	संबंध	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+मेडिकल	मेडिकल	XC		adj	any	any		any
+कॉलेज	कॉलेज	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+¨	¨	XC		unk				
+प्रसिपल	प्रसिपल	XC		unk				
+डॉ	डॉ	XC		unk				
+.	.	SYM		punc				
+</s>
+<s>
+तेजबीर	तेजबीर	JJ		unk				
+¨	¨	NN		unk				
+सह	सह	NN	0	v	any	any	any	
+से	से	PSP	0	v	any	any	any	
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+हस्तक्षेप	हस्तक्षेप	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अपील	अपील	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दूसरी	दूसरी	QO		unk				
+तरफ	तरफ	NST		adv				
+डॉ	डॉ	XC		unk				
+.	.	SYM		punc				
+</s>
+<s>
+तेजबीर	तेजबीर	JJ		unk				
+¨	¨	NN		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+पार्किंग	पार्किंग	XC		unk				
+स्टैंड	स्टैंड	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+नीलामी	नीलामी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+काम	काम	NN	0	n	m	sg	3	d
+रेडक्रॉस	रेडक्रॉस	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उन्हें	उन्हें	PRP		unk				
+इस	इस	DEM		pn	any	sg	3	o
+बात	बात	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+कि	कि	CC		avy				
+वाहन	वाहन	XC	0	n	m	sg	3	d
+पार्किंग	पार्किंग	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+क्या	क्या	WQ		avy				
+रेट	रेट	NN	0	n	m	sg	3	d
+होना	हो	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+मैं	मैं	PRP	0	pn	any	sg	1	d
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+रेडक्रॉस	रेडक्रॉस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+बात	बात	NN	0	n	f	sg	3	d
+करके	कर	VM	कर	v	any	any	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+जुटाएंगे	जुटा	VM	गा	v	m	pl	1	
+कि	कि	CC		avy				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नियमों	नियम	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+चौपहिया	चौपहिया	JJ		adj	m	sg		d
+व	व	CC		avy				
+दोपहिया	दोपहिया	JJ		unk				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पार्किंग	पार्किंग	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+क्या	क्या	WQ		avy				
+रेट	रेट	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

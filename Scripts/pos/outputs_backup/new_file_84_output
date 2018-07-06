@@ -1,0 +1,188 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सूत्र	सूत्र	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+नरहट	नरहट	NN		unk				
+(	(	SYM		punc				
+नवादा	नवादा	NN		unk				
+)	)	SYM		punc				
+:	:	SYM		punc				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2012	2012	QC		num				
+-	-	SYM		punc				
+13	13	QC		num				
+में	में	PSP		psp				
+क्रय	क्रय	XC	0	n	m	sg	3	d
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+नरहट	नरहट	NN		unk				
+में	में	PSP		psp				
+धान	धान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+खरीदारी	खरीदारी	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लेकिन	लेकिन	CC		avy				
+मिलर	मिलर	NNP		unk				
+द्वारा	द्वारा	PSP		psp				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+चावल	चावल	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+शनिवार	शनिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+टाउन	टाउन	NN	0	n	m	sg	3	d
+थाना	थाना	VM	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सब	सब	QF		adj	any	any		any
+इंस्पेक्टर	इंस्पेक्टर	XC	0	n	m	sg	3	d
+राकेश	राकेश	XC	0	n	m	sg	3	d
+रंजन	रंजन	NNP	0	n	m	sg	3	d
+नरहट	नरहट	NN		unk				
+पहुंचे	पहुंचे	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+प्रखंड	प्रखंड	XC	0	n	m	sg	3	d
+कार्यालय	कार्यालय	XC	0	n	m	sg	3	d
+परिसर	परिसर	NN	0	n	m	sg	3	d
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+एसजीआरवाई	एसजीआरवाई	NN		unk				
+भवन	भवन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+भवन	भवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+धान	धान	NN	0	n	m	sg	3	d
+क्रय	क्रय	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रखा	रखा	VAUX	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+हिसुआ	हिसुआ	NN		unk				
+सर्किल	सर्किल	JJ	0	n	m	sg	3	d
+इंस्पेक्टर	इंस्पेक्टर	XC	0	n	m	sg	3	d
+राजकुमार	राजकुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+किसानों	किसान	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+खरीद	खरीद	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+धान	धान	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+राइस	राइस	NN		unk				
+मिल	मिल	VM	0	v	any	any	any	
+नरहट	नरहट	NN		unk				
+भेजा	भेज	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+राइस	राइस	XC		unk				
+मिल	मिल	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मालिक	मालिक	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+चावल	चावल	NN	0	n	m	sg	3	d
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+कराया	करा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+राइस	राइस	NN		unk				
+मिल	मिल	VM	0	v	any	any	any	
+मालिक	मालिक	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+70	70	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+गबन	गबन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+संबंधित	संबंधित	JJ		unk				
+कांड	कांड	NN	0	n	m	sg	3	d
+104	104	QC		num				
+/	/	SYM		punc				
+16	16	QC		num				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+मिल	मिल	VM	0	v	any	any	any	
+मालिक	मालिक	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+27	27	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+जमा	जमा	JJ	0	v	any	any	any	
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शेष	शेष	NNP		punc				
+अभी	अभी	PRP		adv				
+43	43	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+बकाया	बकाया	VM		adj	m	sg		d
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+मिल	मिल	VM	0	v	any	any	any	
+मालिक	मालिक	JJ	0	n	m	sg	3	d
+जमानत	जमानत	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

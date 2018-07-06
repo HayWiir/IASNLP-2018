@@ -1,0 +1,242 @@
+बाल	बाल	XC	0	n	m	sg	3	d
+कृष्ण	कृष्ण	XC		adj	any	any		any
+कालिया	कालिया	NNP		unk				
+,	,	SYM		punc				
+गुरदासपुर	गुरदासपुर	NNP		unk				
+:	:	SYM		punc				
+नियमों	नियम	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+उल्लंघना	उल्लंघना	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+छेडे	छेड	VM	एं	v	any	sg	2	
+अभियान	अभियान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+माह	माह	NN		unk				
+में	में	PSP		psp				
+200	200	QC		num				
+चालान	चालान	NN	0	n	m	sg	3	d
+काट	काट	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+करीब	करीब	RB		adj	any	any		any
+बीस	बीस	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+रेवेन्यू	रेवेन्यू	XC		unk				
+पंजाब	पंजाब	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खाते	खाता	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+जमा	जमा	NN	0	v	any	any	any	
+करवाया	करवा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+परिवहन	परिवहन	NN	0	n	m	sg	3	d
+अधिकारी	अधिकारी	JJ	0	n	m	sg	3	d
+जसवंत	जसवंत	XC		unk				
+¨	¨	XC		unk				
+सह	सह	QC	0	v	any	any	any	
+ढिल्लों	ढिल्लों	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+इन	इन	DEM		pn	any	pl	3	o
+दिनों	दिन	NN	0	n	m	pl	3	o
+गुरदासपुर	गुरदासपुर	NNP		unk				
+,	,	SYM		punc				
+बटाला	बटाला	XC		unk				
+,	,	SYM		punc				
+पठानकोट	पठानकोट	NN		unk				
+व	व	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+क्षेत्रों	क्षेत्र	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+जोरदार	जोरदार	JJ		adj	any	any		any
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चलाया	चला	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+चलते	चल	VM	ता	v	m	pl	any	
+सेफ	सेफ	XC	0	n	m	sg	3	d
+स्कूल	स्कूल	XC	0	n	m	sg	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+पालिसी	पालिसी	NNP	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+धज्जियां	धज्जियां	NN		unk				
+उडाने	उडा	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+चालान	चालान	NN	0	n	m	sg	3	d
+काटे	काट	VM	एं	v	any	sg	2	
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+हाईकोर्ट	हाईकोर्ट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आदेशों	आदेश	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+चलते	चल	VM	ता	v	m	pl	any	
+ओवरलो	ओवरलो	NN		unk				
+¨	¨	JJ		unk				
+डग	डग	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालक	चालक	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+कीमत	कीमत	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+नही	नही	NEG		unk				
+बख्शे	बख्शे	VM		unk				
+जाएंगे	जा	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+आरटीओ	आरटीओ	XC		unk				
+ढिल्लों	ढिल्लों	NN		unk				
+ने	ने	PSP		psp				
+साफ	साफ	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+हाईवे	हाईवे	NN		unk				
+पर	पर	PSP		psp				
+नियमों	नियम	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+अनदेखी	अनदेखी	JJ		adj	f	any		any
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+सीधा	सीधा	JJ	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+शिकात	शिकात	NN		unk				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+करवाएं	करवा	VM	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+पंजाब	पंजाब	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+गुरदासपुर	गुरदासपुर	NNP		unk				
+में	में	PSP		psp				
+एटीओ	एटीओ	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तैनाती	तैनाती	NN		unk				
+भी	भी	RP		adv				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+जो	जो	PRP		avy				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+रोड	रोड	NNP	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+निजी	निजी	JJ	0	n	f	sg	3	d
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+प्रबंधकों	प्रबंधक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+ताडना	ताडना	NN	0	n	f	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+आरटीओ	आरटीओ	XC		unk				
+ढिल्लों	ढिल्लों	NN		unk				
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+नियम	नियम	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पालना	पाल	NN	ना	v	m	sg	any	
+नही	नही	NEG		unk				
+की	कर	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+स	स	RP		n	m	sg	3	d
+ती	ती	RP		unk				
+से	से	PSP	0	v	any	any	any	
+पेश	पेश	JJ	0	n	m	sg	3	d
+आएगा	आ	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+अभिभावकों	अभिभावक	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+निवेदन	निवेदन	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+उन	उन	DEM		unk				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+भेजे	भेज	VM	एं	v	any	sg	2	
+जो	जो	PRP		avy				
+अच्छी	अच्छी	JJ		adj	f	any		any
+हालत	हालत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+खस्ता	खस्ता	NN	0	n	m	sg	3	d
+हालत	हालत	NN	0	n	f	sg	3	d
+वाहन	वाहन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+न	न	NEG		adv				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+भेजा	भेज	VM	या	v	m	sg	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

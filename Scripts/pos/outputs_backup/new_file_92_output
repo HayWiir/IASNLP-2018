@@ -1,0 +1,378 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+किश्तवाड	किश्तवाड	XC		unk				
+:	:	SYM		punc				
+किश्तवाड	किश्तवाड	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+चीफ	चीफ	XC		adj	any	any		any
+मेडिकल	मेडिकल	XC		adj	any	any		any
+ऑफिसर	ऑफिसर	NNP		unk				
+(	(	SYM		punc				
+सीएमओ	सीएमओ	XC		unk				
+)	)	SYM		punc				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लाखों	लाख	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+घोटाला	घोटाला	NN	0	n	m	sg	3	d
+सामने	सामना	NST	0	n	m	pl	3	d
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+क्लर्क	क्लर्क	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+निलंबित	निलंबित	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+बनाकर	बनाकर	VM	0	n	m	sg	3	d
+जांच	जांच	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वीरवार	वीरवार	NN		unk				
+को	को	PSP		psp				
+दिनभर	दिनभर	NN		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खातों	खाता	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+होती	हो	VM	ता	v	f	sg	any	
+रही	रह	VAUX	या	v	f	sg	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+न	न	NEG		adv				
+तो	तो	RP		avy				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+और	और	CC		adv				
+न	न	NEG		adv				
+ही	ही	RP		adv				
+डीसी	डीसी	NN		unk				
+किश्तवाड	किश्तवाड	NN		unk				
+को	को	PSP		psp				
+.	.	SYM		punc				
+</s>
+<s>
+सूत्रों	सूत्र	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+,	,	SYM		punc				
+किश्तवाड	किश्तवाड	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सीएमओ	सीएमओ	XC		unk				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+तैनात	तैनात	JJ		adj	any	any		any
+क्लर्क	क्लर्क	NN	0	n	m	sg	3	d
+तारिक	तारिक	JJ		unk				
+हुसैन	हुसैन	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+जून	जून	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+जुलाई	जुलाई	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+ट्रेजरी	ट्रेजरी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कर्मचारियों	कर्मचारी	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+वेतन	वेतन	NN	0	n	m	sg	3	d
+बिल	बिल	RB	0	n	m	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+बार	बार	RP		adv				
+पास	पास	NST		adv				
+करवाए	करवा	VM	एं	v	any	sg	2	
+,	,	SYM		punc				
+जो	जो	PRP		avy				
+दस	दस	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+ज्यादा	ज्यादा	QF		adj	m	sg		d
+की	का	PSP	का	psp	f	sg		d
+रकम	रकम	NN	0	n	f	sg	3	d
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पांच	पांच	QC		unk				
+महीने	महीना	NN	0	n	m	pl	3	d
+तक	तक	RP		avy				
+किसी	किसी	PRP		unk				
+को	को	PSP		psp				
+पता	पता	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+चला	चला	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुछ	कुछ	QF		adj	any	any		d
+दिन	दिन	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+क्लर्क	क्लर्क	NN	0	n	m	sg	3	d
+जो	जो	PRP		avy				
+भद्रवाह	भद्रवाह	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+रहने	रह	VM	ना	v	m	pl	any	
+वाला	वाला	VAUX	0	n	m	sg	3	d
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+छुट्टी	छुट्टी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+चला	चला	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+नया	नया	JJ		adj	m	sg		d
+अकाउंटेंट	अकाउंटेंट	NN	0	n	m	sg	3	d
+आ	आ	VM		v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+अकाउंटेंट	अकाउंटेंट	NNP	0	n	m	sg	3	d
+जब	जब	PRP		adv				
+चार्ज	चार्ज	NN	0	n	m	sg	3	d
+ले	ले	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+तो	तो	CC		avy				
+उसे	उसे	PRP		unk				
+खातों	खाता	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+गडबडी	गडबडी	NN	0	n	f	sg	3	d
+लगी	लग	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसने	उसने	PRP		unk				
+सीएमओ	सीएमओ	NN		unk				
+को	को	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जांच	जांच	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+पता	पता	JJ	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+बजट	बजट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पैसों	पैसा	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+कमी	कमी	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसने	उसने	PRP		unk				
+सारे	सारा	QF		adj	m	sg		o
+खाते	खाता	NN	0	n	m	pl	3	d
+खंगाले	खंगाल	VM	एं	v	any	sg	2	
+तो	तो	CC		avy				
+पता	पता	JJ	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+जून	जून	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+जुलाई	जुलाई	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+ही	ही	RP		adv				
+बिल	बिल	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+बार	बार	RP		adv				
+निकाला	निकाल	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+ट्रेजरी	ट्रेजरी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जांच	जांच	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+तो	तो	CC		avy				
+वहां	वहाँ	PRP		adv				
+भी	भी	RP		adv				
+ऐसा	ऐसा	PRP		adj	m	sg		d
+ही	ही	RP		adv				
+पाया	पा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कर्मचारी	कर्मचारी	NN	0	n	m	sg	3	d
+सकते	सक	VM	ता	v	m	pl	any	
+में	में	PSP		psp				
+आ	आ	VM		v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सीएमओ	सीएमओ	NN		unk				
+ने	ने	PSP		psp				
+जांच	जांच	NN		unk				
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+बनाई	बना	VM	या	v	f	sg	any	
+,	,	SYM		punc				
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+ट्रेजरी	ट्रेजरी	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+स्वास्थ्य	स्वास्थ्य	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कर्मचारी	कर्मचारी	NN	0	n	m	sg	3	d
+शामिल	शामिल	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सीएमओ	सीएमओ	NN		unk				
+डॉ	डॉ	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मजीद	मजीद	XC		unk				
+मलिक	मलिक	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+क्लर्क	क्लर्क	NN	0	n	m	sg	3	d
+तारिक	तारिक	JJ		unk				
+हुसैन	हुसैन	NN	0	n	m	sg	3	d
+छुट्टी	छुट्टी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+हमने	हमने	PRP		unk				
+उसे	उसे	PRP		unk				
+निलंबित	निलंबित	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+जांच	जांच	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+ही	ही	RP		adv				
+पता	पता	JJ	0	n	m	sg	3	d
+चलेगा	चल	VM	गा	v	m	sg	2	
+कि	कि	CC		avy				
+कहां-कहां	कहां-कहां	PRP		unk				
+पर	पर	PSP		psp				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+हेराफेरी	हेराफेरी	NN		unk				
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+इसमें	इसमें	PRP		pn	any	sg	3	o
+कौन-कौन	कौन-कौन	NN		unk				
+दोषी	दोषी	JJ	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+हमारे	हमारे	PRP		unk				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ही	ही	RP		adv				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+जांच	जांच	NN		unk				
+हो	हो	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दोषी	दोषी	JJ	0	n	m	sg	3	d
+पाए	पा	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+पर	पर	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+करवाया	करवा	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+डीसी	डीसी	XC		unk				
+अंग्रेज	अंग्रेज	XC	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+राणा	राणा	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+सीएमओ	सीएमओ	XC		unk				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+उन्हें	उन्हें	PRP		unk				
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+मिली	मिल	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हम	हम	PRP		unk				
+इस	इस	DEM		pn	any	sg	3	o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+पूछताछ	पूछताछ	NN		unk				
+करेंगे	कर	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

@@ -15,7 +15,7 @@ for indexval in range(1,301):
     #parses xml file
     str_index=str(indexval)
     print("Processed File:"+str_index)
-    tree = ET.parse('C-'+str_index+'.xml')
+    tree = ET.parse('../Data/ILTIMEX2012/Manual_Tagged/C-'+str_index+'.xml')
     root = tree.getroot()
 
 
@@ -77,7 +77,7 @@ for indexval in range(1,301):
 
 
     #export 
-    f = open("../BIO_TaggedM/C-"+str_index+".txt", 'w+')
+    f = open("../Data/ILTIMEX2012/BIO_TaggedM/C-"+str_index+".txt", 'w+')
     f.write(txt)
     f.close()
 

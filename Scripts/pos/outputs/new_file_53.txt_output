@@ -1,0 +1,594 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+बरेली	बरेली	NNP		unk				
+:	:	SYM		punc				
+दहेज	दहेज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+फ्रिज	फ्रिज	NN		unk				
+व	व	CC		avy				
+टीवी	टीवी	NN		unk				
+नहीं	नहीं	NEG		adv				
+मिलने	मिल	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+नाराज	नाराज	JJ	0	n	m	sg	3	d
+पति	पति	NN	0	n	m	sg	3	d
+समेत	समेत	PSP		psp				
+ससुरालियों	ससुरालियों	NN		unk				
+ने	ने	PSP		psp				
+महिला	महिला	NN	0	n	f	sg	3	d
+पीटकर	पीट	VM	कर	v	any	any	any	
+अधमरा	अधमरा	NN		adj	m	sg		d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसके	उसके	PRP		unk				
+बाद	बाद	NST		adv				
+से	से	PSP	0	v	any	any	any	
+घर	घर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बक्से	बक्से	NN		unk				
+में	में	PSP		psp				
+बंद	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+तडप-तडपकर	तडप-तडपकर	VM		v	any	any	any	
+उसकी	उसकी	PRP		unk				
+मौत	मौत	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+बाद	बाद	NST		adv				
+में	में	PSP		psp				
+फंसने	फँस	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+डर	डर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ससुरालियों	ससुरालियों	NN		unk				
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+बक्से	बक्से	NN		unk				
+से	से	PSP	0	v	any	any	any	
+निकाला	निकाल	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कपडे	कपडा	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+चूडी	चूडी	NN	0	n	f	sg	3	d
+बदलकर	बदल	VM	कर	v	any	any	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+चर्चा	चर्चा	NN	0	n	f	sg	3	d
+फैलाई	फैला	VM	या	v	f	sg	any	
+कि	कि	CC		avy				
+बीमारी	बीमारी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मौत	मौत	NN	0	n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पोस्टमार्टम	पोस्टमार्टम	NN		adj	any	any		any
+में	में	PSP		psp				
+मौत	मौत	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कारण	कारण	NN	0	n	m	sg	3	d
+हेड	हेड	XC	0	n	m	sg	3	d
+इंजरी	इंजरी	NNP		unk				
+बताया	बता	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+आशंका	आशंका	NN	0	n	f	sg	3	d
+जताई	जता	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+सिर	सिर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+गंभीर	गंभीर	JJ		adj	any	any		any
+चोट	चोट	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+उसे	उसे	PRP		unk				
+बक्से	बक्से	NN		unk				
+में	में	PSP		psp				
+बंद	बंद	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इलाज	इलाज	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+मिलने	मिल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+उसने	उसने	PRP		unk				
+वहीं	वहीं	PRP		unk				
+दम	दम	NN	0	n	f	sg	3	d
+तोड	तोड	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पंडरी	पंडरी	XC		unk				
+नौमहला	नौमहला	NNP		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+लोचन	लोचन	XC	0	n	m	sg	3	d
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+भाजी	भाजी	JJ	0	n	f	sg	3	d
+राजकुमारी	राजकुमारी	NN	0	n	f	sg	3	d
+(	(	SYM		punc				
+23	23	QC		num				
+)	)	SYM		punc				
+का	का	PSP	का	psp	m	sg		d
+विवाह	विवाह	NN	0	n	m	sg	3	d
+डेढ़	डेढ़	NNP		punc				
+साल	साल	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+सिजौलिया	सिजौलिया	JJ		unk				
+गाव	गाव	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नरेन्द्र	नरेंद्र	XC	0	n	m	sg		d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+किया	कर	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शादी	शादी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+टीवी	टीवी	NN		unk				
+व	व	CC		avy				
+फ्रिज	फ्रिज	NN		unk				
+नहीं	नहीं	NEG		adv				
+मिलने	मिल	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+नाराज	नाराज	JJ	0	n	m	sg	3	d
+ससुराली	ससुराली	JJ		unk				
+कुछ	कुछ	QF		adj	any	any		d
+दिन	दिन	NN	0	n	m	sg	3	d
+बाद	बाद	NST		adv				
+ही	ही	RP		adv				
+दहेज	दहेज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+राजकुमारी	राजकुमारी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+प्रताडित	प्रताडित	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+रात	रात	NN	0	n	f	sg	3	d
+ससुराली	ससुराली	JJ		unk				
+दहेज	दहेज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बाइक	बाइक	NN		unk				
+,	,	SYM		punc				
+फ्रिज	फ्रिज	NN		unk				
+व	व	CC		avy				
+टीबी	टीबी	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+माग	माग	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+उसकी	उसकी	PRP		unk				
+पिटाई	पिटाई	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+हत्या	हत्या	VAUX	0	n	f	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मौत	मौत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+पति	पति	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+ससुरालियों	ससुरालियों	NN		unk				
+ने	ने	PSP		psp				
+महिला	महिला	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+परिजनों	परिजन	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+फोन	फोन	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+बीमारी	बीमारी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+राजकुमारी	राजकुमारी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+मौत	मौत	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+परिजन	परिजन	NN	0	n	m	sg	3	d
+घर	घर	NN	0	n	m	sg	3	d
+पहुंचे	पहुंचे	VM		unk				
+तो	तो	CC		avy				
+बिस्तर	बिस्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+उसका	उसका	PRP	0	v	any	any	any	
+शव	शव	NN	0	n	m	sg	3	d
+पडा	पड	VM	या	v	m	sg	any	
+मिला	मिला	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसके	उसके	PRP		unk				
+शरीर	शरीर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+निशान	निशान	NN	0	n	m	sg	3	d
+देख	देख	VM	0	v	any	any	any	
+परिजनों	परिजन	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+हत्या	हत्या	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाते	लगा	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+हंगामा	हंगामा	NN	0	n	m	sg	3	d
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+पहुंची	पहुंची	VM		unk				
+और	और	CC		adv				
+पूछताछ	पूछताछ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+शव	शव	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पोस्टमार्टम	पोस्टमार्टम	NN		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+भेज	भेज	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पहुंची	पहुंची	VM		unk				
+तो	तो	CC		avy				
+जांच	जांच	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+कुछ	कुछ	QF		adj	any	any		d
+लाल	लाल	JJ		adj	any	any		any
+चूडियां	चूडियां	NN		unk				
+जमीन	जमीन	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+तो	तो	RP		avy				
+कुछ	कुछ	QF		adj	any	any		d
+बक्से	बक्से	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+टूटी	टूट	NN	या	v	f	sg	any	
+मिलीं	मिल	VM	या	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+शंका	शंका	NN	0	n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+बक्सा	बक्सा	NN		unk				
+खुलवाया	खुलवा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसमें	उसमें	PRP		unk				
+से	से	PSP	0	v	any	any	any	
+रजाई	रजाई	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+सामान	सामान	NN	0	n	m	sg	3	d
+हटाया	हटा	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+वहां	वहाँ	PRP		adv				
+बडी	बडी	JJ		adj	f	any		any
+मात्रा	मात्रा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+टूटी	टूट	NN	या	v	f	sg	any	
+चूडियां	चूडियां	NN		unk				
+मिली	मिल	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जिसके	जो	PRP	का	pn	m	pl	3	d
+बाद	बाद	NST		adv				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+माना	मान	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+पिटाई	पिटाई	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+महिला	महिला	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+बक्से	बक्से	NN		unk				
+में	में	PSP		psp				
+बंद	बंद	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बाहर	बाहर	NST		psp				
+निकलने	निकल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उसने	उसने	PRP		unk				
+संघर्ष	संघर्ष	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+,	,	SYM		punc				
+जिस	जो	DEM	0	pn	any	sg	3	o
+वजह	वजह	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+चूडिया	चूडिया	NN		unk				
+टूटीं	टूट	VM	या	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	PRP		pn	any	sg	3	o
+बीच	बीच	NST		psp				
+सिर	सिर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गंभीर	गंभीर	JJ		adj	any	any		any
+चोट	चोट	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+उसकी	उसकी	PRP		unk				
+मौत	मौत	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+हत्या	हत्या	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+छुपाने	छुपाने	VM		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पति	पति	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+ससुरालियों	ससुरालियों	NN		unk				
+ने	ने	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कसर	कसर	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+छोडी	छोड	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मौत	मौत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+लाश	लाश	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+साडी	साडी	NN	0	n	f	sg	3	d
+बदलकर	बदल	VM	कर	v	any	any	any	
+दूसरी	दूसरी	QO		unk				
+साडी	साडी	NN	0	n	f	sg	3	d
+पहनाई	पहना	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इतना	इतना	QF		adj	m	sg		d
+ही	ही	RP		adv				
+नई	नई	JJ		adj	f	any		any
+टूटी	टूट	VM	या	v	f	sg	any	
+हुई	हो	VAUX	या	v	f	sg	any	
+लाल	लाल	JJ		adj	any	any		any
+चूडियां	चूडियां	NN		unk				
+भी	भी	RP		adv				
+तोड़कर	तोड़कर	NNP		n	m	sg	3	d
+उसे	उसे	PRP		unk				
+पूरी	पूरी	JJ	0	n	f	sg	3	d
+नई	नई	JJ		adj	f	any		any
+चूडियां	चूडियां	NN		unk				
+पहना	पहना	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+चूडी	चूडी	NN	0	n	f	sg	3	d
+एकदम	एकदम	RB		adv				
+नई	नई	JJ		adj	f	any		any
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सिर	सिर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+गंभीर	गंभीर	JJ		adj	any	any		any
+चोट	चोट	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+हुई	हो	VM	या	v	f	sg	any	
+मौत	मौत	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+नहीं	नहीं	NEG		adv				
+निकला	निकल	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+खून	खून	NN	0	n	m	sg	3	d
+महिला	महिला	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+मौत	मौत	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कारण	कारण	NN	0	n	m	sg	3	d
+पिटाई	पिटाई	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+बल्कि	बल्कि	CC		avy				
+सिर	सिर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गंभीर	गंभीर	JJ		adj	any	any		any
+चोट	चोट	NN	0	n	f	sg	3	d
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पोस्टमार्टम	पोस्टमार्टम	NN		adj	any	any		any
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+उसके	उसके	PRP		unk				
+सिर	सिर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पिछले	पिछला	JJ		adj	m	sg		o
+हिस्से	हिस्सा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+किसी	किसी	PRP		unk				
+गंभीर	गंभीर	JJ		adj	any	any		any
+चीज	चीज	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+प्रहार	प्रहार	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जिससे	जो	PRP	से	pn	any	sg	3	o
+उसके	उसके	PRP		unk				
+सिर	सिर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+खून	खून	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+निकला	निकल	VM	या	v	m	sg	any	
+लेकिन	लेकिन	CC		avy				
+हेड	हेड	XC	0	n	m	sg	3	d
+इंजरी	इंजरी	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+उसकी	उसकी	PRP		unk				
+मौत	मौत	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पति	पति	NN	0	n	m	sg	3	d
+समेत	समेत	PSP		psp				
+चार	चार	QC		adj	any	any		any
+पर	पर	PSP		psp				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+मुकदमा	मुकदमा	JJ	0	n	m	sg	3	d
+घटना	घटना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+राजकुमारी	राजकुमारी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मामा	मामा	XC	0	n	m	sg	3	d
+लोचन	लोचन	XC	0	n	m	sg	3	d
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तहरीर	तहरीर	NN		unk				
+पर	पर	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+पति	पति	XC	0	n	m	sg	3	d
+नरेन्द्र	नरेंद्र	XC	0	n	m	sg		d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+सास	सास	XC	0	n	m	sg	3	d
+कलावती	कलावती	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+ससुर	ससुर	JJ	0	n	m	sg	3	d
+रीतराम	रीतराम	NN		unk				
+व	व	CC		avy				
+राजपाल	राजपाल	XC	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वर्जन	वर्जन	NN	0	n	m	sg	3	d
+परिजनों	परिजन	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+तहरीर	तहरीर	NN		unk				
+पर	पर	PSP		psp				
+दहेज	दहेज	NN	0	n	m	sg	3	d
+हत्या	हत्या	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मुकदमा	मुकदमा	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपी	आरोपी	NN		unk				
+अभी	अभी	PRP		adv				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पकड	पकड	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दूर	दूर	NST		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जल्द	जल्द	NN		adj	any	any		any
+की	का	PSP	का	psp	f	sg		d
+उनकी	उनकी	PRP		unk				
+गिरफ्तारी	गिरफ्तारी	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरएन	आरएन	XC		unk				
+चौधरी	चौधरी	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+इंस्पेक्टर	इंस्पेक्टर	XC	0	n	m	sg	3	d
+नवाबगंज	नवाबगंज	NN		unk				

@@ -1,0 +1,152 @@
+जासं	जासं	NNP		unk				
+,	,	SYM		punc				
+नई	नई	JJ		adj	f	any		any
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+:	:	SYM		punc				
+द्वारका	द्वारका	NN		unk				
+मोड	मोड	XC	0	n	m	sg	3	d
+मेट्रो	मेट्रो	XC		unk				
+स्टेशन	स्टेशन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+एक्सरे	एक्सरे	NN		unk				
+मशीन	मशीन	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+एक	एक	QC		adj	any	any		any
+यात्री	यात्री	NN	0	n	m	sg	3	d
+गलती	गलती	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अपना	अपना	PRP	0	n	m	sg	3	d
+बैग	बैग	NN	0	n	m	sg	3	d
+भूलकर	भूल	VM	कर	v	any	any	any	
+चला	चला	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लावारिस	लावारिस	JJ		adj	any	any		any
+बैग	बैग	NN	0	n	m	sg	3	d
+मिलने	मिल	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+उसकी	उसकी	PRP		unk				
+जांच	जांच	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+तो	तो	CC		avy				
+उसमें	उसमें	PRP		unk				
+1.4	1.4	QC		num				
+लाख	लाख	QC		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+ज्यादा	ज्यादा	QF		adj	m	sg		d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मिले	मिल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सीआइएसएफ	सीआइएसएफ	XC		unk				
+जवानों	जवान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+सुरक्षित	सुरक्षित	JJ	0	n	m	sg	3	d
+रखवा	रखवा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुछ	कुछ	QF		adj	any	any		d
+समय	समय	NN	0	n	m	sg	3	d
+बाद	बाद	NST		adv				
+जिस	जो	DEM	0	pn	any	sg	3	o
+यात्री	यात्री	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+बैग	बैग	NN	0	n	m	sg	3	d
+छूट	छूट	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+वो	वो	PRP		unk				
+पहुंचा	पहुंचा	VM		unk				
+तो	तो	CC		avy				
+पूछताछ	पूछताछ	NN		unk				
+व	व	CC		avy				
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+सीआइएसएफ	सीआइएसएफ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जवानों	जवान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+सहित	सहित	PSP		psp				
+उसका	उसका	PRP	0	v	any	any	any	
+बैग	बैग	NN	0	n	m	sg	3	d
+लौटा	लौटा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+रुपयों	रुपया	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+भरा	भर	VM	या	v	m	sg	any	
+अपना	अपना	PRP	0	n	m	sg	3	d
+बैग	बैग	NN	0	n	m	sg	3	d
+वापस	वापस	JJ		adj	any	any		any
+पाकर	पा	VM	कर	v	any	any	any	
+यात्री	यात्री	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+जवानों	जवान	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+धन्यवाद	धन्यवाद	NN	0	n	m	sg	3	d
+ज्ञापित	ज्ञापित	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सीआइएसएफ	सीआइएसएफ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+प्रवक्ता	प्रवक्ता	NN		adj	m	sg		d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+27	27	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+हरियाणा	हरियाणा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+पलवल	पलवल	XC		unk				
+निवासी	निवासी	XC	0	n	f	sg	3	d
+टेकचंद	टेकचंद	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+उनका	उनका	PRP		unk				
+बैग	बैग	NN	0	n	m	sg	3	d
+एक्सरे	एक्सरे	JJ		unk				
+मशीन	मशीन	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+छूट	छूट	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सामान्य	सामान्य	JJ		adj	any	any		any
+पूछताछ	पूछताछ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+उन्हें	उन्हें	PRP		unk				
+नकदी	नकदी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+बैग	बैग	NN	0	n	m	sg	3	d
+लौटा	लौटा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>

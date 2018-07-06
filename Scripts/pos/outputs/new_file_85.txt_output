@@ -1,0 +1,244 @@
+नई	नई	JJ		adj	f	any		any
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+(	(	SYM		punc				
+जेएनएन	जेएनएन	NNP		unk				
+)	)	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+देश	देश	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+भंडार	भंडार	NN	0	n	m	sg	3	d
+(	(	SYM		punc				
+फॉरेक्स	फॉरेक्स	XC		unk				
+रिजर्व	रिजर्व	NNP		adj	any	any		any
+)	)	SYM		punc				
+17	17	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+समाप्त	समाप्त	JJ	0	n	m	sg	3	d
+सप्ताह	सप्ताह	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+24.04	24.04	QC		num				
+करोड़	करोड़	XC		punc				
+डॉलर	डॉलर	XC		unk				
+बढ़कर	बढ़कर	NNP		v	m	sg	any	
+399.53	399.53	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+पर	पर	PSP		psp				
+पहुंच	पहुंच	VM		unk				
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसकी	इसकी	PRP		pn	f	sg	3	d
+मुख्य	मुख्य	JJ		adj	any	any		any
+वजह	वजह	NN	0	n	f	sg	3	d
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+संपत्तियों	संपत्तियों	NN		unk				
+में	में	PSP		psp				
+खासी	खासी	NNP		unk				
+तेजी	तेजी	RB	0	n	f	sg	3	d
+आना	आ	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रिजर्व	रिजर्व	XC		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साप्ताहिक	साप्ताहिक	JJ		adj	any	any		any
+आंकड़ों	आंकड़ों	NN		n	m	pl		o
+में	में	PSP		psp				
+यह	यह	PRP	0	pn	any	sg	3	d
+सामने	सामना	NST	0	n	m	pl	3	d
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+पिछले	पिछला	JJ		adj	m	sg		o
+सप्ताहांत	सप्ताहांत	NN		unk				
+में	में	PSP		psp				
+देश	देश	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+भंडार	भंडार	NN	0	n	m	sg	3	d
+55.42	55.42	QC		num				
+करोड़	करोड़	XC		punc				
+डॉलर	डॉलर	XC		unk				
+बढ़कर	बढ़कर	NNP		v	m	sg	any	
+399.29	399.29	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रिजर्व	रिजर्व	XC		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आंकड़े	आंकड़े	NN		adv				
+दर्शाते	दर्शाते	VM		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+समीक्षाघीन	समीक्षाघीन	JJ		unk				
+सप्ताह	सप्ताह	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कुल	कुल	QF		adj	any	any		any
+फॉरेक्स	फॉरेक्स	XC		unk				
+रिजर्व	रिजर्व	NNP		adj	any	any		any
+का	का	PSP	का	psp	m	sg		d
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+हिस्सा	हिस्सा	NN	0	n	m	sg	3	d
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+एसेट्स	एसेट्स	NN		unk				
+(	(	SYM		punc				
+एफसीए	एफसीए	NN		unk				
+)	)	SYM		punc				
+22.04	22.04	QC		num				
+करोड़	करोड़	XC		punc				
+डॉलर	डॉलर	XC		unk				
+बढ़कर	बढ़कर	NNP		v	m	sg	any	
+375.096	375.096	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+समीक्षाधीन	समीक्षाधीन	JJ		unk				
+सप्ताह	सप्ताह	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+स्वर्ण	स्वर्ण	XC	0	n	m	sg	3	d
+भंडार	भंडार	NN	0	n	m	sg	3	d
+20.66	20.66	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+पर	पर	PSP		psp				
+अपरिवर्तित	अपरिवर्तित	JJ		adj	any	any		any
+बना	बना	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+देश	देश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+चालू	चालू	NN		adj	any	any		any
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पहली	पहली	QO		adj	f	any		any
+छमाही	छमाही	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+प्रत्यक्ष	प्रत्यक्ष	JJ		adj	any	any		any
+विदेशी	विदेशी	JJ		adj	any	any		any
+निवेश	निवेश	NN	0	n	m	sg	3	d
+(	(	SYM		punc				
+एफडीआइ	एफडीआइ	NN		unk				
+)	)	SYM		punc				
+17	17	QC		num				
+फीसद	फीसद	NN		unk				
+बढ़कर	बढ़कर	VM		unk				
+25.35	25.35	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+वाणिज्य	वाणिज्य	JJ	0	n	m	sg	3	d
+मंत्रालय	मंत्रालय	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मातहत	मातहत	JJ		adj	any	any		any
+औद्योगिक	औद्योगिक	JJ		adj	any	any		any
+नीति	नीति	NN	0	n	f	sg	3	d
+एवं	एवं	CC		avy				
+संवर्धन	संवर्धन	NN		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+(	(	SYM		punc				
+डीआइपीपी	डीआइपीपी	NN		unk				
+)	)	SYM		punc				
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+‘	‘	JJ		unk				
+मेक	मेक	NN		unk				
+इन	इन	DEM		pn	any	pl	3	o
+इंडिया	इंडिया	XC		unk				
+’	’	XC		unk				
+ट्विटर	ट्विटर	XC		unk				
+हैंडल	हैंडल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जरिये	जरिये	PSP:?		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बीते	बीत	RDP	एं	v	any	sg	2	
+साल	साल	NN	0	n	m	sg	3	d
+अप्रैल	अप्रैल	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+समान	समान	JJ		psp				
+छमाही	छमाही	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+आंकड़ा	आंकड़ा	NN		pn	any	sg	3	d
+21.62	21.62	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जहां	जहाँ	PRP		adv				
+तक	तक	RP		avy				
+अप्रैल	अप्रैल	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+2000	2000	QC		num				
+से	से	PSP	0	v	any	any	any	
+इस	इस	DEM		pn	any	sg	3	o
+साल	साल	NN	0	n	m	sg	3	d
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+तक	तक	RP		avy				
+देश	देश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आए	आ	VM	एं	v	any	sg	2	
+कुल	कुल	QF		adj	any	any		any
+एफडीआइ	एफडीआइ	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+सवाल	सवाल	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+तो	तो	CC		avy				
+यह	यह	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+बढ़कर	बढ़कर	XC		v	m	sg	any	
+518.10	518.10	QC		num				
+अरब	अरब	XC	0	n	m	sg	3	d
+डॉलर	डॉलर	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पहुंच	पहुंच	VM		unk				
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

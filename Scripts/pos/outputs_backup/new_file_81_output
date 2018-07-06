@@ -1,0 +1,149 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+महनार	महनार	NN		unk				
+:	:	SYM		punc				
+महनार	महनार	NN		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चमरहरा	चमरहरा	JJ		unk				
+चंवर	चँवर	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+सिरपल्ला	सिरपल्ला	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+आग	आग	NN	0	n	f	sg	3	d
+लगने	लग	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+सैंकडों	सैंकडों	NN		unk				
+बीघा	बीघा	NN	0	n	m	sg	3	d
+खर	खर	NN		adj	any	any		any
+जल	जल	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+राख	राख	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सैकडो	सैकडो	XC		unk				
+बीधे	बीधे	NN		unk				
+में	में	PSP		psp				
+खर	खर	NN		adj	any	any		any
+में	में	PSP		psp				
+लगी	लग	VM	या	v	f	sg	any	
+आग	आग	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+लाखों	लाख	QC	0	n	m	pl	3	o
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+नुकसान	नुकसान	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+अनुमान	अनुमान	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+चमरहरा	चमरहरा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+सिरपल्ला	सिरपल्ला	JJ		unk				
+चंवर	चँवर	NN	0	n	m	sg		d
+में	में	PSP		psp				
+खर	खर	NN		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+खेत	खेत	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लगी	लग	VM	या	v	f	sg	any	
+आग	आग	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
+मीडिया	मीडिया	NN	0	n	m	sg	3	d
+कर्मी	कर्मी	NN		adj	f	any		any
+ने	ने	PSP		psp				
+महनार	महनार	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सीओ	सीओ	VM		unk				
+एवं	एवं	CC		avy				
+महनार	महनार	NN		unk				
+अग्निशमन	अग्निशमन	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+दी	दे	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लेकिन	लेकिन	CC		avy				
+जब	जब	PRP		adv				
+तक	तक	RP		avy				
+दमकल	दमकल	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गाडी	गाडी	NN	0	n	f	sg	3	d
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पहुंचती	पहुंचती	VM		unk				
+तब	तब	PRP		adv				
+तक	तक	RP		avy				
+सैंकडो	सैंकडो	XC		unk				
+ग्रामीण	ग्रामीण	NN	0	n	m	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+हाथों	हाथ	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+तार	तार	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+छज्जा	छज्जा	NN	0	n	m	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+आग	आग	NN	0	n	f	sg	3	d
+बुझाने	बुझा	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बाद	बाद	NST		adv				
+में	में	PSP		psp				
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पहुंचे	पहुंचे	VM		unk				
+अग्निशमन	अग्निशमन	JJ		unk				
+दल	दल	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+आग	आग	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+काबू	काबू	NN		unk				
+पाया	पा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+आगलगी	आगलगी	NN		unk				
+में	में	PSP		psp				
+सैकडों	सैकडा	QC	0	n	m	pl	3	o
+एकड	एकड	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लगा	लगा	VM	0	v	any	any	any	
+खर	खर	NN		adj	any	any		any
+जल	जल	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+इस	इस	DEM		pn	any	sg	3	o
+अगलगी	अगलगी	NN		unk				
+में	में	PSP		psp				
+लाखों	लाख	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+क्षति	क्षति	NN	0	n	m	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

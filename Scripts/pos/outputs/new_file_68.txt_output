@@ -1,0 +1,302 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+कनीना	कनीना	NN		unk				
+महेंद्रगढ़	महेंद्रगढ़	NNP		punc				
+:	:	SYM		punc				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सर्तकता	सर्तकता	NN		unk				
+ब्यूरो	ब्यूरो	XC		unk				
+नारनौल	नारनौल	NNP		unk				
+व	व	CC		avy				
+रेवाडी	रेवाडी	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+कनीना	कनीना	NN		unk				
+तहसीलदार	तहसीलदार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रीडर	रीडर	NN	0	n	m	sg	3	d
+बाबूलाल	बाबूलाल	NNP		unk				
+को	को	PSP		psp				
+16	16	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+रिश्वत	रिश्वत	NN	0	n	f	sg	3	d
+लेते	ले	VM	ता	v	m	pl	any	
+काबू	काबू	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपी	आरोपी	XC		unk				
+बाबूलाल	बाबूलाल	NNP		unk				
+ने	ने	PSP		psp				
+भाइयों	भाई	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बंटवारे	बंटवारे	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+जमीन	जमीन	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+खाता	खाता	NN	0	n	m	sg	3	d
+अलग	अलग	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+एवज	एवज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+50	50	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+रिश्वत	रिश्वत	NN	0	n	f	sg	3	d
+मांगी	मांगी	VM		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+उसने	उसने	PRP		unk				
+जैसे	जैसे	PSP		adv				
+ही	ही	RP		adv				
+दो-दो	दो-दो	XC		unk				
+हजार	हजार	QC	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आठ	आठ	QC	0	n	m	sg	3	d
+नोटों	नोट	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+जरिए	जरिये	PSP		psp				
+16	16	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+सतर्कता	सतर्कता	XC	0	n	f	sg	3	d
+ब्यूरो	ब्यूरो	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+दबोच	दबोच	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+गांव	गाँव	NN	0	n	m	sg		d
+गडानिया	गडानिया	XC		unk				
+निवासी	निवासी	XC	0	n	f	sg	3	d
+धर्मबीर	धर्मबीर	NNP		unk				
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+भाई	भाई	NN	0	n	m	sg	3	d
+बंटवारे	बंटवारे	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+जमीन	जमीन	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+खाता	खाता	NN	0	n	m	sg	3	d
+अलग	अलग	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जिला	जिला	JJ	0	v	any	any	any	
+उपायुक्त	उपायुक्त	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+यहां	यहाँ	PRP		adv				
+पर	पर	PSP		psp				
+केस	केस	NN	0	n	m	sg	3	d
+डाला	डाल	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उपायुक्त	उपायुक्त	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+मामला	मामला	NN	0	n	m	sg	3	d
+एडीसी	एडीसी	NN		unk				
+को	को	PSP		psp				
+सौंपा	सौंप	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+एडीसी	एडीसी	NN		unk				
+ने	ने	PSP		psp				
+फाइल	फाइल	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+कनीना	कनीना	NN		unk				
+एसडीएम	एसडीएम	NN		unk				
+को	को	PSP		psp				
+भेज	भेज	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+एसडीएम	एसडीएम	XC		unk				
+कनीना	कनीना	NN		unk				
+ने	ने	PSP		psp				
+मामला	मामला	NN	0	n	m	sg	3	d
+तहसीलदार	तहसीलदार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सौंप	सौंप	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+तहसीलदार	तहसीलदार	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+रीडर	रीडर	NN	0	n	m	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+धर्मबीर	धर्मबीर	NN		unk				
+से	से	PSP	0	v	any	any	any	
+रुपयों	रुपया	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+डिमांड	डिमांड	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+लग	लग	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+उसने	उसने	PRP		unk				
+50	50	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+डिमांड	डिमांड	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+सौदा	सौदा	NN	0	n	m	sg	3	d
+16	16	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+तय	तय	JJ	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+धर्मबीर	धर्मबीर	NNP		unk				
+ने	ने	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सर्तकता	सर्तकता	NN		unk				
+ब्यूरो	ब्यूरो	NN		unk				
+को	को	PSP		psp				
+दे	दे	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+ब्यूरो	ब्यूरो	NNP		unk				
+ने	ने	PSP		psp				
+सत्यता	सत्यता	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+कराई	करा	VM	या	v	f	sg	any	
+और	और	CC		adv				
+रेवाडी	रेवाडी	NN		unk				
+व	व	CC		avy				
+नारनौल	नारनौल	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+गठन	गठन	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+जिला	जिला	JJ	0	v	any	any	any	
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+विकास	विकास	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+कुलदीप	कुलदीप	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+को	को	PSP		psp				
+नोडल	नोडल	JJ		unk				
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+बनाया	बना	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+नोडल	नोडल	JJ		unk				
+अफसर	अफसर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हस्ताक्षरयुक्त	हस्ताक्षरयुक्त	JJ		unk				
+दो	दो	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आठ	आठ	QC	0	n	m	sg	3	d
+नोट	नोट	NN	0	n	m	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+धर्मबीर	धर्मबीर	NNP		unk				
+को	को	PSP		psp				
+रीडर	रीडर	XC	0	n	m	sg	3	d
+बाबूलाल	बाबूलाल	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+भेजा	भेज	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहां	वहाँ	PRP		adv				
+जैसे	जैसे	RP		adv				
+ही	ही	RP		adv				
+रीडर	रीडर	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+काबू	काबू	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+आरोपी	आरोपी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+से	से	PSP	0	v	any	any	any	
+हस्ताक्षरयुक्त	हस्ताक्षरयुक्त	JJ		unk				
+नोट	नोट	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+बरामद	बरामद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+ब्यूरो	ब्यूरो	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+आरोपी	आरोपी	NN		unk				
+को	को	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+साथ	साथ	NST		adv				
+ले	ले	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,591 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+यमुनानगर	यमुनानगर	NNP		unk				
+:	:	SYM		punc				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+करोडों	करोड	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+शहर	शहर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सिक्सलेन	सिक्सलेन	NN		unk				
+और	और	CC		adv				
+फोरलेन	फोरलेन	NN		unk				
+सडकें	सडक	NN	0	n	f	pl	3	d
+इसलिए	इसलिये	CC		avy				
+बनवाई	बनवा	VM	या	v	f	sg	any	
+थीं	था	VAUX	था	v	f	pl	any	
+,	,	SYM		punc				
+ताकि	ताकि	CC		avy				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+जाम	जाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+छुटकारा	छुटकारा	VM	0	n	m	sg	3	d
+मिले	मिल	VM	एं	v	any	sg	2	
+और	और	CC		adv				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+रफ्तार	रफ्तार	NN	0	n	f	sg	3	d
+बढ़े	बुद्धि	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+परंतु	परंतु	CC		avy				
+ऐसा	ऐसा	PRP		adj	m	sg		d
+नहीं	नहीं	NEG		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सिक्सलेन	सिक्सलेन	NN		unk				
+और	और	CC		adv				
+फोरलेन	फोरलेन	XC		unk				
+पार्किंग	पार्किंग	XC		unk				
+स्थल	स्थल	NN	0	n	m	sg	3	d
+बनकर	बन	VM	कर	v	any	any	any	
+रह	रह	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जो	जो	PRP		avy				
+वाहन	वाहन	XC	0	n	m	sg	3	d
+दुकानों	दुकान	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+खडे	खडा	JJ		adj	m	sg		o
+होने	हो	VM	ना	v	m	pl	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+,	,	SYM		punc				
+वे	वह	PRP	0	pn	any	pl	3	d
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+आडे	आडा	NN	0	n	m	pl	3	d
+तिरछे	तिरछा	VM		adj	m	sg		o
+खडे	खडा	VAUX		adj	m	sg		o
+रहते	रह	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+शहर	शहर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+प्राय	प्रायः	NN		adv				
+:	:	SYM		punc				
+जाम	जाम	NN	0	n	m	sg	3	d
+लगते	लग	VM	ता	v	m	pl	any	
+रहते	रह	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जगाधरी	जगाधरी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पुराने	पुराना	JJ		adj	m	sg		o
+सहारनपुर	सहारनपुर	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+लेकर	ले	VM	कर	v	any	any	any	
+रेलवे	रेलवे	XC		unk				
+स्टेशन	स्टेशन	XC	0	n	m	sg	3	d
+रोड	रोड	NNP	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+भगत	भगत	XC	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+चौक	चौक	NNP	0	n	m	sg	3	d
+तक	तक	RP		avy				
+सडक	सडक	JJ	0	n	f	sg	3	d
+पहले	पहले	NST		adv				
+फोरलेन	फोरलेन	NN		unk				
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+संख्या	संख्या	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसर	अनुसर	NN		unk				
+सड़क	सड़क	NN		unk				
+चौडी	चौडी	VM		adj	f	any		any
+नहीं	नहीं	NEG		adv				
+थी	था	VM	था	v	f	sg	any	
+,	,	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+प्राय	प्रायः	NN		adv				
+:	:	SYM		punc				
+जाम	जाम	NN	0	n	m	sg	3	d
+लगा	लगा	VM	0	v	any	any	any	
+रहता	रह	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लोगों	लोग	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+पर	पर	PSP		psp				
+पिछले	पिछला	JJ		adj	m	sg		o
+साल	साल	NN	0	n	m	sg	3	d
+मुख्यमंत्री	मुख्यमंत्री	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+फोरलेन	फोरलेन	NN		unk				
+सडक	सडक	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+सिक्सलेन	सिक्सलेन	NN		unk				
+बनाने	बना	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+घोषणा	घोषणा	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुछ	कुछ	QF		adj	any	any		d
+माह	माह	NN		unk				
+पहले	पहले	NST		adv				
+सिक्सलेन	सिक्सलेन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+काम	काम	NN	0	n	m	sg	3	d
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+भी	भी	RP		adv				
+कर	कर	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+काफी	काफी	QF	0	n	f	sg	3	d
+हद	हद	NN	0	n	f	sg	3	d
+तक	तक	RP		avy				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+जाम	जाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+तो	तो	RP		avy				
+छुटकारा	छुटकारा	VM	0	n	m	sg	3	d
+तो	तो	RP		avy				
+मिला	मिला	VM	0	v	any	any	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+पार्किंग	पार्किंग	NN		unk				
+न	न	NEG		adv				
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+लोग	लोग	NN	0	n	m	sg	3	d
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+ही	ही	RP		adv				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+गाडियां	गाडियां	NN		unk				
+खडी	खडी	JJ		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सडक	सडक	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दोनों	दोना	JJ	0	n	m	pl	3	o
+तरफ	तरफ	NST		adv				
+जो	जो	PRP		avy				
+एक-एक	एक-एक	JJ		unk				
+लेन	लेन	NN	0	n	m	sg	3	d
+बढ़ाया	बढ़ाया	VM		v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+,	,	SYM		punc				
+वह	वह	PRP	0	pn	any	sg	3	d
+पार्किंग	पार्किंग	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+काम	काम	NN	0	n	m	sg	3	d
+आ	आ	VM		v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कई	कई	QF		adj	any	any		d
+वाहन	वाहन	NN	0	n	m	sg	3	d
+तो	तो	RP		avy				
+सडक	सडक	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+में	में	PSP		psp				
+ही	ही	RP		adv				
+खडे	खडा	VM		adj	m	sg		o
+कर	कर	VAUX	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उनसे	उनसे	PRP		unk				
+हादसा	हादसा	NN	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+डर	डर	NN	0	n	m	sg	3	d
+लगा	लगा	VM	0	v	any	any	any	
+रहता	रह	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ट्रैफिक	ट्रैफिक	JJ		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+ऐसे	ऐसे	DEM		adv				
+चालकों	चालक	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+करती	कर	VM	ता	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+चौक	चौक	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+चौराहों	चौराहा	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+तो	तो	RP		avy				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+नियम	नियम	NN	0	n	m	sg	3	d
+तोडने	तोड	VM	ना	v	m	pl	any	
+वालों	वाला	PSP	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+चालान	चालान	NN	0	n	m	sg	3	d
+काटती	काट	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+परंतु	परंतु	CC		avy				
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+खडे	खडा	JJ		adj	m	sg		o
+करने	कर	VM	ना	v	m	pl	any	
+वालों	वाला	PSP	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+करती	कर	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+कर्मचारी	कर्मचारी	NN	0	n	m	sg	3	d
+पीसीआर	पीसीआर	JJ		unk				
+वैन	वैन	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+बाइक	बाइक	NN		unk				
+पर	पर	PSP		psp				
+भी	भी	RP		adv				
+गश्त	गश्त	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+रहते	रह	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+इसके	इसके	PRP		pn	m	pl	3	d
+बावजूद	बावजूद	PSP:?	0	n	m	sg	3	d
+वाहन	वाहन	XC	0	n	m	sg	3	d
+चालकों	चालक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+नहीं	नहीं	NEG		adv				
+कहा	कह	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शहर	शहर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रवि	रवि	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+विकास	विकास	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+सोनू	सोनू	XC		unk				
+,	,	SYM		punc				
+प्रीतम	प्रीतम	NN	0	n	m	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+यमुनानगर	यमुनानगर	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+सिविल	सिविल	JJ	0	n	m	sg	3	d
+अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+लेकर	ले	VM	कर	v	any	any	any	
+रामपुरा	रामपुरा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+मोड	मोड	NN	0	n	m	sg	3	d
+तक	तक	RP		avy				
+और	और	CC		adv				
+मधु	मधु	XC	0	n	m	sg	3	d
+पेट्रोल	पेट्रोल	NNP	0	n	m	sg	3	d
+पंप	पंप	NN	0	n	m	sg	3	d
+तक	तक	RP		avy				
+बाइक	बाइक	NN		unk				
+व	व	CC		avy				
+कार	कार	NN	0	n	f	sg	3	d
+मैकेनिकों	मैकेनिकों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+दुकाने	दुकाने	NN		unk				
+हैं	है	VM	है	v	any	pl	1	
+,	,	SYM		punc				
+इसलिए	इसलिये	CC		avy				
+मैकेनिक	मैकेनिक	NN		unk				
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+खराब	खराब	JJ		adj	any	any		any
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+ठीक	ठीक	JJ		adj	any	any		any
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसलिए	इसलिये	CC		avy				
+सिक्सलेन	सिक्सलेन	NN		unk				
+एक	एक	QC		adj	any	any		any
+तरह	तरह	NN		adv				
+से	से	PSP	0	v	any	any	any	
+मैकेनिकों	मैकेनिकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+वर्कशॉप	वर्कशॉप	NN		unk				
+रोड	रोड	NN	0	n	f	sg	3	d
+बनकर	बन	VM	कर	v	any	any	any	
+रह	रह	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसका	इसका	PRP		pn	m	sg	3	d
+खामियाजा	खामियाजा	JJ		unk				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+भुगतना	भुगत	VM	ना	v	m	sg	any	
+पड	पड	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+राहगीरों	राहगीर	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पैदल	पैदल	JJ	0	n	m	sg	3	d
+चलने	चल	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+भी	भी	RP		adv				
+जगह	जगह	NN		adv				
+नहीं	नहीं	NEG		adv				
+मिल	मिल	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उनको	उनको	PRP		unk				
+बीच	बीच	NST		psp				
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+चलना	चल	VM	ना	v	m	sg	any	
+पडता	पड	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+साढ़े	साढ़े	NNP		punc				
+चार	चार	QC		adj	any	any		any
+करोड	करोड	NN	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+मधु	मधु	XC	0	n	m	sg	3	d
+चौक	चौक	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भाई	भाई	XC	0	n	m	sg	3	d
+कन्हैया	कन्हैया	XC	0	n	m	sg	3	d
+साहिब	साहिब	XC	0	n	m	sg	3	d
+चौक	चौक	NNP	0	n	m	sg	3	d
+तक	तक	RP		avy				
+सडक	सडक	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+फोरलेन	फोरलेन	NN		unk				
+बनाया	बना	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+परंतु	परंतु	CC		avy				
+यहां	यहाँ	PRP		adv				
+भी	भी	RP		adv				
+समस्या	समस्या	NN	0	n	f	sg	3	d
+कम	कम	QF		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मधु	मधु	XC	0	n	m	sg	3	d
+चौक	चौक	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+लेकर	ले	VM	कर	v	any	any	any	
+आइसीआइसीआइ	आइसीआइसीआइ	NN		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+तक	तक	RP		avy				
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+खडे	खडा	VM		adj	m	sg		o
+रहते	रह	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+मधु	मधु	XC	0	n	m	sg	3	d
+चौक	चौक	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निकट	निकट	NST		adv				
+ओबरॉय	ओबरॉय	JJ		unk				
+क्लीनिक	क्लीनिक	NN		unk				
+,	,	SYM		punc				
+नत्थू	नत्थू	XC		unk				
+स्वीट	स्वीट	XC		unk				
+,	,	SYM		punc				
+नेहरू	नेहरू	XC	0	n	m	sg	3	d
+पार्क	पार्क	NNP	0	n	m	sg	3	d
+मोड	मोड	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+एफआरएफ	एफआरएफ	NN		unk				
+शोरूम	शोरूम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+,	,	SYM		punc				
+होटल	होटल	NN	0	n	m	sg	3	d
+दावत-ए-प्लाजा	दावत-ए-प्लाजा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+,	,	SYM		punc				
+होटल	होटल	NN	0	n	m	sg	3	d
+जेके	जेके	XC		unk				
+रेजीडेंसी	रेजीडेंसी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+और	और	CC		adv				
+आइसीआइसीआइ	आइसीआइसीआइ	NN		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+सडक	सडक	JJ	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+खडे	खडा	VM		adj	m	sg		o
+रहते	रह	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+उक्त	उक्त	JJ		adj	any	any		any
+मार्ग	मार्ग	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+हमेशा	हमेशा	RB		adv				
+जाम	जाम	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+रहती	रह	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कमिश्नर	कमिश्नर	XC	0	n	m	sg	3	d
+गिरीश	गिरीश	XC	0	n	m	sg	3	d
+अरोडा	अरोडा	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+सडकें	सडक	NN	0	n	f	pl	3	d
+इसलिए	इसलिये	CC		avy				
+चौडी	चौडी	JJ		adj	f	any		any
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+ताकि	ताकि	CC		avy				
+जाम	जाम	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+लगे	लग	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+लोगों	लोग	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+नैतिक	नैतिक	JJ		adj	any	any		any
+जिम्मेदारी	जिम्मेदारी	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+बनती	बन	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+बाजार	बाजार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जा	जा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+अपना	अपना	PRP	0	n	m	sg	3	d
+वाहन	वाहन	NN	0	n	m	sg	3	d
+सडक	सडक	JJ	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+न	न	RP		adv				
+खडा	खडा	JJ		adj	m	sg		d
+करें	कर	VM	एं	v	any	pl	1	
+,	,	SYM		punc				
+जो	जो	PRP		avy				
+मैकेनिक	मैकेनिक	JJ		unk				
+सडकों	सडक	NN	0	n	f	pl	3	o
+पर	पर	PSP		psp				
+वर्कशॉप	वर्कशॉप	NN		unk				
+चला	चला	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+उन	उन	DEM		unk				
+पर	पर	PSP		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+करेंगे	कर	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

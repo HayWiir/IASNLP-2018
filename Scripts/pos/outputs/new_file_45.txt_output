@@ -1,0 +1,210 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+न्यूज	न्यूज	XC		unk				
+नेटवर्क	नेटवर्क	NNP		unk				
+,	,	SYM		punc				
+कोलकाता	कोलकाता	NNP		unk				
+.	.	SYM		punc				
+</s>
+<s>
+40	40	QC		num				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+वजन	वजन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+तेलिया	तेलिया	JJ		unk				
+भोला	भोला	NN	0	n	m	sg	3	d
+(	(	SYM		punc				
+शंकर	शंकर	XC	0	n	m	sg	3	d
+प्रजाति	प्रजाति	NN	0	n	f	sg	3	d
+)	)	SYM		punc				
+गोल्डेन	गोल्डेन	XC		unk				
+मछली	मछली	NN	0	n	f	sg	3	d
+लगभग	लगभग	RB		adv				
+आठ	आठ	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+बिकी	बिक	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बुधवार	बुधवार	NN		unk				
+को	को	PSP		psp				
+पश्चिम	पश्चिम	JJ		adj	any	any		any
+बंगाल	बंगाल	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पूर्व	पूर्व	NST		adv				
+मेदिनीपुर	मेदिनीपुर	XC		unk				
+जिले	जिला	NNP	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+दीघा	दीघा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मोहना	मोहना	NN		unk				
+मत्स्य	मत्स्य	JJ	0	n	m	sg	3	d
+नीलाम	नीलाम	NN	0	n	m	sg	3	d
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+मछली	मछली	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+जमकर	जम	VM	कर	v	any	any	any	
+बोली	बोल	VM	या	v	f	sg	any	
+लगी	लग	VAUX	या	v	f	sg	any	
+और	और	CC		adv				
+आखिर	आखिर	RB		adv				
+में	में	PSP		psp				
+प्रति	प्रति	RP:?		adv				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+19,000	19,000	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+तक	तक	RP		avy				
+पहुंच	पहुंच	VM		unk				
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+कुल	कुल	QF		adj	any	any		any
+मिलाकर	मिला	VM	कर	v	any	any	any	
+उक्त	उक्त	JJ		adj	any	any		any
+मछली	मछली	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+7.60	7.60	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निर्धारित	निर्धारित	JJ		adj	any	any		any
+हुई	हो	VM	या	v	f	sg	any	
+और	और	CC		adv				
+देवाशीष	देवाशीष	NN		unk				
+जाना	जान	VM	या	v	m	sg	any	
+नामक	नामक	JJ	0	n	m	sg	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+मछली	मछली	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+खरीद	खरीद	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बुधवार	बुधवार	JJ		unk				
+सुबह	सुबह	NN	0	n	f	sg	3	d
+मंदारमणि	मंदारमणि	XC		unk				
+कालिंदी	कालिंदी	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रहने	रह	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+मछुआरे	मछुआरे	JJ		unk				
+शेख	शेख	NN		unk				
+जाकिर	जाकिर	JJ		unk				
+हुसैन	हुसैन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जाल	जाल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+मछली	मछली	NN	0	n	f	sg	3	d
+फंसी	फँस	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+करीब	करीब	RB		adj	any	any		any
+पांच	पांच	QC		unk				
+फीट	फीट	NN		unk				
+लंबी	लंबी	JJ	0	n	f	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+मछली	मछली	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+वजन	वजन	NN	0	n	m	sg	3	d
+40	40	QC		num				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बताया	बता	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+गोल्डेन	गोल्डेन	XC		unk				
+मछली	मछली	NN	0	n	f	sg	3	d
+आमतौर	आमतौर	NN		unk				
+पर	पर	PSP		psp				
+गहरे	गहरा	JJ		adj	m	sg		o
+समुद्र	समुद्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पाई	पा	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+प्रजनन	प्रजनन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+तटवर्ती	तटवर्ती	JJ	0	n	f	sg	3	d
+इलाकों	इलाका	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+आती	आ	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+पहले	पहले	NST		adv				
+भी	भी	RP		adv				
+ऐसी	ऐसी	DEM		adj	f	any		any
+मछली	मछली	NN	0	n	f	sg	3	d
+दीघा	दीघा	NN		unk				
+में	में	PSP		psp				
+पकड़ी	पकड़ी	XC		psp				
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+जिसकी	जो	PRP	को	pn	any	sg	3	o
+बोली	बोल	VM	या	v	f	sg	any	
+सात	सात	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+तक	तक	RP		avy				
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मछली	मछली	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+इतनी	इतनी	INTF		adj	f	any		any
+अधिक	अधिक	QF		adv				
+कीमत	कीमत	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वजह	वजह	NN	0	n	f	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+बताई	बता	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+इससे	इससे	PRP		pn	any	sg	3	o
+जीवनदायी	जीवनदायी	JJ		unk				
+दवाएं	दवाएं	NN		unk				
+तैयार	तैयार	JJ		adj	any	any		any
+होती	हो	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसे	इसे	PRP		pn	any	sg	3	o
+विदेश	विदेश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+निर्यात	निर्यात	JJ	0	n	m	sg	3	d
+भी	भी	RP		adv				
+किया	कर	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

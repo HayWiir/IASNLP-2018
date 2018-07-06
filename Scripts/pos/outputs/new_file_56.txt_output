@@ -1,0 +1,123 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+वाराणसी	वाराणसी	NN	0	n	f	sg	3	d
+:	:	SYM		punc				
+उपनिदेशक	उपनिदेशक	NN		unk				
+मंडी	मंडी	XC	0	n	f	sg	3	d
+(	(	SYM		punc				
+प्रशासन	प्रशासन	NN	0	n	m	sg	3	d
+)	)	SYM		punc				
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+हिमांशु	हिमांशु	XC	0	n	m	sg	3	d
+शेखर	शेखर	XC	0	n	m	sg	3	d
+त्रिपाठी	त्रिपाठी	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+चलाए	चला	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+बिहार	बिहार	VM	0	n	m	sg	3	d
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+दो	दो	QC	0	n	m	sg	3	d
+गाडि़यों	गाडि़यों	NN		n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+शमन	शमन	NN	0	n	m	sg	3	d
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मंडी	मंडी	NN	0	n	f	sg	3	d
+निरीक्षक	निरीक्षक	JJ		adj	any	any		any
+रामनाथ	रामनाथ	XC		unk				
+यादव	यादव	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+गेहूं	गेहूँ	NN	0	n	m	sg		d
+व	व	CC		avy				
+लकडी	लकडी	NN	0	n	f	sg	3	d
+लदे	लद	VM	एं	v	any	sg	2	
+बिहार	बिहार	NNP	0	n	m	sg	3	d
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+दो	दो	QC	0	n	m	sg	3	d
+ट्रकों	ट्रक	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+जब	जब	PRP		adv				
+कागज	कागज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बावत	बावत	PSP:?		unk				
+पूछताछ	पूछताछ	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+तो	तो	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+स्पष्ट	स्पष्ट	JJ	0	n	m	sg	3	d
+जवाब	जवाब	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+दे	दे	VM	0	v	any	any	any	
+पाए	पा	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+उनके	उनके	PRP		unk				
+विरुद्ध	विरुद्ध	JJ		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+शमन	शमन	NN	0	n	m	sg	3	d
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जौनपुर	जौनपुर	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+आए	आ	VM	एं	v	any	sg	2	
+गेहूं	गेहूँ	NN	0	n	m	sg		d
+लदे	लद	VM	एं	v	any	sg	2	
+ट्रक	ट्रक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+61	61	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+व	व	CC		avy				
+सुल्तानपुर	सुल्तानपुर	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+आए	आ	VM	एं	v	any	sg	2	
+लकडी	लकडी	NN	0	n	f	sg	3	d
+लदे	लद	VM	एं	v	any	sg	2	
+ट्रक	ट्रक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+चालीस	चालीस	QC		adj	any	any		any
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+शमन	शमन	NN	0	n	m	sg	3	d
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

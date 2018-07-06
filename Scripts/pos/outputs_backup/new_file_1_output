@@ -1,0 +1,399 @@
+राज्य	राज्य	XC	0	n	m	sg	3	d
+ब्यूरो	ब्यूरो	NNP		unk				
+,	,	SYM		punc				
+रांची	रांची	NNP		unk				
+.	.	SYM		punc				
+</s>
+<s>
+आर्थिक	आर्थिक	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कमजोर	कमजोर	JJ		adj	any	any		any
+तथा	तथा	CC		adv				
+अल्प	अल्प	JJ		adj	any	any		any
+आय	आय	NN	0	n	f	sg	3	d
+वर्ग	वर्ग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बनाए	बना	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाले	वाला	PSP	0	n	m	pl	3	d
+किफायती	किफायती	JJ		adj	f	any		any
+आवासों	आवास	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+विशेष	विशेष	JJ	0	n	m	sg	3	d
+रियायत	रियायत	NN	0	n	f	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+से	से	PSP	0	v	any	any	any	
+संबंधित	संबंधित	JJ		unk				
+अधिसूचना	अधिसूचना	NN	0	n	f	sg	3	d
+राजस्व	राजस्व	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+निबंधन	निबंधन	NN		unk				
+व	व	CC		avy				
+भूमि	भूमि	NN	0	n	f	sg	3	d
+सुधार	सुधार	NN	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+जारी	जारी	JJ	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+संदर्भ	संदर्भ	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कैबिनेट	कैबिनेट	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	VM		psp				
+लिए	ले	VAUX	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+फैसले	फैसला	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+आलोक	आलोक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+विकास	विकास	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+आवास	आवास	NN	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+पूर्व	पूर्व	NST		adv				
+में	में	PSP		psp				
+ही	ही	RP		adv				
+अधिसूचना	अधिसूचना	NN	0	n	f	sg	3	d
+जारी	जारी	JJ	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+चुका	चुका	VAUX	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+फैसले	फैसला	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+बिल्डरों	बिल्डरों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ-साथ	साथ-साथ	NST		unk				
+आम	आम	JJ	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+बड़ी	बड़ी	JJ		punc				
+राहत	राहत	NN	0	n	f	sg	3	d
+मिलेगी	मिल	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+योजना	योजना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लाभुकों	लाभुकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आवास	आवास	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रजिस्ट्री	रजिस्ट्री	NN	0	n	f	sg	3	d
+महज	महज	RP		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+निबंधन	निबंधन	NN		unk				
+तथा	तथा	CC		adv				
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+मुद्रांक	मुद्रांक	JJ		unk				
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+महिला	महिला	NN	0	n	f	sg	3	d
+लाभुकों	लाभुकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+ही	ही	RP		adv				
+यह	यह	PRP	0	pn	any	sg	3	d
+प्रभावी	प्रभावी	JJ		adj	f	any		any
+,	,	SYM		punc				
+महिला	महिला	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नहीं	नहीं	NEG		adv				
+रहने	रह	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+ही	ही	RP		adv				
+पुरुष	पुरुष	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+लाभ	लाभ	NN	0	n	m	sg	3	d
+आर्थिक	आर्थिक	JJ		adj	any	any		any
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कमजोर	कमजोर	JJ		adj	any	any		any
+और	और	CC		adv				
+अल्प	अल्प	JJ		adj	any	any		any
+आय	आय	NN	0	n	f	sg	3	d
+वर्ग	वर्ग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+निर्मित	निर्मित	JJ	0	n	m	sg	3	d
+होनेवाले	होनेवाले	VM		unk				
+किफायती	किफायती	JJ		adj	f	any		any
+आवास	आवास	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निबंधन	निबंधन	NN		unk				
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+शर्त	शर्त	NN	0	n	f	sg	3	d
+महिला	महिला	NN	0	n	f	sg	3	d
+लाभुक	लाभुक	JJ		unk				
+और	और	CC		adv				
+महिला	महिला	NN	0	n	f	sg	3	d
+लाभुक	लाभुक	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+नहीं	नहीं	NEG		adv				
+होने	हो	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पुरुष	पुरुष	NN	0	n	m	sg	3	d
+लाभुकों	लाभुकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+भी	भी	RP		adv				
+प्रभावी	प्रभावी	JJ		adj	f	any		any
+होगा	हो	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बिल्डरों	बिल्डरों	NN		unk				
+को	को	PSP		psp				
+भी	भी	RP		adv				
+राहतअधिसूचना	राहतअधिसूचना	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मुताबिक	मुताबिक	JJ		adj	any	any		any
+,	,	SYM		punc				
+लाभुकों	लाभुकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ-साथ	साथ-साथ	NST		unk				
+किफायती	किफायती	JJ		adj	f	any		any
+आवास	आवास	NN	0	n	m	sg	3	d
+बनाने	बना	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+करार	करार	NN	0	n	m	sg	3	d
+करनेवाले	करनेवाला	VM	0	n	m	pl	3	d
+बिल्डरों	बिल्डरों	NN		unk				
+को	को	PSP		psp				
+भी	भी	RP		adv				
+सरकार	सरकार	JJ	0	n	f	sg	3	d
+राहत	राहत	NN	0	n	f	sg	3	d
+देगी	दे	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+प्रमोटर	प्रमोटर	NN		unk				
+जब	जब	PRP		adv				
+जमीन	जमीन	NN	0	n	f	sg	3	d
+मालिक	मालिक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+एकरारनामा	एकरारनामा	NN		n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+तो	तो	CC		avy				
+उसे	उसे	PRP		unk				
+जमीन	जमीन	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कुल	कुल	QF		adj	any	any		any
+कीमत	कीमत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हिसाब	हिसाब	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+2.5	2.5	QC		num				
+प्रतिशत	प्रतिशत	NN	0	n	m	sg	3	d
+निबंधन	निबंधन	NN		unk				
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+जमा	जमा	JJ	0	v	any	any	any	
+करना	कर	VM	ना	v	m	sg	any	
+होता	हो	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अब	अब	PRP		adv				
+संयुक्त	संयुक्त	XC		adj	any	any		any
+विकास	विकास	XC	0	n	m	sg	3	d
+एकरारनामा	एकरारनामा	NNP		unk				
+(	(	SYM		punc				
+ज्वाइंट	ज्वाइंट	XC		unk				
+एग्रीमेंट	एग्रीमेंट	NNP		unk				
+)	)	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+एवज	एवज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जमीन	जमीन	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हिसाब	हिसाब	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+निबंधन	निबंधन	XC		unk				
+शुल्क	शुल्क	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्धारण	निर्धारण	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+फर्जी	फर्जी	NN		adj	f	any		any
+करने	कर	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+बिल्डरों	बिल्डरों	NN		unk				
+को	को	PSP		psp				
+दोगुना	दोगुना	QF		adj	m	sg		d
+जुर्माना	जुर्माना	NN	0	n	m	sg	3	d
+इससे	इससे	PRP		pn	any	sg	3	o
+इतर	इतर	NST	0	n	m	sg	3	d
+अब	अब	PRP		adv				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+बिल्डर	बिल्डर	NN		unk				
+अगर	अगर	CC		adv				
+गरीबों	गरीब	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+किफायती	किफायती	JJ		adj	f	any		any
+आवास	आवास	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कागजात	कागजात	NN	0	n	m	sg	3	d
+दिखाकर	दिखा	VM	कर	v	any	any	any	
+अन्य	अन्य	JJ		adj	any	any		any
+प्रकृति	प्रकृति	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+भवन	भवन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तो	तो	CC		avy				
+पूर्व	पूर्व	NST		adv				
+से	से	PSP	0	v	any	any	any	
+निर्धारित	निर्धारित	JJ		adj	any	any		any
+2.5	2.5	QC		num				
+प्रतिशत	प्रतिशत	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+दोगुना	दोगुना	QF		adj	m	sg		d
+जुर्माना	जुर्माना	NN	0	n	m	sg	3	d
+सरकार	सरकार	JJ	0	n	f	sg	3	d
+वसूलेगी	वसूल	NN	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ग्रीन	ग्रीन	XC		unk				
+हाउस	हाउस	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+प्रस्ताव	प्रस्ताव	NN	0	n	m	sg	3	d
+देनेवाले	देनेवाले	VM		unk				
+बिल्डरों	बिल्डरों	NN		unk				
+को	को	PSP		psp				
+एफएआर	एफएआर	NN		unk				
+में	में	PSP		psp				
+3	3	QC		num				
+से	से	PSP	0	v	any	any	any	
+7	7	QC		num				
+प्रतिशत	प्रतिशत	NN	0	n	m	sg	3	d
+तक	तक	RP		avy				
+छूट	छूट	NN	0	v	any	any	any	
+दी	दे	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ज्वाइंट	ज्वाइंट	XC		unk				
+एग्रीमेंट	एग्रीमेंट	NN		unk				
+पर	पर	PSP		psp				
+जमीन	जमीन	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+तय	तय	JJ	0	n	m	sg	3	d
+करेगा	कर	VM	गा	v	m	sg	2	
+निबंधन	निबंधन	NN		unk				
+शुल्क	शुल्क	JJ	0	n	m	sg	3	d
+जमीन	जमीन	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+शुल्क-	शुल्क-	NN		unk				
+30	30	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+तक	तक	RP		avy				
+पांच	पांच	QC		unk				
+हजार-	हजार-	NN		unk				
+30	30	QC		num				
+से	से	PSP	0	v	any	any	any	
+60	60	QC		num				
+लाख	लाख	QC		adj	any	any		any
+सात	सात	QC	0	n	m	sg	3	d
+हजार-	हजार-	NN		unk				
+60	60	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+करोड़	करोड़	XC		punc				
+दस	दस	XC		punc				
+हजार-	हजार-	XC		punc				
+एक	एक	XC		punc				
+करोड़	करोड़	XC		punc				
+से	से	XC		punc				
+डेढ़	डेढ़	NNP		punc				
+करोड़	करोड़	XC		punc				
+20	20	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये-	रुपये-	NN		unk				
+डेढ़	डेढ़	NNP		punc				
+करोड़	करोड़	XC		punc				
+से	से	XC		punc				
+तीन	तीन	NNP		punc				
+करोड़	करोड़	XC		punc				
+40	40	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये-	रुपये-	NN		unk				
+तीन	तीन	QC	0	n	m	sg	3	d
+करोड़	करोड़	XC		punc				
+से	से	PSP	0	v	any	any	any	
+अधिक	अधिक	QF		adv				
+70	70	QC		num				
+हजार	हजार	XC	0	n	m	sg	3	d
+रुपयेयह	रुपयेयह	NNP		unk				
+भी	भी	RP		adv				
+पढ़ेंः	पढ़ेंः	XC		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+साथ	साथ	NST		adv				
+देश	देश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+करियर	करियर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+चिंता	चिंता	NN	0	n	f	sg	3	d
+करें	कर	VM	एं	v	any	pl	1	
+:	:	SYM		punc				
+रघुवर	रघुवर	NN		unk				
+दास	दास	NN	0	n	m	sg	3	d

@@ -1,0 +1,287 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+फर्रुखाबाद	फर्रुखाबाद	NN		unk				
+:	:	SYM		punc				
+नगर	नगर	NN	0	n	m	sg	3	d
+पालिका	पालिका	XC	0	n	m	sg	3	d
+परिषद	परिषद	XC		unk				
+फर्रुखाबाद	फर्रुखाबाद	NNP		unk				
+में	में	PSP		psp				
+अध्यक्ष	अध्यक्ष	JJ	0	n	m	sg	3	d
+पद	पद	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+दूसरी	दूसरी	QO		unk				
+बार	बार	RP		adv				
+निर्वाचित	निर्वाचित	JJ		adj	any	any		any
+हुईं	हो	VM	या	v	f	pl	any	
+वत्सला	वत्सला	JJ		unk				
+अग्रवाल	अग्रवाल	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+विकास	विकास	NN	0	n	m	sg	3	d
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पालिका	पालिका	NN	0	n	m	sg	3	d
+खाते	खा	VM	ता	v	m	pl	any	
+में	में	PSP		psp				
+18.74	18.74	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मिलेंगे	मिल	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+पहले	पहले	NST		adv				
+से	से	PSP	0	v	any	any	any	
+प्रस्तावित	प्रस्तावित	JJ		adj	any	any		any
+उनके	उनके	PRP		unk				
+कई	कई	QF		adj	any	any		d
+ड्रीम	ड्रीम	XC		unk				
+प्रोजेक्ट	प्रोजेक्ट	NN		unk				
+को	को	PSP		psp				
+नए	नया	JJ		adj	m	sg		o
+कार्यकाल	कार्यकाल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+गति	गति	NN	0	n	f	sg	3	d
+मिलने	मिल	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+संभावना	संभावना	NN	0	n	f	sg	3	d
+जाग	जाग	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नगरपालिका	नगरपालिका	NN	0	n	f	sg	3	d
+परिषद	परिषद	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+मदों	मदों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खाते	खाता	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+18	18	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+74	74	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+जमा	जमा	JJ	0	v	any	any	any	
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सर्वाधिक	सर्वाधिक	JJ		adj	any	any		any
+18	18	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+धनराशि	धनराशि	NN	0	n	m	sg	3	d
+14	14	QC		num				
+वें	वें	PRP		unk				
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+आयोग	आयोग	NN	0	n	m	sg	3	d
+खाते	खा	VM	ता	v	m	pl	any	
+में	में	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP:?		adv				
+ट्रेजरी	ट्रेजरी	XC	0	n	f	sg	3	d
+खाते	खाता	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+45	45	QC		num				
+लाख	लाख	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+राज्य	राज्य	NN	0	n	m	sg	3	d
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+आयोग	आयोग	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+स्टांप	स्टांप	NN		unk				
+ड्यूटी	ड्यूटी	NN	0	n	f	sg	3	d
+खाते	खा	VM	ता	v	m	pl	any	
+में	में	PSP		psp				
+23	23	QC		num				
+लाख	लाख	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+बोर्ड	बोर्ड	NN	0	n	m	sg	3	d
+फंड	फंड	NN	0	n	m	sg	3	d
+खाते	खा	VM	ता	v	m	pl	any	
+में	में	PSP		psp				
+छह	छह	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+जमा	जमा	JJ	0	v	any	any	any	
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पालिका	पालिका	XC	0	n	m	sg	3	d
+कर्मियों	कर्मियों	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+वेतन	वेतन	NN	0	n	m	sg	3	d
+राज्य	राज्य	NN	0	n	m	sg	3	d
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+आयोग	आयोग	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दिया	दे	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+वेतन	वेतन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ग्रांट	ग्रांट	NN		unk				
+अभी	अभी	PRP		adv				
+नहीं	नहीं	NEG		adv				
+आयी	आ	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+करीब	करीब	RB		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रति	प्रति	PSP		adv				
+माह	माह	NN		unk				
+पालिका	पालिका	XC	0	n	m	sg	3	d
+कर्मियों	कर्मियों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+वेतन	वेतन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+खर्च	खर्च	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नवनिर्वाचित	नवनिर्वाचित	JJ		unk				
+अध्यक्ष	अध्यक्ष	NN	0	n	m	sg	3	d
+वत्सला	वत्सला	JJ		unk				
+अग्रवाल	अग्रवाल	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+विकास	विकास	NN	0	n	m	sg	3	d
+कार्यों	कार्य	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+मिली	मिल	VM	या	v	f	sg	any	
+धनराशि	धनराशि	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+उपयोग	उपयोग	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+चुनौती	चुनौती	NN	0	n	f	sg	3	d
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पूर्व	पूर्व	NST		adv				
+से	से	PSP	0	v	any	any	any	
+प्रस्तावित	प्रस्तावित	JJ		adj	any	any		any
+वत्सला	वत्सला	JJ		unk				
+के	का	PSP	का	psp	m	sg		o
+ड्रीम	ड्रीम	XC		unk				
+प्रोजेक्ट	प्रोजेक्ट	XC		unk				
+नगर	नगर	NN	0	n	m	sg	3	d
+पालिका	पालिका	XC	0	n	m	sg	3	d
+परिषद	परिषद	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+नवनिर्वाचित	नवनिर्वाचित	JJ		unk				
+अध्यक्ष	अध्यक्ष	NN	0	n	m	sg	3	d
+वत्सला	वत्सला	JJ		unk				
+अग्रवाल	अग्रवाल	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+चार	चार	QC		adj	any	any		any
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+पूर्व	पूर्व	NST		adv				
+पटेल	पटेल	NNP	0	n	m	sg	3	d
+पार्क	पार्क	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सुंदरीकरण	सुंदरीकरण	NN		unk				
+कराने	करा	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+कार्यालय	कार्यालय	XC	0	n	m	sg	3	d
+भवन	भवन	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+बढ़पुर	बढ़पुर	NNP		unk				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+तालाब	तालाब	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सुंदरीकरण	सुंदरीकरण	NN		unk				
+कराने	करा	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+योजना	योजना	NN	0	n	f	sg	3	d
+बनाई	बना	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पटेल	पटेल	NNP	0	n	m	sg	3	d
+पार्क	पार्क	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+प्रोजेक्ट	प्रोजेक्ट	NN		unk				
+भी	भी	RP		adv				
+बन	बन	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अंतिम	अंतिम	JJ	0	n	m	sg	3	d
+समय	समय	NN	0	n	m	sg	3	d
+तक	तक	RP		avy				
+टेंडर	टेंडर	NN	0	n	m	sg	3	d
+प्रक्रिया	प्रक्रिया	NN	0	n	f	sg	3	d
+पूरी	पूरी	JJ	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+सकी	सक	VAUX	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बढ़पुर	बढ़पुर	NNP		unk				
+तालाब	तालाब	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सुंदरीकरण	सुंदरीकरण	NN		unk				
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+घूमने	घूम	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अच्छा	अच्छा	JJ		adj	m	sg		d
+वातावरण	वातावरण	NN	0	n	m	sg	3	d
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शहर	शहर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रमुख	प्रमुख	JJ	0	n	m	sg	3	d
+मार्गों	मार्ग	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+वाहन	वाहन	XC	0	n	m	sg	3	d
+स्टैंड	स्टैंड	NNP		unk				
+बनाने	बना	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+भी	भी	RP		adv				
+प्रस्ताव	प्रस्ताव	NN	0	n	m	sg	3	d
+लंबित	लंबित	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

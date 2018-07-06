@@ -1,0 +1,142 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+सिरसा	सिरसा	NN		unk				
+:	:	SYM		punc				
+अतिरिक्त	अतिरिक्त	JJ		adj	any	any		any
+जिला	जिला	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+सत्र	सत्र	NN	0	n	m	sg	3	d
+न्यायाधीश	न्यायाधीश	XC	0	n	m	sg	3	d
+जेबी	जेबी	XC	0	n	f	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अदालत	अदालत	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+तस्करी	तस्करी	NN	0	n	f	sg	3	d
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+तस्कर	तस्कर	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+दोषी	दोषी	JJ	0	n	m	sg	3	d
+करार	करार	NN	0	n	m	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+एक	एक	QC		adj	any	any		any
+साल	साल	NN	0	n	m	sg	3	d
+कैद	कैद	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सजा	सजा	NN	0	n	f	sg	3	d
+सुनाई	सुना	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अदालत	अदालत	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+दोषी	दोषी	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+10	10	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+अर्थदंड	अर्थदंड	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जुर्माने	जुर्माना	VM	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+अदायगी	अदायगी	NN	0	n	f	sg	3	d
+न	न	NEG		adv				
+करने	कर	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+दोषी	दोषी	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+1	1	QC		num				
+माह	माह	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+अतिरिक्त	अतिरिक्त	JJ		adj	any	any		any
+कैद	कैद	NN	0	n	m	sg	3	d
+भुगतनी	भुगत	VM	ना	v	f	sg	any	
+होगी	हो	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सीआइए	सीआइए	JJ		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+9	9	QC		num				
+फरवरी	फरवरी	NNP	0	n	f	sg	3	d
+2014	2014	QC		num				
+को	को	PSP		psp				
+गश्त	गश्त	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+गदराना	गदराना	JJ		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+नरेंद्र	नरेंद्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कब्जे	कब्जा	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+1.50	1.50	QC		num				
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+अफीम	अफीम	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+500	500	QC		num				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+चूरापोस्त	चूरापोस्त	JJ		unk				
+बरामद	बरामद	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+उनके	उनके	PRP		unk				
+खिलाफ	खिलाफ	PSP:?		psp				
+मादक	मादक	JJ		adj	any	any		any
+पदार्थ	पदार्थ	NN	0	n	m	sg	3	d
+अधिनियम	अधिनियम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+चालान	चालान	NN	0	n	m	sg	3	d
+न्यायालय	न्यायालय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पेश	पेश	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बृहस्पतिवार	बृहस्पतिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अतिरिक्त	अतिरिक्त	JJ		adj	any	any		any
+जिला	जिला	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+सत्र	सत्र	NN	0	n	m	sg	3	d
+न्यायाधीश	न्यायाधीश	XC	0	n	m	sg	3	d
+जेबी	जेबी	XC	0	n	f	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अदालत	अदालत	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+तस्कर	तस्कर	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+दोषी	दोषी	JJ	0	n	m	sg	3	d
+करार	करार	NN	0	n	m	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+सजा	सजा	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दंडित	दंडित	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

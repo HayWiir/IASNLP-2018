@@ -1,0 +1,185 @@
+हाथरस	हाथरस	XC		unk				
+:	:	SYM		punc				
+सादाबाद	सादाबाद	JJ		unk				
+के	का	PSP	का	psp	m	sg		o
+बघैना	बघैना	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+युवक	युवक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+लोगों	लोग	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+घायल	घायल	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+व	व	CC		avy				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+छीन	छीन	VM	0	v	any	any	any	
+लेने	ले	VAUX	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाते	लगा	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+कोर्ट	कोर्ट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+मुकदमा	मुकदमा	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सनी	सनी	XC	0	n	f	sg	3	d
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+बालकिशन	बालकिशन	XC		unk				
+निवासी	निवासी	NNP	0	n	f	sg	3	d
+बघैना	बघैना	NN		unk				
+ने	ने	PSP		psp				
+भूरा	भूरा	JJ	0	n	m	sg	3	d
+व	व	CC		avy				
+कान्हा	कान्हा	JJ		unk				
+पुत्रगण	पुत्रगण	NN		unk				
+श्यामवीर	श्यामवीर	XC		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+बघैना	बघैना	VM		unk				
+सादाबाद	सादाबाद	JJ		unk				
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+मुकदमा	मुकदमा	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कोर्ट	कोर्ट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+मुकदमे	मुकदमा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+सनी	सनी	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+11	11	QC		num				
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाम	शाम	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+अपना	अपना	PRP	0	n	m	sg	3	d
+ठेला	ठेला	NN	0	n	m	sg	3	d
+बंद	बंद	JJ		adj	any	any		any
+करके	कर	VM	कर	v	any	any	any	
+वापस	वापस	JJ		adj	any	any		any
+गांव	गाँव	NN	0	n	m	sg		d
+जा	जा	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सड़क	सड़क	NNP		punc				
+पर	पर	PSP		psp				
+पहले	पहले	NST		adv				
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+घात	घात	NN	0	n	f	sg	3	d
+लगाये	लगा	VM	एं	v	any	sg	2	
+बैठे	बैठ	VM	एं	v	any	sg	2	
+भूरा	भूरा	VAUX	0	n	m	sg	3	d
+व	व	CC		avy				
+कान्हा	कान्हा	NN		unk				
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+घेर	घेर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+तमंचे	तमंचा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बट	बट	NN	0	v	any	any	any	
+से	से	PSP	0	v	any	any	any	
+प्रहार	प्रहार	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+पैसे	पैसा	NN	0	n	m	pl	3	d
+छीन	छीन	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+राहगीरों	राहगीर	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+आता	आ	VM	ता	v	m	sg	any	
+देख	देख	VM	0	v	any	any	any	
+आरोपी	आरोपी	JJ		unk				
+मौके	मौका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+भाग	भाग	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सादाबाद	सादाबाद	JJ		unk				
+:	:	SYM		punc				
+सतेंद्र	सतेंद्र	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+भीमसेन	भीमसेन	JJ		unk				
+निवासी	निवासी	XC	0	n	f	sg	3	d
+मीरपुर	मीरपुर	NNP		unk				
+ने	ने	PSP		psp				
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+26	26	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+बस	बस	RP	0	v	any	any	any	
+स्टैंड	स्टैंड	NN		unk				
+आया	आ	VM	या	v	m	sg	any	
+हुआ	हो	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसकी	उसकी	PRP		unk				
+बाइक	बाइक	NN		unk				
+(	(	SYM		punc				
+यूपी	यूपी	NN		unk				
+86	86	QC		num				
+एपी	एपी	NN		unk				
+4985	4985	QC		num				
+)	)	SYM		punc				
+ताज	ताज	JJ	0	n	m	sg	3	d
+होटल	होटल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+खड़ी	खड़ी	NN		avy				
+थी	था	VM	था	v	f	sg	any	
+,	,	SYM		punc				
+जहां	जहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+पार	पार	NN		psp				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

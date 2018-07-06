@@ -1,0 +1,334 @@
+नई	नई	JJ		adj	f	any		any
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+(	(	SYM		punc				
+जेएनएन	जेएनएन	NNP		unk				
+)	)	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+सेस	सेस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एकत्रित	एकत्रित	JJ		adj	any	any		any
+तकरीबन	तकरीबन	NN		unk				
+एक	एक	QC		adj	any	any		any
+हजार	हजार	QC	0	n	m	sg	3	d
+करोड़	करोड़	XC		punc				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+हिसाब-किताब	हिसाब-किताब	XC		unk				
+उपराज्यपाल	उपराज्यपाल	XC	0	n	m	sg	3	d
+अनिल	अनिल	XC	0	n	m	sg	3	d
+बैजल	बैजल	NNP		unk				
+ने	ने	PSP		psp				
+मांगा	मांगा	VM		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उपराज्यपाल	उपराज्यपाल	NN	0	n	m	sg	3	d
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+गत	गत	JJ		adj	any	any		any
+27	27	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+एक	एक	QC		adj	any	any		any
+पत्र	पत्र	NN	0	n	m	sg	3	d
+परिवहन	परिवहन	XC	0	n	m	sg	3	d
+मंत्री	मंत्री	NN	0	n	f	sg	3	d
+कैलाश	कैलाश	XC		unk				
+गहलोत	गहलोत	NN		unk				
+को	को	PSP		psp				
+भेजा	भेज	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+जिक्र	जिक्र	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+16	16	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+भाजपा	भाजपा	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+अध्यक्ष	अध्यक्ष	JJ	0	n	m	sg	3	d
+मनोज	मनोज	XC		unk				
+तिवारी	तिवारी	NNP	0	n	f	sg	3	d
+और	और	CC		adv				
+नेता	नेता	XC	0	n	m	sg	3	d
+विपक्ष	विपक्ष	NN	0	n	m	sg	3	d
+विजेंद्र	विजेंद्र	XC		unk				
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+उपराज्यपाल	उपराज्यपाल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मुलाकात	मुलाकात	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+कि	कि	CC		avy				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+सेस	सेस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एकत्रित	एकत्रित	JJ		adj	any	any		any
+फंड	फंड	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+संरक्षण	संरक्षण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कार्यो	कार्यो	NN		unk				
+में	में	PSP		psp				
+इस्तेमाल	इस्तेमाल	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+कर	कर	VM	0	v	any	any	any	
+इसका	इसका	PRP		pn	m	sg	3	d
+दुरुपयोग	दुरुपयोग	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+उपराज्यपाल	उपराज्यपाल	NN	0	n	m	sg	3	d
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+परिवहन	परिवहन	XC	0	n	m	sg	3	d
+मंत्री	मंत्री	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+पत्र	पत्र	NN	0	n	m	sg	3	d
+भेजा	भेज	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+1	1	QC		num				
+प्रदूषण	प्रदूषण	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+लगातार	लगातार	RB		adv				
+उठ	उठ	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+सवालों	सवाल	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+पिछले	पिछला	JJ		adj	m	sg		o
+दिनों	दिन	NN	0	n	m	pl	3	o
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+परिवहन	परिवहन	NN	0	n	m	sg	3	d
+मंत्री	मंत्री	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+सेस	सेस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एकत्रित	एकत्रित	JJ		adj	any	any		any
+फंड	फंड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सरकार	सरकार	NN	0	n	f	sg	3	d
+पांच	पांच	QC		unk				
+सौ	सौ	QC	0	n	m	sg	3	d
+इलेक्टिक	इलेक्टिक	NN		unk				
+बसें	बस	NN	0	n	f	pl	3	d
+खरीदने	खरीद	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+योजना	योजना	NN	0	n	f	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मंत्री	मंत्री	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+यह	यह	DEM	0	pn	any	sg	3	d
+बयान	बयान	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+तब	तब	PRP		adv				
+सामने	सामना	NST	0	n	m	pl	3	d
+आया	आ	VM	या	v	m	sg	any	
+जब	जब	PRP		adv				
+विपक्ष	विपक्ष	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+लगातार	लगातार	RB		adv				
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+सेस	सेस	NN		unk				
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+सवाल	सवाल	NN	0	n	m	sg	3	d
+उठाया	उठा	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+प्रदूषण	प्रदूषण	NN	0	n	m	sg	3	d
+नियंत्रण	नियंत्रण	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+विफलता	विफलता	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+देखते	देख	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+ही	ही	RP		adv				
+बुधवार	बुधवार	NN		unk				
+को	को	PSP		psp				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+हाई	हाई	VM		adj	f	any		any
+कोर्ट	कोर्ट	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+भी	भी	RP		adv				
+कड़ी	कड़ी	XC		adj	f	any		any
+फटकार	फटकार	NN	0	n	f	sg	3	d
+लगाई	लगा	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कोर्ट	कोर्ट	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+सेस	सेस	NN		unk				
+से	से	PSP	0	v	any	any	any	
+एकत्रित	एकत्रित	JJ		adj	any	any		any
+फंड	फंड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बसें	बस	NN	0	n	f	pl	3	d
+खरीदने	खरीद	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+दलील	दलील	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+नाराजगी	नाराजगी	JJ	0	n	f	sg	3	d
+जताई	जता	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कोर्ट	कोर्ट	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+फंड	फंड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सिर्फ	सिर्फ	RB		adj	any	any		any
+पौधे	पौधा	NN	0	n	m	pl	3	d
+लगाए	लगा	VM	एं	v	any	sg	2	
+जा	जा	VAUX	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+बसें	बस	NN	0	n	f	pl	3	d
+खरीदने	खरीद	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+प्रावधान	प्रावधान	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+तो	तो	CC		avy				
+इसके	इसके	PRP		pn	m	pl	3	d
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+सोचा	सोच	VM	या	v	m	sg	any	
+भी	भी	RP		adv				
+कैसे	कैसे	WQ		adv				
+?	?	SYM		punc				
+बसों	बस	NN	0	n	f	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+संख्या	संख्या	NN	0	n	f	sg	3	d
+बढ़ाकर	बढ़ाकर	VM		v	any	any	any	
+सार्वजनिक	सार्वजनिक	JJ		adj	any	any		any
+परिवहन	परिवहन	NN	0	n	m	sg	3	d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+सुधार	सुधार	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+तो	तो	CC		avy				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+काम	काम	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+गौरतलब	गौरतलब	NN		unk				
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+सेस	सेस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+फंड	फंड	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+उपयोग	उपयोग	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+कर	कर	VM	0	v	any	any	any	
+पाई	पा	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+पर्यावरण	पर्यावरण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रति	प्रति	PSP		adv				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लापरवाह	लापरवाह	JJ		adj	any	any		any
+नजरिए	नजरिए	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+प्रमुख	प्रमुख	JJ	0	n	m	sg	3	d
+बानगी	बानगी	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

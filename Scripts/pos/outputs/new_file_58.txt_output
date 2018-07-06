@@ -1,0 +1,75 @@
+वाराणसी	वाराणसी	NN	0	n	f	sg	3	d
+:	:	SYM		punc				
+मुख्य	मुख्य	JJ		adj	any	any		any
+अधिशासी	अधिशासी	JJ		unk				
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+राजीव	राजीव	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+छावनी	छावनी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+बिना	बिन	NEG	या	v	m	sg	any	
+अनुमति	अनुमति	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+लाइसेंस	लाइसेंस	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लॉन	लॉन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+संचालन	संचालन	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+बंगला	बंगला	JJ		unk				
+मालिकों	मालिक	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+डेढ़	डेढ़	NNP		punc				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+जुर्माना	जुर्माना	VM	0	n	m	sg	3	d
+वसूला	वसूल	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+छावनी	छावनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेई	जेई	XC		unk				
+सचिन	सचिन	XC		unk				
+श्रीवास्तव	श्रीवास्तव	NNP		unk				
+व	व	CC		avy				
+सफाई	सफाई	JJ	0	n	f	sg	3	d
+निरीक्षक	निरीक्षक	NN	0	n	m	sg	3	d
+रियाजुर्र	रियाजुर्र	XC		unk				
+रहमान	रहमान	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+इन	इन	DEM		pn	any	pl	3	o
+बंगलों	बंगलों	NN		unk				
+में	में	PSP		psp				
+वैवाहिक	वैवाहिक	JJ	0	n	m	sg	3	d
+कार्यक्रमों	कार्यक्रम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+संचालन	संचालन	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+प्रत्येक	प्रत्येक	QF		adj	any	any		any
+बंगला	बंगला	JJ		unk				
+मालिक	मालिक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पचास	पचास	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+जुर्माना	जुर्माना	NN	0	n	m	sg	3	d
+वसूला	वसूल	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

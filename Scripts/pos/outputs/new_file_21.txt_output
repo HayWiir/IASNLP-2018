@@ -1,0 +1,354 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सूत्र	सूत्र	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+हाथरस	हाथरस	XC		unk				
+:	:	SYM		punc				
+सासनी	सासनी	NN		unk				
+में	में	PSP		psp				
+विजयगढ़	विजयगढ़	NNP		punc				
+के	का	PSP	का	psp	m	sg		o
+तेल	तेल	NN	0	n	m	sg	3	d
+कारोबारी	कारोबारी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+हुई	हो	VM	या	v	f	sg	any	
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+वांछित	वांछित	JJ		adj	any	any		any
+चल	चल	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+शातिर	शातिर	JJ		adj	any	any		any
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सासनी	सासनी	JJ		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+सर्विलांस	सर्विलांस	NN		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+मदद	मदद	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+गिरफ्तार	गिरफ्तार	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+15	15	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+इनाम	इनाम	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रोड	रोड	NNP	0	n	f	sg	3	d
+होल्डअप	होल्डअप	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+पर्दाफाश	पर्दाफाश	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+पांच	पांच	QC		unk				
+बदमाशों	बदमाश	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+जेल	जेल	NN	0	n	f	sg	3	d
+भेजा	भेज	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+फरार	फरार	NN	0	n	m	sg	3	d
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+महिला	महिला	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेवर	जेवर	NN	0	n	m	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+उससे	उससे	PRP		unk				
+जेवर	जेवर	NN	0	n	m	sg	3	d
+बरामद	बरामद	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+सके	सक	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+28	28	QC		num				
+अक्टूबर	अक्टूबर	NNP		unk				
+को	को	PSP		psp				
+तडके	तडका	PRP	0	n	m	pl	3	d
+लगभग	लगभग	RB		adv				
+चार	चार	QC		adj	any	any		any
+बजे	बज	RP:?	एं	v	any	sg	2	
+विजयगढ़	विजयगढ़	XC		punc				
+(	(	SYM		punc				
+अलीगढ़	अलीगढ़	NN		punc				
+)	)	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+तेल	तेल	NN	0	n	m	sg	3	d
+कारोबारी	कारोबारी	JJ		unk				
+राजकुमार	राजकुमार	NN	0	n	m	sg	3	d
+वाष्र्णेय	वाष्र्णेय	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+बदमाशों	बदमाश	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गांव	गाँव	NN	0	n	m	sg		d
+बांधनू	बांधनू	JJ		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+करव	करव	NN		unk				
+डालकर	डाल	VM	कर	v	any	any	any	
+बदमाशों	बदमाश	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+रास्ता	रास्ता	NN	0	n	m	sg	3	d
+रोक	रोक	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+राजकुमार	राजकुमार	XC	0	n	m	sg	3	d
+स्कॉर्पियो	स्कॉर्पियो	XC		unk				
+कार	कार	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+चालक	चालक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+दिल्ली	दिल्ली	VM	0	n	f	sg	3	d
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+उनसे	उनसे	PRP		unk				
+12	12	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेवर	जेवर	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+कार	कार	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चाबी	चाबी	NN	0	n	f	sg	3	d
+बदमाश	बदमाश	JJ	0	n	m	sg	3	d
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+ट्रक	ट्रक	NN	0	n	m	sg	3	d
+चालक	चालक	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+एक	एक	QC		adj	any	any		any
+किसान	किसान	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+सासनी	सासनी	JJ		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंदर	अंदर	NST	0	n	m	sg	3	d
+ही	ही	RP		adv				
+सफलता	सफलता	NN	0	n	f	sg	3	d
+मिल	मिल	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+ममौता	ममौता	NN		unk				
+कलां	कलां	NN		unk				
+रोड	रोड	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+द्वारिकापुर	द्वारिकापुर	NN		unk				
+चौराहे	चौराहा	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+31	31	QC		num				
+अक्टूबर	अक्टूबर	NNP		unk				
+को	को	PSP		psp				
+हुई	हो	VM	या	v	f	sg	any	
+मुठभेड	मुठभेड	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पांच	पांच	QC		unk				
+बदमाशों	बदमाश	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+गिरफ्तार	गिरफ्तार	VM		adj	any	any		any
+कर	कर	VAUX	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+धर्मेंद्र	धर्मेंद्र	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+दीपू	दीपू	XC		unk				
+उर्फ	उर्फ	XC		unk				
+काबिल	काबिल	XC		adj	any	any		any
+,	,	SYM		punc				
+आकाश	आकाश	NN	0	n	m	sg	3	d
+उर्फ	उर्फ	XC		unk				
+दादा	दादा	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+होशियार	होशियार	JJ		adj	any	any		any
+निवासीगण	निवासीगण	NN		unk				
+बांधनू	बांधनू	JJ		unk				
+,	,	SYM		punc				
+सासनी	सासनी	NN		unk				
+,	,	SYM		punc				
+इदरीश	इदरीश	XC		unk				
+निवासी	निवासी	XC	0	n	f	sg	3	d
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+जलालपुर	जलालपुर	NNP		unk				
+,	,	SYM		punc				
+सासनी	सासनी	NN		unk				
+को	को	PSP		psp				
+गिरफ्तार	गिरफ्तार	VM		adj	any	any		any
+किया	कर	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+इनसे	इनसे	PRP		pn	any	pl	3	o
+लूट	लूट	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+सात	सात	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+व	व	CC		avy				
+स्कार्पियो	स्कार्पियो	XC		unk				
+कार	कार	NN	0	n	f	sg	3	d
+चाबी	चाबी	NN	0	n	f	sg	3	d
+रिमोट	रिमोट	NN		unk				
+सहित	सहित	PSP		psp				
+बरामद	बरामद	JJ		adj	any	any		any
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+बदमाश	बदमाश	JJ	0	n	m	sg	3	d
+नेहना	नेहना	NN		unk				
+उर्फ	उर्फ	XC		unk				
+हरेंद्र	हरेंद्र	XC		unk				
+निवासी	निवासी	XC	0	n	f	sg	3	d
+नरऊ	नरऊ	NN		unk				
+,	,	SYM		punc				
+विजयगढ़	विजयगढ़	XC		punc				
+(	(	SYM		punc				
+अलीगढ़	अलीगढ़	NN		punc				
+)	)	SYM		punc				
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बुधवार	बुधवार	NN		unk				
+देर	देर	JJ		adv				
+रात	रात	NN	0	n	f	sg	3	d
+सासनी	सासनी	XC		unk				
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एसआई	एसआई	XC		unk				
+अनिल	अनिल	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+सर्विलांस	सर्विलांस	NN		unk				
+प्रभारी	प्रभारी	JJ		adj	f	any		any
+सुधीर	सुधीर	XC		unk				
+राघव	राघव	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+नगला	नगला	JJ		unk				
+पतुआ	पतुआ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+से	से	PSP	0	v	any	any	any	
+हरेंद्र	हरेंद्र	XC		unk				
+उर्फ	उर्फ	XC		unk				
+नहना	नहना	NNP		unk				
+को	को	PSP		psp				
+गिरफ्तार	गिरफ्तार	VM		adj	any	any		any
+कर	कर	VAUX	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कब्जे	कब्जा	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+तमंचा	तमंचा	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+कारतूस	कारतूस	NN	0	n	m	sg	3	d
+बरामद	बरामद	JJ		adj	any	any		any
+किए	कर	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+शातिर	शातिर	NN		adj	any	any		any
+पर	पर	PSP		psp				
+लूट	लूट	XC	0	v	any	any	any	
+,	,	SYM		punc				
+डकैती	डकैती	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+रोड	रोड	NNP	0	n	f	sg	3	d
+होल्डअप	होल्डअप	NN		unk				
+सहित	सहित	PSP		psp				
+दर्जनों	दर्जन	QC	0	n	m	pl	3	o
+मुकदमे	मुकदमा	NN	0	n	m	pl	3	d
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

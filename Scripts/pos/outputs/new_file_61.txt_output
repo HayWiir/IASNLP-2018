@@ -1,0 +1,882 @@
+कानपुर	कानपुर	NNP		unk				
+[	[	SYM		punc				
+बृजेश	बृजेश	XC		unk				
+दुबे	दुबे	NN	0	n	m	sg	3	d
+]	]	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+चेक	चेक	NNP	0	n	m	sg	3	d
+क्लीयरिंग	क्लीयरिंग	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+आनलाइन	आनलाइन	NN		unk				
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+बढ़े	बुद्धि	XC	0	n	f	sg	3	d
+चेक	चेक	NNP	0	n	m	sg	3	d
+क्लोनिंग	क्लोनिंग	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+गुनहगार	गुनहगार	NN	0	n	m	sg	3	d
+कानपुर	कानपुर	NNP		unk				
+में	में	PSP		psp				
+भी	भी	RP		adv				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+पांच	पांच	QC		unk				
+आरोपियों	आरोपियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+गिरफ्तारी	गिरफ्तारी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+एसटीएफ	एसटीएफ	NN		unk				
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+नजरें	नजर	NN	0	n	f	pl	3	d
+कानपुर	कानपुर	NNP		unk				
+में	में	PSP		psp				
+चेक	चेक	NNP	0	n	m	sg	3	d
+क्लोनिंग	क्लोनिंग	NN		unk				
+से	से	PSP	0	v	any	any	any	
+ठगी	ठगी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मामलों	मामला	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+गड़ा	गड़ा	VM		adj	any	any		any
+दी	दे	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+बैंकों	बैंक	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+में	में	PSP		psp				
+क्लोन	क्लोन	XC		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+असली	असली	JJ		adj	f	any		any
+चेक	चेक	NN	0	n	m	sg	3	d
+वाले	वाला	PSP	0	n	m	pl	3	d
+मैटीरियरल	मैटीरियरल	JJ		unk				
+मिलने	मिल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+एसटीएफ	एसटीएफ	NN		unk				
+ने	ने	PSP		psp				
+यहां	यहाँ	PRP		adv				
+के	का	PSP	का	psp	m	sg		o
+आंकड़े	आंकड़े	JJ		adj	m	sg		o
+जुटाने	जुटा	VM	ना	v	m	pl	any	
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+चेक	चेक	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+आंकड़ा	आंकड़ा	NN		psp	m	sg		d
+निकालने	निकाल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+एसटीएफ	एसटीएफ	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दायरे	दायरा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+प्रिंटिंग	प्रिंटिंग	XC	0	n	f	sg	3	d
+प्रेस	प्रेस	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+आ	आ	VM		v	any	any	any	
+गए	गए	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+जहां	जहाँ	PRP		adv				
+चेक	चेक	NNP	0	n	m	sg	3	d
+प्रिंट	प्रिंट	NN		unk				
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सीटीएस	सीटीएस	NN		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आनलाइन	आनलाइन	NN		unk				
+क्लीयरिंग	क्लीयरिंग	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+साइबर	साइबर	JJ		unk				
+शातिरों	शातिरों	NN		unk				
+ने	ने	PSP		psp				
+चेक	चेक	VM	0	n	m	sg	3	d
+क्लोन	क्लोन	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+शुरू	शुरू	NN		avy				
+किए	कर	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+चेक	चेक	NNP	0	n	m	sg	3	d
+क्लोनिंग	क्लोनिंग	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जरिये	जरिये	PSP		psp				
+ठगी	ठगी	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+इतने	इतना	QF		adj	m	sg		o
+शातिर	शातिर	NN		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+कि	कि	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+बड़ी	बड़ी	XC		punc				
+सफाई	सफाई	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ऐसे	ऐसे	DEM		adv				
+चेक	चेक	NN	0	n	m	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+किए	कर	VM	या	v	m	pl	any	
+कि	कि	CC		avy				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+ऐसे	ऐसे	DEM		adv				
+मामलों	मामला	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पकड़	पकड़	NN		punc				
+न	न	NEG		adv				
+पाए	पा	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+कारण	कारण	NN	0	n	m	sg	3	d
+रहा	रह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+साइबर	साइबर	JJ		unk				
+ठगों	ठग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+कानपुर	कानपुर	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+जुड़े	जुड़े	NNP		n	f	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+दर्जन	दर्जन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अधिक	अधिक	QF		adv				
+खाताधारकों	खाताधारकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खाते	खाता	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+चेक	चेक	VM	0	n	m	sg	3	d
+क्लोन	क्लोन	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+ठगी	ठगी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+और	और	CC		adv				
+ढाई	ढाई	QF		adj	f	any		any
+करोड़	करोड़	XC		punc				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+अधिक	अधिक	QF		adv				
+का	का	PSP	का	psp	m	sg		d
+चूना	चूना	NN	0	n	m	sg	3	d
+लगा	लगा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जांच	जांच	NN		unk				
+कराने	करा	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+पता	पता	JJ	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+चेक	चेक	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कागज	कागज	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+स्याही	स्याही	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+यूवी	यूवी	XC		unk				
+(	(	SYM		punc				
+अल्ट्रा	अल्ट्रा	JJ		unk				
+वायलेट	वायलेट	NN		unk				
+)	)	SYM		punc				
+लैंप	लैंप	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+यूवी	यूवी	JJ		unk				
+स्कैनर	स्कैनर	NN		unk				
+पर	पर	PSP		psp				
+ब्लू	ब्लू	JJ		unk				
+और	और	CC		adv				
+व्हाइट	व्हाइट	JJ		unk				
+लोगो	लोगो	NN		unk				
+,	,	SYM		punc				
+वाटरमार्क	वाटरमार्क	XC		unk				
+,	,	SYM		punc				
+कलर	कलर	NN		unk				
+,	,	SYM		punc				
+कोड	कोड	NN	0	n	m	sg	3	d
+सब	सब	QF		adj	any	any		any
+सही	सही	JJ		adv				
+निकले	निकल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+शातिरों	शातिरों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गोपनीय	गोपनीय	JJ		adj	any	any		any
+पेपर	पेपर	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+स्याही	स्याही	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+लोगो	लोगो	NN		unk				
+पहुंच	पहुंच	VM		unk				
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+बैंकिंग	बैंकिंग	XC		unk				
+उद्योग	उद्योग	NN	0	n	m	sg	3	d
+इसे	इसे	PRP		pn	any	sg	3	o
+अर्थव्यवस्था	अर्थव्यवस्था	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बड़ा	बड़ा	XC		punc				
+खतरा	खतरा	NN	0	n	m	sg	3	d
+मान	मान	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसकी	इसकी	PRP		pn	f	sg	3	d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+मुख्यालय	मुख्यालय	NN	0	n	m	sg	3	d
+भेज	भेज	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+एसटीएफ	एसटीएफ	NN		unk				
+ने	ने	PSP		psp				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+पिछले	पिछला	JJ		adj	m	sg		o
+सप्ताह	सप्ताह	NN	0	n	m	sg	3	d
+पांच	पांच	QC		unk				
+शातिरों	शातिरों	NN		unk				
+को	को	PSP		psp				
+पकडने	पकड	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+अब	अब	PRP		adv				
+कानपुर	कानपुर	NNP		unk				
+को	को	PSP		psp				
+भी	भी	RP		adv				
+रडार	रडार	NN		unk				
+पर	पर	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शातिरों	शातिरों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+चेक	चेक	NNP	0	n	m	sg	3	d
+मैटीरियल	मैटीरियल	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कागज	कागज	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+स्याही	स्याही	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+लोगों	लोग	NN	0	n	m	pl	3	o
+कैसे	कैसे	WQ		adv				
+पहुंचे	पहुंचे	VM		unk				
+एसटीएफ	एसटीएफ	NN		unk				
+इस	इस	DEM		pn	any	sg	3	o
+दिशा	दिशा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जांच	जांच	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+क्लोनिंग	क्लोनिंग	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+शातिरों	शातिरों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रैकेट	रैकेट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+प्रिंटिंग	प्रिंटिंग	XC	0	n	f	sg	3	d
+प्रेस	प्रेस	XC	0	n	m	sg	3	d
+और	और	CC		adv				
+उïससे	उïससे	PRP		unk				
+जुड़े	जुड़े	XC		n	f	sg	3	d
+कर्मचारियों	कर्मचारी	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+मिलीभगत	मिलीभगत	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+हो	हो	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दायरे	दायरा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+इसे	इसे	PRP		pn	any	sg	3	o
+भी	भी	RP		adv				
+लिया	ले	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चेक	चेक	NNP	0	n	m	sg	3	d
+क्लोनिंग	क्लोनिंग	NN		unk				
+से	से	PSP	0	v	any	any	any	
+ठगी	ठगी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मामलों	मामला	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+न	न	NEG		adv				
+तो	तो	RP		avy				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गलती	गलती	NN	0	n	f	sg	3	d
+मानी	मान	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+न	न	NEG		adv				
+ही	ही	RP		adv				
+खाताधारकों	खाताधारकों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+ठगी	ठगी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+शिकार	शिकार	NN	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+खाताधारकों	खाताधारकों	NN		unk				
+को	को	PSP		psp				
+पूरी	पूरी	JJ	0	n	f	sg	3	d
+रकम	रकम	NN	0	n	f	sg	3	d
+वापस	वापस	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+प्रावधान	प्रावधान	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+यह	यह	DEM	0	pn	any	sg	3	d
+रकम	रकम	NN	0	n	f	sg	3	d
+खाताधारक	खाताधारक	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मूल	मूल	JJ	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+न	न	NEG		adv				
+लेकर	ले	VM	कर	v	any	any	any	
+उस	उस	DEM		unk				
+शाखा	शाखा	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+वसूल	वसूल	NN	0	v	any	any	any	
+की	कर	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+जहां	जहाँ	PRP		adv				
+चेक	चेक	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+भुगतान	भुगतान	NN	0	n	m	sg	3	d
+करा	करा	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भुगतान	भुगतान	NN	0	n	m	sg	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+करे	कर	VM	एं	v	any	sg	2	
+लेकिन	लेकिन	CC		avy				
+भुगतना	भुगत	VM	ना	v	m	sg	any	
+बैंक	बैंक	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+ही	ही	RP		adv				
+पड़ता	पड़ता	XC		adv				
+है	ही	NNP		adv				
+.	.	SYM		punc				
+</s>
+<s>
+सेंट्रल	सेंट्रल	XC		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+खाताधारकों	खाताधारकों	NN		unk				
+को	को	PSP		psp				
+करीब	करीब	RB		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+करोड़	करोड़	XC		punc				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वापस	वापस	JJ		adj	any	any		any
+किए	कर	VM	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+बैंक	बैंक	XC	0	n	m	sg	3	d
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+प्रिंटर्स	प्रिंटर्स	XC		unk				
+को	को	PSP		psp				
+खाताधारकों	खाताधारकों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+नंबर	नंबर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+माइकर	माइकर	XC		unk				
+कोड	कोड	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+बेस	बेस	JJ	0	n	m	sg	3	d
+कोड	कोड	NN	0	n	m	sg	3	d
+सब	सब	QF		adj	any	any		any
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+कराते	करा	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ये	यह	DEM	0	pn	any	pl	3	d
+नंबर	नंबर	NN	0	n	m	sg	3	d
+गोपनीय	गोपनीय	JJ		adj	any	any		any
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ये	यह	PRP	0	pn	any	pl	3	d
+हैं	है	VM	है	v	any	pl	1	
+सुरक्षा	सुरक्षा	NN	0	n	f	sg	3	d
+मानक	मानक	JJ		adj	any	any		any
+-	-	SYM		punc				
+बार	बार	RDP		adv				
+कोड	कोड	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+उसमें	उसमें	PRP		unk				
+अंग्रेजी	अंग्रेजी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+वीओआइडी	वीओआइडी	NN		unk				
+(	(	SYM		punc				
+वॉयड	वॉयड	XC		unk				
+)	)	SYM		punc				
+लिखना	लिख	VM	ना	v	m	sg	any	
+जरूरी-	जरूरी-	JJ		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+यूवी	यूवी	JJ		unk				
+लोगो	लोगो	NN		unk				
+-	-	SYM		punc				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+वाटरमार्क	वाटरमार्क	NN		unk				
+-	-	SYM		punc				
+माइकर	माइकर	XC		unk				
+बैंड	बैंड	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+जिस	जो	PRP	0	pn	any	sg	3	o
+पर	पर	PSP		psp				
+चेक	चेक	XC	0	n	m	sg	3	d
+नंबर	नंबर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+माइकर	माइकर	XC		unk				
+कोड	कोड	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+बेस	बेस	JJ	0	n	m	sg	3	d
+नंबर	नंबर	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+ट्रांजेक्शन	ट्रांजेक्शन	XC		unk				
+नंबर	नंबर	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+-	-	SYM		punc				
+गीली	गीली	JJ		adj	f	any		any
+अंगुली	अंगुली	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पोछा	पोछा	VM		unk				
+जाए	जा	VAUX	एं	v	any	sg	2	
+तो	तो	CC		avy				
+चेक	चेक	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+रंग	रंग	NN	0	n	m	sg	3	d
+छूटे	छूट	VM	एं	v	any	sg	2	
+ये	यह	PRP	0	pn	any	pl	3	d
+हुए	हो	VM	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+मामले	मामला	NN	0	n	m	pl	3	d
+-	-	SYM		punc				
+अगस्त	अगस्त	JJ	0	n	m	sg	3	d
+2017	2017	QC		num				
+में	में	PSP		psp				
+हैकर्स	हैकर्स	NN		unk				
+ने	ने	PSP		psp				
+सेंट्रल	सेंट्रल	XC		adj	any	any		any
+बैंक	बैंक	XC	0	n	m	sg	3	d
+ऑफ	ऑफ	XC		unk				
+इंडिया	इंडिया	NNP		unk				
+शुक्लागंज	शुक्लागंज	NN		unk				
+उन्नाव	उन्नाव	NN		unk				
+शाखा	शाखा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सात	सात	QC	0	n	m	sg	3	d
+क्लोन	क्लोन	XC		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+किसानों	किसान	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+75	75	QC		num				
+लाख	लाख	QC		adj	any	any		any
+उड़ाए	उड़ाए	JJ		unk				
+-जून	-जून	NN		unk				
+2017	2017	QC		num				
+में	में	PSP		psp				
+सेंट्रल	सेंट्रल	XC		adj	any	any		any
+बैंक	बैंक	XC	0	n	m	sg	3	d
+मीरपुर	मीरपुर	NNP		unk				
+छावनी	छावनी	NN	0	n	f	sg	3	d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दो	दो	QC	0	n	m	sg	3	d
+चेक	चेक	NN	0	n	m	sg	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+कारोबारी	कारोबारी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+3.20	3.20	QC		num				
+लाख	लाख	NN	0	n	m	sg	3	d
+उड़ाए	उड़ाए	VM		v	any	sg	2	
+-	-	SYM		punc				
+गांधीग्राम	गांधीग्राम	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+सेंट्रल	सेंट्रल	XC		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सीओडी	सीओडी	JJ		unk				
+सहकारी	सहकारी	JJ	0	n	f	sg	3	d
+समिति	समिति	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+2.87	2.87	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+चूना	चूना	NN	0	n	m	sg	3	d
+-	-	SYM		punc				
+सेंट्रल	सेंट्रल	XC		adj	any	any		any
+बैंक	बैंक	XC	0	n	m	sg	3	d
+पनकी	पनकी	XC		unk				
+पावर	पावर	XC	0	n	m	sg	3	d
+हाउस	हाउस	XC	0	n	m	sg	3	d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+क्लोन	क्लोन	XC		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+करीब	करीब	RB		adj	any	any		any
+ढाई	ढाई	XC		adj	f	any		any
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+उड़ाए	उड़ाए	VM		v	any	sg	2	
+-	-	SYM		punc				
+एसबीआइ	एसबीआइ	JJ		unk				
+आइआइटी	आइआइटी	NN		unk				
+शाखा	शाखा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+16	16	QC		num				
+क्लोन	क्लोन	XC		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+आइआइटी	आइआइटी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खाते	खाता	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+करीब	करीब	RB		adj	any	any		any
+50	50	QC		num				
+लाख	लाख	QC		adj	any	any		any
+उड़ाए	उड़ाए	VM		v	any	sg	2	
+-	-	SYM		punc				
+पीएनबी	पीएनबी	NN		unk				
+लाजपत	लाजपत	JJ		unk				
+नगर	नगर	NN	0	n	m	sg	3	d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+गाजियाबाद	गाजियाबाद	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+चेक	चेक	NN	0	n	m	sg	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+24.5	24.5	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निकाले	निकाल	VM	एं	v	any	sg	2	
+-	-	SYM		punc				
+केनरा	केनरा	XC		unk				
+बैंक	बैंक	XC	0	n	m	sg	3	d
+गोविंद	गोविंद	XC		unk				
+नगर	नगर	NN	0	n	m	sg	3	d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+आइसीआइसीआइ	आइसीआइसीआइ	NN		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+क्लोन	क्लोन	NN		unk				
+चेक	चेक	NN	0	n	m	sg	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+करीब	करीब	RB		adj	any	any		any
+आठ	आठ	QC	0	n	m	sg	3	d
+लाख	लाख	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चपत	चपत	NN	0	n	f	sg	3	d
+सीटीएस	सीटीएस	NN		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+क्लीयरिंग	क्लीयरिंग	NN		unk				
+में	में	PSP		psp				
+अब	अब	PRP		adv				
+चेक	चेक	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बजाय	बजाय	PSP:?		adv				
+उसकी	उसकी	PRP		unk				
+इमेज	इमेज	NN		unk				
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इमेज	इमेज	NN		unk				
+से	से	PSP	0	v	any	any	any	
+केवल	केवल	RP		adv				
+खाता	खा	VM	ता	v	m	sg	any	
+संख्या	संख्या	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+तारीख	तारीख	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ही	ही	RP		adv				
+मिलान	मिलान	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+पाता	पा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इमेज	इमेज	NN		unk				
+से	से	PSP	0	v	any	any	any	
+ये	यह	DEM	0	pn	any	pl	3	d
+पता	पता	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+चलता	चल	VM	ता	v	m	sg	any	
+कि	कि	CC		avy				
+चेक	चेक	NNP	0	n	m	sg	3	d
+असली	असली	JJ		adj	f	any		any
+है	है	VM	है	v	any	sg	2	
+या	या	CC		avy				
+नकली	नकली	JJ		adj	f	any		any
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+बैंकों	बैंक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+सेंट्रलाइज	सेंट्रलाइज	XC		unk				
+क्लीयरिंग	क्लीयरिंग	XC		unk				
+डिपार्टमेंट	डिपार्टमेंट	NNP		unk				
+में	में	PSP		psp				
+भी	भी	RP		adv				
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+इंतजाम	इंतजाम	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कई	कई	QF		adj	any	any		d
+शाखाएं	शाखा	NN	0	n	f	pl		d
+यूवी	यूवी	JJ		unk				
+स्कैनर	स्कैनर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बजाय	बजाय	PSP:?		adv				
+लैंप	लैंप	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पड़ताल	पड़ताल	NN		unk				
+करती	कर	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+बैंक	बैंक	XC	0	n	m	sg	3	d
+कर्मी	कर्मी	XC		adj	f	any		any
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+अंगुली	अंगुली	NN	0	n	f	sg	3	d
+गीली	गीली	JJ		adj	f	any		any
+कर	कर	VM	0	v	any	any	any	
+करते	कर	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+सीटीएस	सीटीएस	NN		unk				
+प्रणाली	प्रणाली	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+चेक	चेक	VM	0	n	m	sg	3	d
+सुरक्षा	सुरक्षा	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+विशेष	विशेष	JJ	0	n	m	sg	3	d
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+जरूरत	जरूरत	NN		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+स्कैनर	स्कैनर	NN		unk				
+में	में	PSP		psp				
+ही	ही	RP		adv				
+यह	यह	DEM	0	pn	any	sg	3	d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+क्लोन	क्लोन	XC		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+रिजेक्ट	रिजेक्ट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दे	दे	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+हमारे	हमारे	PRP		unk				
+लिए	ले	PSP	या	v	m	pl	any	
+चिंता	चिंता	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+विषय	विषय	NN	0	n	m	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+चेक	चेक	NNP	0	n	m	sg	3	d
+क्लोन	क्लोन	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+वालों	वाला	PSP	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+बैंकों	बैंक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+इतने	इतना	QF		adj	m	sg		o
+गोपनीय	गोपनीय	JJ		adj	any	any		any
+मैटीरियल	मैटीरियल	NN		unk				
+कैसे	कैसे	WQ		adv				
+पहुंच	पहुंच	VM		unk				
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+कर्मचारी	कर्मचारी	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जान	जान	VM	0	v	any	any	any	
+पाना	पा	VAUX	ना	v	m	sg	any	
+मुश्किल	मुश्किल	JJ	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+चेक	चेक	VM	0	n	m	sg	3	d
+असली	असली	JJ		adj	f	any		any
+या	या	CC		avy				
+है	है	VM	है	v	any	sg	2	
+नकली	नकली	JJ		adj	f	any		any
+.	.	SYM		punc				
+</s>
+<s>
+बैंक	बैंक	NN	0	n	m	sg	3	d
+कर्मचारी	कर्मचारी	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+संदेह	संदेह	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+दृष्टि	दृष्टि	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+देखने	देख	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+पहले	पहले	NST		adv				
+पूरी	पूरी	JJ	0	n	f	sg	3	d
+पड़ताल	पड़ताल	NN		unk				
+होनी	हो	VM	ना	v	f	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,63 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सूत्र	सूत्र	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+जंदाहा	जंदाहा	NN		unk				
+:	:	SYM		punc				
+जंदाहा	जंदाहा	JJ		unk				
+बाजार	बाजार	NN	0	n	m	sg	3	d
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+उमेश	उमेश	XC		unk				
+ड्राई	ड्राई	XC		unk				
+क्लीनर्स	क्लीनर्स	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आवासीय	आवासीय	JJ	0	n	m	sg	3	d
+परिसर	परिसर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एक	एक	QC		adj	any	any		any
+कमरे	कमरा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+शुक्रवार	शुक्रवार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+देर	देर	JJ		adv				
+रात	रात	NN	0	n	f	sg	3	d
+बिजली	बिजली	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+शॉर्ट	शॉर्ट	XC		unk				
+सर्किट	सर्किट	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+लगी	लग	VM	या	v	f	sg	any	
+आग	आग	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+लाखों	लाख	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+कपडे	कपडा	NN	0	n	m	pl	3	d
+व	व	CC		avy				
+सामान	सामान	NN	0	n	m	sg	3	d
+जलकर	जल	VM	कर	v	any	any	any	
+राख	राख	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+आग	आग	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तेज	तेज	JJ		adv				
+लपटें	लपट	NN	0	n	f	pl	3	d
+देख	देख	VM	0	v	any	any	any	
+वहां	वहाँ	PRP		adv				
+जुटे	जुट	JJ	एं	v	any	sg	2	
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+काफी	काफी	QF	0	n	f	sg	3	d
+मशक्कत	मशक्कत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+आग	आग	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+काबू	काबू	NN		unk				
+पाया	पा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

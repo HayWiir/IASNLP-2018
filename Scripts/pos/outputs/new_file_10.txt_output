@@ -1,0 +1,337 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+जेवर	जेवर	NN	0	n	m	sg	3	d
+:	:	SYM		punc				
+उतराखंड	उतराखंड	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रहने	रह	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+फोन	फोन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+सोने	सोना	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+खरीदने	खरीद	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+सौदा	सौदा	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+महंगा	महंगा	JJ		unk				
+पड	पड	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+आरोपियों	आरोपियों	NN		unk				
+ने	ने	PSP		psp				
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+बेचने	बेच	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बहाने	बहाना	PSP:?	0	n	m	pl	3	d
+पीडितों	पीडित	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+जेवर	जेवर	XC	0	n	m	sg	3	d
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बुलाकर	बुला	VM	कर	v	any	any	any	
+सवा	सवा	QF		adj	m	sg		d
+दो	दो	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लूट	लूट	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पीडितों	पीडित	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+शनिवार	शनिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+जेवर	जेवर	XC	0	n	m	sg	3	d
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+चार	चार	QC		adj	any	any		any
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+आरोपियों	आरोपियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तलाश	तलाश	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उतराखंड	उतराखंड	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+ऊधम	ऊधम	NN	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+नगर	नगर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कुंडा	कुंडा	NN	0	n	m	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+तौफीक	तौफीक	XC		unk				
+अहमद	अहमद	NNP		unk				
+ने	ने	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+दी	दे	VM	या	v	f	sg	any	
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+28	28	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+उसके	उसके	PRP		unk				
+मोबाइल	मोबाइल	JJ		unk				
+फोन	फोन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+जेवर	जेवर	XC	0	n	m	sg	3	d
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मेहंदीपुर	मेहंदीपुर	XC		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+रहने	रह	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+आसिफ	आसिफ	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+फोन	फोन	NN	0	n	m	sg	3	d
+आया	आ	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+फोन	फोन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+आसिफ	आसिफ	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उसे	उसे	PRP		unk				
+राजस्थान	राजस्थान	NNP		unk				
+में	में	PSP		psp				
+किले	किला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+खुदाई	खुदाई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+सोने	सोना	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+मिले	मिल	VM	एं	v	any	sg	2	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+वह	वह	PRP	0	pn	any	sg	3	d
+उन्हें	उन्हें	PRP		unk				
+बेचना	बेच	VM	ना	v	m	sg	any	
+चाहता	चाह	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+29	29	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+उसने	उसने	PRP		unk				
+मेंहदीपुर	मेंहदीपुर	JJ		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+पहुंचकर	पहुंचकर	VM		unk				
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+परख	परख	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+सवा	सवा	QF		adj	m	sg		d
+दो	दो	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+चार	चार	QC		adj	any	any		any
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सौदा	सौदा	NN	0	n	m	sg	3	d
+तय	तय	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	XC		adj	any	any		any
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+चाचा	चाचा	NN	0	n	m	sg	3	d
+याकूब	याकूब	NN		unk				
+व	व	CC		avy				
+फुफेरे	फुफेरा	JJ		adj	m	sg		o
+भाई	भाई	NN	0	n	m	sg	3	d
+शमीम	शमीम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+जेवर	जेवर	NN	0	n	m	sg	3	d
+कस्बा	कस्बा	NN	0	n	m	sg	3	d
+पहुंच	पहुंच	VM		unk				
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जहां	जहाँ	PRP		adv				
+आरोपी	आरोपी	JJ		unk				
+आसिफ	आसिफ	NN		unk				
+उन्हें	उन्हें	PRP		unk				
+दो	दो	QC	0	n	m	sg	3	d
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+बैठाकर	बैठा	VM	कर	v	any	any	any	
+मेंहदीपुर	मेंहदीपुर	JJ		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+मेंहदीपुर	मेंहदीपुर	JJ		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+जंगलों	जंगला	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+आरोपियों	आरोपियों	NN		unk				
+ने	ने	PSP		psp				
+जब	जब	PRP		adv				
+उन्हें	उन्हें	PRP		unk				
+सोने	सोना	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+बिस्कुट	बिस्कुट	NN	0	n	m	sg	3	d
+नकली	नकली	JJ		adj	f	any		any
+होने	हो	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+संदेह	संदेह	NN	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+खरीदने	खरीद	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+इन्कार	इन्कार	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+आसिफ	आसिफ	NN		unk				
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+साथियों	साथी	NN	0	n	m	pl	3	o
+सुबिया	सुबिया	NNP		unk				
+,	,	SYM		punc				
+नासिर	नासिर	NN		unk				
+व	व	CC		avy				
+धोलू	धोलू	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+मिलकर	मिल	VM	कर	v	any	any	any	
+उनसे	उनसे	PRP		unk				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+और	और	CC		adv				
+सवा	सवा	QF		adj	m	sg		d
+दो	दो	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लूट	लूट	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपियों	आरोपियों	NN		unk				
+ने	ने	PSP		psp				
+जान	जान	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मारने	मार	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+धमकी	धमकी	NN	0	n	f	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+वहां	वहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+भगा	भगा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जेवर	जेवर	XC	0	n	m	sg	3	d
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+प्रभारी	प्रभारी	JJ		adj	f	any		any
+राजपाल	राजपाल	XC	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+तोमर	तोमर	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+पीडितों	पीडित	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+आरोपियों	आरोपियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तलाश	तलाश	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

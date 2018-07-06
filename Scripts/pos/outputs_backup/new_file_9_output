@@ -1,0 +1,354 @@
+गोरखपुर	गोरखपुर	NNP		unk				
+:	:	SYM		punc				
+रसोई	रसोई	NN	0	n	f	sg	3	d
+गैस	गैस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमतों	कीमत	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+बार	बार	RP		adv				
+फिर	फिर	RB	0	v	any	any	any	
+बढ़ोत्तरी	बढ़ोत्तरी	JJ		n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	XC		adj	any	any		any
+दिसंबर	दिसंबर	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+नान	नान	XC	0	n	f	sg	3	d
+सब्सिडी	सब्सिडी	NN		unk				
+घरेलू	घरेलू	XC		adj	any	any		any
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडर	सिलेंडर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+803.50	803.50	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पहले	पहले	NST		adv				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+798.50	798.50	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+घरेलू	घरेलू	XC		adj	any	any		any
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडर	सिलेंडर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+पांच	पांच	QC		unk				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+इजाफा	इजाफा	NN		unk				
+हुआ	हो	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+19	19	QC		num				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कामर्शियल	कामर्शियल	XC		unk				
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडर	सिलेंडर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+आठ	आठ	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बढ़ोत्तरी	बढ़ोत्तरी	NN		n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+कामर्शियल	कामर्शियल	XC		unk				
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडर	सिलेंडर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+1411.50	1411.50	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+रसोई	रसोई	NN	0	n	f	sg	3	d
+गैस	गैस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमतों	कीमत	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+लगातार	लगातार	RB		adv				
+बढ़ोत्तरी	बढ़ोत्तरी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+उपभोक्ता	उपभोक्ता	NN	0	n	m	sg	3	d
+परेशान	परेशान	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+तीस	तीस	XC		adj	any	any		any
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रात	रात	NN	0	n	f	sg	3	d
+12	12	QC		num				
+बजे	बज	RP:?	एं	v	any	sg	2	
+एक	एक	QC		adj	any	any		any
+बार	बार	RP		adv				
+फिर	फिर	RB	0	v	any	any	any	
+इसकी	इसकी	PRP		pn	f	sg	3	d
+कीमतों	कीमत	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+इजाफा	इजाफा	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+हर	हर	QF		adj	any	any		any
+महीने	महीना	NN	0	n	m	pl	3	d
+कम	कम	QF		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+सब्सिडी	सब्सिडी	JJ		unk				
+घरेलू	घरेलू	XC		adj	any	any		any
+रसोई	रसोई	NN	0	n	f	sg	3	d
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडरों	सिलेंडरों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमतों	कीमत	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+लगातार	लगातार	RB		adv				
+इजाफा	इजाफा	NN		unk				
+होता	हो	VM	ता	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यदि	यदि	CC		avy				
+अगस्त	अगस्त	JJ	0	n	m	sg	3	d
+महीने	महीना	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बात	बात	NN	0	n	f	sg	3	d
+करें	कर	VM	एं	v	any	pl	1	
+तो	तो	CC		avy				
+14.2	14.2	QC		num				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+वजन	वजन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+घरेलू	घरेलू	XC		adj	any	any		any
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडर	सिलेंडर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+582	582	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+उपभोक्ता	उपभोक्ता	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बैंक	बैंक	NN	0	n	m	sg	3	d
+खाते	खा	VM	ता	v	m	pl	any	
+में	में	PSP		psp				
+100.89	100.89	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+सब्सिडी	सब्सिडी	NN		unk				
+भेजी	भेज	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+सब्सिडी	सब्सिडी	NN		unk				
+वाले	वाला	PSP	0	n	m	pl	3	d
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+481.11	481.11	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+पडती	पड	VM	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+नान	नान	NN	0	n	f	sg	3	d
+सब्सिडी	सब्सिडी	JJ		unk				
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+655.50	655.50	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सब्सिडी	सब्सिडी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+167.94	167.94	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+घटाने	घटा	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+इस	इस	DEM		pn	any	sg	3	o
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+487.56	487.56	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+पडती	पड	VM	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अक्टूबर	अक्टूबर	NNP		unk				
+में	में	PSP		psp				
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+705	705	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सब्सिडी	सब्सिडी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+213.58	213.58	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+घटाने	घटा	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+491.42	491.42	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+798.50	798.50	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+सब्सिडी	सब्सिडी	NN		unk				
+302.50	302.50	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मिल	मिल	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+सिलेंडर	सिलेंडर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+अब	अब	PRP		adv				
+496	496	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+चुकी	चुक	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+दिसंबर	दिसंबर	NNP	0	n	m	sg	3	d
+महीने	महीना	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	DEM		adv				
+बढ़	बढ़	NN		v	m	sg	any	
+रही	रह	VM	या	v	f	sg	any	
+कीमत	कीमत	NN	0	n	f	sg	3	d
+महीना	महीना	NN	0	n	m	sg	3	d
+रेट	रेट	NN	0	n	m	sg	3	d
+सब्सिडी	सब्सिडी	JJ		unk				
+सब्सिडी	सब्सिडी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+रेट	रेट	NN	0	n	m	sg	3	d
+अगस्त	अगस्त	JJ	0	n	m	sg	3	d
+582	582	QC		num				
+100.89	100.89	QC		num				
+481.11	481.11	QC		num				
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+655.50	655.50	QC		num				
+167.94	167.94	QC		num				
+487.56	487.56	QC		num				
+अक्टूबर	अक्टूबर	NNP		unk				
+705	705	QC		num				
+213.58	213.58	QC		num				
+491.42	491.42	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+798.50	798.50	QC		num				
+302.50	302.50	QC		num				
+496.00	496.00	QC		num				
+दिसंबर	दिसंबर	NNP	0	n	m	sg	3	d
+803.50	803.50	QC		num				
+303.50	303.50	QC		num				
+500.00	500.00	QC		num				
+19	19	QC		num				
+किग्रा	किग्रा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कामर्शियल	कामर्शियल	XC		unk				
+गैस	गैस	XC	0	n	f	sg	3	d
+सिलेंडर	सिलेंडर	NNP		unk				
+भी	भी	RP		adv				
+महंगे	महंगे	JJ		unk				
+अगस्त	अगस्त	NN	0	n	m	sg	3	d
+1067.50	1067.50	QC		num				
+सितंबर	सितंबर	NNP	0	n	m	sg	3	d
+1181.00	1181.00	QC		num				
+अक्टूबर	अक्टूबर	NNP		unk				
+1257.00	1257.00	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+1403.50	1403.50	QC		num				
+दिसंबर	दिसंबर	NNP	0	n	m	sg	3	d
+1411.50	1411.50	QC		num				

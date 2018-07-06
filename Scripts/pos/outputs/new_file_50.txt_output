@@ -1,0 +1,343 @@
+कैमूर	कैमूर	NN		unk				
+.	.	SYM		punc				
+</s>
+<s>
+विद्युत	विद्युत	XC		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+सोनहन	सोनहन	NNP		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एकौनी	एकौनी	NN		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+एक	एक	QC		adj	any	any		any
+धंधेबाज	धंधेबाज	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+चावल	चावल	NN	0	n	m	sg	3	d
+मिल	मिल	VM	0	v	any	any	any	
+पर	पर	PSP		psp				
+छापा	छाप	NN	या	v	m	sg	any	
+मारकर	मार	VM	कर	v	any	any	any	
+बिजली	बिजली	NN	0	n	f	sg	3	d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+पकडा	पकड	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+सिलसिले	सिलसिला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+विद्युत	विद्युत	XC		unk				
+आपूर्ति	आपूर्ति	XC	0	n	f	sg	3	d
+अवर	अवर	XC		adj	any	any		any
+प्रमंडल	प्रमंडल	XC	0	n	m	sg	3	d
+कुदरा	कुदरा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+सहायक	सहायक	JJ	0	n	m	sg	3	d
+विद्युत	विद्युत	XC		unk				
+अभियंता	अभियंता	NNP	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+सोनहन	सोनहन	NNP		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+में	में	PSP		psp				
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज	दर्ज	NN	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+एकौनी	एकौनी	NN		unk				
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+चावल	चावल	NN	0	n	m	sg	3	d
+मिल	मिल	VM	0	v	any	any	any	
+मालिक	मालिक	XC	0	n	m	sg	3	d
+राजेश	राजेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+राइस	राइस	NN		unk				
+मिल	मिल	VM	0	v	any	any	any	
+परिसर	परिसर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अवैध	अवैध	JJ		adj	any	any		any
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+40	40	QC		num				
+एचपी	एचपी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+मोटर	मोटर	NN	0	n	f	sg	3	d
+चलाकर	चला	VM	कर	v	any	any	any	
+विद्युत	विद्युत	XC		unk				
+ऊर्जा	ऊर्जा	XC	0	n	f	sg	3	d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+आरोप	आरोप	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+पूर्व	पूर्व	NN		adv				
+के	का	PSP	का	psp	m	sg		o
+बकाया	बकाया	VM		adj	m	sg		d
+समेत	समेत	JJ		psp				
+6	6	QC		num				
+लाख	लाख	QC		adj	any	any		any
+36	36	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+243	243	QC		num				
+रुपए	रुपया	NN	0	n	m	pl		d
+का	का	PSP	का	psp	m	sg		d
+अर्थदंड	अर्थदंड	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विद्युत	विद्युत	XC		unk				
+आपूर्ति	आपूर्ति	XC	0	n	f	sg	3	d
+अवर	अवर	XC		adj	any	any		any
+प्रमंडल	प्रमंडल	XC	0	n	m	sg	3	d
+कुदरा	कुदरा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+सहायक	सहायक	JJ	0	n	m	sg	3	d
+विद्युत	विद्युत	XC		unk				
+अभियंता	अभियंता	NNP	0	n	m	sg	3	d
+धूपेंद्र	धूपेंद्र	XC		unk				
+नाथ	नाथ	NNP	0	n	m	sg	3	d
+¨	¨	JJ		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+प्राथमिकी	प्राथमिकी	NN		unk				
+में	में	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+गुप्त	गुप्त	JJ		adj	any	any		any
+सूचना	सूचना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+विद्युत	विद्युत	XC		unk				
+आपूर्ति	आपूर्ति	NN	0	n	f	sg	3	d
+प्रमंडल	प्रमंडल	NN	0	n	m	sg	3	d
+भभुआ	भभुआ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कार्यपालक	कार्यपालक	XC	0	n	m	sg	3	d
+अभियंता	अभियंता	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नेतृत्व	नेतृत्व	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+विद्युत	विद्युत	XC		unk				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विरुद्ध	विरुद्ध	NN		psp				
+एक	एक	QC		adj	any	any		any
+छापामार	छापामार	JJ	0	n	m	sg	3	d
+दल	दल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+गठन	गठन	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+उनके	उनके	PRP		unk				
+अलावा	अलावा	PSP		adv				
+कनीय	कनीय	JJ		unk				
+अभियंता	अभियंता	NN	0	n	m	sg	3	d
+शिव	शिव	XC	0	n	m	sg	3	d
+शंकर	शंकर	XC	0	n	m	sg	3	d
+प्रसाद	प्रसाद	XC	0	n	m	sg	3	d
+(	(	SYM		punc				
+भभुआ	भभुआ	NN		unk				
+)	)	SYM		punc				
+,	,	SYM		punc				
+मनोज	मनोज	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+(	(	SYM		punc				
+कुदरा	कुदरा	NN		unk				
+)	)	SYM		punc				
+,	,	SYM		punc				
+अजीत	अजीत	XC		adj	any	any		any
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+(	(	SYM		punc				
+चांद	चांद	NN		unk				
+)	)	SYM		punc				
+,	,	SYM		punc				
+शाकिर	शाकिर	XC		unk				
+जफर	जफर	NN		unk				
+(	(	SYM		punc				
+भगवानपुर	भगवानपुर	NNP		unk				
+)	)	SYM		punc				
+,	,	SYM		punc				
+जितेंद्र	जितेंद्र	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+(	(	SYM		punc				
+भभुआ	भभुआ	XC		unk				
+शहर	शहर	NN	0	n	m	sg	3	d
+)	)	SYM		punc				
+,	,	SYM		punc				
+तथा	तथा	CC		adv				
+मानव	मानव	XC	0	n	m	sg	3	d
+बल	बल	NN	0	n	m	sg	3	d
+शामिल	शामिल	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+लोगों	लोग	NN	0	n	m	pl	3	o
+द्वारा	द्वारा	PSP		psp				
+गुप्त	गुप्त	JJ		adj	any	any		any
+सूचना	सूचना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+सोनहन	सोनहन	NNP		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एकौनी	एकौनी	NN		unk				
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+निवासी	निवासी	XC	0	n	f	sg	3	d
+राजेश	राजेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चावल	चावल	NN	0	n	m	sg	3	d
+मिल	मिल	VM	0	v	any	any	any	
+परिसर	परिसर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+छापा	छाप	NN	या	v	m	sg	any	
+मारा	मार	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+बिजली	बिजली	JJ	0	n	f	sg	3	d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+पकडा	पकड	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मिल	मिल	VM	0	v	any	any	any	
+मालिक	मालिक	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पहले	पहले	NST		adv				
+का	का	PSP	का	psp	m	sg		d
+एक	एक	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+7	7	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+407	407	QC		num				
+रुपए	रुपया	NN	0	n	m	pl		d
+बकाया	बकाया	VM		adj	m	sg		d
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जबकि	जबकि	CC		avy				
+विद्युत	विद्युत	XC		unk				
+ऊर्जा	ऊर्जा	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+5	5	QC		num				
+लाख	लाख	QC		adj	any	any		any
+28	28	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+836	836	QC		num				
+रुपए	रुपया	NN	0	n	m	pl		d
+का	का	PSP	का	psp	m	sg		d
+जुर्माना	जुर्माना	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मिल	मिल	VM	0	v	any	any	any	
+मालिक	मालिक	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+कुल	कुल	QF		adj	any	any		any
+मिलाकर	मिला	VM	कर	v	any	any	any	
+6	6	QC		num				
+लाख	लाख	QC		adj	any	any		any
+36	36	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+243	243	QC		num				
+रुपए	रुपया	NN	0	n	m	pl		d
+की	का	PSP	का	psp	f	sg		d
+क्षति	क्षति	NN	0	n	m	sg	3	d
+साउथ	साउथ	XC	0	n	m	sg	3	d
+बिहार	बिहार	NNP	0	n	m	sg	3	d
+पावर	पावर	NN	0	n	m	sg	3	d
+डिस्ट्रीब्यूशन	डिस्ट्रीब्यूशन	XC		unk				
+कंपनी	कंपनी	XC	0	n	f	sg	3	d
+लिमिटेड	लिमिटेड	NNP		unk				
+को	को	PSP		psp				
+पहुंचाई	पहुंचाई	VM		unk				
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+संबंध	संबंध	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कुदरा	कुदरा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सहायक	सहायक	JJ	0	n	m	sg	3	d
+विद्युत	विद्युत	XC		unk				
+अभियंता	अभियंता	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+विद्युत	विद्युत	XC		unk				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+विभाग	विभाग	NN	0	n	m	sg	3	d
+काफी	काफी	QF	0	n	f	sg	3	d
+गंभीर	गंभीर	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+तथा	तथा	CC		adv				
+उसके	उसके	PRP		unk				
+द्वारा	द्वारा	PSP		psp				
+इसको	इसको	PRP		pn	any	sg	3	o
+लेकर	ले	VM	कर	v	any	any	any	
+छापामारी	छापामारी	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कार्रवाई	कार्रवाई	NN		unk				
+लगातार	लगातार	RB		adv				
+की	कर	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,407 @@
+मुरादाबाद	मुरादाबाद	NN		unk				
+[	[	SYM		punc				
+प्रदीप	प्रदीप	XC	0	n	m	sg	3	d
+चौरसिया	चौरसिया	NNP		unk				
+]	]	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+सावधान	सावधान	NN		adj	any	any		any
+,	,	SYM		punc				
+मिस	मिस	XC	0	n	m	sg	3	d
+कॉल	कॉल	NN		unk				
+पर	पर	PSP		psp				
+बिना	बिन	NEG	या	v	m	sg	any	
+देखे	देख	VM	एं	v	any	sg	2	
+री-डायल	री-डायल	NN		unk				
+करना	कर	VM	ना	v	m	sg	any	
+महंगा	महंगा	JJ		unk				
+पड़	पड़	NN		unk				
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दूसरी	दूसरी	QO		unk				
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+कॉल	कॉल	NN		unk				
+रिसीव	रिसीव	NN		unk				
+होते	हो	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+आपके	आप	PRP	का	pn	m	pl	any	d
+मोबाइल	मोबाइल	JJ		unk				
+फोन	फोन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+बैलेंस	बैलेंस	NN		unk				
+उड़	उड़	NN		punc				
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दरअसल	दरअसल	CC		adv				
+ये	यह	PRP	0	pn	any	pl	3	d
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+अर्जित	अर्जित	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+एक	एक	QC		adj	any	any		any
+गोरखधंधा	गोरखधंधा	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिसके	जो	PRP	का	pn	m	pl	3	d
+जरिये	जरिये	PSP		psp				
+विश्व	विश्व	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+छोटे-छोटे	छोटे-छोटे	JJ		unk				
+देश	देश	NN	0	n	m	sg	3	d
+प्राइवेट	प्राइवेट	JJ		adj	any	any		any
+कंपनियों	कंपनी	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+सहारे	सहारे	JJ		psp				
+फायदा	फायदा	NN	0	n	m	sg	3	d
+उठा	उठा	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+ऐसी	ऐसी	DEM		adj	f	any		any
+कॉल	कॉल	NN		unk				
+मॉरिशस	मॉरिशस	NN		unk				
+से	से	PSP	0	v	any	any	any	
+ज्यादा	ज्यादा	QF		adj	m	sg		d
+आ	आ	VM		v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जहां	जहाँ	PRP		adv				
+कॉल	कॉल	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+प्रति	प्रति	RP:?		adv				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+60	60	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+दर	दर	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बैलेंस	बैलेंस	NN		unk				
+कटता	कट	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+अर्जित	अर्जित	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+छोटे-छोटे	छोटे-छोटे	JJ		unk				
+देश	देश	NN	0	n	m	sg	3	d
+दूसरे	दूसरा	JJ	0	n	m	pl	3	d
+देश	देश	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कंपनियों	कंपनी	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+आमंत्रित	आमंत्रित	JJ		adj	any	any		any
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+कंपनियों	कंपनी	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+विशेष	विशेष	JJ	0	n	m	sg	3	d
+सुविधा	सुविधा	NN	0	n	f	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+कई	कई	QF		adj	any	any		d
+ठगी	ठगी	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+कंपनियां	कंपनियां	NN		unk				
+भी	भी	RP		adv				
+पहुंच	पहुंच	VM		unk				
+जाती	जा	VAUX	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ये	यह	DEM	0	pn	any	pl	3	d
+उस	उस	DEM		unk				
+देश	देश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रशासन	प्रशासन	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+बताती	बता	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+एजेंसी	एजेंसी	NN	0	n	f	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+जैसे	जैसे	CC		adv				
+कई	कई	QF		adj	any	any		d
+देशों	देश	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+उनके	उनके	PRP		unk				
+पास	पास	NST		adv				
+कॉल	कॉल	NN		unk				
+आती	आ	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+आने	आ	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+कॉल	कॉल	NN		unk				
+से	से	PSP	0	v	any	any	any	
+विदेशी	विदेशी	JJ		adj	any	any		any
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+ऐसी	ऐसी	DEM		adj	f	any		any
+कुछ	कुछ	QF		adj	any	any		d
+कंपनियों	कंपनी	NN	0	n	f	pl	3	o
+ने	ने	PSP		psp				
+मॉरिशस	मॉरिशस	NN		unk				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+करार	करार	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+जैसे	जैसे	CC		adv				
+अन्य	अन्य	JJ		adj	any	any		any
+देशों	देश	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+आने	आ	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+कॉल	कॉल	NN		unk				
+से	से	PSP	0	v	any	any	any	
+मिलने	मिल	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+20	20	QC		num				
+फीसद	फीसद	NN		unk				
+मॉरिशस	मॉरिशस	NN		unk				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+और	और	CC		adv				
+80	80	QC		num				
+फीसद	फीसद	NN		unk				
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+मिलता	मिल	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मॉरिशस	मॉरिशस	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+आइएसडी	आइएसडी	JJ		unk				
+रेट	रेट	NN	0	n	m	sg	3	d
+60	60	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रति	प्रति	PSP		adv				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+समयानुसार	समयानुसार	NN		unk				
+आधी	आधी	JJ		unk				
+रात	रात	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+जब	जब	PRP		adv				
+लोग	लोग	NN	0	n	m	sg	3	d
+गहरी	गहरी	JJ		adj	f	any		any
+नींद	नींद	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+तब	तब	PRP		adv				
+ये	यह	DEM	0	pn	any	pl	3	d
+कंपनियां	कंपनियां	NN		unk				
+मोबाइल	मोबाइल	NN		unk				
+पर	पर	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+बार	बार	RP		adv				
+मिस	मिस	XC	0	n	m	sg	3	d
+कॉल	कॉल	NN		unk				
+करती	कर	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+देश	देश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अधिकांश	अधिकांश	JJ		adj	any	any		any
+मोबाइल	मोबाइल	JJ		unk				
+उपभोक्ताओं	उपभोक्ता	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+प्री-पेड	प्री-पेड	NN		unk				
+कनेक्शन	कनेक्शन	NN		unk				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+आइएसडी	आइएसडी	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+सुविधा	सुविधा	NN	0	n	f	sg	3	d
+स्वत	स्वत	NN		unk				
+:	:	SYM		punc				
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+लोग	लोग	NN	0	n	m	sg	3	d
+कॉल	कॉल	NN		unk				
+को	को	PSP		psp				
+गंभीरता	गंभीरता	NN		unk				
+से	से	PSP	0	v	any	any	any	
+लेते	ले	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+बिना	बिन	NEG	या	v	m	sg	any	
+देखे	देख	VM	एं	v	any	sg	2	
+ही	ही	RP		adv				
+मिस	मिस	DEM	0	n	m	sg	3	d
+कॉल	कॉल	NN		unk				
+वाले	वाला	PSP	0	n	m	pl	3	d
+नंबर	नंबर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कॉल	कॉल	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+देते	दे	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+कॉल	कॉल	NN		unk				
+रिसीव	रिसीव	NN		unk				
+होते	हो	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+60	60	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+कट	कट	VM	0	v	any	any	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+कॉल	कॉल	NN		unk				
+प्लस	प्लस	NN		unk				
+960	960	QC		num				
+के	का	PSP	का	psp	m	sg		o
+नंबर	नंबर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+शुरू	शुरू	NN		avy				
+होती	हो	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+आती	आ	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वालों	वाला	PSP	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+कॉल	कॉल	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+होती	हो	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसलिए	इसलिये	CC		avy				
+मॉरिशस	मॉरिशस	NN		unk				
+में	में	PSP		psp				
+काम	काम	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+कर	कर	VM	0	v	any	any	any	
+पाते	पा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+लेकिन	लेकिन	CC		avy				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+बनाकर	बनाकर	VM	0	n	m	sg	3	d
+संचार	संचार	XC	0	n	m	sg	3	d
+मंत्रालय	मंत्रालय	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+भेजी	भेज	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+राम	राम	XC		punc				
+शब्द	शब्द	XC		punc				
+यादव	यादव	NNP		punc				
+,	,	SYM		punc				
+प्रधान	प्रधान	JJ	0	n	m	sg	3	d
+महाप्रबंधक	महाप्रबंधक	NN		unk				
+,	,	SYM		punc				
+बीएसएनएल	बीएसएनएल	NNP		unk				

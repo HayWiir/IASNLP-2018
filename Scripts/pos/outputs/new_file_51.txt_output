@@ -1,0 +1,242 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+तोशाम	तोशाम	NN		unk				
+:	:	SYM		punc				
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गांव	गाँव	NN	0	n	m	sg		d
+सुंगरपुर	सुंगरपुर	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+समीप	समीप	NST		adv				
+स्विफ्ट	स्विफ्ट	XC		unk				
+गाडी	गाडी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+सवार	सवार	JJ	0	n	m	sg	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+ट्रैक्टर	ट्रैक्टर	XC	0	n	m	sg	3	d
+चालक	चालक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+तीन	तीन	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+छीन	छीन	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+ट्रैक्टर	ट्रैक्टर	XC	0	n	m	sg	3	d
+चालक	चालक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+घटना	घटना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+तोशाम	तोशाम	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्जकर	दर्जकर	VM		unk				
+कार्यवाही	कार्यवाही	NN	0	n	f	sg	3	d
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+दी	दे	VM	या	v	f	sg	any	
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+गांव	गाँव	NN	0	n	m	sg		d
+ढाणी	ढाणी	JJ		unk				
+माहू	माहू	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+सुमेर	सुमेर	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+सुंगरपुर	सुंगरपुर	JJ		unk				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+जगदीश	जगदीश	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मुर्गी	मुर्गी	NN	0	n	f	sg	3	d
+फार्म	फार्म	NN		unk				
+से	से	PSP	0	v	any	any	any	
+तीन	तीन	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+ढाणी	ढाणी	JJ		unk				
+माहू	माहू	NN		unk				
+जा	जा	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मुर्गी	मुर्गी	NN	0	n	f	sg	3	d
+फार्म	फार्म	XC		unk				
+मालिक	मालिक	XC	0	n	m	sg	3	d
+जगदीश	जगदीश	NNP		unk				
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+ढाई	ढाई	XC		adj	f	any		any
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+ढाणी	ढाणी	JJ		unk				
+माहू	माहू	NN		unk				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+पेट्रोल	पेट्रोल	JJ	0	n	m	sg	3	d
+पंप	पंप	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+देने	दे	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+,	,	SYM		punc				
+जिन्हें	जो	PRP	को	pn	any	pl	3	o
+ट्रैक्टर	ट्रैक्टर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+छतरी	छतरी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+लगी	लग	VM	या	v	f	sg	any	
+जेब	जेब	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+रखे	रख	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+और	और	CC		adv				
+50000	50000	QC		num				
+उसके	उसके	PRP		unk				
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+थे	था	PSP	था	v	m	pl	any	
+जो	जो	PRP		avy				
+उसने	उसने	PRP		unk				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+जेब	जेब	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+रखे	रख	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+मुर्गी	मुर्गी	NN	0	n	f	sg	3	d
+फार्म	फार्म	NN		unk				
+से	से	PSP	0	v	any	any	any	
+थोडी	थोडी	QF		adv				
+ही	ही	RP		adv				
+दूरी	दूरी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+चला	चला	VM	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+पीछे	पीछा	NST	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+स्विफ्ट	स्विफ्ट	XC		unk				
+डिजायर	डिजायर	XC		unk				
+कार	कार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+साइड	साइड	NN		unk				
+मांगी	मांगी	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+उसने	उसने	PRP		unk				
+साइड	साइड	NN		unk				
+दी	दे	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+कार	कार	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+सवार	सवार	JJ	0	n	m	sg	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+व्यक्तियों	व्यक्ति	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+कार	कार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+उसके	उसके	PRP		unk				
+ट्रैक्टर	ट्रैक्टर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आगे	आगा	NST	0	n	m	pl	3	d
+लगा	लगा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+और	और	CC		adv				
+उसके	उसके	PRP		unk				
+साथ	साथ	NST		adv				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+व	व	CC		avy				
+उसके	उसके	PRP		unk				
+पास	पास	NST		adv				
+रखे	रख	VM	एं	v	any	sg	2	
+तीन	तीन	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+छीनकर	छीन	VM	कर	v	any	any	any	
+ढाणी	ढाणी	JJ		unk				
+माहू	माहू	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तरफ	तरफ	NST		adv				
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+तोशाम	तोशाम	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	VM	0	n	m	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

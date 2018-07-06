@@ -1,0 +1,501 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+हाथरस	हाथरस	NN		unk				
+:	:	SYM		punc				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+माह	माह	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+समापन	समापन	NN	0	n	m	sg	3	d
+बीएलएल	बीएलएल	XC		unk				
+इंटरनेशन	इंटरनेशन	XC		unk				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आयोजित	आयोजित	JJ		adj	any	any		any
+सेमिनार	सेमिनार	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+सेमिनार	सेमिनार	NN		unk				
+में	में	PSP		psp				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+बेहतरीन	बेहतरीन	JJ	0	n	m	sg	3	d
+कार्यक्रम	कार्यक्रम	NN	0	n	m	sg	3	d
+प्रस्तुत	प्रस्तुत	JJ		adj	any	any		any
+किए	कर	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+नियमों	नियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+व	व	CC		avy				
+दूसरों	दूसरा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+जागरूक	जागरूक	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+शपथ	शपथ	NN	0	n	f	sg	3	d
+ली	ले	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+कार्यक्रम	कार्यक्रम	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+शुभारंभ	शुभारंभ	NN	0	n	m	sg	3	d
+एसपी	एसपी	NN		unk				
+सुशील	सुशील	JJ	0	n	m	sg	3	d
+घुले	घुल	VM	एं	v	any	sg	2	
+,	,	SYM		punc				
+एएसपी	एएसपी	NN		unk				
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+अर	अर	XC		unk				
+¨	¨	XC		unk				
+वद	वद	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+विशेषज्ञ	विशेषज्ञ	NN	0	n	m	sg	3	d
+अशोक	अशोक	XC		adj	any	any		any
+कपूर	कपूर	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यातायात	यातायात	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रति	प्रति	PSP		adv				
+जागरूक	जागरूक	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+नाटक	नाटक	NN	0	n	m	sg	3	d
+प्रस्तुत	प्रस्तुत	JJ		adj	any	any		any
+किए	कर	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पें	पें	PSP		unk				
+¨	¨	JJ		unk				
+टग	टग	NN		unk				
+प्रतियोगिता	प्रतियोगिता	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+पावर	पावर	XC	0	n	m	sg	3	d
+प्वाइंट	प्वाइंट	XC		unk				
+प्रजेंटेशन	प्रजेंटेशन	NN		unk				
+भी	भी	RP		adv				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सभी	सभी	QF	0	n	m	sg	3	d
+कार्यक्रमों	कार्यक्रम	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उत्साह	उत्साह	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+बढ़-चढ़कर	बढ़-चढ़कर	XC		v	m	sg	any	
+भाग	भाग	NN	0	v	any	any	any	
+लिया	ले	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अशोक	अशोक	XC		adj	any	any		any
+कपूर	कपूर	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+प्रोजेक्टर	प्रोजेक्टर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जरिए	जरिये	PSP		psp				
+लघु	लघु	JJ	0	n	m	sg	3	d
+फिल्म	फिल्म	NN	0	n	f	sg	3	d
+दिखाई	दिखा	VM	या	v	f	sg	any	
+तथा	तथा	CC		adv				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+नियमों	नियम	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+समझाया	समझा	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+सडकों	सडक	NN	0	n	f	pl	3	o
+पर	पर	PSP		psp				
+किस	किस	WQ		unk				
+कदर	कदर	NN	0	n	m	sg	3	d
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+बोझ	बोझ	NN	0	n	m	sg	3	d
+बढ़	बढ़	NN		v	m	sg	any	
+रहा	रह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तथा	तथा	CC		adv				
+हमारी	हमारी	PRP		unk				
+छोटी-छोटी	छोटी-छोटी	JJ		unk				
+लापरवाही	लापरवाही	NN	0	n	f	sg	3	d
+किस	किस	WQ		unk				
+कदर	कदर	NN	0	n	m	sg	3	d
+देश	देश	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+नुकसान	नुकसान	NN	0	n	m	sg	3	d
+पहुंचा	पहुंचा	VM		unk				
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+लापरवाहियों	लापरवाहियों	NN		unk				
+को	को	PSP		psp				
+दूर	दूर	NST		adv				
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+अपील	अपील	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+एसपी	एसपी	NN		unk				
+सुशील	सुशील	JJ	0	n	m	sg	3	d
+घुले	घुल	VM	एं	v	any	sg	2	
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+आयोजन	आयोजन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बीएलएस	बीएलएस	XC		unk				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+आभार	आभार	NN	0	n	m	sg	3	d
+व्यक्त	व्यक्त	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+छात्र-छात्राओं	छात्र-छात्राओं	NN		unk				
+से	से	PSP	0	v	any	any	any	
+अपील	अपील	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+कि	कि	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+जब	जब	PRP		adv				
+भी	भी	RP		adv				
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+निकलें	निकल	VM	एं	v	any	pl	1	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+नियमों	नियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करें	कर	VM	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+साथ	साथ	NST		adv				
+में	में	PSP		psp				
+अभिभावक	अभिभावक	JJ	0	n	m	sg	3	d
+हों	ह	VM	0	n	m	pl	3	o
+तो	तो	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+भी	भी	RP		adv				
+नियमों	नियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+कहें	कह	VM	एं	v	any	pl	1	
+,	,	SYM		punc				
+जिससे	जो	PRP	से	pn	any	sg	3	o
+सभी	सभी	QF	0	n	m	sg	3	d
+सुरक्षित	सुरक्षित	JJ	0	n	m	sg	3	d
+रह	रह	VM	0	v	any	any	any	
+सकें	सक	VAUX	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+लापरवाही	लापरवाही	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कई	कई	QF		adj	any	any		d
+की	का	PSP	का	psp	f	sg		d
+¨	¨	JJ		unk				
+जदगी	जदगी	NN		unk				
+खतरे	खतरा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+पड	पड	VM	0	v	any	any	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एएसपी	एएसपी	NN		unk				
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+अर	अर	XC		unk				
+¨	¨	XC		unk				
+वद	वद	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+भी	भी	RP		adv				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+नियमों	नियम	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+संबोधित	संबोधित	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अंत	अंत	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कार्यक्रम	कार्यक्रम	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उपस्थित	उपस्थित	JJ		adj	any	any		any
+सभी	सभी	QF	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+नियमों	नियम	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+शपथ	शपथ	NN	0	n	f	sg	3	d
+ली	ले	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+प्रधानाचार्या	प्रधानाचार्या	NN		unk				
+ने	ने	PSP		psp				
+सभी	सभी	QF	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+आभार	आभार	NN	0	n	m	sg	3	d
+व्यक्त	व्यक्त	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+टीएसआई	टीएसआई	NN		unk				
+शौर्य	शौर्य	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+एसओ	एसओ	XC		unk				
+चंदपा	चंदपा	NN		unk				
+विनोद	विनोद	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+मौजूद	मौजूद	JJ		adj	any	any		any
+रहे	रह	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+महीने	महीना	NN	0	n	m	pl	3	d
+भर	भर	RP	0	v	any	any	any	
+युद्ध	युद्ध	NN	0	n	m	sg	3	d
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+चला	चला	VM	0	v	any	any	any	
+चे	चे	VAUX		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+हाथरस	हाथरस	XC		unk				
+:	:	SYM		punc				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+माह	माह	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अंतर्गत	अंतर्गत	PSP:?		adj	any	any		any
+युद्ध	युद्ध	XC	0	n	m	sg	3	d
+स्तर	स्तर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP		adv				
+अब	अब	PRP		adv				
+हर	हर	QF		adj	any	any		any
+बुधवार	बुधवार	NN		unk				
+को	को	PSP		psp				
+सीट	सीट	NN	0	n	f	sg	3	d
+बेल्ट	बेल्ट	NN		unk				
+व	व	CC		avy				
+हेलमेट	हेलमेट	NN	0	n	m	sg	3	d
+दिवस	दिवस	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+भी	भी	RP		adv				
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+चुकी	चुक	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+महीने	महीना	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+1,357	1,357	QC		num				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+चालान	चालान	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+तथा	तथा	CC		adv				
+इनसे	इनसे	PRP		pn	any	pl	3	o
+7,65	7,65	QC		num				
+,000	,000	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वसूले	वसूल	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+महीने	महीना	NN	0	n	m	pl	3	d
+90	90	QC		num				
+वाहनों	वाहन	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+रिफ्लेक्टर	रिफ्लेक्टर	NN		unk				
+लगवाए	लगवा	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+स्कूल-कॉलेजों	स्कूल-कॉलेजों	NN		unk				
+में	में	PSP		psp				
+30	30	QC		num				
+गोष्ठियों	गोष्ठी	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+आयोजन	आयोजन	NN	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+भी	भी	RP		adv				
+चे	चे	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+ट्रैफिक	ट्रैफिक	JJ		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+रिफ्लेक्टर	रिफ्लेक्टर	NN		unk				
+लगवाए	लगवा	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+टीएसआई	टीएसआई	NN		unk				
+पहले	पहले	NST		adv				
+व	व	CC		avy				
+चंदपा	चंदपा	NN		unk				
+दूसरे	दूसरा	PRP	0	n	m	pl	3	d
+स्थान	स्थान	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+यातायात	यातायात	JJ	0	n	m	sg	3	d
+माह	माह	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अंतर्गत	अंतर्गत	PSP:?		adj	any	any		any
+कार्रवाई	कार्रवाई	NN		unk				
+व	व	CC		avy				
+जागरूकता	जागरूकता	NN	0	n	f	sg	3	d
+कार्यक्रमों	कार्यक्रम	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+टीएसआई	टीएसआई	NN		unk				
+शौर्य	शौर्य	JJ	0	n	m	sg	3	d
+कुमार	कुमार	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+उनकी	उनकी	PRP		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+पहले	पहले	NST		adv				
+स्थान	स्थान	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+रही	रह	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+एसओ	एसओ	XC		unk				
+चंदपा	चंदपा	NN		unk				
+विनोद	विनोद	NN	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+उनकी	उनकी	PRP		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+दूसरे	दूसरा	JJ	0	n	m	pl	3	d
+तथा	तथा	CC		adv				
+एसएचओ	एसएचओ	XC		unk				
+सासनी	सासनी	XC		unk				
+प्रदीप	प्रदीप	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+उनकी	उनकी	PRP		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+तीसरे	तीसरा	QO	0	n	m	pl	3	d
+स्थान	स्थान	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+रही	रह	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+एसपी	एसपी	XC		unk				
+सुशील	सुशील	XC	0	n	m	sg	3	d
+घुले	घुल	NN	एं	v	any	sg	2	
+ने	ने	PSP		psp				
+तीनों	तीन	QC	0	n	m	pl	3	o
+को	को	PSP		psp				
+प्रशस्ति	प्रशस्ति	NN	0	n	f	sg	3	d
+पत्र	पत्र	NN	0	n	m	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+सम्मानित	सम्मानित	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

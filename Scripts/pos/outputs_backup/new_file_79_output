@@ -1,0 +1,169 @@
+लालगंज	लालगंज	NN		unk				
+(	(	SYM		punc				
+मीरजापुर	मीरजापुर	NN		punc				
+)	)	SYM		punc				
+:	:	SYM		punc				
+स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कुलहुआ	कुलहुआ	JJ		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+में	में	PSP		psp				
+रविवार	रविवार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाम	शाम	NN	0	n	f	sg	3	d
+चार	चार	QC		adj	any	any		any
+बजे	बज	RP:?	एं	v	any	sg	2	
+अबूझहाल	अबूझहाल	NN		unk				
+में	में	PSP		psp				
+रिहायशी	रिहायशी	JJ	0	n	f	sg	3	d
+मडहा	मडहा	NN		unk				
+में	में	PSP		psp				
+आग	आग	NN	0	n	f	sg	3	d
+लग	लग	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+हादसे	हादसा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+हजारों	हजारा	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+अनाज	अनाज	NN	0	n	m	sg	3	d
+तथा	तथा	CC		adv				
+¨	¨	NN		unk				
+सचाई	सचाई	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+उपकरण	उपकरण	NN	0	n	m	sg	3	d
+जलकर	जल	VM	कर	v	any	any	any	
+राख	राख	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+ग्रामीणों	ग्रामीण	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+एक	एक	QC		adj	any	any		any
+घंटे	घंटा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+अथक	अथक	JJ		adj	any	any		any
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+आग	आग	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+काबू	काबू	NN		unk				
+पाया	पा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+हरिशंकर	हरिशंकर	VM		unk				
+का	का	PSP	का	psp	m	sg		d
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+परिवार	परिवार	NN	0	n	m	sg	3	d
+सुबह	सुबह	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+खेत	खेत	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+काम	काम	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+बीच	बीच	NST		psp				
+शाम	शाम	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+उनके	उनके	PRP		unk				
+रिहायशी	रिहायशी	NN	0	n	f	sg	3	d
+मडहा	मडहा	NN		unk				
+में	में	PSP		psp				
+आग	आग	NN	0	n	f	sg	3	d
+लग	लग	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+होते	हो	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+में	में	PSP		psp				
+हडकंप	हडकंप	NN		unk				
+मच	मच	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+तक	तक	RP		avy				
+लोग	लोग	NN	0	n	m	sg	3	d
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पहुंचकर	पहुंचकर	VM		unk				
+आग	आग	NN	0	n	f	sg	3	d
+बुझाने	बुझा	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+तब	तब	PRP		adv				
+तक	तक	RP		avy				
+आग	आग	NN	0	n	f	sg	3	d
+विकराल	विकराल	JJ		adj	any	any		any
+रुप	रुप	NN	0	n	m	sg	3	d
+धारण	धारण	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+चुका	चुका	VAUX	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+पांच	पांच	QC		unk				
+¨	¨	JJ		unk				
+क्वटल	क्वटल	NN		unk				
+गेहूं	गेहूँ	NN	0	n	m	sg		d
+,	,	SYM		punc				
+एक	एक	QC		adj	any	any		any
+¨	¨	JJ		unk				
+क्वटल	क्वटल	NN		unk				
+चना	चना	VM	0	n	m	sg	3	d
+,	,	SYM		punc				
+पंपिग	पंपिग	XC		unk				
+सेट	सेट	NN	0	n	m	sg	3	d
+मशीन	मशीन	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+तीस	तीस	QC		adj	any	any		any
+¨	¨	JJ		unk				
+क्वटल	क्वटल	NN		unk				
+भूसा	भूसा	NN	0	n	m	sg	3	d
+समेत	समेत	PSP		psp				
+हजारों	हजारा	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+घरेलू	घरेलू	JJ		adj	any	any		any
+सामान	सामान	NN	0	n	m	sg	3	d
+जलकर	जल	VM	कर	v	any	any	any	
+राख	राख	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>

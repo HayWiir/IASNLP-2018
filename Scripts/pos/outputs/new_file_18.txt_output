@@ -1,0 +1,200 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+गढ़शंकर	गढ़शंकर	XC		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+बीहडां	बीहडां	VM		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+एनआरआइ	एनआरआइ	NN		unk				
+डॉ	डॉ	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+चरनजीत	चरनजीत	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+परिवार	परिवार	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+सीनियर	सीनियर	JJ	0	n	m	sg	3	d
+सेकेंडरी	सेकेंडरी	JJ		unk				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+पक्खोवाल	पक्खोवाल	XC		unk				
+बीहडां	बीहडां	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बैठने	बैठ	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बैंच	बैंच	NN		unk				
+खरीदने	खरीद	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+30	30	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+¨	¨	JJ		unk				
+प्रसिपल	प्रसिपल	NN		unk				
+व	व	CC		avy				
+स्टाफ	स्टाफ	NN		unk				
+को	को	PSP		psp				
+भेंट	भेंट	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+उल्लेखनीय	उल्लेखनीय	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+डॉ	डॉ	XC		unk				
+.	.	SYM		punc				
+</s>
+<s>
+चरनजीत	चरनजीत	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+इसी	इसी	DEM		pn	any	sg	3	o
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मैरिट	मैरिट	NN		unk				
+में	में	PSP		psp				
+स्थान	स्थान	NN	0	n	m	sg	3	d
+हासिल	हासिल	VM	0	n	m	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+10	10	QC		num				
+वीं	वीं	XC		unk				
+कक्षा	कक्षा	NN	0	n	f	sg	3	d
+पास	पास	NST		adv				
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+समय	समय	NN	0	n	m	sg	3	d
+अमेरिका	अमेरिका	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+उच्च	उच्च	JJ		adj	any	any		any
+पद	पद	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+काम	काम	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+अवसर	अवसर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+डॉ	डॉ	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+चरनजीत	चरनजीत	JJ		unk				
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+बच्चे	बच्चा	NN	0	n	m	pl	3	d
+मेहनत	मेहनत	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+लगन	लगन	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पढ़ाई	पढ़ाई	NNP		unk				
+कर	कर	VM	0	v	any	any	any	
+जीवन	जीवन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उच्च	उच्च	JJ		adj	any	any		any
+मुकाम	मुकाम	NN	0	n	m	sg	3	d
+हासिल	हासिल	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+साथ-साथ	साथ-साथ	NST		adv				
+समाज	समाज	NN	0	n	m	sg	3	d
+सेवा	सेवा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+योगदान	योगदान	NN	0	n	m	sg	3	d
+डाल	डाल	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+¨	¨	JJ		unk				
+प्रसिपल	प्रसिपल	NN		unk				
+व	व	CC		avy				
+स्टाफ	स्टाफ	NN		unk				
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+सहायता	सहायता	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+धन्यवाद	धन्यवाद	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+अवसर	अवसर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+¨	¨	XC		unk				
+प्रसिपल	प्रसिपल	XC		unk				
+मंगत	मंगत	XC		unk				
+राम	राम	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+कौशल्या	कौशल्या	NN	0	n	f	sg	3	d
+देवी	देवी	XC	0	n	f	sg	3	d
+चेयरपर्सन	चेयरपर्सन	NNP		unk				
+,	,	SYM		punc				
+शाम	शाम	NN	0	n	f	sg	3	d
+सुंदर	सुन्दर	JJ		adj	any	any		any
+कपूर	कपूर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+राज	राज	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+द	द	XC		punc				
+¨	¨	XC		unk				
+वदर	वदर	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+वीना	वीना	XC		unk				
+रानी	रानी	NNP	0	n	f	sg	3	d
+,	,	SYM		punc				
+बलवीर	बलवीर	XC		unk				
+कौर	कौर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+परवीन	परवीन	NN		unk				
+,	,	SYM		punc				
+ज	ज	SYM		n	m	sg	3	d
+¨	¨	NN		unk				
+तदर	तदर	JJ		unk				
+कौर	कौर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+सोनिया	सोनिया	XC		unk				
+रानी	रानी	NNP	0	n	f	sg	3	d
+,	,	SYM		punc				
+अच्छर	अच्छर	NNP		punc				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+गुर	गुर	XC		unk				
+¨	¨	XC		unk				
+मदर	मदर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	NN	0	v	any	any	any	
+व	व	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+गण्यमान्य	गण्यमान्य	JJ		adj	any	any		any
+उपस्थित	उपस्थित	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>

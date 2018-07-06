@@ -1,0 +1,285 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+धौलाना	धौलाना	XC		unk				
+:	:	SYM		punc				
+पिलखुवा	पिलखुवा	JJ		unk				
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गांव	गाँव	NN	0	n	m	sg		d
+गालंद	गालंद	NN		unk				
+से	से	PSP	0	v	any	any	any	
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाम	शाम	NN	0	n	f	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दो	दो	QC	0	n	m	sg	3	d
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+युवक	युवक	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+अपहरण	अपहरण	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अपहरणकर्ताओं	अपहरणकर्ताओं	NN		unk				
+ने	ने	PSP		psp				
+युवक	युवक	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बस्ती	बस्ती	NN	0	n	f	sg	3	d
+बनोखर	बनोखर	NN		unk				
+में	में	PSP		psp				
+छिपा	छिपा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+मुक्त	मुक्त	JJ		adv				
+कराया	करा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मामला	मामला	NN	0	n	m	sg	3	d
+रुपयों	रुपया	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लेन	लेन	XC	0	n	m	sg	3	d
+देन	देन	NNP	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+तीनों	तीन	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+गिरफ्तार	गिरफ्तार	VM		adj	any	any		any
+कर	कर	VAUX	0	v	any	any	any	
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+गालंद	गालंद	XC		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+टीटू	टीटू	NN		unk				
+बीती	बीत	JJ	या	v	f	sg	any	
+शाम	शाम	NN	0	n	f	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+घर	घर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+ही	ही	RP		adv				
+मौजूद	मौजूद	JJ		adj	any	any		any
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उस	उस	DEM		unk				
+समय	समय	NN	0	n	m	sg	3	d
+उसके	उसके	PRP		unk				
+परिजन	परिजन	NN	0	n	m	sg	3	d
+घेर	घेर	VM	0	v	any	any	any	
+पर	पर	PSP		psp				
+गए	गए	VM		unk				
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+तभी	तभी	PRP		adv				
+वहां	वहाँ	PRP		adv				
+पर	पर	PSP		psp				
+धौलाना	धौलाना	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+यामीन	यामीन	NN		unk				
+व	व	CC		avy				
+नबाव	नबाव	NN		unk				
+पहुंचे	पहुंचे	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+उसका	उसका	PRP	0	v	any	any	any	
+फिल्मी	फिल्मी	NN		adj	f	any		any
+स्टाइल	स्टाइल	NN		unk				
+में	में	PSP		psp				
+अपहरण	अपहरण	NN	0	n	m	sg	3	d
+करके	कर	VM	कर	v	any	any	any	
+धौलाना	धौलाना	VM		unk				
+ले	ले	VAUX	0	v	any	any	any	
+आए	आ	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+परिजन	परिजन	NN	0	n	m	sg	3	d
+वापस	वापस	JJ		adj	any	any		any
+लौटे	लौट	VM	एं	v	any	sg	2	
+तो	तो	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+किसी	किसी	PRP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+आरोपी	आरोपी	JJ		unk				
+धौलाना	धौलाना	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बनोखर	बनोखर	XC		unk				
+मोहल्ले	मोहल्ला	NNP	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+रात	रात	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+समय	समय	NN	0	n	m	sg	3	d
+बनोखर	बनोखर	NN		unk				
+में	में	PSP		psp				
+दबिश	दबिश	NN		unk				
+देकर	दे	VM	कर	v	any	any	any	
+टीटू	टीटू	NN		unk				
+को	को	PSP		psp				
+सकुशल	सकुशल	JJ	0	n	m	sg	3	d
+बरामद	बरामद	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+आरोपियों	आरोपियों	NN		unk				
+व	व	CC		avy				
+टीटू	टीटू	NN		unk				
+को	को	PSP		psp				
+हिरासत	हिरासत	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+पूछताछ	पूछताछ	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तो	तो	RP		avy				
+पता	पता	JJ	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+इनके	इनके	PRP		pn	m	pl	3	d
+बीच	बीच	NST		psp				
+में	में	PSP		psp				
+रुपयों	रुपया	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लेन	लेन	XC	0	n	m	sg	3	d
+देन	देन	NNP	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिसके	जो	PRP	का	pn	m	pl	3	d
+चलते	चल	VM	ता	v	m	pl	any	
+आरोपी	आरोपी	NN		unk				
+उसे	उसे	PRP		unk				
+गालंद	गालंद	NN		unk				
+से	से	PSP	0	v	any	any	any	
+उठाकर	उठा	VM	कर	v	any	any	any	
+लाए	ला	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+टीटू	टीटू	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+परिजन	परिजन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+पैसे	पैसा	NN	0	n	m	pl	3	d
+टीटू	टीटू	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+नहीं	नहीं	NEG		adv				
+,	,	SYM		punc				
+बल्कि	बल्कि	CC		avy				
+उसके	उसके	PRP		unk				
+किसी	किसी	PRP		unk				
+दोस्त	दोस्त	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+संबंध	संबंध	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एसओ	एसओ	XC		unk				
+नरेंद्र	नरेंद्र	XC	0	n	m	sg	3	d
+शर्मा	शर्मा	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+लेन	लेन	XC	0	n	m	sg	3	d
+देन	देन	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

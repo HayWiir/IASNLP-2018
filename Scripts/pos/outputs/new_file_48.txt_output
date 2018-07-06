@@ -1,0 +1,237 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+टांडा	टांडा	XC		unk				
+उडमुड	उडमुड	XC		unk				
+दोआबा	दोआबा	NN		unk				
+किसान	किसान	WQ	0	n	m	sg	3	d
+संघर्ष	संघर्ष	NN	0	n	m	sg	3	d
+कमेटी	कमेटी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बैठक	बैठक	NN	0	n	m	sg	3	d
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+अध्यक्ष	अध्यक्ष	JJ	0	n	m	sg	3	d
+जंगवीर	जंगवीर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+चौहान	चौहान	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अगुआई	अगुआई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बैठक	बैठक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+किसानों	किसान	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+मांगों	मांगों	NN		unk				
+पर	पर	PSP		psp				
+विचार-विमर्श	विचार-विमर्श	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+पंजाब	पंजाब	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+गन्ने	गन्ना	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+किए	कर	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+10	10	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+इजाफे	इजाफे	NN		unk				
+को	को	PSP		psp				
+किसानों	किसान	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+एक	एक	QC		adj	any	any		any
+घटिया	घटिया	JJ		adj	m	sg		d
+मजाक	मजाक	NN	0	n	m	sg	3	d
+करार	करार	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+बैठक	बैठक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+किसानों	किसान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+अगर	अगर	CC		adv				
+पंजाब	पंजाब	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+गन्ने	गन्ना	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+350	350	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+नहीं	नहीं	NEG		adv				
+कर	कर	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+कम	कम	QF		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+कम	कम	QF		adj	any	any		any
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तर्ज	तर्ज	NN		unk				
+पर	पर	PSP		psp				
+25	25	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रति	प्रति	PSP		adv				
+¨	¨	NN		unk				
+क्वटल	क्वटल	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+बढ़ोतरी	बढ़ोतरी	JJ		unk				
+तो	तो	RP		avy				
+करती	कर	VM	ता	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जंगवीर	जंगवीर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+चौहान	चौहान	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+किसानों	किसान	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+ट्रैक्टर	ट्रैक्टर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+काले	काला	JJ		adj	m	sg		o
+झंडे	झंडा	NN	0	n	m	pl	3	d
+लगाकर	लगा	VM	कर	v	any	any	any	
+गन्ना	गन्ना	NN	0	n	m	sg	3	d
+मिल	मिल	VM	0	v	any	any	any	
+में	में	PSP		psp				
+जाने	जान	VM	एं	v	any	sg	2	
+की	का	PSP	का	psp	f	sg		d
+अपील	अपील	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+फैसले	फैसला	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+दोआबा	दोआबा	NN		unk				
+किसान	किसान	WQ	0	n	m	sg	3	d
+संघर्ष	संघर्ष	NN	0	n	m	sg	3	d
+कमेटी	कमेटी	VM	0	n	f	sg	3	d
+,	,	SYM		punc				
+पगडी	पगडी	NN		punc				
+संभल	संभल	VM		unk				
+जट्टा	जट्टा	VAUX		unk				
+लहर	लहर	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+सभी	सभी	QF	0	n	m	sg	3	d
+किसान	किसान	NN	0	n	m	sg	3	d
+जत्थेबंदियां	जत्थेबंदियां	NN		unk				
+मिलकर	मिल	VM	कर	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+तीखा	तीखा	JJ	0	n	m	sg	3	d
+संघर्ष	संघर्ष	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+मजबूर	मजबूर	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+पंजाब	पंजाब	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+ही	ही	RP		adv				
+जिम्मेदार	जिम्मेदार	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बैठक	बैठक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+जंगवीर	जंगवीर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+रणजीत	रणजीत	XC		unk				
+बाजवा	बाजवा	NNP		unk				
+,	,	SYM		punc				
+जरनैल	जरनैल	XC	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+अमरजीत	अमरजीत	JJ		unk				
+¨	¨	NN		unk				
+सह	सह	XC	0	v	any	any	any	
+कुराला	कुराला	NNP		unk				
+,	,	SYM		punc				
+मोहन	मोहन	XC		punc				
+¨	¨	XC		punc				
+सह	सह	XC		punc				
+हैप्पी	हैप्पी	NNP		punc				
+,	,	SYM		punc				
+अवतार	अवतार	NNP		punc				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+चीमा	चीमा	NNP		unk				
+,	,	SYM		punc				
+मलकीत	मलकीत	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+कुराला	कुराला	NNP		unk				
+,	,	SYM		punc				
+बलबीर	बलबीर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+प्रितपाल	प्रितपाल	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+रमेश	रमेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+बलबीर	बलबीर	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+बाजवा	बाजवा	NNP		unk				
+,	,	SYM		punc				
+परमजीत	परमजीत	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+सालापुर	सालापुर	NNP		unk				
+,	,	SYM		punc				
+जसपाल	जसपाल	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+बाबक	बाबक	NN		unk				
+,	,	SYM		punc				
+जुझार	जुझार	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+केशोपुर	केशोपुर	NNP		unk				
+,	,	SYM		punc				
+अमरजीत	अमरजीत	XC		unk				
+कुराला	कुराला	NNP		unk				
+आदि	आदि	RP	0	n	m	sg	3	d
+मौजूद	मौजूद	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>

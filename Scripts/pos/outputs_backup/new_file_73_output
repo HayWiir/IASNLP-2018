@@ -1,0 +1,190 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+बरेली	बरेली	NNP		unk				
+:	:	SYM		punc				
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मुखिया	मुखिया	NN	0	n	m	sg	3	d
+योगी	योगी	XC	0	n	m	sg	3	d
+आदित्यनाथ	आदित्यनाथ	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+शहर	शहर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+होने	हो	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बावजूद	बावजूद	PSP:?	0	n	m	sg	3	d
+महिला	महिला	NN	0	n	f	sg	3	d
+अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+स्टाफ	स्टाफ	NN		unk				
+हरकतों	हरकत	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+बाज	बाज	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+आया	आ	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+महिला	महिला	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बेटी	बेटी	NN	0	n	f	sg	3	d
+जन्मा	जन्मा	VM		unk				
+तो	तो	CC		avy				
+उससे	उससे	PRP		unk				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मांगने	मांगने	VM		unk				
+लगा	लगा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+कम	कम	QF		adj	any	any		any
+मिला	मिला	VM	0	v	any	any	any	
+तो	तो	CC		avy				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+फेंक	फेंक	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+संजय	संजय	XC	0	n	m	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मोहन	मोहन	XC	0	n	m	sg	3	d
+सब्जी	सब्जी	NN	0	n	f	sg	3	d
+बेचकर	बेच	VM	कर	v	any	any	any	
+परिवार	परिवार	NN	0	n	m	sg	3	d
+चलाते	चला	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+ममता	ममता	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+शनिवार	शनिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+जिला	जिला	JJ	0	v	any	any	any	
+अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भर्ती	भर्ती	NN	0	n	f	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+रविवार	रविवार	NN	0	n	m	sg	3	d
+तडके	तडका	PSP	0	n	m	pl	3	d
+ममता	ममता	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+बच्ची	बच्ची	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+जन्म	जन्म	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+स्टाफ	स्टाफ	NN		unk				
+उसे	उसे	PRP		unk				
+बार-बार	बार-बार	JJ		unk				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+परेशान	परेशान	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वे	वह	PRP	0	pn	any	pl	3	d
+दो	दो	QC	0	n	m	sg	3	d
+सौ	सौ	QC	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+तो	तो	CC		avy				
+स्टाफ	स्टाफ	NN		unk				
+पांच	पांच	QC		unk				
+सौ	सौ	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मांगने	मांगने	VM		unk				
+लगा	लगा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+दो	दो	QC	0	n	m	sg	3	d
+सौ	सौ	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वही	वही	PRP	0	n	f	sg	3	d
+फेंक	फेंक	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+मोहन	मोहन	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+देर	देर	NN		adv				
+बाद	बाद	NST		adv				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+फोन	फोन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+सीएमएस	सीएमएस	NN		unk				
+डॉ	डॉ	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+साधना	साधना	NN	0	n	f	sg	3	d
+सक्सेना	सक्सेना	NN		unk				
+से	से	PSP	0	v	any	any	any	
+की	कर	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+डॉक्टर	डॉक्टर	NN		unk				
+को	को	PSP		psp				
+फोन	फोन	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+मामला	मामला	NN	0	n	m	sg	3	d
+देखने	देख	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+तीमारदार	तीमारदार	NN		unk				
+से	से	PSP	0	v	any	any	any	
+लिखित	लिखित	JJ		adj	any	any		any
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सीएमएस	सीएमएस	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+मरीज	मरीज	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मांगने	मांगने	VM		unk				
+वालों	वाला	PSP	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

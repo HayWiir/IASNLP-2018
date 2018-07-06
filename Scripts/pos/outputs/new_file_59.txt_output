@@ -1,0 +1,276 @@
+डिप्टी	डिप्टी	XC	0	n	f	sg	3	d
+कमिश्नर-कम-प्रधान	कमिश्नर-कम-प्रधान	XC		unk				
+जिला	जिला	NNP	0	n	m	sg	3	d
+रेडक्रॉस	रेडक्रॉस	XC		unk				
+सोसायटी	सोसायटी	NNP		unk				
+विपुल	विपुल	JJ	0	n	m	sg	3	d
+उज्जवल	उज्जवल	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+नेतृत्व	नेतृत्व	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जिला	जिला	JJ	0	v	any	any	any	
+रेडक्रॉस	रेडक्रॉस	XC		unk				
+सोसायटी	सोसायटी	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+तरफ	तरफ	NST		adv				
+से	से	PSP	0	v	any	any	any	
+खोली	खोल	VM	या	v	f	sg	any	
+सांझी	सांझी	JJ		unk				
+रसोई	रसोई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+दानी	दानी	JJ	0	n	m	sg	3	d
+सज्जनों	सज्जन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+सहयोग	सहयोग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+सैकडों	सैकडा	QC	0	n	m	pl	3	o
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+रोजमर्रा	रोजमर्रा	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+सांझी	सांझी	JJ		unk				
+रसोई	रसोई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+केवल	केवल	RB		adv				
+10	10	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+दोपहर	दोपहर	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पौष्टिक	पौष्टिक	JJ		adj	any	any		any
+खाना	खाना	NN	0	n	m	sg	3	d
+खा	खा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+लडी	लडी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+आगे	आगा	NST	0	n	m	pl	3	d
+चलाते	चला	VM	ता	v	m	pl	any	
+आज	आज	NN		adv				
+दानी	दानी	JJ	0	n	m	sg	3	d
+सज्जन	सज्जन	NN	0	n	m	sg	3	d
+कमलजीत	कमलजीत	XC		unk				
+सेतिया	सेतिया	NNP		unk				
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+बेटे	बेटा	NN	0	n	m	pl	3	d
+अनमोल	अनमोल	JJ		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+जन्मदिन	जन्मदिन	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+खुशी	खुशी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+11	11	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+भेंट	भेंट	NN	0	n	f	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मौके	मौका	NN	0	n	m	pl	3	d
+सेतिया	सेतिया	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+धर्मपत्नी	धर्मपत्नी	NN	0	n	f	sg	3	d
+सुषमा	सुषमा	JJ	0	n	m	sg	3	d
+सेतिया	सेतिया	NN		unk				
+,	,	SYM		punc				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रेड	रेड	XC		unk				
+क्रास	क्रास	XC		unk				
+सोसायटी	सोसायटी	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+वाइस	वाइस	XC	0	n	m	sg	3	d
+चेयरमैन	चेयरमैन	XC	0	n	m	sg	3	d
+अविनाश	अविनाश	XC		unk				
+राय	राय	XC	0	n	f	sg	3	d
+खन्ना	खन्ना	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+उनकी	उनकी	PRP		unk				
+धर्मपत्नी	धर्मपत्नी	JJ	0	n	f	sg	3	d
+मीनाक्षी	मीनाक्षी	NN		unk				
+खन्ना	खन्ना	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+अश्विनी	अश्विनी	XC		unk				
+ओहरी	ओहरी	NNP		unk				
+,	,	SYM		punc				
+मनोज	मनोज	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+दीपक	दीपक	XC	0	n	m	sg	3	d
+शारदा	शारदा	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+रघबीर	रघबीर	XC		unk				
+बंटी	बंटी	NN		unk				
+,	,	SYM		punc				
+विजेश	विजेश	XC		unk				
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+कमल	कमल	XC	0	n	m	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+मुनीश	मुनीश	JJ		unk				
+सेतिया	सेतिया	NN		unk				
+और	और	CC		adv				
+रोहित	रोहित	JJ		adj	any	any		any
+शर्मा	शर्मा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+ओर	ओर	NST		adv				
+भी	भी	RP		adv				
+शख्सियत	शख्सियत	NN		unk				
+शामिल	शामिल	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+सांझी	सांझी	JJ		unk				
+रसोई	रसोई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+केक	केक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रस्म	रस्म	NN	0	n	f	sg	3	d
+अदा	अदा	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+उपरांत	उपरान्त	PSP		psp				
+कमलजीत	कमलजीत	XC		unk				
+सेतिया	सेतिया	NNP		unk				
+को	को	PSP		psp				
+एक	एक	QC		adj	any	any		any
+सम्मान	सम्मान	NN	0	n	m	sg	3	d
+चिह्न	चिह्न	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+अविनाश	अविनाश	XC		unk				
+राय	राय	XC	0	n	f	sg	3	d
+खन्ना	खन्ना	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+सचिव	सचिव	XC	0	n	m	sg	3	d
+जिला	जिला	NNP	0	n	m	sg	3	d
+रेडक्रास	रेडक्रास	XC		unk				
+सोसायटी	सोसायटी	NNP		unk				
+नरेश	नरेश	JJ	0	n	m	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तरफ	तरफ	NST		adv				
+से	से	PSP	0	v	any	any	any	
+सम्मानित	सम्मानित	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+रेड	रेड	XC		unk				
+क्रास	क्रास	XC		unk				
+सोसायटी	सोसायटी	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+वाइस	वाइस	XC	0	n	m	sg	3	d
+चेयरमैन	चेयरमैन	XC	0	n	m	sg	3	d
+अविनाश	अविनाश	XC		unk				
+राय	राय	XC	0	n	f	sg	3	d
+खन्ना	खन्ना	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जिला	जिला	JJ	0	v	any	any	any	
+रेडक्रास	रेडक्रास	XC		unk				
+सोसायटी	सोसायटी	XC		unk				
+होशियारपुर	होशियारपुर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+तरफ	तरफ	NST		adv				
+से	से	PSP	0	v	any	any	any	
+खोली	खोल	VM	या	v	f	sg	any	
+सांझी	सांझी	JJ		unk				
+रसोई	रसोई	NN	0	n	f	sg	3	d
+पंजाब	पंजाब	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+से	से	PSP	0	v	any	any	any	
+अग्रणी	अग्रणी	NN		adj	f	any		any
+रोल	रोल	JJ	0	n	m	sg	3	d
+अदा	अदा	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+खन्ना	खन्ना	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+प्रशंसा	प्रशंसा	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+यह	यह	DEM	0	pn	any	sg	3	d
+प्रोजेक्ट	प्रोजेक्ट	NN		unk				
+जरुरतमंद	जरुरतमंद	JJ		unk				
+व्यक्तियों	व्यक्ति	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+काफी	काफी	QF	0	n	f	sg	3	d
+सहायक	सहायक	NN	0	n	m	sg	3	d
+साबित	साबित	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+यहां	यहाँ	PRP		adv				
+जरुरतमंदों	जरुरतमंदों	NN		unk				
+को	को	PSP		psp				
+केवल	केवल	RB		adv				
+10	10	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+ही	ही	RP		adv				
+पेट	पेट	NN	0	n	m	sg	3	d
+भर	भर	RP	0	v	any	any	any	
+खाना	खाना	NN	0	n	m	sg	3	d
+मुहैय्या	मुहैय्या	JJ		unk				
+करवाया	करवा	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नरेश	नरेश	JJ	0	n	m	sg	3	d
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+सांझी	सांझी	JJ		unk				
+रसोई	रसोई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+योगदान	योगदान	NN	0	n	m	sg	3	d
+डालने	डाल	VM	ना	v	m	pl	any	
+और	और	CC		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+विशेष	विशेष	JJ	0	n	m	sg	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+बुक	बुक	JJ	0	n	m	sg	3	d
+करवाने	करवा	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जिला	जिला	XC	0	v	any	any	any	
+रेडक्रास	रेडक्रास	XC		unk				
+सोसायटी	सोसायटी	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+संपर्क	संपर्क	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

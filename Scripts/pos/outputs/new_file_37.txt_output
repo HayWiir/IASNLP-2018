@@ -1,0 +1,277 @@
+औरंगाबाद	औरंगाबाद	NNP		unk				
+:	:	SYM		punc				
+शहर	शहर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मालती	मालती	XC	0	n	f	sg	3	d
+कांप्लेक्स	कांप्लेक्स	NN		unk				
+में	में	PSP		psp				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+खोल	खोल	VM	0	v	any	any	any	
+इंडसवेयर	इंडसवेयर	XC		unk				
+इंडस्ट्रीज	इंडस्ट्रीज	XC		unk				
+नन	नन	XC		unk				
+बैं	बैं	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+कंपनी	कंपनी	NNP	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+आम	आम	JJ	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+करोडों	करोड	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+ठगी	ठगी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बुधवार	बुधवार	NN		unk				
+को	को	PSP		psp				
+फुटपाथी	फुटपाथी	NN		unk				
+संघ	संघ	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दिलीप	दिलीप	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+सामाजिक	सामाजिक	JJ		adj	any	any		any
+चेतना	चेतना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सुनिल	सुनिल	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+एसपी	एसपी	NN		unk				
+को	को	PSP		psp				
+आवेदन	आवेदन	NN	0	n	m	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दोनों	दोना	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+आवेदन	आवेदन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+एसपी	एसपी	NN		unk				
+ने	ने	PSP		psp				
+एसडीपीओ	एसडीपीओ	NNP		unk				
+को	को	PSP		psp				
+जांच	जांच	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सुनिल	सुनिल	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2012	2012	QC		num				
+में	में	PSP		psp				
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+शहर	शहर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कार्यालय	कार्यालय	NN	0	n	m	sg	3	d
+खोल	खोल	VM	0	v	any	any	any	
+पैसे	पैसा	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+लेन	लेन	NN	0	n	m	sg	3	d
+देन	देन	VM	0	n	f	sg	3	d
+शुरू	शुरू	NN		avy				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मजहरूल	मजहरूल	XC		unk				
+कादरी	कादरी	NN		unk				
+एवं	एवं	CC		avy				
+शकील	शकील	XC		adj	any	any		any
+खां	खाँ	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+शुरु	शुरु	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+कई	कई	QF		adj	any	any		d
+अभिकर्ता	अभिकर्ता	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+बहाली	बहाली	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ग्राहकों	ग्राहक	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+बचत	बचत	JJ	0	n	f	sg	3	d
+खाता	खा	VM	ता	v	m	sg	any	
+,	,	SYM		punc				
+आरडी	आरडी	NN		unk				
+,	,	SYM		punc				
+एमआइएस	एमआइएस	NN		unk				
+प्लान	प्लान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+अन्य	अन्य	JJ		adj	any	any		any
+प्लान	प्लान	NN	0	n	m	sg	3	d
+चलाकर	चला	VM	कर	v	any	any	any	
+पैसे	पैसा	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+जमा	जमा	NN	0	v	any	any	any	
+कराया	करा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+अरुणेश	अरुणेश	XC		unk				
+सीता	सीता	NNP	0	n	f	sg	3	d
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सीएमडी	सीएमडी	JJ		unk				
+बने	बन	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+यह	यह	PRP	0	pn	any	sg	3	d
+बताया	बता	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+कि	कि	CC		avy				
+हेड	हेड	XC	0	n	m	sg	3	d
+कार्यालय	कार्यालय	XC	0	n	m	sg	3	d
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लक्ष्मीनगर	लक्ष्मीनगर	NNP		unk				
+में	में	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+यहां	यहाँ	PRP		adv				
+के	का	PSP	का	psp	m	sg		o
+ग्राहकों	ग्राहक	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+करीब	करीब	RB		adj	any	any		any
+तीस	तीस	QC		adj	any	any		any
+करोड	करोड	NN	0	n	m	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+शहर	शहर	NN	0	n	m	sg	3	d
+छोड	छोड	VM	0	v	any	any	any	
+भाग	भाग	NN	0	v	any	any	any	
+जाने	जान	VM	एं	v	any	sg	2	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+सीएमडी	सीएमडी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+झांसा	झाँसा	NN	0	n	m	sg		d
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+कि	कि	CC		avy				
+जिनका	जो	PRP	का	pn	m	sg	3	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+जमा	जमा	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+सभी	सभी	QF	0	n	m	sg	3	d
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कंपनी	कंपनी	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+जमीन	जमीन	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सुनिल	सुनिल	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+आजतक	आजतक	NN		unk				
+एक	एक	QC		adj	any	any		any
+भी	भी	RP		adv				
+ग्राहकों	ग्राहक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+लौटाया	लौटा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सीएमडी	सीएमडी	JJ		unk				
+मोबाइल	मोबाइल	NN		unk				
+बंद	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+एसपी	एसपी	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज	दर्ज	NN	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपितों	आरोपितों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+गिरफ्तारी	गिरफ्तारी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+लगी	लग	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

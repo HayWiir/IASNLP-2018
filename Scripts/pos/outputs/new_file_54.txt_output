@@ -1,0 +1,400 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सूत्र	सूत्र	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+सासनी	सासनी	NN		unk				
+:	:	SYM		punc				
+बिजली	बिजली	NN	0	n	f	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+राजस्व	राजस्व	NN	0	n	m	sg	3	d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+जोर	जोर	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+तहत	तहत	JJ	0	n	m	sg	3	d
+बकायेदारों	बकायेदारों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कनेक्शन	कनेक्शन	NN		unk				
+काटे	काट	VM	एं	v	any	sg	2	
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+नए	नया	JJ		adj	m	sg		o
+कनेक्शन	कनेक्शन	NN		unk				
+भी	भी	RP		adv				
+दिए	दे	VM	या	v	m	pl	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+अफरा-तफरी	अफरा-तफरी	NN		unk				
+मची	मच	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बकायेदारों	बकायेदारों	NN		unk				
+ने	ने	PSP		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+से	से	PSP	0	v	any	any	any	
+बचने	बच	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+तार	तार	NN	0	n	m	sg	3	d
+उतार	उतार	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+राजस्व	राजस्व	XC	0	n	m	sg	3	d
+वसूली	वसूली	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+बिजली	बिजली	NN	0	n	f	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+बिजली	बिजली	JJ	0	n	f	sg	3	d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+रोकने	रोक	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+जोर	जोर	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हाल	हाल	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+में	में	PSP		psp				
+चीफ	चीफ	XC		adj	any	any		any
+इंजीनियर	इंजीनियर	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बैठक	बैठक	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+सभी	सभी	QF	0	n	m	sg	3	d
+को	को	PSP		psp				
+वसूली	वसूली	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+शत	शत	XC		adj	any	any		any
+प्रतिशत	प्रतिशत	NN	0	n	m	sg	3	d
+लक्ष्य	लक्ष्य	NN	0	n	m	sg	3	d
+हासिल	हासिल	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभियान	अभियान	NN	0	n	m	sg	3	d
+शुरू	शुरू	NN		avy				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अधिशासी	अधिशासी	XC		unk				
+अभियंता	अभियंता	NNP	0	n	m	sg	3	d
+एके	एके	PSP		unk				
+रुहेला	रुहेला	JJ		unk				
+के	का	PSP	का	psp	m	sg		o
+निर्देशन	निर्देशन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+अभियान	अभियान	NN	0	n	m	sg	3	d
+चलाया	चला	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+विभागीय	विभागीय	JJ	0	n	m	sg	3	d
+कर्मचारियों	कर्मचारी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+गली-मोहल्लों	गली-मोहल्लों	NN		n	m	pl	3	o
+में	में	PSP		psp				
+जाकर	जा	VM	कर	v	any	any	any	
+घर-घर	घर-घर	NN		unk				
+में	में	PSP		psp				
+बिजली	बिजली	NN	0	n	f	sg	3	d
+कनेक्शनों	कनेक्शनों	NN		unk				
+को	को	PSP		psp				
+चेक	चेक	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+कार्रवाई	कार्रवाई	NN		unk				
+से	से	PSP	0	v	any	any	any	
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+कस्बे	कस्बा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+अफरा-तफरी	अफरा-तफरी	JJ		unk				
+मच	मच	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जिन	जिन	DEM	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+कटिया	कटिया	NN		unk				
+डाल	डाल	VM	0	v	any	any	any	
+रखे	रख	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+,	,	SYM		punc				
+उन्होंने	उन्होंने	PRP		unk				
+कार्रवाई	कार्रवाई	NN		unk				
+से	से	PSP	0	v	any	any	any	
+बचने	बच	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+तार	तार	NN	0	n	m	sg	3	d
+हटा	हटा	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+अभियान	अभियान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+5.7	5.7	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वसूले	वसूल	VM	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	NN	0	n	m	sg	3	d
+15	15	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+अधिक	अधिक	QF		adv				
+के	का	PSP	का	psp	m	sg		o
+तीस	तीस	QC		adj	any	any		any
+बकायेदारों	बकायेदारों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कनेक्शन	कनेक्शन	NN		unk				
+काटे	काट	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पांच	पांच	QC		unk				
+नए	नया	JJ		adj	m	sg		o
+उपभोक्ताओं	उपभोक्ता	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+कनेक्शन	कनेक्शन	NN		unk				
+दिए	दे	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+नागेंद्र	नागेंद्र	XC	0	n	m	sg	3	d
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+बृजेश	बृजेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+ललित	ललित	JJ		adj	any	any		any
+पचौरी	पचौरी	NN		unk				
+सहित	सहित	PSP		psp				
+अन्य	अन्य	JJ		adj	any	any		any
+लोग	लोग	NN	0	n	m	sg	3	d
+मौजूद	मौजूद	JJ		adj	any	any		any
+रहे	रह	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सासनी	सासनी	NN		unk				
+:	:	SYM		punc				
+राजस्व	राजस्व	XC	0	n	m	sg	3	d
+वसूली	वसूली	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+शासन	शासन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सख्त	सख्त	JJ		adj	any	any		any
+रुख	रुख	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+तहसील	तहसील	JJ	0	n	f	sg	3	d
+प्रशासन	प्रशासन	NN	0	n	m	sg	3	d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+बढ़ाने	बढ़ाने	NN		punc				
+में	में	PSP		psp				
+जुट	जुट	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+बकाएदारों	बकाएदारों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+वसूली	वसूली	JJ	0	n	f	sg	3	d
+अभियान	अभियान	NN	0	n	m	sg	3	d
+तेज	तेज	JJ		adv				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+तहसीलदार	तहसीलदार	JJ	0	n	m	sg	3	d
+ठाकुरदास	ठाकुरदास	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+नेतृत्व	नेतृत्व	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+राजस्व	राजस्व	XC	0	n	m	sg	3	d
+वसूली	वसूली	NNP	0	n	f	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बकाएदारों	बकाएदारों	NN		unk				
+पर	पर	PSP		psp				
+शिकंजा	शिकंजा	NN	0	n	m	sg	3	d
+कसना	कस	VM	ना	v	m	sg	any	
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+धर-पकड	धर-पकड	NN		unk				
+अभियान	अभियान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+बकाएदारों	बकाएदारों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+गिरफ्तारी	गिरफ्तारी	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+उन्हें	उन्हें	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+कब्जे	कब्जा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+सभी	सभी	QF	0	n	m	sg	3	d
+को	को	PSP		psp				
+बकाया	बकाया	VM		adj	m	sg		d
+राजस्व	राजस्व	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+ही	ही	RP		adv				
+रिहा	रिहा	NN		adj	m	sg		d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चार	चार	QC		adj	any	any		any
+बडे	बडा	JJ		adj	m	sg		o
+बकाएदारों	बकाएदारों	NN		unk				
+को	को	PSP		psp				
+गिरफ्तार	गिरफ्तार	VM		adj	any	any		any
+कर	कर	VAUX	0	v	any	any	any	
+साढ़े	साढ़े	NNP		punc				
+चार	चार	QC		adj	any	any		any
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वसूले	वसूल	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+यह	यह	DEM	0	pn	any	sg	3	d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+लक्ष्य	लक्ष्य	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+काफी	काफी	INTF	0	n	f	sg	3	d
+कम	कम	QF		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+राजस्व	राजस्व	XC	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+तहसीलदार	तहसीलदार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+संग्रह	संग्रह	NN	0	n	m	sg	3	d
+अमीन	अमीन	JJ	0	n	m	sg	3	d
+महेंद्र	महेंद्र	XC		unk				
+पाल	पाल	XC	0	n	m	sg	3	d
+दीक्षित	दीक्षित	NNP		adj	any	any		any
+,	,	SYM		punc				
+देवेंद्र	देवेंद्र	XC		unk				
+दीक्षित	दीक्षित	NNP		adj	any	any		any
+,	,	SYM		punc				
+सौदान	सौदान	NN		unk				
+¨	¨	JJ		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+राजनलाल	राजनलाल	NNP		unk				
+,	,	SYM		punc				
+रामप्रकाश	रामप्रकाश	NN		unk				
+आदि	आदि	RP	0	n	m	sg	3	d
+शामिल	शामिल	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>

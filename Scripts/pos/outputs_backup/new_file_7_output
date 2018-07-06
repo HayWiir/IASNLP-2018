@@ -1,0 +1,208 @@
+मेरठ	मेरठ	NN		unk				
+:	:	SYM		punc				
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+देने	दे	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+मना	मना	NEG	0	v	any	any	any	
+किया	कर	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+पति	पति	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+तलाक	तलाक	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पीडिता	पीडिता	NN		unk				
+ने	ने	PSP		psp				
+सदर	सदर	JJ		unk				
+बाजार	बाजार	NN	0	n	m	sg	3	d
+थाने	थाना	VM	0	n	m	pl	3	d
+में	में	PSP		psp				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+,	,	SYM		punc				
+जिसके	जो	PRP	का	pn	m	pl	3	d
+बाद	बाद	NST		adv				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+आरोपित	आरोपित	JJ		adj	any	any		any
+पति	पति	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+हिरासत	हिरासत	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पूर्वा	पूर्वा	JJ		unk				
+फैय्याज	फैय्याज	NN		unk				
+अली	अली	JJ	0	n	f	sg	3	d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+सदर	सदर	JJ		unk				
+बाजार	बाजार	NN	0	n	m	sg	3	d
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नगला	नगला	JJ		unk				
+एरिया	एरिया	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+अफरोज	अफरोज	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+शादी	शादी	NN	0	n	f	sg	3	d
+करीब	करीब	RB		adj	any	any		any
+आठ	आठ	QC	0	n	m	sg	3	d
+साल	साल	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+पूर्वा	पूर्वा	JJ		unk				
+फैय्याज	फैय्याज	NN		unk				
+अली	अली	JJ	0	n	f	sg	3	d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+जामू	जामू	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+हुई	हो	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+मां	माँ	NN	0	n	f	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अफरोज	अफरोज	NN		unk				
+करीब	करीब	RB		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+साल	साल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रीढ़	रीढ़	NNP		n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+हड्डी	हड्डी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बीमारी	बीमारी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+परेशान	परेशान	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+और	और	CC		adv				
+कुछ	कुछ	QF		adj	any	any		d
+दिनों	दिन	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+मायके	मायका	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+रह	रह	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसने	उसने	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+इलाज	इलाज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पांच-छह	पांच-छह	QC		unk				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+जोड	जोड	NN	0	v	any	any	any	
+रखे	रख	VM	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+आरोप	आरोप	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+जामू	जामू	JJ		unk				
+शनिवार	शनिवार	NN	0	n	m	sg	3	d
+रात	रात	NN	0	n	f	sg	3	d
+अफरोज	अफरोज	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+पहुंचा	पहुंचा	VM		unk				
+और	और	CC		adv				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+मांगने	मांगने	VM		unk				
+लगा	लगा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+इलाज	इलाज	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+हवाला	हवाला	NN	0	n	m	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+अफरोज	अफरोज	NN		unk				
+ने	ने	PSP		psp				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+देने	दे	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+मना	मना	NEG	0	v	any	any	any	
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+तो	तो	CC		avy				
+जामू	जामू	NN		unk				
+ने	ने	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+बार	बार	RP		adv				
+तलाक	तलाक	NN	0	n	m	sg	3	d
+बोल	बोल	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+और	और	CC		adv				
+घर	घर	NN	0	n	m	sg	3	d
+आ	आ	VM		v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सदर	सदर	JJ		unk				
+बाजार	बाजार	NN	0	n	m	sg	3	d
+थाना	थाना	VM	0	n	m	sg	3	d
+प्रभारी	प्रभारी	JJ		adj	f	any		any
+प्रशांत	प्रशांत	XC		adj	any	any		any
+कपिल	कपिल	NN		adj	any	any		any
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+मामला	मामला	NN	0	n	m	sg	3	d
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जांच	जांच	NN		unk				
+में	में	PSP		psp				
+जो	जो	PRP		avy				
+तथ्य	तथ्य	NN	0	n	m	sg	3	d
+सामने	सामना	NST	0	n	m	pl	3	d
+आएंगे	आ	VM	गा	v	m	pl	1	
+उसके	उसके	PRP		unk				
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+फिलहाल	फिलहाल	RB	0	n	m	sg	3	d
+आरोपित	आरोपित	JJ		adj	any	any		any
+को	को	PSP		psp				
+हिरासत	हिरासत	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

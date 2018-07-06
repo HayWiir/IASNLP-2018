@@ -1,0 +1,176 @@
+गोंडा	गोंडा	XC		unk				
+:	:	SYM		punc				
+बाइक	बाइक	NN		unk				
+बेचकर	बेच	JJ	कर	v	any	any	any	
+शौचालय	शौचालय	NN	0	n	m	sg	3	d
+बनवाने	बनवा	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+ग्रामीण	ग्रामीण	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+12	12	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रोत्साहन	प्रोत्साहन	NN	0	n	m	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चेक	चेक	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+घर	घर	NN	0	n	m	sg	3	d
+जाकर	जा	VM	कर	v	any	any	any	
+चेक	चेक	NNP	0	n	m	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इटियाथोक	इटियाथोक	XC		unk				
+ब्लॉक	ब्लॉक	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+तेलियानी	तेलियानी	JJ		unk				
+कानूनगो	कानूनगो	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+राजस्व	राजस्व	XC	0	n	m	sg	3	d
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+जगदीशपुर	जगदीशपुर	NNP		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+मुनव्वर	मुनव्वर	NN		unk				
+ने	ने	PSP		psp				
+खुले	खुला	NN		adj	m	sg		o
+में	में	PSP		psp				
+शौच	शौच	NN	0	n	m	sg	3	d
+बंद	बंद	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+शौचालय	शौचालय	NN	0	n	m	sg	3	d
+बनवाने	बनवा	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+प्रोत्साहन	प्रोत्साहन	XC	0	n	m	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+दिलाने	दिला	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बजट	बजट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अभाव	अभाव	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+मिलने	मिल	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+बाइक	बाइक	NN		unk				
+बेचकर	बेच	JJ	कर	v	any	any	any	
+शौचालय	शौचालय	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+दैनिक	दैनिक	JJ		adj	any	any		any
+जागरण	जागरण	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+29	29	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंक	अंक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+मना	मना	VAUX	0	v	any	any	any	
+तो	तो	CC		avy				
+बाइक	बाइक	JJ		unk				
+बेच	बेच	NN	0	v	any	any	any	
+बनवाया	बनवा	VM	या	v	m	sg	any	
+शौचालय	शौचालय	NN	0	n	m	sg	3	d
+शीर्षक	शीर्षक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+समाचार	समाचार	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+प्रकाशन	प्रकाशन	NN	0	n	m	sg	3	d
+प्रमुखता	प्रमुखता	NN		unk				
+से	से	PSP	0	v	any	any	any	
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+गंभीरता	गंभीरता	NN		unk				
+से	से	PSP	0	v	any	any	any	
+लेते	ले	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+डीपीआरओ	डीपीआरओ	XC		unk				
+घनश्याम	घनश्याम	XC		adj	any	any		any
+सागर	सागर	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+मुनव्वर	मुनव्वर	NN		unk				
+को	को	PSP		psp				
+स्वच्छ	स्वच्छ	JJ	0	n	m	sg	3	d
+भारत	भारत	XC	0	n	m	sg	3	d
+मिशन	मिशन	XC	0	n	m	sg	3	d
+ग्रामीण	ग्रामीण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	NN	0	n	m	sg	3	d
+12	12	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रोत्साहन	प्रोत्साहन	XC	0	n	m	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+कराने	करा	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+इटियाथोक	इटियाथोक	XC		unk				
+के	का	PSP	का	psp	m	sg		o
+एडीओ	एडीओ	XC		unk				
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+दिया	दे	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+रामअजोर	रामअजोर	NN		unk				
+ने	ने	PSP		psp				
+घर	घर	NN	0	n	m	sg	3	d
+जाकर	जा	VM	कर	v	any	any	any	
+मुनव्वर	मुनव्वर	NN		unk				
+को	को	PSP		psp				
+प्रोत्साहन	प्रोत्साहन	XC	0	n	m	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चेक	चेक	VM	0	n	m	sg	3	d
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,275 @@
+संस	संस	NN		unk				
+,	,	SYM		punc				
+डहीना	डहीना	NN		unk				
+:	:	SYM		punc				
+जिला	जिला	JJ	0	v	any	any	any	
+गुरुग्राम	गुरुग्राम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बिरहेडा	बिरहेडा	NN		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+एक	एक	QC		adj	any	any		any
+परिवार	परिवार	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+बेटे	बेटा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+दहेज	दहेज	NN	0	n	m	sg	3	d
+रहित	रहित	JJ		adj	any	any		any
+शादी	शादी	NN	0	n	f	sg	3	d
+करके	कर	VM	कर	v	any	any	any	
+मिसाल	मिसाल	NN	0	n	f	sg	3	d
+कायम	कायम	JJ		adj	any	any		any
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बिरहेडा	बिरहेडा	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+शिक्षक	शिक्षक	NN	0	n	m	sg	3	d
+मान	मान	VM	0	v	any	any	any	
+¨	¨	JJ		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+इंजीनियर	इंजीनियर	XC	0	n	m	sg	3	d
+बेटे	बेटा	NN	0	n	m	pl	3	d
+रवि	रवि	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शादी	शादी	NN	0	n	f	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+कंवाली	कंवाली	JJ		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+सुरेश	सुरेश	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बेटी	बेटी	NN	0	n	f	sg	3	d
+आशा	आशा	NN	0	n	f	sg	3	d
+देवी	देवी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शादी	शादी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+मान	मान	VM	0	v	any	any	any	
+¨	¨	JJ		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+विदा	विदा	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+केवल	केवल	RP		adv				
+एक	एक	QC		adj	any	any		any
+रुपया	रुपया	NN	0	n	m	sg	3	d
+लिया	ले	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तथा	तथा	CC		adv				
+बरात	बरात	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+केवल	केवल	RB		adv				
+पांच	पांच	QC		unk				
+लोग	लोग	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+आए	आ	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+सादगी	सादगी	NN	0	n	f	sg	3	d
+भरी	भर	VM	या	v	f	sg	any	
+शादी	शादी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+चर्चा	चर्चा	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+तथा	तथा	CC		adv				
+सभी	सभी	QF	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+परिवार	परिवार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सराहना	सराह	NN	ना	v	m	sg	any	
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+निश्चित	निश्चित	JJ	0	n	m	sg	3	d
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+शादी	शादी	NN	0	n	f	sg	3	d
+समाज	समाज	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+प्रेरणा	प्रेरणा	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+काम	काम	NN	0	n	m	sg	3	d
+करेगी	कर	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दुल्हन	दुल्हन	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पिता	पिता	NN	0	n	m	sg	3	d
+सुरेश	सुरेश	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+बेटी	बेटी	JJ	0	n	f	sg	3	d
+आशा	आशा	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+रिश्ता	रिश्ता	NN	0	n	m	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+बिरहेडा	बिरहेडा	VM		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+शिक्षक	शिक्षक	NN	0	n	m	sg	3	d
+मान	मान	VM	0	v	any	any	any	
+¨	¨	JJ		unk				
+सह	सह	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+बेटे	बेटा	NN	0	n	m	pl	3	d
+रवि	रवि	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+तय	तय	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+दूल्हे	दूल्हा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+परिवार	परिवार	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+शादी	शादी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+वे	वह	PRP	0	pn	any	pl	3	d
+बिल्कुल	बिल्कुल	RB		adv				
+भी	भी	RP		adv				
+दहेज	दहेज	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+लेंगे	ले	VM	गा	v	m	pl	1	
+बावजूद	बावजूद	PSP:?	0	n	m	sg	3	d
+इसके	इसके	PRP		pn	m	pl	3	d
+दुल्हन	दुल्हन	NN		unk				
+पक्ष	पक्ष	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+किया	कर	VM	या	v	m	sg	any	
+लेकिन	लेकिन	CC		avy				
+मान	मान	XC	0	v	any	any	any	
+¨	¨	XC		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+विदा	विदा	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+केवल	केवल	RP		adv				
+एक	एक	QC		adj	any	any		any
+रुपया	रुपया	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+लेंगे	ले	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इतना	इतना	QF		adj	m	sg		d
+ही	ही	RP		adv				
+शादी	शादी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+वे	वह	PRP	0	pn	any	pl	3	d
+बरात	बरात	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+केवल	केवल	RB		adv				
+पांच	पांच	QC		unk				
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+पहुंचे	पहुंचे	VM		unk				
+तथा	तथा	CC		adv				
+बगैर	बगैर	NEG	0	n	m	sg	3	d
+किसी	किसी	PRP		unk				
+तामझाम	तामझाम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+शादी	शादी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+शादी	शादी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+मा	मा	XC	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+सुनील	सुनील	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+नंबरदार	नंबरदार	JJ	0	n	m	sg	3	d
+रोशनलाल	रोशनलाल	XC		unk				
+,	,	SYM		punc				
+अमर	अमर	JJ	0	n	m	sg	3	d
+¨	¨	NN		unk				
+सह	सह	PSP	0	v	any	any	any	
+वहीं	वहीं	PRP		unk				
+दुल्हन	दुल्हन	NN		unk				
+पक्ष	पक्ष	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+दादा	दादा	XC	0	n	m	sg	3	d
+रामस्वरूप	रामस्वरूप	NNP		unk				
+,	,	SYM		punc				
+दलीप	दलीप	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+,	,	SYM		punc				
+राजेश	राजेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+सुनील	सुनील	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+सरपंच	सरपंच	XC	0	n	m	sg	3	d
+अमित	अमित	XC		adj	any	any		any
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+व	व	CC		avy				
+महेंद्र	महेंद्र	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	PSP	0	v	any	any	any	
+मौजूद	मौजूद	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+दुल्हन	दुल्हन	NN		unk				
+आशा	आशा	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+बीएससी	बीएससी	JJ		unk				
+बीएड	बीएड	NN		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

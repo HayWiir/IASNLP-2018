@@ -1,0 +1,164 @@
+जासं	जासं	NNP		unk				
+,	,	SYM		punc				
+तिगांव	तिगांव	NN		unk				
+:	:	SYM		punc				
+एक	एक	QC		adj	any	any		any
+चालक	चालक	NN	0	n	m	sg	3	d
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रात	रात	NN	0	n	f	sg	3	d
+10	10	QC		num				
+बजे	बज	NN	एं	v	any	sg	2	
+को	को	PSP		psp				
+डंपर	डंपर	NNP		unk				
+में	में	PSP		psp				
+यमुना	यमुना	XC	0	n	m	sg	3	d
+रेत	रेत	NN	0	n	f	sg	3	d
+भरकर	भर	VM	कर	v	any	any	any	
+फरीदाबाद	फरीदाबाद	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तरफ	तरफ	NST		adv				
+आ	आ	VM		v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गांव	गाँव	NN	0	n	m	sg		d
+चीरसी	चीरसी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+मोटरसाइकिल	मोटरसाइकिल	JJ	0	n	f	sg	3	d
+सवार	सवार	JJ	0	n	m	sg	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+आए	आ	VM	एं	v	any	sg	2	
+और	और	CC		adv				
+डंपर	डंपर	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+टायर	टायर	NN	0	n	m	sg	3	d
+मे	मा	PSP	0	n	m	pl	3	d
+गोली	गोली	JJ	0	n	f	sg	3	d
+मारी	मार	NN	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+डंपर	डंपर	NN		unk				
+रुक	रुक	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+और	और	CC		adv				
+चालक	चालक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+हथियार	हथियार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दम	दम	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+साढ़े	साढ़े	NNP		punc				
+नौ	नौ	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लूट	लूट	NN	0	v	any	any	any	
+कर	कर	VM	0	v	any	any	any	
+हवा	हवा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+गोली	गोली	JJ	0	n	f	sg	3	d
+चलाते	चला	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+चालक	चालक	NN	0	n	m	sg	3	d
+झारखंड	झारखंड	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+रहने	रह	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+राजकिशोर	राजकिशोर	NN		unk				
+बताया	बता	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चालक	चालक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+थाना	थाना	VM	0	n	m	sg	3	d
+तिगांव	तिगांव	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+सूचना	सूचना	NN	0	n	f	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गोली	गोली	JJ	0	n	f	sg	3	d
+चलने	चल	VM	ना	v	m	pl	any	
+और	और	CC		adv				
+साढे	साढे	QF		unk				
+नौ	नौ	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लूटने	लूट	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पाकर	पा	VM	कर	v	any	any	any	
+थाना	थाना	VM	0	n	m	sg	3	d
+प्रभारी	प्रभारी	JJ		adj	f	any		any
+भीम	भीम	XC		adj	any	any		any
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पहुंचे	पहुंचे	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+आरोपियों	आरोपियों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+गोली	गोली	JJ	0	n	f	sg	3	d
+चलाने	चला	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+आरोप	आरोप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+शस्त्र	शस्त्र	NN	0	n	m	sg	3	d
+अधिनियम	अधिनियम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	VM	0	n	m	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+जांच	जांच	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+आरोपियों	आरोपियों	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+सुराग	सुराग	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+लगा	लगा	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

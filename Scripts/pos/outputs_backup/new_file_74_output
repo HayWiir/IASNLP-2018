@@ -1,0 +1,150 @@
+सिवान	सिवान	NN		unk				
+.	.	SYM		punc				
+</s>
+<s>
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सिपाह	सिपाह	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+जीउत	जीउत	NN		unk				
+साह	साह	NN		unk				
+ने	ने	PSP		psp				
+बेटे	बेटा	NN	0	n	m	pl	3	d
+और	और	CC		adv				
+नाती	नाती	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+और	और	CC		adv				
+गहने	गहना	NN	0	n	m	pl	3	d
+छीनने	छीन	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+प्राथमिकी	प्राथमिकी	NN		unk				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+थाने	थाना	VM	0	n	m	pl	3	d
+में	में	PSP		psp				
+दिए	दे	VM	या	v	m	pl	any	
+आवेदन	आवेदन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+बेटी	बेटी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शादी	शादी	NN	0	n	f	sg	3	d
+28	28	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+बीच	बीच	NST		psp				
+24	24	QC		num				
+तारीख	तारीख	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+बेटा	बेटा	NN	0	n	m	sg	3	d
+पप्पू	पप्पू	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+नाती	नाती	XC	0	n	m	sg	3	d
+अनिल	अनिल	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+घर	घर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बेटी	बेटी	NN	0	n	f	sg	3	d
+संजू	संजू	XC		unk				
+कुमारी	कुमारी	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+निकालने	निकाल	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसका	इसका	PRP		pn	m	sg	3	d
+अन्य	अन्य	JJ		adj	any	any		any
+बेटियों	बेटी	NN	0	n	f	pl	3	o
+ने	ने	PSP		psp				
+विरोध	विरोध	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+दोनों	दोना	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+तीनों	तीन	QC	0	n	m	pl	3	o
+बेटियों	बेटी	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+लाठी-डंडे	लाठी-डंडे	NN		unk				
+से	से	PSP	0	v	any	any	any	
+मारकर	मार	VM	कर	v	any	any	any	
+घायल	घायल	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शादी	शादी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+रखे	रख	VM	एं	v	any	sg	2	
+गहने	गहना	VAUX	0	n	m	pl	3	d
+एवं	एवं	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+गहने	गहना	NN	0	n	m	pl	3	d
+छीनकर	छीन	VM	कर	v	any	any	any	
+दोनों	दोना	JJ	0	n	m	pl	3	o
+भाग	भाग	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+दोनों	दोना	JJ	0	n	m	pl	3	o
+पहले	पहले	NST		adv				
+भी	भी	RP		adv				
+कहते	कह	VM	ता	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+कि	कि	CC		avy				
+शादी	शादी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दिन	दिन	NN	0	n	m	sg	3	d
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+करेंगे	कर	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जीउत	जीउत	NN		unk				
+साह	साह	NN		unk				
+ने	ने	PSP		psp				
+थाने	थाना	VM	0	n	m	pl	3	d
+में	में	PSP		psp				
+आवेदन	आवेदन	NN	0	n	m	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+इन	इन	DEM		pn	any	pl	3	o
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+विरुद्ध	विरुद्ध	JJ		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+करने	कर	VM	ना	v	m	pl	any	
+एवं	एवं	CC		avy				
+शांति	शान्ति	NN	0	n	f	sg		d
+से	से	PSP	0	v	any	any	any	
+शादी	शादी	NN	0	n	f	sg	3	d
+संपन्न	संपन्न	JJ	0	n	m	sg	3	d
+कराने	करा	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

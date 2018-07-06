@@ -1,0 +1,315 @@
+मुंबई	मुंबई	NNP		unk				
+,	,	SYM		punc				
+ब्यूरो	ब्यूरो	NNP		unk				
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+नोट	नोट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सौ	सौ	QC	0	n	m	sg	3	d
+साल	साल	NN	0	n	m	sg	3	d
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+जाएंगे	जा	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पहले	पहले	NST		adv				
+विश्व	विश्व	XC	0	n	m	sg	3	d
+युद्ध	युद्ध	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+चांदी	चांदी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+पर्याप्त	पर्याप्त	JJ		adj	any	any		any
+सिक्के	सिक्का	NN	0	n	m	pl	3	d
+ढालने	ढाल	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+नाकाम	नाकाम	NN		unk				
+रही	रह	VM	या	v	f	sg	any	
+ब्रिटिश	ब्रिटिश	JJ		adj	any	any		any
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+के	का	PSP	का	psp	m	sg		o
+नोट	नोट	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+शुरू	शुरू	NN		avy				
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+का	का	PSP	का	psp	m	sg		d
+पहला	पहला	QO		adj	m	sg		d
+नोट	नोट	NN	0	n	m	sg	3	d
+30	30	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+1917	1917	QC		num				
+को	को	PSP		psp				
+छपकर	छप	VM	कर	v	any	any	any	
+आया	आ	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+किंग	किंग	XC		unk				
+जॉर्ज	जॉर्ज	XC		unk				
+पंचम	पंचम	NNP		adj	any	any		any
+की	का	PSP	का	psp	f	sg		d
+तस्वीर	तस्वीर	NN	0	n	f	sg	3	d
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+रिजर्व	रिजर्व	XC		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वेबसाइट	वेबसाइट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मुताबिक	मुताबिक	JJ		adj	any	any		any
+इसे	इसे	PRP		pn	any	sg	3	o
+1926	1926	QC		num				
+में	में	PSP		psp				
+बंद	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+बाद	बाद	NST		adv				
+में	में	PSP		psp				
+इसे	इसे	PRP		pn	any	sg	3	o
+दूसरे	दूसरा	PRP	0	n	m	pl	3	d
+विश्व	विश्व	XC	0	n	m	sg	3	d
+युद्ध	युद्ध	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+1940	1940	QC		num				
+में	में	PSP		psp				
+फिर	फिर	RB	0	v	any	any	any	
+शुरू	शुरू	NN		avy				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसकी	इसकी	PRP		pn	f	sg	3	d
+प्रिंटिंग	प्रिंटिंग	NN	0	n	f	sg	3	d
+1994	1994	QC		num				
+से	से	PSP	0	v	any	any	any	
+फिर	फिर	RB	0	v	any	any	any	
+बंद	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मगर	मगर	CC	0	n	m	sg	3	d
+बाजार	बाजार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+नोट	नोट	NN	0	n	m	sg	3	d
+चलता	चल	VM	ता	v	m	sg	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मोदी	मोदी	XC		unk				
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+वषर्ष	वषर्ष	NN		unk				
+2015	2015	QC		num				
+में	में	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+दोबारा	दोबारा	NN		adv				
+शुरू	शुरू	NN		avy				
+करवाई	करवा	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+भारत	भारत	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+अवमूल्यन	अवमूल्यन	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+लेन	लेन	XC	0	n	m	sg	3	d
+देन	देन	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+नोट	नोट	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अहमियत	अहमियत	NN		unk				
+कम	कम	QF		adj	any	any		any
+हु	हु	PSP		unk				
+ई.ल	ई.ल	XC		unk				
+ेकिन	ेकिन	NNP		unk				
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+नोटों	नोट	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+दख़ल	दख़ल	NN		n	m	sg	3	d
+बढ़ा	बढ़ा	XC		punc				
+ही	ही	RP		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+नोट	नोट	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+कई	कई	QF		adj	any	any		d
+दिलचस्प	दिलचस्प	JJ		adj	any	any		any
+तथ्य	तथ्य	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जैसे	जैसे	RP		adv				
+,	,	SYM		punc				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+मुद्रा	मुद्रा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+नोट	नोट	NN	0	n	m	sg	3	d
+सबसे	सबसे	INTF		adj	any	any		any
+छोटा	छोटा	JJ		adj	m	sg		d
+लेकिन	लेकिन	CC		avy				
+शायद	शायद	RB		adv				
+सबसे	सबसे	INTF		adj	any	any		any
+महत्वपूर्ण	महत्वपूर्ण	JJ		adj	any	any		any
+नोट	नोट	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसे	इसे	PRP		pn	any	sg	3	o
+भारत	भारत	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+सीधे	सीधे	JJ		adv				
+जारी	जारी	JJ	0	n	f	sg	3	d
+करती	कर	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+जबकि	जबकि	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+नोट	नोट	NN	0	n	m	sg	3	d
+रिज़र्व	रिज़र्व	JJ		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+जारी	जारी	JJ	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+वजह	वजह	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+इन	इन	DEM		pn	any	pl	3	o
+नोटों	नोट	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+भारत	भारत	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+लिखा	लिखा	VM	0	v	any	any	any	
+पाएंगे	पा	VAUX	गा	v	m	pl	1	
+और	और	CC		adv				
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+मंत्री	मंत्री	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+हस्ताक्षर	हस्ताक्षर	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बाकी	बाकी	JJ		adj	f	any		any
+नोट	नोट	NN	0	n	m	sg	3	d
+रिज़र्व	रिज़र्व	JJ		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+डिज़ाइन	डिज़ाइन	NN		unk				
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+क़ीमत	क़ीमत	NN		n	f	sg		d
+होने	हो	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बावजूद	बावजूद	PSP:?	0	n	m	sg	3	d
+,	,	SYM		punc				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+काफ़ी	काफ़ी	XC		n	m	sg	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+आता	आ	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+कारण	कारण	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+1995	1995	QC		num				
+में	में	PSP		psp				
+,	,	SYM		punc				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+बंद	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मोदी	मोदी	NN		unk				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2015	2015	QC		num				
+में	में	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+दोबारा	दोबारा	NN		adv				
+शुरू	शुरू	NN		avy				
+करवाई	करवा	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

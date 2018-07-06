@@ -1,0 +1,286 @@
+जासं	जासं	NNP		unk				
+,	,	SYM		punc				
+पंचकूला	पंचकूला	NN		unk				
+:	:	SYM		punc				
+हरियाणा	हरियाणा	XC		unk				
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+नया	नया	JJ		adj	m	sg		d
+साल	साल	NN	0	n	m	sg	3	d
+शुरू	शुरू	NN		avy				
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+ठीक	ठीक	JJ		adj	any	any		any
+एक	एक	QC		adj	any	any		any
+माह	माह	NN		unk				
+पहले	पहले	NST		adv				
+ही	ही	RP		adv				
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नागरिकों	नागरिक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+बढ़ाकर	बढ़ाकर	VM		v	any	any	any	
+बडा	बडा	JJ		adj	m	sg		d
+तोहफा	तोहफा	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+सामाजिक	सामाजिक	JJ		adj	any	any		any
+न्याय	न्याय	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+अधिकारिता	अधिकारिता	NN		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+दी	दे	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+सभी	सभी	QF	0	n	m	sg	3	d
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+भत्तों	भत्ता	NN	0	n	m	pl	3	o
+व	व	CC		avy				
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+200	200	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बढ़ोत्तरी	बढ़ोत्तरी	NN		n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+माह	माह	NN		unk				
+से	से	PSP	0	v	any	any	any	
+बढ़ी	बढ़ी	NN		avy				
+हुई	हो	VM	या	v	f	sg	any	
+मिलेगी	मिल	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मुख्यमंत्री	मुख्यमंत्री	JJ	0	n	m	sg	3	d
+मनोहर	मनोहर	XC		adj	any	any		any
+लाल	लाल	NNP		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+संबंध	संबंध	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सभी	सभी	QF	0	n	m	sg	3	d
+समाज	समाज	NN	0	n	m	sg	3	d
+कल्याण	कल्याण	XC	0	n	m	sg	3	d
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पत्र	पत्र	NN	0	n	m	sg	3	d
+जारी	जारी	JJ	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+वृद्धावस्था	वृद्धावस्था	NN	0	n	m	sg	3	d
+स	स	RP		n	m	sg	3	d
+मान	मान	VM	0	v	any	any	any	
+भत्ता	भत्ता	NN	0	n	m	sg	3	d
+जो	जो	PRP		avy				
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+1600	1600	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मिलता	मिल	VM	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+वह	वह	PRP	0	pn	any	sg	3	d
+अब	अब	PRP		adv				
+1800	1800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+महीना	महीना	NN	0	n	m	sg	3	d
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उपायुक्त	उपायुक्त	JJ	0	n	m	sg	3	d
+गौरी	गौरी	XC	0	n	f	sg	3	d
+पराशर	पराशर	XC		unk				
+जोशी	जोशी	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जिला	जिला	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+36	36	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+749	749	QC		num				
+नागरिकों	नागरिक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+भत्ते	भत्ता	NN	0	n	m	pl	3	d
+बढ़	बढ़	NN		v	m	sg	any	
+कर	कर	VM	0	v	any	any	any	
+मिलेगी	मिल	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+विधवा	विधवा	JJ	0	n	f	sg	3	d
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+दिव्याग	दिव्याग	NN		unk				
+,	,	SYM		punc				
+लाडली	लाडली	JJ		unk				
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+किन्नर	किन्नर	NN	0	n	m	sg	3	d
+भत्ता	भत्ता	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+1600	1600	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+बजाए	बजा	VM	एं	v	any	sg	2	
+1800	1800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रति	प्रति	PSP		adv				
+माह	माह	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+निराश्रित	निराश्रित	JJ		unk				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+अब	अब	PRP		adv				
+700	700	QC		num				
+की	का	PSP	का	psp	f	sg		d
+बजाए	बजा	VM	एं	v	any	sg	2	
+900	900	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रति	प्रति	PSP		adv				
+माह	माह	NN		unk				
+सहायता	सहायता	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मिलेंगे	मिल	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+जाने	जान	VM	एं	v	any	sg	2	
+वाले	वाला	PSP	0	n	m	pl	3	d
+निराश्रित	निराश्रित	JJ		unk				
+बच्चों	बच्चा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+1000	1000	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बजाय	बजाय	PSP:?		adv				
+200	200	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रति	प्रति	PSP		adv				
+माह	माह	NN		unk				
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+जाएंगे	जा	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+सभी	सभी	QF	0	n	m	sg	3	d
+को	को	PSP		psp				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+नये	नया	JJ		adj	m	sg		o
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+तोहफा	तोहफा	NN	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+माह	माह	NN		unk				
+पहले	पहले	NST		adv				
+ही	ही	RP		adv				
+दे	दे	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सरकार	सरकार	NN	0	n	f	sg	3	d
+इन	इन	DEM		pn	any	pl	3	o
+लाभपात्रों	लाभपात्रों	NN		n	m	pl	3	o
+को	को	PSP		psp				
+हर	हर	QF		adj	any	any		any
+माह	माह	NN		unk				
+उनके	उनके	PRP		unk				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+खातों	खाता	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+सीधे	सीधे	JJ		adv				
+उनकी	उनकी	PRP		unk				
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+स	स	RP		n	m	sg	3	d
+मान	मान	VM	0	v	any	any	any	
+भत्तों	भत्ता	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+डाल	डाल	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सिस्टम	सिस्टम	NNP		unk				
+में	में	PSP		psp				
+पारदर्शिता	पारदर्शिता	NN	0	n	f	sg	3	d
+लाने	ला	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+आधार	आधार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+बैंक	बैंक	JJ	0	n	m	sg	3	d
+खातों	खाता	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+जोड	जोड	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+ताकि	ताकि	CC		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+फर्जी	फर्जी	JJ		adj	f	any		any
+आदमी	आदमी	NN	0	n	m	sg	3	d
+गलत	गलत	JJ		adj	any	any		any
+ढग	ढग	NN		unk				
+से	से	PSP	0	v	any	any	any	
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+भत्तों	भत्ता	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+न	न	NEG		adv				
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+सके	सक	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

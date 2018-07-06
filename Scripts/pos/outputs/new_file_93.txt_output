@@ -1,0 +1,631 @@
+औरंगाबाद	औरंगाबाद	NNP		unk				
+.	.	SYM		punc				
+</s>
+<s>
+व	व	CC		avy				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गांवों	गांवों	NN		unk				
+में	में	PSP		psp				
+विकास	विकास	NN	0	n	m	sg	3	d
+योजनाओं	योजना	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+अधूरा	अधूरा	JJ		adj	m	sg		d
+पडा	पड	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+विकास	विकास	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+अग्रिम	अग्रिम	JJ		adj	any	any		any
+निकाल	निकाल	VM	0	v	any	any	any	
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सचिव	सचिव	NN	0	n	m	sg	3	d
+खा	खा	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+लाखों	लाख	RDP	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+गबन	गबन	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+परंतु	परंतु	CC		avy				
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+मौन	मौन	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सचिव	सचिव	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+जांच	जांच	NN		unk				
+हुई	हो	VM	या	v	f	sg	any	
+परंतु	परंतु	CC		avy				
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कंतरी	कंतरी	JJ		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+में	में	PSP		psp				
+कब्रिस्तान	कब्रिस्तान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+घेराबंदी	घेराबंदी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+वित्तिय	वित्तिय	JJ		unk				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2012	2012	QC		num				
+-	-	SYM		punc				
+13	13	QC		num				
+में	में	PSP		psp				
+प्रारंभ	प्रारंभ	NN	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कार्य	कार्य	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जिम्मा	जिम्मा	NN	0	n	m	sg	3	d
+तत्कालीन	तत्कालीन	JJ		adj	any	any		any
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	XC	0	n	m	sg	3	d
+सुरेंद्र	सुरेंद्र	XC	0	n	m	sg	3	d
+प्रसाद	प्रसाद	XC	0	n	m	sg	3	d
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+को	को	PSP		psp				
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+घेराबंदी	घेराबंदी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+प्राक्कलन	प्राक्कलन	NN	0	n	m	sg	3	d
+9,51	9,51	QC		num				
+,600	,600	QC		num				
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अग्रिम	अग्रिम	NN		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+रुप	रुप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+3,87	3,87	QC		num				
+,	,	SYM		punc				
+500	500	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+निकासी	निकासी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+1,83	1,83	QC		num				
+,	,	SYM		punc				
+662	662	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+और	और	CC		adv				
+2,03	2,03	QC		num				
+,838	,838	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+पास	पास	NST		adv				
+रख	रख	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बीडीओ	बीडीओ	XC		unk				
+पंकज	पंकज	XC		adj	any	any		any
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+शक्तिधर	शक्तिधर	NN		unk				
+ने	ने	PSP		psp				
+कई	कई	QF		adj	any	any		d
+बार	बार	RP		adv				
+योजना	योजना	NN	0	n	f	sg	3	d
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+एवं	एवं	CC		avy				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+जमा	जमा	NN	0	v	any	any	any	
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+स्मार	स्मार	JJ		unk				
+पत्र	पत्र	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बीडीओ	बीडीओ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+हवा	हवा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+उडा	उडा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+यह	यह	DEM	0	pn	any	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+अधूरा	अधूरा	JJ		adj	m	sg		d
+पडा	पड	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बेढ़ना	बेढ़ना	XC		n	m	pl	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्राथमिक	प्राथमिक	JJ		adj	any	any		any
+विद्यालय	विद्यालय	NN	0	n	m	sg	3	d
+बरहेता	बरहेता	VM		unk				
+परिसर	परिसर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आंगनबाडी	आंगनबाडी	JJ		unk				
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+वित्तिय	वित्तिय	JJ		unk				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2012	2012	QC		num				
+-	-	SYM		punc				
+13	13	QC		num				
+में	में	PSP		psp				
+प्रारंभ	प्रारंभ	NN	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+6,09	6,09	QC		num				
+,800	,800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+स्वीकृत	स्वीकृत	JJ	0	n	m	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+योजना	योजना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+फाइल	फाइल	NN	0	n	m	sg	3	d
+खोल	खोल	VM	0	v	any	any	any	
+निर्माण	निर्माण	XC	0	n	m	sg	3	d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+प्रारंभ	प्रारंभ	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+परंतु	परंतु	CC		avy				
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+योजना	योजना	NN	0	n	f	sg	3	d
+अधूरा	अधूरा	JJ		adj	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कार्य	कार्य	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जिम्मा	जिम्मा	NN	0	n	m	sg	3	d
+जनसेवक	जनसेवक	NN		unk				
+विनोद	विनोद	XC	0	n	m	sg	3	d
+बेक	बेक	NNP		unk				
+को	को	PSP		psp				
+मिली	मिल	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जनसेवक	जनसेवक	NN		unk				
+ने	ने	PSP		psp				
+अग्रिम	अग्रिम	NN		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+रुप	रुप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+4,07	4,07	QC		num				
+,500	,500	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+निकासी	निकासी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मात्र	मात्र	RB		adv				
+2,47	2,47	QC		num				
+,544	,544	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+और	और	CC		adv				
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+1,59	1,59	QC		num				
+,956	,956	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+जमा	जमा	JJ	0	v	any	any	any	
+नहीं	नहीं	NEG		adv				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यहीं	यहीं	PRP		unk				
+हाल	हाल	NN	0	n	m	sg	3	d
+पूर्वी	पूर्वी	JJ		adj	f	any		any
+केताकी	केताकी	JJ		unk				
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आंगनबाडी	आंगनबाडी	JJ		unk				
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+दोसमा	दोसमा	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+रहा	रह	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+6,09	6,09	QC		num				
+,800	,800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+होना	हो	VM	ना	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+भवन	भवन	NN	0	n	m	sg	3	d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+4,97	4,97	QC		num				
+,500	,500	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+अग्रिम	अग्रिम	JJ		adj	any	any		any
+निकासी	निकासी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कार्य	कार्य	NN	0	n	m	sg	3	d
+मात्र	मात्र	RB		adv				
+2,49	2,49	QC		num				
+,883	,883	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+2,47	2,47	QC		num				
+,617	,617	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+बकाया	बकाया	VM		adj	m	sg		d
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	XC	0	n	m	sg	3	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+पांच	पांच	QC		unk				
+वर्षों	वर्ष	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+रखे	रख	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+परंतु	परंतु	CC		avy				
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+हाल	हाल	NN	0	n	m	sg	3	d
+आंगनबाडी	आंगनबाडी	JJ		unk				
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+तेतरीया	तेतरीया	NN		unk				
+एवं	एवं	CC		avy				
+विश्रामपुर	विश्रामपुर	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	XC	0	n	m	sg	3	d
+दिलकेश्वर	दिलकेश्वर	XC		unk				
+रिकियासन	रिकियासन	NNP		unk				
+कई	कई	QF		adj	any	any		d
+योजनाओं	योजना	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+पास	पास	NST		adv				
+रखे	रख	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चापाकल	चापाकल	NN		unk				
+लगाने	लगा	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+व्यापक	व्यापक	JJ	0	n	m	sg	3	d
+पैमाने	पैमाना	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+धांधली	धाँधली	NN	0	n	f	sg		d
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बगैर	बगैर	PSP:?	0	n	m	sg	3	d
+चापाकल	चापाकल	NN		unk				
+लगाए	लगा	VM	एं	v	any	sg	2	
+पैसा	पैसा	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+निकासी	निकासी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बताया	बता	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+हसौली	हसौली	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कोईरी	कोईरी	NN		unk				
+बिगहा	बिगहा	VM		unk				
+में	में	PSP		psp				
+बलि	बलि	NN	0	n	f	sg	3	d
+मेहता	मेहता	NNP		unk				
+,	,	SYM		punc				
+दुलारे	दुलारा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+देवी	देवी	XC	0	n	f	sg	3	d
+मंदिर	मंदिर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+पथरा	पथरा	NN	0	v	any	any	any	
+में	में	PSP		psp				
+रामजी	रामजी	XC		unk				
+भूईयां	भूईयां	NN		unk				
+,	,	SYM		punc				
+करमा	करमा	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+गोपाल	गोपाल	XC		unk				
+यादव	यादव	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+घर	घर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+चापाकल	चापाकल	NN		unk				
+लगाना	लगा	VM	ना	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वित्तिय	वित्तिय	JJ		unk				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2012	2012	QC		num				
+-	-	SYM		punc				
+13	13	QC		num				
+में	में	PSP		psp				
+योजना	योजना	NN	0	n	f	sg	3	d
+स्वीकृत	स्वीकृत	JJ	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	XC	0	n	m	sg	3	d
+दिलकेश्वर	दिलकेश्वर	XC		unk				
+रिकियासन	रिकियासन	NNP		unk				
+एवं	एवं	CC		avy				
+मिथिलेश	मिथिलेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+आरोही	आरोही	JJ		unk				
+संवेदक	संवेदक	NN		unk				
+बने	बन	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दोनों	दोना	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+निकासी	निकासी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+परंतु	परंतु	CC		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+हाल	हाल	NN	0	n	m	sg	3	d
+कई	कई	QF		adj	any	any		d
+और	और	CC		adv				
+विकास	विकास	NN	0	n	m	sg	3	d
+योजनाओं	योजना	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+धरातल	धरातल	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कार्य	कार्य	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+बगैर	बगैर	NEG	0	n	m	sg	3	d
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+निकासी	निकासी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+अधिकारी	अधिकारी	JJ	0	n	m	sg	3	d
+धरातल	धरातल	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+योजना	योजना	NN	0	n	f	sg	3	d
+खोजते	खोज	VM	ता	v	m	pl	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+जन	जन	XC	0	n	m	sg	3	d
+सेवक	सेवक	NN	0	n	m	sg	3	d
+उन्हें	उन्हें	PRP		unk				
+वरगलाते	वरगलाते	VM		v	m	pl	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मैंने	मैं	PRP	ने	pn	any	sg	1	o
+40	40	QC		num				
+दिन	दिन	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+जिला	जिला	JJ	0	v	any	any	any	
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+भेज	भेज	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कई	कई	QF		adj	any	any		d
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवक	सेवक	XC	0	n	m	sg	3	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+गायब	गायब	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+कई	कई	QF		adj	any	any		d
+बार	बार	RP		adv				
+उन्हें	उन्हें	PRP		unk				
+स्मार	स्मार	JJ		unk				
+पत्र	पत्र	NN	0	n	m	sg	3	d
+लिखा	लिखा	VM	0	v	any	any	any	
+परंतु	परंतु	CC		avy				
+न	न	NEG		adv				
+तो	तो	RP		avy				
+योजना	योजना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+और	और	CC		adv				
+न	न	NEG		adv				
+ही	ही	RP		adv				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+जमा	जमा	NN	0	v	any	any	any	
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सचिव	सचिव	NN	0	n	m	sg	3	d
+हमें	हमें	PRP		unk				
+जान	जान	NN	0	n	f	sg	3	d
+मारने	मार	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+धमकी	धमकी	NN	0	n	f	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+मैं	मैं	PRP	0	pn	any	sg	1	d
+डरा	डरा	NN	0	v	any	any	any	
+सहमा	सहम	VM	या	v	m	sg	any	
+रहता	रह	VAUX	ता	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+.	.	SYM		punc				
+</s>
+<s>
+दोषी	दोषी	JJ	0	n	m	sg	3	d
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+सेवकों	सेवक	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+प्रपत्र	प्रपत्र	NN	0	n	m	sg	3	d
+क	क	SYM		n	m	sg	3	d
+गठित	गठित	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+भेजा	भेज	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,288 @@
+जासं	जासं	NNP		unk				
+,	,	SYM		punc				
+प्रतापगढ़	प्रतापगढ़	NNP		punc				
+:	:	SYM		punc				
+शहर	शहर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+राजापाल	राजापाल	NN		unk				
+टंकी	टंकी	NN	0	n	f	sg	3	d
+चौराहा	चौराहा	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+यूनियन	यूनियन	NN	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एटीएम	एटीएम	NN		unk				
+बूथ	बूथ	NN		unk				
+में	में	PSP		psp				
+खडे	खडा	JJ		adj	m	sg		o
+पीएसी	पीएसी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जवान	जवान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एटीएम	एटीएम	NN		unk				
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दो	दो	QC	0	n	m	sg	3	d
+शातिर	शातिर	JJ		adj	any	any		any
+20	20	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निकाल	निकाल	VM	0	v	any	any	any	
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+एसपी	एसपी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एसपी	एसपी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+मुकदमा	मुकदमा	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+देवरिया	देवरिया	NNP		unk				
+जिले	जिला	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+कतराती	कतरा	JJ	ता	v	f	sg	any	
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+राकेश	राकेश	XC	0	n	m	sg	3	d
+कुमार	कुमार	XC	0	n	m	sg	3	d
+मिश्र	मिश्र	NNP	0	n	m	sg	3	d
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+स्वर्गीय	स्वर्गीय	JJ	0	n	m	sg	3	d
+मोहन	मोहन	XC	0	n	m	sg	3	d
+मिश्र	मिश्र	NNP	0	n	m	sg	3	d
+20	20	QC		num				
+वीं	वीं	XC		unk				
+वाहिनी	वाहिनी	XC	0	n	f	sg	3	d
+पीएसी	पीएसी	NN		unk				
+आजमगढ़	आजमगढ़	NN		punc				
+में	में	PSP		psp				
+तैनात	तैनात	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+दिनों	दिन	NN	0	n	m	pl	3	o
+उनकी	उनकी	PRP		unk				
+ड्यूटी	ड्यूटी	NN	0	n	f	sg	3	d
+जिला	जिला	JJ	0	v	any	any	any	
+जज	जज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+यहां	यहाँ	PRP		adv				
+लगी	लग	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+चार	चार	QC		adj	any	any		any
+अक्टूबर	अक्टूबर	NNP		unk				
+को	को	PSP		psp				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+निकालने	निकाल	VM	ना	v	m	pl	any	
+यूनियन	यूनियन	NN	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एटीएम	एटीएम	NN		unk				
+बूथ	बूथ	NN		unk				
+पर	पर	PSP		psp				
+पहुंचे	पहुंचे	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+वहां	वहाँ	PRP		adv				
+दो	दो	QC	0	n	m	sg	3	d
+लडके	लडका	NN	0	n	m	pl	3	d
+खडे	खडा	VM		adj	m	sg		o
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+जैसे	जैसे	PSP		adv				
+ही	ही	RP		adv				
+उन्होंने	उन्होंने	PRP		unk				
+एटीएम	एटीएम	NN		unk				
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+,	,	SYM		punc				
+पीछे	पीछा	NST	0	n	m	pl	3	d
+खडे	खडा	JJ		adj	m	sg		o
+युवक	युवक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+बटन	बटन	NN	0	n	m	sg	3	d
+दबा	दबा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+,	,	SYM		punc				
+इससे	इससे	PRP		pn	any	sg	3	o
+पैसा	पैसा	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+निकला	निकल	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उन्हें	उन्हें	PRP		unk				
+पीछे	पीछा	NST	0	n	m	pl	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+और	और	CC		adv				
+उनके	उनके	PRP		unk				
+एटीएम	एटीएम	NN		unk				
+से	से	PSP	0	v	any	any	any	
+20	20	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निकाल	निकाल	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+युवक	युवक	NN	0	n	m	sg	3	d
+चले	चल	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	PRP		pn	any	sg	3	o
+बीच	बीच	NST		psp				
+एटीएम	एटीएम	NN		unk				
+से	से	PSP	0	v	any	any	any	
+पर्ची	पर्ची	NN		unk				
+निकली	निकल	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+खाते	खाता	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+20	20	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निकलने	निकल	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+राकेश	राकेश	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+कोतवाली	कोतवाली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+तहरीर	तहरीर	NN		unk				
+दिया	दे	VM	या	v	m	sg	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+की	कर	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+राकेश	राकेश	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+एसपी	एसपी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+राकेश	राकेश	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+एटीएम	एटीएम	NN		unk				
+से	से	PSP	0	v	any	any	any	
+पैसा	पैसा	NN	0	n	m	sg	3	d
+निकालने	निकाल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+दिन	दिन	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+कौशांबी	कौशांबी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जो	जो	PRP		avy				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+युवक	युवक	NN	0	n	m	sg	3	d
+पकडे	पकड	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+आशंका	आशंका	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+उन	उन	DEM		unk				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+ही	ही	RP		adv				
+उनके	उनके	PRP		unk				
+खाते	खाता	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+पैसा	पैसा	NN	0	n	m	sg	3	d
+निकाला	निकाल	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+मुकदमा	मुकदमा	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

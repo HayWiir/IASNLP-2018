@@ -1,0 +1,282 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+बरेली	बरेली	NNP		unk				
+:	:	SYM		punc				
+किला	किला	NN	0	n	m	sg	3	d
+क्रासिंग	क्रासिंग	NN		unk				
+से	से	PSP	0	v	any	any	any	
+बडा	बडा	JJ		adj	m	sg		d
+बाजार	बाजार	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+कुतुबखाना	कुतुबखाना	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+जाम	जाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+निजात	निजात	JJ		unk				
+दिलाने	दिला	VM	ना	v	m	pl	any	
+व	व	CC		avy				
+लोगों	लोग	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पूर्वाह्न	पूर्वाह्न	NN		unk				
+11	11	QC		num				
+से	से	PSP	0	v	any	any	any	
+शाम	शाम	NN	0	n	f	sg	3	d
+7	7	QC		num				
+बजे	बज	VM	एं	v	any	sg	2	
+तक	तक	RP		avy				
+ठेले	ठेला	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पूर्णतया	पूर्णतया	RB		adv				
+प्रतिबंध	प्रतिबंध	NN	0	n	m	sg	3	d
+लगा	लगा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+भी	भी	RP		adv				
+ट्रैफिक	ट्रैफिक	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सिपाही	सिपाही	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+आदेशों	आदेश	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पालन	पालन	NN		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+कर	कर	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+पिछले	पिछला	JJ		adj	m	sg		o
+सप्ताह	सप्ताह	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+एसपी	एसपी	XC		unk				
+ट्रैफिक	ट्रैफिक	XC		unk				
+कमलेश	कमलेश	XC	0	n	m	sg	3	d
+बहादुर	बहादुर	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+जाम	जाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+निजात	निजात	JJ		unk				
+दिलाने	दिला	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+ठेलों	ठेला	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+प्रतिबंध	प्रतिबंध	NN	0	n	m	sg	3	d
+लगया	लगया	VM		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+किला	किला	NN	0	n	m	sg	3	d
+फाटक	फाटक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+ट्रांसपोर्ट	ट्रांसपोर्ट	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+बडा	बडा	JJ		adj	m	sg		d
+कारोबार	कारोबार	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दिनभर	दिनभर	NN		unk				
+वाहन	वाहन	NN	0	n	m	sg	3	d
+वहीं	वहीं	PRP		unk				
+पर	पर	PSP		psp				
+माल	माल	NN	0	n	m	sg	3	d
+उतारते	उतार	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+वहां	वहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+माल	माल	XC	0	n	m	sg	3	d
+ठेलों	ठेला	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+लादकर	लाद	VM	कर	v	any	any	any	
+बाजार	बाजार	NN	0	n	m	sg	3	d
+पहुंचाया	पहुंचाया	VM		unk				
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एसपी	एसपी	XC		unk				
+ट्रैफिक	ट्रैफिक	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+भी	भी	RP		adv				
+व्यापारी	व्यापारी	NN	0	n	m	sg	3	d
+मनमानी	मनमानी	JJ	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+तैनात	तैनात	JJ		adj	any	any		any
+ट्रैफिक	ट्रैफिक	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+सिपाहियों	सिपाही	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+सांठगांठ	सांठगांठ	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कहा	कह	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+प्रति	प्रति	RP:?		adv				
+ठेले	ठेला	NN	0	n	m	pl	3	d
+तीन	तीन	QC	0	n	m	sg	3	d
+सौ	सौ	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+हिसाब	हिसाब	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दिन	दिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ठेला	ठेला	NN	0	n	m	sg	3	d
+पास	पास	NST		adv				
+कराने	करा	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+ठेका	ठेका	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+वजह	वजह	NN	0	n	f	sg	3	d
+रही	रह	VM	या	v	f	sg	any	
+कि	कि	CC		avy				
+आदेश	आदेश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तीसरे	तीसरा	QO	0	n	m	pl	3	d
+ही	ही	RP		adv				
+दिन	दिन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+प्रतिबंध	प्रतिबंध	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+समय	समय	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+दिनभर	दिनभर	NN		unk				
+ठेले	ठेला	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+आवागमन	आवागमन	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+दोपहर	दोपहर	NN	0	n	f	sg	3	d
+दर्जनों	दर्जन	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+संख्या	संख्या	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+ओवरलोड	ओवरलोड	JJ		unk				
+ठेले	ठेला	NN	0	n	m	pl	3	d
+किला	किला	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+लेकर	ले	VM	कर	v	any	any	any	
+बडा	बडा	JJ		adj	m	sg		d
+बाजार	बाजार	NN	0	n	m	sg	3	d
+पहुंच	पहुंच	VM		unk				
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+वहां	वहाँ	PRP		adv				
+लंबा	लंबा	JJ		adj	m	sg		d
+जाम	जाम	NN	0	n	m	sg	3	d
+लग	लग	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+दोनों	दोना	JJ	0	n	m	pl	3	o
+तरफ	तरफ	NST		adv				
+ठेले	ठेला	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+भीड	भीड	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+ठेला	ठेला	NN	0	n	m	sg	3	d
+घुसते	घुस	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+जाम	जाम	NN	0	n	m	sg	3	d
+लग	लग	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+घंटों	घंटा	NN	0	n	m	pl	3	o
+जाम	जाम	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सैकडों	सैकडा	QC	0	n	m	pl	3	o
+वाहन	वाहन	XC	0	n	m	sg	3	d
+फंसे	फँस	NN	एं	v	any	sg	2	
+दिखे	दिख	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+दिन	दिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जाम	जाम	NN	0	n	m	sg	3	d
+लगने	लग	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+ट्रैफिक	ट्रैफिक	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+मामला	मामला	NN	0	n	m	sg	3	d
+दबाए	दबा	VM	एं	v	any	sg	2	
+रखा	रखा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+मामला	मामला	NN	0	n	m	sg	3	d
+टीएसआइ	टीएसआइ	XC		unk				
+को	को	PSP		psp				
+पता	पता	JJ	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+तो	तो	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+जिम्मेदारी	जिम्मेदारी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+क्लास	क्लास	NN	0	n	m	sg	3	d
+लगा	लगा	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

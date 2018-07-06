@@ -1,0 +1,97 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सूत्र	सूत्र	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+बिदुपुर	बिदुपुर	XC		unk				
+:	:	SYM		punc				
+बिदुपुर	बिदुपुर	XC		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बिदुपुर-मझौली	बिदुपुर-मझौली	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+दिलावरपुर	दिलावरपुर	NNP		unk				
+पूर्व	पूर्व	JJ		adj	any	any		any
+गांव	गाँव	NN	0	n	m	sg		d
+में	में	PSP		psp				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बीस	बीस	QC		adj	any	any		any
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निकाल	निकाल	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+घर	घर	NN	0	n	m	sg	3	d
+जा	जा	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+एक	एक	QC		adj	any	any		any
+शिक्षिका	शिक्षिका	NN		unk				
+से	से	PSP	0	v	any	any	any	
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+सवार	सवार	JJ	0	n	m	sg	3	d
+उचक्कों	उचक्का	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+सारे	सारा	QF		adj	m	sg		o
+पैसे	पैसा	NN	0	n	m	pl	3	d
+छीन	छीन	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+और	और	CC		adv				
+भाग	भाग	NN	0	v	any	any	any	
+निकले	निकल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+जंदाहा	जंदाहा	NN		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्राथमिक	प्राथमिक	JJ		adj	any	any		any
+विद्यालय	विद्यालय	XC	0	n	m	sg	3	d
+जगदीशपुर	जगदीशपुर	NNP		unk				
+में	में	PSP		psp				
+पदस्थापित	पदस्थापित	JJ		unk				
+शिक्षिका	शिक्षिका	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+उचक्कों	उचक्का	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+अंजाम	अंजाम	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+घटना	घटना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+थानाध्यक्ष	थानाध्यक्ष	JJ		unk				
+रितेश	रितेश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+मण्डल	मंडल	NN	0	n	m	sg		d
+ने	ने	PSP		psp				
+पहुंच	पहुंच	VM		unk				
+कर	कर	VAUX	0	v	any	any	any	
+छानबीन	छानबीन	NN	0	n	f	sg	3	d
+शुरू	शुरू	NN		avy				
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+समाचार	समाचार	NN	0	n	m	sg	3	d
+लिखे	लिख	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+तक	तक	RP		avy				
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज	दर्ज	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+हुई	हो	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

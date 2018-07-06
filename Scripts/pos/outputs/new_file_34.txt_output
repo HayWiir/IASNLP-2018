@@ -1,0 +1,354 @@
+राधाकिशन	राधाकिशन	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+बिलासपुर	बिलासपुर	NNP		unk				
+(	(	SYM		punc				
+नई	नई	JJ		adj	f	any		any
+दुनिया	दुनिया	NN	0	n	f	sg	3	d
+)	)	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+बेटी	बेटी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जन्म	जन्म	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+माता-पिता	माता-पिता	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+को	को	PSP		psp				
+गर्व	गर्व	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+इसलिए	इसलिये	CC		avy				
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+पंचायत	पंचायत	XC	0	n	f	sg	3	d
+हथनीकला	हथनीकला	NNP		unk				
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+अच्छी	अच्छी	JJ		adj	f	any		any
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+बेटी	बेटी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जन्म	जन्म	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+माता-पिता	माता-पिता	NN		unk				
+को	को	PSP		psp				
+उपहार	उपहार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पांच	पांच	QC		unk				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जन्मोत्सव	जन्मोत्सव	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+मनाया	मना	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+छत्तीसगढ	छत्तीसगढ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बिलासपुर	बिलासपुर	XC		unk				
+जिले	जिला	NNP	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+यह	यह	DEM	0	pn	any	sg	3	d
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	JJ	0	n	f	sg	3	d
+देश	देश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+शीर्ष	शीर्ष	NN	0	n	m	sg	3	d
+10	10	QC		num				
+सांसद	सांसद	NN	0	n	m	sg	3	d
+आदर्श	आदर्श	JJ	0	n	m	sg	3	d
+ग्रामों	ग्राम	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+शुमार	शुमार	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बेटी	बेटी	NN	0	n	f	sg	3	d
+बचाओ-बेटी	बचाओ-बेटी	NN		unk				
+पढाओ	पढा	VM	एं	v	any	pl	2	
+अभियान	अभियान	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+गति	गति	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+इस	इस	DEM		pn	any	sg	3	o
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+पिछले	पिछला	JJ		adj	m	sg		o
+साल	साल	NN	0	n	m	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+योजना	योजना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+निधि	निधि	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+यह	यह	DEM	0	pn	any	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+भेंट	भेंट	NN	0	n	f	sg	3	d
+करती	कर	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	PRP		avy				
+नहीं	नहीं	NEG		adv				
+,	,	SYM		punc				
+बेटी	बेटी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शिक्षा	शिक्षा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+आने	आ	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+अतिरिक्त	अतिरिक्त	JJ		adj	any	any		any
+खर्च	खर्च	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+वहन	वहन	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+निर्णय	निर्णय	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+लिया	ले	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शिक्षा	शिक्षा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+कॉपी-किताब	कॉपी-किताब	XC		unk				
+व	व	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+जरूरी	जरूरी	JJ		adj	f	any		any
+सामग्री	सामग्री	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+खरीदी	खरीद	NN	या	v	f	sg	any	
+में	में	PSP		psp				
+होने	हो	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+वहन	वहन	PRP	0	n	m	sg	3	d
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+करेगी	कर	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सरपंच	सरपंच	XC	0	n	m	sg	3	d
+संतू	संतू	XC		unk				
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+राजपूत	राजपूत	NN		unk				
+कहते	कह	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+पहल	पहल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ग्रामीणों	ग्रामीण	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+एक	एक	QC		adj	any	any		any
+सकारात्मक	सकारात्मक	JJ		adj	any	any		any
+संदेश	संदेश	NN	0	n	m	sg	3	d
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+हपंचायत	हपंचायत	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+किसी	किसी	PRP		unk				
+परिवार	परिवार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+बेटी	बेटी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जन्म	जन्म	NN	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+पंच	पंच	XC	0	n	m	sg	3	d
+या	या	CC		avy				
+फिर	फिर	RB	0	v	any	any	any	
+कोटवार	कोटवार	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जरिए	जरिये	PSP		psp				
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+सरपंच	सरपंच	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+पंच	पंच	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+बुजुर्गों	बुजुर्ग	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+टीम	टीम	NN	0	n	f	sg	3	d
+परिवार	परिवार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सदस्यों	सदस्य	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+पहुंचती	पहुंचती	VM		unk				
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+बतौर	बतौर	JJ		unk				
+उपहार	उपहार	NN	0	n	m	sg	3	d
+पांच	पांच	QC		unk				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+बेटी	बेटी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जन्म	जन्म	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+राशि	राशि	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+अलावा	अलावा	PSP:?		adv				
+बेटी	बेटी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जन्मदिन	जन्मदिन	NN		unk				
+भी	भी	RP		adv				
+धूमधाम	धूमधाम	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मनाय	मनाय	VM		unk				
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+खोला	खोल	VM	या	v	m	sg	any	
+विशेष	विशेष	JJ	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+खाता	खा	VM	ता	v	m	sg	any	
+इस	इस	DEM		pn	any	sg	3	o
+मद	मद	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+सदैव	सदैव	RB		adv				
+निधि	निधि	NN	0	n	f	sg	3	d
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+रहे	रह	VM	एं	v	any	sg	2	
+,	,	SYM		punc				
+इसके	इसके	PRP		pn	m	pl	3	d
+अलग	अलग	JJ		adj	any	any		any
+बैंक	बैंक	NN	0	n	m	sg	3	d
+खाता	खा	VM	ता	v	m	sg	any	
+भी	भी	RP		adv				
+खोला	खोल	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+बाजार	बाजार	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+विभागों	विभाग	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+मिलने	मिल	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+कर	कर	VM	0	v	any	any	any	
+की	का	PSP	का	psp	f	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+जमा	जमा	NN	0	v	any	any	any	
+किया	कर	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP:?		adv				
+सरपंच	सरपंच	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+पंचों	पंच	NN	0	n	m	pl	3	o
+द्वारा	द्वारा	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+तरफ	तरफ	NST		adv				
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+चंदा	चंदा	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+राशि	राशि	NN	0	n	f	sg	3	d
+जमा	जमा	JJ	0	v	any	any	any	
+की	कर	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+पढ़ें	पढ़ें	JJ		adv				
+:	:	SYM		punc				
+इस	इस	DEM		pn	any	sg	3	o
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अंग्रेजी	अंग्रेजी	JJ	0	n	f	sg	3	d
+माध्यम	माध्यम	NN		adj	any	any		any
+में	में	PSP		psp				
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+पढाई	पढा	NN	या	v	f	sg	any	

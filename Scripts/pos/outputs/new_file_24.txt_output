@@ -1,0 +1,649 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+बलिया	बलिया	NNP		unk				
+:	:	SYM		punc				
+स्वास्थ्य	स्वास्थ्य	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+घोटालों	घोटाला	NN	0	n	m	pl	3	o
+व	व	CC		avy				
+वित्तीय	वित्तीय	JJ	0	n	m	sg	3	d
+अनियमितताओं	अनियमितताओं	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+लंबी-चौडी	लंबी-चौडी	NN		n	f	sg	3	d
+फेहरिस्त	फेहरिस्त	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+भी	भी	RP		adv				
+किसी	किसी	PRP		unk				
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+इसका	इसका	PRP		pn	m	sg	3	d
+जाल	जाल	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+भी	भी	RP		adv				
+तेजी	तेजी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+फैलता	फैल	VM	ता	v	m	sg	any	
+चला	चला	VAUX	0	v	any	any	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हालात	हालात	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+जिन	जिन	DEM	0	n	m	sg	3	d
+मामलों	मामला	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+आडिट	आडिट	JJ		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+गडबडी	गडबडी	NN	0	n	f	sg	3	d
+पकडी	पकड	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+शासन	शासन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आदेश	आदेश	NN	0	n	m	sg	3	d
+हुए	हो	VM	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+उन	उन	PRP		unk				
+पर	पर	PSP		psp				
+पर्दा	पर्दा	NN	0	n	m	sg	3	d
+डालकर	डाल	VM	कर	v	any	any	any	
+उन्हें	उन्हें	PRP		unk				
+कब्र	कब्र	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तरह	तरह	NN		adv				
+से	से	PSP	0	v	any	any	any	
+दफन	दफन	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यहां	यहाँ	PRP		adv				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+धन	धन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+बंदरबांट	बंदरबांट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+कर्मी	कर्मी	NN		adj	f	any		any
+दिन	दिन	NN	0	n	m	sg	3	d
+दूना	दूना	JJ	0	n	m	sg	3	d
+रात	रात	NN	0	n	f	sg	3	d
+चौगुना	चौगुना	QF		adj	m	sg		d
+बढ़ते	बढ़ते	NNP		punc				
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+तो	तो	CC		avy				
+जनमानस	जनमानस	NN	0	n	m	sg	3	d
+मामूली	मामूली	JJ		adj	f	any		any
+स्वास्थ्य	स्वास्थ्य	XC	0	n	m	sg	3	d
+सुविधाओं	सुविधा	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+भी	भी	RP		adv				
+तरस	तरस	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जी	जी	INJ	0	v	any	any	any	
+हां	हाँ	INJ		avy				
+इस	इस	DEM		pn	any	sg	3	o
+फेहरिस्त	फेहरिस्त	NN		unk				
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+मामला	मामला	NN	0	n	m	sg	3	d
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+2013	2013	QC		num				
+-	-	SYM		punc				
+14	14	QC		num				
+का	का	PSP	का	psp	m	sg		d
+भी	भी	RP		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिस	जो	DEM	0	pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+एनआरएचएम	एनआरएचएम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आरसीएच	आरसीएच	XC		unk				
+फ्लेक्सी	फ्लेक्सी	NNP		unk				
+पुल	पुल	NN	0	n	m	sg	3	d
+कार्यक्रम	कार्यक्रम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+फर्जी	फर्जी	NN		adj	f	any		any
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+1	1	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+8	8	QC		num				
+लाख	लाख	QC		adj	any	any		any
+23	23	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+925	925	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+दवा	दवा	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+सर्जिकल	सर्जिकल	JJ		unk				
+आइटम	आइटम	NN		unk				
+खरीद	खरीद	NN	0	v	any	any	any	
+करने	कर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+आडिट	आडिट	NN		unk				
+में	में	PSP		psp				
+पकडा	पकड	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+वैधानिक	वैधानिक	JJ	0	n	m	sg	3	d
+आडिटर	आडिटर	NN	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+मामले	मामला	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+गंभीर	गंभीर	JJ		adj	any	any		any
+वित्तीय	वित्तीय	JJ	0	n	m	sg	3	d
+अनियमितता	अनियमितता	NN	0	n	f	sg	3	d
+मानते	मान	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+25	25	QC		num				
+फरवरी	फरवरी	NNP	0	n	f	sg	3	d
+2015	2015	QC		num				
+को	को	PSP		psp				
+ही	ही	RP		adv				
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+इसमें	इसमें	PRP		pn	any	sg	3	o
+आज	आज	NN		adv				
+तक	तक	RP		avy				
+कुछ	कुछ	QF		adj	any	any		d
+नहीं	नहीं	NEG		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तत्कालीन	तत्कालीन	JJ		adj	any	any		any
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+नियंत्रक	नियंत्रक	NN	0	n	m	sg	3	d
+गुरुजीत	गुरुजीत	XC		unk				
+¨	¨	XC		unk				
+सह	सह	QC	0	v	any	any	any	
+कल्सी	कल्सी	NN		unk				
+ने	ने	PSP		psp				
+प्रकरण	प्रकरण	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+शीर्ष	शीर्ष	NN	0	n	m	sg	3	d
+प्राथमिकता	प्राथमिकता	NN	0	n	f	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+लेकिन	लेकिन	CC		avy				
+इसमें	इसमें	PRP		pn	any	sg	3	o
+ऊपर	ऊपर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+नीचे	नीचा	NST	0	n	m	pl	3	d
+तक	तक	RP		avy				
+से	से	PSP	0	v	any	any	any	
+¨	¨	NN		unk				
+टग-गे	टग-गे	JJ		unk				
+¨	¨	NN		unk				
+टग	टग	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+इसे	इसे	PRP		pn	any	sg	3	o
+ठंडे	ठंडा	JJ		adj	m	sg		o
+बस्ते	बस्ता	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+डाल	डाल	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	PRP		pn	any	sg	3	o
+बीच	बीच	NST		psp				
+प्रदेश	प्रदेश	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+सत्ता	सत्ता	NN	0	n	f	sg	3	d
+परिवर्तन	परिवर्तन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+फिर	फिर	RB	0	v	any	any	any	
+16	16	QC		num				
+जून	जून	NNP	0	n	m	sg	3	d
+2017	2017	QC		num				
+को	को	PSP		psp				
+वित्त	वित्त	JJ	0	n	m	sg	3	d
+नियंत्रक	नियंत्रक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+जिलाधिकारी	जिलाधिकारी	NN		unk				
+को	को	PSP		psp				
+पत्र	पत्र	NN	0	n	m	sg	3	d
+भेजकर	भेज	VM	कर	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+दिए	दे	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+वर्तमान	वर्तमान	NN	0	n	m	sg	3	d
+जिलाधिकारी	जिलाधिकारी	JJ		unk				
+सुरेंद्र	सुरेंद्र	XC	0	n	m	sg	3	d
+विक्रम	विक्रम	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+ज्वाइंट	ज्वाइंट	XC		unk				
+मजिस्ट्रेट	मजिस्ट्रेट	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+सीएमओ	सीएमओ	NN		unk				
+व	व	CC		avy				
+मुख्य	मुख्य	JJ		adj	any	any		any
+कोषाधिकारी	कोषाधिकारी	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तीन	तीन	QC	0	n	m	sg	3	d
+सदस्यीय	सदस्यीय	JJ		unk				
+जांच	जांच	NN		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+गठित	गठित	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+सप्ताह	सप्ताह	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंदर	अंदर	NST	0	n	m	sg	3	d
+अभिलेखीय	अभिलेखीय	JJ		unk				
+जांच	जांच	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+स्पष्ट	स्पष्ट	JJ	0	n	m	sg	3	d
+व	व	CC		avy				
+तथ्यात्मक	तथ्यात्मक	JJ		unk				
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+मांगी	मांगी	VM		unk				
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+अभी	अभी	PRP		adv				
+पांच	पांच	QC		unk				
+महीने	महीना	NN	0	n	m	pl	3	d
+बीत	बीत	VM	0	v	any	any	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+भी	भी	RP		adv				
+कार्रवाई	कार्रवाई	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+सका	सक	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यहां	यहाँ	PRP		adv				
+घोटालों	घोटाला	NN	0	n	m	pl	3	o
+व	व	CC		avy				
+कार्रवाई	कार्रवाई	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+देख	देख	VM	0	v	any	any	any	
+खुद	खुद	PRP	0	v	any	any	any	
+ही	ही	RP		adv				
+अनुमान	अनुमान	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+कि	कि	CC		avy				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+वर्षों	वर्ष	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+ही	ही	RP		adv				
+पटल	पटल	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+बैठकर	बैठ	VM	कर	v	any	any	any	
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+धन	धन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जड	जड	NN	0	n	f	sg	3	d
+खोदने	खोद	VM	ना	v	m	pl	any	
+वालों	वाला	PSP	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+पैठ	पैठ	NN		unk				
+कितनी	कितनी	INTF		adj	f	any		any
+मजबूत	मजबूत	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दवा	दवा	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+सर्जिकल	सर्जिकल	JJ		unk				
+आइटम	आइटम	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+खरीद	खरीद	NN	0	v	any	any	any	
+में	में	PSP		psp				
+हुई	हो	VM	या	v	f	sg	any	
+यह	यह	PRP	0	pn	any	sg	3	d
+गंभीर	गंभीर	JJ		adj	any	any		any
+वित्तीय	वित्तीय	JJ	0	n	m	sg	3	d
+अनियमितता	अनियमितता	NN	0	n	f	sg	3	d
+यहां	यहाँ	PRP		adv				
+तमाम	तमाम	JJ		adj	any	any		any
+घोटालों	घोटाला	NN	0	n	m	pl	3	o
+व	व	CC		avy				
+अवैध	अवैध	JJ		adj	any	any		any
+नियुक्ति	नियुक्ति	NN	0	n	f	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+पिछले	पिछला	JJ		adj	m	sg		o
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+निलंबित	निलंबित	JJ		adj	any	any		any
+किए	कर	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+पूर्व	पूर्व	JJ		adj	any	any		any
+सीएमओ	सीएमओ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कार्यकाल	कार्यकाल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उस	उस	DEM		unk				
+दौरान	दौरान	NST	0	n	m	sg	3	d
+यहां	यहाँ	PRP		adv				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+धन	धन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जमकर	जम	VM	कर	v	any	any	any	
+बंदरबांट	बंदरबांट	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+कई	कई	QF		adj	any	any		d
+मामलों	मामला	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+आज	आज	NN		adv				
+भी	भी	RP		adv				
+जांच	जांच	NN		unk				
+चल	चल	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उस	उस	DEM		unk				
+समय	समय	NN	0	n	m	sg	3	d
+दवा	दवा	NN	0	n	f	sg	3	d
+खरीद	खरीद	NN	0	v	any	any	any	
+से	से	PSP	0	v	any	any	any	
+लेकर	ले	VM	कर	v	any	any	any	
+मानक	मानक	VM		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+विपरीत	विपरीत	JJ		psp				
+अवैध	अवैध	JJ		adj	any	any		any
+नियुक्ति	नियुक्ति	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+राष्ट्रीय	राष्ट्रीय	JJ		adj	any	any		any
+बाल	बाल	XC	0	n	m	sg	3	d
+स्वास्थ्य	स्वास्थ्य	XC	0	n	m	sg	3	d
+गारंटी	गारंटी	NNP	0	n	f	sg	3	d
+कार्यक्रम	कार्यक्रम	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+अनियमितता	अनियमितता	NN	0	n	f	sg	3	d
+सहित	सहित	JJ		psp				
+मरीजों	मरीज	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+भोजन	भोजन	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+सीएचसी-पीएचसी	सीएचसी-पीएचसी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+मरम्मत	मरम्मत	NN	0	n	f	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+तमाम	तमाम	JJ		adj	any	any		any
+मदों	मदों	NN		unk				
+में	में	PSP		psp				
+जमकर	जम	VM	कर	v	any	any	any	
+खेल	खेल	NN	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+यदि	यदि	CC		avy				
+उनके	उनके	PRP		unk				
+कार्यकाल	कार्यकाल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ही	ही	RP		adv				
+सही	सही	JJ		adv				
+तरीके	तरीका	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+जांच	जांच	NN		unk				
+हो	हो	VM	0	v	any	any	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+तो	तो	CC		avy				
+बोतल	बोतल	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अन्य	अन्य	JJ		adj	any	any		any
+कई	कई	QF		adj	any	any		d
+बडे	बडा	JJ		adj	m	sg		o
+जिन्न	जिन्न	NN	0	n	m	sg	3	d
+बाहर	बाहर	NST		psp				
+निकलेंगे	निकल	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+दवा	दवा	NN	0	n	f	sg	3	d
+खरीद	खरीद	NN	0	v	any	any	any	
+में	में	PSP		psp				
+अनियमितता	अनियमितता	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जो	जो	DEM		avy				
+खेल	खेल	NN	0	n	m	sg	3	d
+खेला	खेल	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+उसमें	उसमें	PRP		unk				
+मुख्य	मुख्य	JJ		adj	any	any		any
+दवा	दवा	NN	0	n	f	sg	3	d
+स्टोर	स्टोर	NN		unk				
+में	में	PSP		psp				
+कार्यरत	कार्यरत	JJ		unk				
+कर्मियों	कर्मियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+भी	भी	RP		adv				
+बडी	बडी	JJ		adj	f	any		any
+भूमिका	भूमिका	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हालात	हालात	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+दवा	दवा	NN	0	n	f	sg	3	d
+खरीद	खरीद	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+यहां	यहाँ	PRP		adv				
+पिछले	पिछला	JJ		adj	m	sg		o
+तीन-चार	तीन-चार	NN		unk				
+वर्षों	वर्ष	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+करोडों	करोड	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+बंदरबांट	बंदरबांट	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बडी	बडी	JJ		adj	f	any		any
+बात	बात	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+यहां	यहाँ	PRP		adv				
+खेल	खेल	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+कर्मी	कर्मी	NN		adj	f	any		any
+स्टोर	स्टोर	NN		unk				
+में	में	PSP		psp				
+वर्षों	वर्ष	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+ही	ही	RP		adv				
+जमे	जम	VM	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+फिर	फिर	RB	0	v	any	any	any	
+भी	भी	RP		adv				
+इन	इन	DEM		pn	any	pl	3	o
+पर	पर	PSP		psp				
+किसी	किसी	PRP		unk				
+का	का	PSP	का	psp	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+जाता	जा	VM	ता	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मानक	मानक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विपरीत	विपरीत	NST		psp				
+यहां	यहाँ	PRP		adv				
+तैनाती	तैनाती	JJ		unk				
+लेकर	ले	VM	कर	v	any	any	any	
+ऐसे	ऐसे	DEM		adv				
+कर्मी	कर्मी	NN		adj	f	any		any
+स्टोर	स्टोर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+वर्षों	वर्ष	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+जड	जड	NN	0	n	f	sg	3	d
+खोद	खोद	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जिलाधिकारी	जिलाधिकारी	JJ		unk				
+सुरेंद्र	सुरेंद्र	XC	0	n	m	sg	3	d
+विक्रम	विक्रम	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जांच	जांच	NN		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+लेकिन	लेकिन	CC		avy				
+निकाय	निकाय	NN	0	n	m	sg	3	d
+चुनाव	चुनाव	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वजह	वजह	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+इस	इस	PRP		pn	any	sg	3	o
+पर	पर	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+कार्रवाई	कार्रवाई	NN		unk				
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+सकी	सक	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मतगणना	मतगणना	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+तत्काल	तत्काल	JJ		adv				
+कार्रवाई	कार्रवाई	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+जो	जो	PRP		avy				
+भी	भी	RP		adv				
+शामिल	शामिल	JJ		adj	any	any		any
+होंगे	हो	VM	गा	v	m	pl	1	
+उन्हें	उन्हें	PRP		unk				
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+कीमत	कीमत	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+बख्शा	बख्शा	NN		unk				
+नहीं	नहीं	NEG		adv				
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

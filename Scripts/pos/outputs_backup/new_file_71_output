@@ -1,0 +1,243 @@
+पश्चिमी	पश्चिमी	JJ		adj	f	any		any
+चंपारण	चंपारण	NN		unk				
+[	[	SYM		punc				
+जेएनएन	जेएनएन	NNP		unk				
+]	]	SYM		punc				
+.	.	SYM		punc				
+</s>
+<s>
+भारत-नेपाल	भारत-नेपाल	NNP		unk				
+सीमा	सीमा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+इनरवा	इनरवा	NN		unk				
+बीओपी	बीओपी	NN		unk				
+पर	पर	PSP		psp				
+तैनात	तैनात	JJ		adj	any	any		any
+एसएसबी	एसएसबी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जवानों	जवान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+रविवार	रविवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+भारत	भारत	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+भेजी	भेज	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+चरस	चरस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+बड़ी	बड़ी	JJ		punc				
+खेप	खेप	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+पकड़ने	पकड़ने	NN		v	m	pl	any	
+में	में	PSP		psp				
+कामयाबी	कामयाबी	NN	0	n	f	sg	3	d
+हासिल	हासिल	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+,	,	SYM		punc				
+इस	इस	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+तस्कर	तस्कर	VM	0	n	m	sg	3	d
+पकड़	पकड़	NN		punc				
+में	में	PSP		psp				
+नहीं	नहीं	NEG		adv				
+आ	आ	VM		v	any	any	any	
+सका	सक	VAUX	या	v	m	sg	any	
+,	,	SYM		punc				
+मगर	मगर	CC	0	n	m	sg	3	d
+उनकी	उनकी	PRP		unk				
+मंशा	मंशा	NN	0	n	f	sg	3	d
+पूरी	पूरी	JJ	0	n	f	sg	3	d
+तरह	तरह	NN		adv				
+नाकाम	नाकाम	NN		unk				
+हो	हो	VM	0	v	any	any	any	
+गयी	गयी	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+एसएसबी	एसएसबी	NN		unk				
+जवानों	जवान	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+चौकसी	चौकसी	NN	0	n	f	sg	3	d
+देख	देख	VM	0	v	any	any	any	
+तस्कर	तस्कर	VM	0	n	m	sg	3	d
+चरस	चरस	NN	0	n	f	sg	3	d
+छोड़	छोड़	XC		punc				
+नेपाल	नेपाल	XC	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	PSP		adv				
+भाग	भाग	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+जब्त	जब्त	JJ	0	n	m	sg	3	d
+चरस	चरस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अंतर्राष्ट्रीय	अंतर्राष्ट्रीय	JJ		adj	any	any		any
+बाजार	बाजार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ढ़ाई	ढ़ाई	XC		unk				
+करोड़	करोड़	XC		punc				
+कीमत	कीमत	NN	0	n	f	sg	3	d
+आंकी	आंकी	VM		unk				
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+44	44	QC		num				
+वीं	वीं	XC		unk				
+वाहिनी	वाहिनी	NNP	0	n	f	sg	3	d
+सशस्त्र	सशस्त्र	JJ		adj	any	any		any
+सीमा	सीमा	XC	0	n	f	sg	3	d
+बल	बल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+डिप्टी	डिप्टी	XC	0	n	f	sg	3	d
+कमांडेंट	कमांडेंट	XC		unk				
+अंजय	अंजय	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+रजक	रजक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+गुप्त	गुप्त	JJ		adj	any	any		any
+सूचना	सूचना	NN	0	n	f	sg	3	d
+मिली	मिल	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+कि	कि	CC		avy				
+पिरारी	पिरारी	JJ		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+रास्ते	रास्ता	NN	0	n	m	pl	3	d
+तस्कर	तस्कर	VM	0	n	m	sg	3	d
+चरस	चरस	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+बड़ी	बड़ी	JJ		punc				
+खेप	खेप	NN	0	n	m	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+नेपाल	नेपाल	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भारत	भारत	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+लेकर	ले	VM	कर	v	any	any	any	
+आने	आ	VM	ना	v	m	pl	any	
+वाले	वाला	VAUX	0	n	m	pl	3	d
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+आलोक	आलोक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+त्वरित	त्वरित	JJ		adj	any	any		any
+कार्रवाई	कार्रवाई	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+इनारवा	इनारवा	JJ		unk				
+बीओपी	बीओपी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+एसएसबी	एसएसबी	NN		unk				
+जवानों	जवान	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+एलर्ट	एलर्ट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+चौकस	चौकस	NN		adj	any	any		any
+जवानों	जवान	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+इसी	इसी	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+कुछ	कुछ	QF		adj	any	any		d
+संदिग्धों	संदिग्धों	NN		unk				
+लोग	लोग	NN	0	n	m	sg	3	d
+नजर	नजर	NN	0	n	f	sg	3	d
+आए	आ	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसपर	इसपर	PRP		pn	any	sg	3	o
+जवानों	जवान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+ललकारा	ललकार	VM	या	v	m	sg	any	
+और	और	CC		adv				
+पकड़ने	पकड़ने	NN		v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+कोशिश	कोशिश	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+वे	वह	PRP	0	pn	any	pl	3	d
+अपने	अपना	PRP	0	n	m	pl	3	d
+साथ	साथ	NST		adv				
+लाए	ला	VM	एं	v	any	sg	2	
+गठरी	गठरी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+फेंक	फेंक	VM	0	v	any	any	any	
+रात्रि	रात्रि	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+फायदा	फायदा	NN	0	n	m	sg	3	d
+उठाकर	उठा	VM	कर	v	any	any	any	
+नेपाल	नेपाल	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+भागने	भाग	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+सफल	सफल	JJ	0	n	m	sg	3	d
+रहे	रह	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जवानों	जवान	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+जब	जब	PRP		adv				
+गठरी	गठरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जब	जब	PRP		adv				
+जांच	जांच	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तो	तो	RP		avy				
+साढ़े	साढ़े	NNP		punc				
+बारह	बारह	QC		adj	any	any		any
+किलो	किलो	XC		unk				
+चरस	चरस	NN	0	n	f	sg	3	d
+बरामद	बरामद	VM		adj	any	any		any
+हुई	हो	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इधर	इधर	XC		adv				
+,	,	SYM		punc				
+जब्त	जब्त	JJ	0	n	m	sg	3	d
+चरस	चरस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+एसएसबी	एसएसबी	NN		unk				
+इनारवा	इनारवा	JJ		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हवाले	हवाला	NN	0	n	m	pl	3	d
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+कार्रवाई	कार्रवाई	NN		unk				
+​	​	NN		unk				
+में	में	PSP		psp				
+जुटा	जुटा	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

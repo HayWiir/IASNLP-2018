@@ -1,0 +1,269 @@
+नजीबाबाद	नजीबाबाद	NN		unk				
+:	:	SYM		punc				
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+बुधवार	बुधवार	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+रात्रिमोहल्ला	रात्रिमोहल्ला	JJ		unk				
+मुगलूशाह	मुगलूशाह	NN		unk				
+में	में	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+सगे	सगा	JJ		adj	m	sg		o
+भाइयों	भाई	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बंद	बंद	JJ		adj	any	any		any
+पडे	पड	VM	एं	v	any	sg	2	
+मकानों	मकान	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+निशाना	निशाना	NN	0	n	m	sg	3	d
+बनाया	बना	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+चोर	चोर	NN	0	n	m	sg	3	d
+दोनों	दोना	JJ	0	n	m	pl	3	o
+भाइयों	भाई	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+घर	घर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+1.50	1.50	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+करीब	करीब	RB		adj	any	any		any
+पांच	पांच	QC		unk				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेवरात	जेवरात	NN		unk				
+और	और	CC		adv				
+एक	एक	QC		adj	any	any		any
+एलईडी	एलईडी	NN		unk				
+चुराकर	चुरा	VM	कर	v	any	any	any	
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पहुंची	पहुंची	VM		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+मौका	मौका	NN	0	n	m	sg	3	d
+मुआयना	मुआयना	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मोहल्ला	मोहल्ला	JJ	0	n	m	sg	3	d
+मुगलूशाह	मुगलूशाह	NN		n	m	sg	3	d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+अमित	अमित	JJ		adj	any	any		any
+टांक	टांक	NN		unk				
+पिछले	पिछला	JJ		adj	m	sg		o
+कई	कई	QF		adj	any	any		d
+दिन	दिन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बीमार	बीमार	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+परिजन	परिजन	NN	0	n	m	sg	3	d
+बुधवार	बुधवार	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+रात्रि	रात्रि	NN	0	n	f	sg	3	d
+उन्हें	उन्हें	PRP		unk				
+इलाज	इलाज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+एक	एक	QC		adj	any	any		any
+निजी	निजी	JJ	0	n	f	sg	3	d
+नर्सिंग	नर्सिंग	NN		unk				
+होम	होम	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+जबकि	जबकि	CC		avy				
+उनका	उनका	PRP		unk				
+भाई	भाई	NN	0	n	m	sg	3	d
+सुमित	सुमित	JJ		unk				
+टांक	टांक	NN		unk				
+परिवार	परिवार	NN	0	n	m	sg	3	d
+समेत	समेत	PSP		psp				
+बाहर	बाहर	NST		psp				
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+परिजनों	परिजन	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+बुधवार	बुधवार	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+रात्रि	रात्रि	NN	0	n	f	sg	3	d
+ताले	ताला	NN	0	n	m	pl	3	d
+तोडकर	तोड	VM	कर	v	any	any	any	
+घर	घर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+घुसे	घुस	VM	एं	v	any	sg	2	
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+अमित	अमित	JJ		adj	any	any		any
+टांक	टांक	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+घर	घर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+1.50	1.50	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+नकदी	नकदी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+करीब	करीब	XC		punc				
+साढ़े	साढ़े	NNP		punc				
+तीन	तीन	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपए	रुपया	NN	0	n	m	pl		d
+की	का	PSP	का	psp	f	sg		d
+कीमत	कीमत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेवरात	जेवरात	NN		unk				
+तथा	तथा	CC		adv				
+उनके	उनके	PRP		unk				
+भाई	भाई	NN	0	n	m	sg	3	d
+सुमित	सुमित	JJ		unk				
+के	का	PSP	का	psp	m	sg		o
+घर	घर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+1.50	1.50	QC		num				
+कीमत	कीमत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेवरात	जेवरात	NN		unk				
+और	और	CC		adv				
+एक	एक	QC		adj	any	any		any
+एलईडी	एलईडी	XC		unk				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+चोरी	चोरी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+गुरुवार	गुरुवार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सुबह	सुबह	NN	0	n	f	sg	3	d
+उस	उस	DEM		unk				
+वक्त	वक्त	NN	0	n	m	sg	3	d
+पता	पता	JJ	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+,	,	SYM		punc				
+जब	जब	PRP		adv				
+पडोसियों	पडोसी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+मकान	मकान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ताले	ताला	JJ	0	n	m	pl	3	d
+टूटे	टूट	NN	एं	v	any	sg	2	
+देखे	देख	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+घर	घर	NN	0	n	m	sg	3	d
+पहुंचने	पहुंचने	VM		unk				
+पर	पर	PSP		psp				
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+परिवार	परिवार	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+सूचित	सूचित	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पहुंची	पहुंची	VM		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+मौका-मुआयना	मौका-मुआयना	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+परिवार	परिवार	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+हुए	हो	VM	या	v	m	pl	any	
+नुकसान	नुकसान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+हासिल	हासिल	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+उधर	उधर	NST		adv				
+,	,	SYM		punc				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मोहल्ले	मोहल्ला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+दहशत	दहशत	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+माहौल	माहौल	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+प्रशासन	प्रशासन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रात्रि	रात्रि	XC	0	n	f	sg	3	d
+गश्त	गश्त	NN	0	n	m	sg	3	d
+तेज	तेज	JJ		adv				
+कराए	करा	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+की	का	PSP	का	psp	f	sg		d
+मांग	मांग	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उधर	उधर	XC		adv				
+,	,	SYM		punc				
+कोतवाल	कोतवाल	NN	0	n	m	sg	3	d
+सतीश	सतीश	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+जल्द	जल्द	NN		adj	any	any		any
+ही	ही	RP		adv				
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पर्दाफाश	पर्दाफाश	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

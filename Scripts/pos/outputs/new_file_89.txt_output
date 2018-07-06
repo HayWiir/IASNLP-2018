@@ -1,0 +1,192 @@
+जासं	जासं	NNP		unk				
+,	,	SYM		punc				
+यमुनानगर	यमुनानगर	NNP		unk				
+:	:	SYM		punc				
+जिले	जिला	NNP	0	n	m	pl	3	d
+में	में	PSP		psp				
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+फैक्टरी	फैक्टरी	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+घर	घर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ताले	ताला	NN	0	n	m	pl	3	d
+तोडकर	तोड	VM	कर	v	any	any	any	
+हजारों	हजारा	QC	0	n	m	pl	3	o
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+सामान	सामान	NN	0	n	m	sg	3	d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+अन्य	अन्य	JJ		adj	any	any		any
+स्थान	स्थान	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बाइक	बाइक	NN		unk				
+भी	भी	RP		adv				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+सभी	सभी	QF	0	n	m	sg	3	d
+मामलों	मामला	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+केस	केस	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	VM	0	n	m	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+ज्योतिनगर	ज्योतिनगर	CC		unk				
+कालोनी	कालोनी	JJ	0	n	f	sg	3	d
+निवासी	निवासी	NN	0	n	f	sg	3	d
+रमन	रमन	XC		unk				
+सहगल	सहगल	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उसकी	उसकी	PRP		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+कामी	कामी	JJ		adj	f	any		any
+माजरा	माजरा	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एनएस	एनएस	XC		unk				
+वुड	वुड	XC		unk				
+इंडस्ट्रीज	इंडस्ट्रीज	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+फैक्ट्री	फैक्ट्री	NN		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+बृहस्पतिवार	बृहस्पतिवार	JJ	0	n	m	sg	3	d
+रात	रात	NN	0	n	f	sg	3	d
+फैक्टरी	फैक्टरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ताले	ताला	NN	0	n	m	pl	3	d
+तोडकर	तोड	VM	कर	v	any	any	any	
+आठ	आठ	QC	0	n	m	sg	3	d
+मोटर	मोटर	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+सात	सात	QC	0	n	m	sg	3	d
+ब्लेड	ब्लेड	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+एक	एक	QC		adj	any	any		any
+इनवर्टर	इनवर्टर	NN		unk				
+,	,	SYM		punc				
+बैटरी	बैटरी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+जनरेटर	जनरेटर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+बैटरी	बैटरी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+17	17	QC		num				
+चोपर	चोपर	VAUX		unk				
+के	का	PSP	का	psp	m	sg		o
+पंखे	पंखा	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+तीन	तीन	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+उठा	उठा	VM	0	v	any	any	any	
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इतना	इतना	QF		adj	m	sg		d
+ही	ही	RP		adv				
+नहीं	नहीं	NEG		adv				
+जब	जब	PRP		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+घर	घर	NN	0	n	m	sg	3	d
+पहुंचा	पहुंचा	VM		unk				
+तो	तो	CC		avy				
+उसके	उसके	PRP		unk				
+भी	भी	RP		adv				
+ताले	ताला	NN	0	n	m	pl	3	d
+टूटे	टूट	VM	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+और	और	CC		adv				
+तीन	तीन	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+और	और	CC		adv				
+ब्लैंकेट	ब्लैंकेट	NN		unk				
+गायब	गायब	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसने	उसने	PRP		unk				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+दी	दे	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मलिकपुर	मलिकपुर	NNP		unk				
+गांव	गाँव	XC	0	n	m	sg		d
+बांगर	बांगर	NNP		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+सुमित	सुमित	JJ		unk				
+कुमार	कुमार	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+बसातियावाला	बसातियावाला	NN		unk				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+हनुमान	हनुमान	XC	0	n	m	sg	3	d
+मंदिर	मंदिर	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+बाइक	बाइक	NN		unk				
+पर	पर	PSP		psp				
+माथा	माथा	NN	0	n	m	sg	3	d
+टेकने	टेक	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जहां	जहाँ	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उसकी	उसकी	PRP		unk				
+बाइक	बाइक	NN		unk				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

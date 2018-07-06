@@ -1,0 +1,262 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सूत्र	सूत्र	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+फफूंद	फफूंद	NN		unk				
+(	(	SYM		punc				
+औरैया	औरैया	NN		unk				
+)	)	SYM		punc				
+:	:	SYM		punc				
+शादी	शादी	NN	0	n	f	sg	3	d
+समारोह	समारोह	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+शामिल	शामिल	JJ		adj	any	any		any
+होने	हो	VM	ना	v	m	pl	any	
+गए	गए	VAUX		unk				
+एक	एक	QC		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+डिग्गी	डिग्गी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कुछ	कुछ	QF		adj	any	any		d
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+दस	दस	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+व	व	CC		avy				
+चेक	चेक	NN	0	n	m	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+सामान	सामान	NN	0	n	m	sg	3	d
+पार	पार	NN		psp				
+कर	कर	VM	0	v	any	any	any	
+दिये	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपियों	आरोपियों	NN		unk				
+से	से	PSP	0	v	any	any	any	
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वापस	वापस	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+कहने	कह	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+धमकी	धमकी	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+दे	दे	VM	0	v	any	any	any	
+डाली	डाल	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+लोगो	लोगो	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गांव	गाँव	NN	0	n	m	sg		d
+¨	¨	XC		unk				
+सगलामऊ	सगलामऊ	XC		unk				
+निवासी	निवासी	XC	0	n	f	sg	3	d
+शिवराज	शिवराज	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+जयराम	जयराम	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	PSP	0	v	any	any	any	
+गत	गत	JJ		adj	any	any		any
+रात	रात	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+धर्मपुर	धर्मपुर	NNP		unk				
+में	में	PSP		psp				
+राजेंद्र	राजेंद्र	XC	0	n	m	sg	3	d
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+मोतीलाल	मोतीलाल	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+बेटी	बेटी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शादी	शादी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+शामिल	शामिल	JJ		adj	any	any		any
+होने	हो	VM	ना	v	m	pl	any	
+गए	गए	VAUX		unk				
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहां	वहाँ	PRP		adv				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+खडी	खडी	JJ		unk				
+करके	कर	VM	कर	v	any	any	any	
+खाना	खाना	NN	0	n	m	sg	3	d
+खाने	खा	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+तभी	तभी	PRP		adv				
+थोडी	थोडी	QF		adv				
+देर	देर	NN		adv				
+में	में	PSP		psp				
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+सुभाष	सुभाष	NN		unk				
+ने	ने	PSP		psp				
+आकर	आ	VM	कर	v	any	any	any	
+शिवराज	शिवराज	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+को	को	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उनकी	उनकी	PRP		unk				
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+लगी	लग	VM	या	v	f	sg	any	
+डिग्गी	डिग्गी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+धर्मपुर	धर्मपुर	JJ		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+सुनील	सुनील	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+सोबरन	सोबरन	XC		unk				
+,	,	SYM		punc				
+बांकेलाल	बांकेलाल	NN		unk				
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+हरदयाल	हरदयाल	NNP		unk				
+,	,	SYM		punc				
+करन	करन	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+कालीचरन	कालीचरन	NN		unk				
+कुछ	कुछ	QF		adj	any	any		d
+सामान	सामान	NN	0	n	m	sg	3	d
+निकाल	निकाल	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+मिलते	मिल	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+वे	वह	PRP	0	pn	any	pl	3	d
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+पहुंचे	पहुंचे	VM		unk				
+तो	तो	CC		avy				
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+डिग्गी	डिग्गी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+ताला	ताला	NN	0	n	m	sg	3	d
+टूटा	टूट	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+और	और	CC		adv				
+उससे	उससे	PRP		unk				
+दस	दस	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+चेक	चेक	NNP	0	n	m	sg	3	d
+बुक	बुक	VM	0	n	m	sg	3	d
+व	व	CC		avy				
+पासबुक	पासबुक	NN	0	n	f	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+गायब	गायब	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+शिवराज	शिवराज	XC		unk				
+¨	¨	NN		unk				
+सह	सह	PSP	0	v	any	any	any	
+उन	उन	DEM		unk				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+ढूंढते	ढूंढते	VM		unk				
+रहे	रह	VAUX	एं	v	any	sg	2	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+आरोपी	आरोपी	NN		unk				
+नहीं	नहीं	NEG		adv				
+मिले	मिल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दिन	दिन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सुनील	सुनील	JJ	0	n	m	sg	3	d
+मिले	मिल	VM	एं	v	any	sg	2	
+तो	तो	CC		avy				
+शिवराज	शिवराज	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+उनसे	उनसे	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+सामान	सामान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वापसी	वापसी	NN		adj	f	any		any
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+सभी	सभी	QF	0	n	m	sg	3	d
+आरोपी	आरोपी	NN		unk				
+एक	एक	QC		adj	any	any		any
+राय	राय	NN	0	n	f	sg	3	d
+होकर	हो	VM	कर	v	any	any	any	
+धमकी	धमकी	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शिवराज	शिवराज	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+थाने	थाना	VM	0	n	m	pl	3	d
+में	में	PSP		psp				
+सुनील	सुनील	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+बांकेलाल	बांकेलाल	NN		unk				
+व	व	CC		avy				
+करन	करन	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

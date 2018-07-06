@@ -6,7 +6,7 @@
 दिल्ली	O	NNP	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-दिल्ली	O	NNP	NaN	NaN
+दिल्ली	O	XC	NaN	NaN
 सरकार	O	NN	NaN	NaN
 ने	O	PSP	NaN	NaN
 अब	O	PRP	NaN	NaN
@@ -30,7 +30,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-यह	O	DEM	NaN	NaN
+यह	O	SYM	NaN	NaN
 कमिटी	O	NN	NaN	NaN
 अगले	B-P	JJ	NaN	NaN
 6	I-P	QC	NaN	DAC
@@ -54,8 +54,8 @@
 करेगी	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-सरकार	O	NN	NaN	NaN
-का	O	PSP	NaN	NaN
+सरकार	O	SYM	NaN	NaN
+का	O	NN	NaN	NaN
 मानना	O	VM	NaN	NaN
 है	O	VAUX	NaN	NaN
 कि	O	CC	NaN	NaN
@@ -87,7 +87,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-यानी	O	CC	NaN	NaN
+यानी	O	SYM	NaN	NaN
 अब	O	PRP	NaN	NaN
 नए	O	JJ	NaN	NaN
 ऐक्ट	O	NN	NaN	NaN
@@ -108,7 +108,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-हालांकि	O	CC	NaN	NaN
+हालांकि	O	SYM	NaN	NaN
 इसके	O	PRP	NaN	NaN
 लिए	O	PSP	NaN	NaN
 उसे	O	PRP	NaN	NaN
@@ -124,7 +124,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-ड्राफ्ट	O	NN	NaN	NaN
+ड्राफ्ट	O	SYM	NaN	NaN
 तैयार	O	JJ	NaN	NaN
 करने	O	VM	NaN	NaN
 के	O	PSP	NaN	NaN
@@ -144,22 +144,22 @@
 जॉइंट	O	XC	NaN	NaN
 सेक्रेटरी	O	NNP	NaN	NaN
 के	O	PSP	NaN	NaN
-धर्मराजन	O	NNP	NaN	NaN
+धर्मराजन	O	SYM	NaN	NaN
 को	O	PSP	NaN	NaN
 बनाया	O	VM	NaN	NaN
 गया	O	VAUX	NaN	NaN
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इसके	O	PRP	NaN	NaN
+इसके	O	SYM	NaN	NaN
 अलावा	O	PSP:?	NaN	NaN
 अर्बन	O	XC	NaN	NaN
 पॉलिसी	O	NNP	NaN	NaN
 एक्सपर्ट	O	XC	NaN	NaN
 आर	O	XC	NaN	NaN
-एम	O	XC	NaN	NaN
-कपूर	O	NN	NaN	NaN
-प्लानिंग	O	XC	NaN	NaN
+एम	O	SYM	NaN	NaN
+कपूर	O	SYM	NaN	NaN
+प्लानिंग	O	SYM	NaN	NaN
 कमिशन	O	NN	NaN	NaN
 में	O	PSP	NaN	NaN
 शहरी	O	JJ	NaN	NaN
@@ -170,8 +170,8 @@
 पूर्व	O	JJ	NaN	NaN
 कंसलटेंट	O	XC	NaN	NaN
 बी	O	NNP	NaN	NaN
-एन	O	XC	NaN	NaN
-सिंह	O	NNP	NaN	NaN
+एन	O	SYM	NaN	NaN
+सिंह	O	SYM	NaN	NaN
 और	O	CC	NaN	NaN
 दिल्ली	O	NNP	NaN	NaN
 सरकार	O	NN	NaN	NaN
@@ -183,8 +183,8 @@
 पूर्व	O	NST	NaN	NaN
 कंसलटेंट	O	NN	NaN	NaN
 आर	O	XC	NaN	NaN
-डी	O	NN	NaN	NaN
-गुप्ता	O	NN	NaN	NaN
+डी	O	SYM	NaN	NaN
+गुप्ता	O	SYM	NaN	NaN
 को	O	PSP	NaN	NaN
 सदस्य	O	NN	NaN	NaN
 बनाया	O	VM	NaN	NaN
@@ -192,7 +192,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-दिल्ली	O	NNP	NaN	NaN
+दिल्ली	O	SYM	NaN	NaN
 के	O	PSP	NaN	NaN
 चीफ	O	XC	NaN	NaN
 सेक्रेटरी	O	XC	NaN	NaN
@@ -215,7 +215,7 @@
 हैं	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इनमें	O	PRP	NaN	NaN
+इनमें	O	SYM	NaN	NaN
 कहा	O	VM	NaN	NaN
 गया	O	VAUX	NaN	NaN
 है	O	VAUX	NaN	NaN
@@ -234,7 +234,7 @@
 होगी	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इस	O	DEM	NaN	NaN
+इस	O	SYM	NaN	NaN
 कमिटी	O	NN	NaN	NaN
 से	O	PSP	NaN	NaN
 यह	O	PRP	NaN	NaN
@@ -259,7 +259,7 @@
 करे	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-कमिटी	O	NN	NaN	NaN
+कमिटी	O	SYM	NaN	NaN
 से	O	PSP	NaN	NaN
 कहा	O	VM	NaN	NaN
 गया	O	VAUX	NaN	NaN
@@ -283,7 +283,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इसके	O	PRP	NaN	NaN
+इसके	O	SYM	NaN	NaN
 अलावा	O	PSP:?	NaN	NaN
 वह	O	PRP	NaN	NaN
 चाहे	O	CC:?	NaN	NaN
@@ -300,7 +300,7 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इसके	O	PRP	NaN	NaN
+इसके	O	SYM	NaN	NaN
 अलावा	O	PSP:?	NaN	NaN
 उसे	O	PRP	NaN	NaN
 दिल्ली	O	NNP	NaN	NaN
@@ -323,11 +323,11 @@
 होगी	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इस	O	DEM	NaN	NaN
+इस	O	SYM	NaN	NaN
 कमिटी	O	NN	NaN	NaN
 का	O	PSP	NaN	NaN
 गठन	O	NN	NaN	NaN
-3	B-D	QC	NaN	DAC
+3	B-D	SYM	NaN	DAC
 फरवरी	I-D	NNP	PIV	NaN
 को	O	PSP	NaN	NaN
 कैबिनेट	O	XC	NaN	NaN
@@ -346,21 +346,21 @@
 है	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-दरअसल	O	NN	NaN	NaN
-अभी	O	RDP	NaN	NaN
+दरअसल	O	SYM	NaN	NaN
+अभी	O	SYM	NaN	NaN
 जो	O	PRP	NaN	NaN
 नगर	O	NN	NaN	NaN
 निगम	O	JJ	NaN	NaN
 ऐक्ट	O	NN	NaN	NaN
 है	O	VM	NaN	NaN
-वह	O	PRP	NaN	NaN
+वह	O	SYM	NaN	NaN
 संसद	O	NN	NaN	NaN
 से	O	PSP	NaN	NaN
 पारित	O	JJ	NaN	NaN
 है	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इस	O	DEM	NaN	NaN
+इस	O	SYM	NaN	NaN
 ऐक्ट	O	NN	NaN	NaN
 में	O	PSP	NaN	NaN
 ज्यादातर	O	JJ	NaN	NaN
@@ -372,7 +372,7 @@
 हैं	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-लेकिन	O	CC	NaN	NaN
+लेकिन	O	SYM	NaN	NaN
 अब	O	PRP	NaN	NaN
 दिल्ली	O	NNP	NaN	NaN
 सरकार	O	NN	NaN	NaN
@@ -386,7 +386,7 @@
 एक्ट	O	NN	NaN	NaN
 बना	O	VM	NaN	NaN
 था	O	VAUX	NaN	NaN
-तब	O	PRP	NaN	NaN
+तब	O	SYM	NaN	NaN
 दिल्ली	O	NNP	NaN	NaN
 में	O	PSP	NaN	NaN
 राज्य	O	XC	NaN	NaN
@@ -395,7 +395,7 @@
 थी	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-इस	O	DEM	NaN	NaN
+इस	O	SYM	NaN	NaN
 वजह	O	NN	NaN	NaN
 से	O	PSP	NaN	NaN
 दिल्ली	O	NNP	NaN	NaN
@@ -409,13 +409,13 @@
 रहा	O	VM	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-लेकिन	O	CC	NaN	NaN
+लेकिन	O	SYM	NaN	NaN
 दूसरे	O	JJ	NaN	NaN
 राज्यों	O	NN	NaN	NaN
 में	O	PSP	NaN	NaN
 नगर	O	NN	NaN	NaN
 निगम	O	NN	NaN	NaN
-राज्य	O	XC	NaN	NaN
+राज्य	O	SYM	NaN	NaN
 सरकार	O	NNP	NaN	NaN
 के	O	PSP	NaN	NaN
 मातहत	O	NN	NaN	NaN
@@ -423,7 +423,7 @@
 हैं	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-अब	O	PRP	NaN	NaN
+अब	O	SYM	NaN	NaN
 चूंकि	O	CC	NaN	NaN
 दिल्ली	O	NNP	NaN	NaN
 में	O	PSP	NaN	NaN
@@ -431,7 +431,7 @@
 राज्य	O	XC	NaN	NaN
 सरकार	O	NN	NaN	NaN
 है	O	VM	NaN	NaN
-ऐसे	O	PRP	NaN	NaN
+ऐसे	O	SYM	NaN	NaN
 में	O	PSP	NaN	NaN
 नगर	O	NN	NaN	NaN
 निगम	O	XC	NaN	NaN
@@ -444,7 +444,7 @@
 चाहिए	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-दिल्ली	O	NNP	NaN	NaN
+दिल्ली	O	SYM	NaN	NaN
 सरकार	O	NN	NaN	NaN
 का	O	PSP	NaN	NaN
 कहना	O	VM	NaN	NaN
@@ -490,7 +490,7 @@
 जाए	O	VAUX	NaN	NaN
 ।	O	SYM	NaN	NaN
 	
-गौरतलब	O	NN	NaN	NaN
+गौरतलब	O	SYM	NaN	NaN
 है	O	VM	NaN	NaN
 कि	O	CC	NaN	NaN
 ऐक्ट	O	NN	NaN	NaN
@@ -502,7 +502,7 @@
 शुरू	O	NN	NaN	NaN
 की	O	VM	NaN	NaN
 गई	O	VAUX	NaN	NaN
-जब	O	PRP	NaN	NaN
+जब	O	SYM	NaN	NaN
 केंद्र	O	XC	NaN	NaN
 सरकार	O	NNP	NaN	NaN
 ने	O	PSP	NaN	NaN

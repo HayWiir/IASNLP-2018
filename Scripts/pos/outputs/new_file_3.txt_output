@@ -1,0 +1,431 @@
+नवादा	नवादा	NN		unk				
+.	.	SYM		punc				
+</s>
+<s>
+बिहार	बिहार	XC	0	n	m	sg	3	d
+मंदिर	मंदिर	NNP	0	n	m	sg	3	d
+चारदिवारी	चारदिवारी	NN		unk				
+निर्माण	निर्माण	XC	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+अन्तर्गत	अंतर्गत	JJ		adj	any	any		any
+जिले	जिला	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+12	12	QC		num				
+निबंधित	निबंधित	JJ		unk				
+मंदिरों	मंदिर	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+वरीयताक्रम	वरीयताक्रम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+घेराबंदी	घेराबंदी	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+प्रशासनिक	प्रशासनिक	JJ	0	n	m	sg	3	d
+स्वीकृति	स्वीकृति	NN	0	n	m	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+गौरतलब	गौरतलब	NN		unk				
+हो	हो	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+बिहार	बिहार	NNP	0	n	m	sg	3	d
+राज्य	राज्य	NN	0	n	m	sg	3	d
+धार्मिक	धार्मिक	JJ	0	n	m	sg	3	d
+न्यास	न्यास	NN	0	n	m	sg	3	d
+पर्षद	पर्षद	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+नवादा	नवादा	JJ		unk				
+जिला	जिला	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निबंधित	निबंधित	JJ		unk				
+मंदिरों	मंदिर	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+सूची	सूची	NN	0	n	f	sg	3	d
+प्राप्त	प्राप्त	JJ		adj	any	any		any
+हुई	हो	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कार्यपालक	कार्यपालक	XC	0	n	m	sg	3	d
+अभियंता	अभियंता	NNP	0	n	m	sg	3	d
+स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+अभियंत्रण	अभियंत्रण	XC		unk				
+संगठन	संगठन	NN	0	n	m	sg	3	d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+प्रमंडल	प्रमंडल	NN	0	n	m	sg	3	d
+नवादा	नवादा	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+बिहार	बिहार	XC	0	n	m	sg	3	d
+मंदिर	मंदिर	NNP	0	n	m	sg	3	d
+चारदिवारी	चारदिवारी	NN		unk				
+निर्माण	निर्माण	XC	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+प्राक्कलन	प्राक्कलन	NN	0	n	m	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वर्तमान	वर्तमान	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+योजना	योजना	NN	0	n	f	sg	3	d
+एवं	एवं	CC		avy				
+विकास	विकास	XC	0	n	m	sg	3	d
+विभाग	विभाग	XC	0	n	m	sg	3	d
+बिहार	बिहार	NNP	0	n	m	sg	3	d
+,	,	SYM		punc				
+पटना	पट	NNP	ना	v	m	sg	any	
+द्वारा	द्वारा	PSP		psp				
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+कराए	करा	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+आवंटन	आवंटन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आलोक	आलोक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+वरीयताक्रम	वरीयताक्रम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+चयनित	चयनित	JJ		unk				
+जिले	जिला	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+12	12	QC		num				
+मंदिरों	मंदिर	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+घेराबंदी	घेराबंदी	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+कुल	कुल	QF		adj	any	any		any
+98	98	QC		num				
+लाख	लाख	QC		adj	any	any		any
+81	81	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+100	100	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रशासनिक	प्रशासनिक	JJ	0	n	m	sg	3	d
+स्वीकृति	स्वीकृति	NN	0	n	m	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वारिसलीगंज	वारिसलीगंज	JJ		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+अपसढ़	अपसढ़	NNP		punc				
+गढ़	गढ़	NN		punc				
+में	में	PSP		psp				
+श्री	श्री	XC	0	n	f	sg	3	d
+अफसढ़	अफसढ़	NNP		unk				
+पार्वती	पार्वती	JJ	0	n	f	sg	3	d
+विरासत	विरासत	NN	0	n	f	sg	3	d
+संरक्षण	संरक्षण	NN	0	n	m	sg	3	d
+समिति	समिति	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+हेतु	हेतु	PSP		psp				
+505000	505000	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+अकबरपुर	अकबरपुर	XC		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मेयापुर	मेयापुर	NN		unk				
+संगत	संगत	JJ	0	n	f	sg	3	d
+मंदिर	मंदिर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चहारदिवारी	चहारदिवारी	JJ		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+917300	917300	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+हिसुआ	हिसुआ	NN		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पांचु	पांचु	NN		unk				
+नानकशाही	नानकशाही	JJ		unk				
+मंदिर	मंदिर	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चहारदिवारी	चहारदिवारी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+698800	698800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+अकबरपुर	अकबरपुर	XC		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ठाकुर	ठाकुर	JJ	0	n	m	sg	3	d
+धोवघटी	धोवघटी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+चहारदिवारी	चहारदिवारी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+759700	759700	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+रोह	रोह	NN	0	n	m	sg	3	d
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कुंज	कुंज	NN	0	n	m	sg	3	d
+ठाकुरवाडी	ठाकुरवाडी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+1143600	1143600	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+काशीचक	काशीचक	XC		punc				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+मधेपुर	मधेपुर	NNP		unk				
+में	में	PSP		psp				
+श्री	श्री	XC	0	n	f	sg	3	d
+महादेव	महादेव	NNP	0	n	m	sg	3	d
+स्थान	स्थान	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+865800	865800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+सिरदला	सिरदला	JJ		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+बहुआरा	बहुआरा	NNP		unk				
+में	में	PSP		psp				
+देवी	देवी	NN	0	n	f	sg	3	d
+मंदिर	मंदिर	NN	0	n	m	sg	3	d
+बांधी	बांध	VM	या	v	f	sg	any	
+टोला	टोला	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+562700	562700	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+नारदीगंज	नारदीगंज	JJ		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पडपा	पडपा	NN		unk				
+मठ	मठ	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+853000	853000	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+अकबरपुर	अकबरपुर	XC		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+खैरा	खैरा	XC		unk				
+बुजुर्ग	बुजुर्ग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+राम	राम	XC	0	n	m	sg	3	d
+जानकी	जानकी	XC	0	n	f	sg	3	d
+ठाकुरवाडी	ठाकुरवाडी	XC		unk				
+मंदिर	मंदिर	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चहारदिवारी	चहारदिवारी	JJ		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+1141800	1141800	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+नारदीगंज	नारदीगंज	JJ		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ओडो	ओडो	XC		unk				
+ठाकुरवाढ़ी	ठाकुरवाढ़ी	NNP		n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+874700	874700	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+सिरदला	सिरदला	JJ		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+राम	राम	XC	0	n	m	sg	3	d
+जानकी	जानकी	NN	0	n	f	sg	3	d
+ठाकुरवारी	ठाकुरवारी	JJ		unk				
+उपरडीह	उपरडीह	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+चहारदिवारी	चहारदिवारी	JJ		unk				
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+838400	838400	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+अकबरपुर	अकबरपुर	XC		unk				
+प्रखंड	प्रखंड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+गोसाईं	गोसाईं	XC		unk				
+विगहा	विगहा	NNP		unk				
+में	में	PSP		psp				
+शिव	शिव	XC	0	n	m	sg	3	d
+मंदिर	मंदिर	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चारदिवारी	चारदिवारी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+योजना	योजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+720300	720300	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रशासनिक	प्रशासनिक	JJ	0	n	m	sg	3	d
+स्वीकृति	स्वीकृति	NN	0	n	m	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिला	जिला	JJ	0	v	any	any	any	
+पदाधिकारी	पदाधिकारी	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+आदेश	आदेश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+योजना	योजना	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+निविदा	निविदा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+माध्यम	माध्यम	NN		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+कराया	करा	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्रत्येक	प्रत्येक	QF		adj	any	any		any
+योजना	योजना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गुणवत्ता	गुणवत्ता	NN	0	n	m	sg	3	d
+एवं	एवं	CC		avy				
+भौतिक	भौतिक	JJ		adj	any	any		any
+प्रगति	प्रगति	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+नियमित	नियमित	JJ	0	n	m	sg	3	d
+प्रतिवेदन	प्रतिवेदन	NN	0	n	m	sg	3	d
+कार्यकारी	कार्यकारी	JJ		adj	f	any		any
+एजेंसी	एजेंसी	NN	0	n	f	sg	3	d
+उपलब्ध	उपलब्ध	JJ		adj	any	any		any
+कराना	करा	VM	ना	v	m	sg	any	
+सुनिश्चित	सुनिश्चित	JJ	0	n	m	sg	3	d
+करेंगे	कर	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+कार्यस्थल	कार्यस्थल	NN		unk				
+पर	पर	PSP		psp				
+कार्य	कार्य	NN	0	n	m	sg	3	d
+प्रारंभ	प्रारंभ	NN	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+तिथि	तिथि	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+योजना	योजना	NN	0	n	f	sg	3	d
+मद	मद	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+नाम	नाम	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+प्राक्कलित	प्राक्कलित	JJ		unk				
+राशि	राशि	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+व्यय	व्यय	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+पूर्ण	पूर्ण	JJ		psp				
+होने	हो	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+तिथि	तिथि	NN	0	n	f	sg	3	d
+आदि	आदि	RP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पूर्ण	पूर्ण	JJ		psp				
+विवरणी	विवरणी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+साइनबोर्ड	साइनबोर्ड	NN	0	n	m	sg	3	d
+लगाने	लगा	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+भी	भी	RP		adv				
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+डीएम	डीएम	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+डीएम	डीएम	NN		unk				
+ने	ने	PSP		psp				
+निर्देश	निर्देश	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+निर्धारित	निर्धारित	JJ		adj	any	any		any
+समय	समय	NN	0	n	m	sg	3	d
+सीमा	सीमा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अन्दर	अन्दर	NST		adv				
+योजना	योजना	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+पूर्ण	पूर्ण	JJ		psp				
+कराना	करा	VM	ना	v	m	sg	any	
+हर	हर	QF		adj	any	any		any
+हाल	हाल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सुनिश्चित	सुनिश्चित	JJ	0	n	m	sg	3	d
+करेंगे	कर	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

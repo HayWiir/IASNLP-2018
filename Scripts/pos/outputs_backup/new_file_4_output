@@ -1,0 +1,433 @@
+जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+डालेगा	डाल	VM	गा	v	m	sg	2	
+पानी	पानी	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पाइप	पाइप	NN	0	n	m	sg	3	d
+लाइन	लाइन	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+अभी	अभी	PRP		adv				
+हाल	हाल	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+में	में	PSP		psp				
+हुआ	हो	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+इस	इस	DEM		pn	any	sg	3	o
+रोड	रोड	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+काम	काम	NN	0	n	m	sg	3	d
+फोटो	फोटो	VM	0	n	m	sg	3	d
+संख्या	संख्या	NN	0	n	f	sg	3	d
+:	:	SYM		punc				
+274	274	QC		num				
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+हिसार	हिसार	NN	0	n	m	sg	3	d
+:	:	SYM		punc				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+समन्वय	समन्वय	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+जनता	जनता	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+बर्बाद	बर्बाद	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+हाल	हाल	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+में	में	PSP		psp				
+विधायक	विधायक	JJ	0	n	m	sg	3	d
+डा	डा	VM	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+कमल	कमल	NN	0	n	m	sg	3	d
+गुप्ता	गुप्ता	VM	0	n	m	sg	3	d
+ऑटो	ऑटो	XC		unk				
+मार्केट	मार्केट	NN	0	n	m	sg	3	d
+गए	गए	VM		unk				
+थे	था	VAUX	था	v	m	pl	any	
+जहां	जहाँ	PRP		adv				
+पानी	पानी	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पाइप	पाइप	NN	0	n	m	sg	3	d
+लाइन	लाइन	NN	0	n	f	sg	3	d
+डाले	डाल	VM	एं	v	any	sg	2	
+बिना	बिन	NEG	या	v	m	sg	any	
+ही	ही	RP		adv				
+सडक	सडक	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जिस	जो	PRP	0	pn	any	sg	3	o
+पर	पर	PSP		psp				
+विधायक	विधायक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जेई	जेई	NN		unk				
+व	व	CC		avy				
+ठेकेदार	ठेकेदार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+खूब	खूब	JJ		adj	any	any		any
+लताडा	लताड	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मगर	मगर	CC	0	n	m	sg	3	d
+अब	अब	PRP		adv				
+विधायक	विधायक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+ही	ही	RP		adv				
+वार्ड	वार्ड	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ऐसा	ऐसा	DEM		adj	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+सामने	सामना	NST	0	n	m	pl	3	d
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+यहां	यहाँ	PRP		adv				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+माह	माह	NN		unk				
+पहले	पहले	NST		adv				
+ही	ही	RP		adv				
+करीब	करीब	RB		adj	any	any		any
+50	50	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+लागत	लागत	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+सडक	सडक	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दोनों	दोना	NN	0	n	m	pl	3	o
+और	और	CC		adv				
+इंटरलॉ	इंटरलॉ	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+टाइल्स	टाइल्स	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+काम	काम	NN	0	n	m	sg	3	d
+करवाया	करवा	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+इस	इस	DEM		pn	any	sg	3	o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+निगम	निगम	JJ	0	n	m	sg	3	d
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+कुछ	कुछ	QF		adj	any	any		d
+भी	भी	RP		adv				
+उखाडेगा	उखाडेगा	VM		v	m	sg	2	
+उसकी	उसकी	PRP		unk				
+रिपेयर	रिपेयर	NN		unk				
+करवाकर	करवा	VM	कर	v	any	any	any	
+देगा	दे	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बता	बता	VM	0	v	any	any	any	
+दें	दे	VAUX	एं	v	any	pl	1	
+कि	कि	CC		avy				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+हाल	हाल	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+में	में	PSP		psp				
+घोडा	घोडा	NN	0	n	m	sg	3	d
+फार्म	फार्म	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+करवाई	करवा	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+इंटरलॉ	इंटरलॉ	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+टाइल्स	टाइल्स	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+वाइड	वाइड	XC		unk				
+¨	¨	NNP		unk				
+नग	नग	NN	0	n	m	sg	3	d
+जल्द	जल्द	NN		adj	any	any		any
+ही	ही	RP		adv				
+उखडने	उखड	VM	ना	v	m	pl	any	
+वाली	वाली	VAUX	0	n	f	sg	3	d
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+पाइप	पाइप	NN	0	n	m	sg	3	d
+लाइन	लाइन	NN	0	n	f	sg	3	d
+डाली	डाल	VM	या	v	f	sg	any	
+जानी	जान	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पाइप	पाइप	NN	0	n	m	sg	3	d
+लाइन	लाइन	XC	0	n	f	sg	3	d
+रोड	रोड	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+किनारे	किनारा	NN	0	n	m	pl	3	d
+पहुंच	पहुंच	VM		unk				
+भी	भी	RP		adv				
+चुकी	चुक	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+दो	दो	QC	0	n	m	sg	3	d
+विभागों	विभाग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+आपसी	आपसी	PRP	0	n	f	sg	3	d
+तालमेल	तालमेल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अभाव	अभाव	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+खर्च	खर्च	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+लाखों	लाख	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+बेकार	बेकार	JJ		adj	any	any		any
+चली	चल	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इंटरलॉ	इंटरलॉ	XC		unk				
+¨	¨	XC		unk				
+कग	कग	XC		unk				
+टाइल्स	टाइल्स	NN		unk				
+उखाडकर	उखाड	VM	कर	v	any	any	any	
+दोबारा	दोबारा	XC		adv				
+रोड	रोड	NNP	0	n	f	sg	3	d
+चौडा	चौडा	NN		adj	m	sg		d
+करने	कर	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+भी	भी	RP		adv				
+काफी	काफी	QF	0	n	f	sg	3	d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+रोड	रोड	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वाइड	वाइड	XC		unk				
+¨	¨	NNP		unk				
+नग	नग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+करीब	करीब	RB		adj	any	any		any
+50	50	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+टेंडर	टेंडर	NN	0	n	m	sg	3	d
+लगाया	लगा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+पाइप	पाइप	XC	0	n	m	sg	3	d
+लाइन	लाइन	NNP	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+बगैर	बगैर	XC	0	n	m	sg	3	d
+रोड	रोड	NNP	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वाइड	वाइड	XC		unk				
+¨	¨	XC		unk				
+नग	नग	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+कुछ	कुछ	QF		adj	any	any		d
+माह	माह	NN		unk				
+में	में	PSP		psp				
+ही	ही	RP		adv				
+नए	नया	JJ		adj	m	sg		o
+रोड	रोड	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+उखाडा	उखाडा	VM		v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+क्षेत्रवासियों	क्षेत्रवासियों	NN		unk				
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+तरह	तरह	NN		adv				
+की	का	PSP	का	psp	f	sg		d
+कार्यप्रणाली	कार्यप्रणाली	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+विरोध	विरोध	NN	0	n	m	sg	3	d
+जताया	जता	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पहले	पहले	NST		adv				
+घोडाफार्म	घोडाफार्म	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+बनी	बन	VM	या	v	f	sg	any	
+तारकोल	तारकोल	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सडक	सडक	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दोनों	दोना	JJ	0	n	m	pl	3	o
+तरफ	तरफ	NST		adv				
+वॉल	वॉल	NN		unk				
+टू	टू	PSP		unk				
+वॉल	वॉल	XC		unk				
+वाइड	वाइड	XC		unk				
+¨	¨	XC		unk				
+नग	नग	NN	0	n	m	sg	3	d
+करवाई	करवा	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+वाइड	वाइड	XC		unk				
+¨	¨	NNP		unk				
+नग	नग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+भी	भी	RP		adv				
+खामियां	खामियां	NN		unk				
+रहने	रह	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+चलते	चल	VM	ता	v	m	pl	any	
+बरसात	बरसात	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पानी	पानी	NN	0	n	m	sg	3	d
+तारकोल	तारकोल	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+एकत्रित	एकत्रित	JJ		adj	any	any		any
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+जिसके	जो	PRP	का	pn	m	pl	3	d
+चलते	चल	VM	ता	v	m	pl	any	
+सडक	सडक	JJ	0	n	f	sg	3	d
+जल्द	जल्द	NN		adj	any	any		any
+ही	ही	RP		adv				
+टूट	टूट	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+यहां	यहाँ	PRP		adv				
+पाइप	पाइप	NN	0	n	m	sg	3	d
+लाइन	लाइन	NN	0	n	f	sg	3	d
+डालने	डाल	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+काम	काम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चलते	चल	VM	ता	v	m	pl	any	
+सडक	सडक	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+उखाडा	उखाडा	VM		v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मेरे	मेरे	PRP		unk				
+संज्ञान	संज्ञान	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+मामला	मामला	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+यहां	यहाँ	PRP		adv				
+पानी	पानी	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पाइप	पाइप	NN	0	n	m	sg	3	d
+लाइन	लाइन	NN	0	n	f	sg	3	d
+बिछा	बिछा	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+कुछ	कुछ	QF		adj	any	any		d
+भी	भी	RP		adv				
+नुकसान	नुकसान	NN	0	n	m	sg	3	d
+करेगा	कर	VM	गा	v	m	sg	2	
+तो	तो	CC		avy				
+उसकी	उसकी	PRP		unk				
+भरपाई	भरपाई	NN	0	n	f	sg	3	d
+वो	वो	PRP		unk				
+करेगा	कर	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+रामजी	रामजी	NNP		unk				
+लाल	लाल	JJ		adj	any	any		any
+,	,	SYM		punc				
+एसई	एसई	XC		unk				
+,	,	SYM		punc				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d

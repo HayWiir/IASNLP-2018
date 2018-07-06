@@ -1,0 +1,214 @@
+कैमूर	कैमूर	NN		unk				
+.	.	SYM		punc				
+</s>
+<s>
+कुदरा	कुदरा	NN		unk				
+में	में	PSP		psp				
+शुक्रवार	शुक्रवार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाम	शाम	NN	0	n	f	sg	3	d
+अपाची	अपाची	JJ		unk				
+बाइक	बाइक	NN		unk				
+पर	पर	PSP		psp				
+सवार	सवार	JJ	0	n	m	sg	3	d
+अपराधियों	अपराधी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+कट्टे	कट्टे	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+भय	भय	NN	0	n	m	sg	3	d
+दिखाकर	दिखा	VM	कर	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+कारोबारी	कारोबारी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+42	42	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+लूट	लूट	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+लूट	लूट	NN	0	v	any	any	any	
+का	का	PSP	का	psp	m	sg		d
+शिकार	शिकार	NN	0	n	m	sg	3	d
+हुए	हो	VM	या	v	m	pl	any	
+कारोबारी	कारोबारी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+नाम	नाम	NN	0	n	m	sg	3	d
+बबलू	बबलू	NN		unk				
+¨	¨	JJ		unk				
+सह	सह	NN	0	v	any	any	any	
+बताया	बता	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+जो	जो	PRP		avy				
+रोहतास	रोहतास	XC		unk				
+जिला	जिला	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सासाराम	सासाराम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+निवासी	निवासी	NN	0	n	f	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अपराधियों	अपराधी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+कुदरा	कुदरा	NN		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+परिसर	परिसर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+चंद	चंद	JJ		adj	any	any		any
+कदम	कदम	NN	0	n	m	sg	3	d
+पूरब	पूरब	NN	0	n	m	sg	3	d
+बस	बस	RP	0	v	any	any	any	
+स्टैंड	स्टैंड	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+समीप	समीप	NST		adv				
+एनएच	एनएच	XC		unk				
+दो	दो	QC	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+अंजाम	अंजाम	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+घटना	घटना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+लूट	लूट	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+शिकार	शिकार	NN	0	n	m	sg	3	d
+हुए	हो	VM	या	v	m	pl	any	
+कारोबारी	कारोबारी	NN		unk				
+ने	ने	PSP		psp				
+थाना	थाना	VM	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पहुंचकर	पहुंचकर	VM		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+वारदात	वारदात	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुदरा	कुदरा	NN		unk				
+थाने	थाना	VM	0	n	m	pl	3	d
+में	में	PSP		psp				
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज	दर्ज	NN	0	n	m	sg	3	d
+कराने	करा	VM	ना	v	m	pl	any	
+पहुंचे	पहुंचे	VAUX		unk				
+कारोबारी	कारोबारी	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+मौजूद	मौजूद	JJ		adj	any	any		any
+लोगों	लोग	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+बबलू	बबलू	XC		unk				
+¨	¨	XC		unk				
+सह	सह	XC	0	v	any	any	any	
+कुदरा	कुदरा	NNP		unk				
+में	में	PSP		psp				
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+दुकानों	दुकान	NN	0	n	f	pl	3	o
+पर	पर	PSP		psp				
+सोनपापडी	सोनपापडी	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+आपूर्ति	आपूर्ति	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+शुक्रवार	शुक्रवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+देर	देर	JJ		adv				
+शाम	शाम	NN	0	n	f	sg	3	d
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+बकाया	बकाया	VM		adj	m	sg		d
+राशि	राशि	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+तगादा	तगादा	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+वह	वह	PRP	0	pn	any	sg	3	d
+सासाराम	सासाराम	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बस	बस	NN	0	n	f	sg	3	d
+पकडने	पकड	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+खातिर	खातिर	NN	0	n	f	sg	3	d
+बस	बस	RP	0	v	any	any	any	
+स्टैंड	स्टैंड	NN		unk				
+पर	पर	PSP		psp				
+जा	जा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+अपाची	अपाची	JJ		unk				
+बाइक	बाइक	NN		unk				
+पर	पर	PSP		psp				
+सवार	सवार	JJ	0	n	m	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+अपराधियों	अपराधी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उन	उन	DEM		unk				
+पर	पर	PSP		psp				
+कट्टा	कट्टा	NN		unk				
+सटा	सटा	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+और	और	CC		adv				
+उनके	उनके	PRP		unk				
+पास	पास	NST		adv				
+मौजूद	मौजूद	JJ		adj	any	any		any
+बैग	बैग	NN	0	n	m	sg	3	d
+छीन	छीन	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+जिनमें	जो	PRP	में	pn	any	pl	3	o
+42	42	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+मौजूद	मौजूद	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+वारदात	वारदात	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अंजाम	अंजाम	NN	0	n	m	sg	3	d
+देकर	दे	VM	कर	v	any	any	any	
+अपराधी	अपराधी	NN	0	n	m	sg	3	d
+पश्चिम	पश्चिम	JJ		adj	any	any		any
+दिशा	दिशा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भाग	भाग	NN	0	v	any	any	any	
+निकले	निकल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+तहकीकात	तहकीकात	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

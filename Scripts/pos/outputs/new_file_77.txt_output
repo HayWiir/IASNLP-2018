@@ -1,0 +1,249 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+अलीगढ़	अलीगढ़	NNP		unk				
+:	:	SYM		punc				
+द	द	XC		n	m	sg	3	d
+डीपीएस	डीपीएस	XC		unk				
+इंटरनेशनल	इंटरनेशनल	XC		adj	any	any		any
+एथलेटिक्स	एथलेटिक्स	XC		unk				
+मीट	मीट	NN		unk				
+में	में	PSP		psp				
+डीपीएस	डीपीएस	NN		unk				
+सीनियर	सीनियर	JJ	0	n	m	sg	3	d
+विंग	विंग	NN		unk				
+,	,	SYM		punc				
+अलीगढ़	अलीगढ़	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+छह	छह	QC		adj	any	any		any
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+सात	सात	QC	0	n	m	sg	3	d
+स्वर्ण	स्वर्ण	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+तीन	तीन	QC	0	n	m	sg	3	d
+रजत	रजत	JJ		adj	any	any		any
+पदक	पदक	NN	0	n	m	sg	3	d
+हासिल	हासिल	VM	0	n	m	sg	3	d
+कर	कर	VAUX	0	v	any	any	any	
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+शहर	शहर	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+नाम	नाम	NN	0	n	m	sg	3	d
+रोशन	रोशन	NN		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एथलेटिक्स	एथलेटिक्स	XC		unk				
+कोच	कोच	NNP	0	v	any	any	any	
+जीशान	जीशान	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+प्रतियोगिता	प्रतियोगिता	NN	0	n	f	sg	3	d
+24	24	QC		num				
+से	से	PSP	0	v	any	any	any	
+26	26	QC		num				
+नवंबर	नवंबर	NNP	0	n	m	sg	3	d
+तक	तक	RP		avy				
+मेरठ	मेरठ	NN		unk				
+में	में	PSP		psp				
+कराई	करा	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+देश	देश	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+59	59	QC		num				
+स्कूलों	स्कूल	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+600	600	QC		num				
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+प्रतिभाग	प्रतिभाग	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वीजा	वीजा	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+समस्या	समस्या	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चलते	चल	VM	ता	v	m	pl	any	
+बाहरी	बाहरी	JJ		adj	f	any		any
+देशों	देश	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खिलाडी	खिलाडी	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+आ	आ	VM		v	any	any	any	
+सके	सक	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+डीपीएस	डीपीएस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+छह	छह	QC		adj	any	any		any
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+पालेंद्र	पालेंद्र	XC		unk				
+चौधरी	चौधरी	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+100	100	QC		num				
+व	व	CC		avy				
+200	200	QC		num				
+मीटर	मीटर	NN	0	n	m	sg	3	d
+दौड	दौड	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+स्वर्ण	स्वर्ण	XC	0	n	m	sg	3	d
+पदक	पदक	NN	0	n	m	sg	3	d
+जीते	जीत	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+400	400	QC		num				
+मीटर	मीटर	NN	0	n	m	sg	3	d
+दौड	दौड	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+गौरव	गौरव	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+रजत	रजत	XC		adj	any	any		any
+,	,	SYM		punc				
+अतुल	अतुल	XC		adj	any	any		any
+चौधरी	चौधरी	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+800	800	QC		num				
+मीटर	मीटर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रजत	रजत	NN		adj	any	any		any
+व	व	CC		avy				
+1500	1500	QC		num				
+मीटर	मीटर	NN	0	n	m	sg	3	d
+दौड	दौड	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+स्वर्ण	स्वर्ण	XC	0	n	m	sg	3	d
+पदक	पदक	NN	0	n	m	sg	3	d
+जीता	जीत	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लांग	लांग	XC		unk				
+जंप	जंप	NN		unk				
+में	में	PSP		psp				
+जयदीप	जयदीप	XC		unk				
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+रजत	रजत	XC		adj	any	any		any
+पदक	पदक	NN	0	n	m	sg	3	d
+जीता	जीत	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+चार	चार	QC		adj	any	any		any
+गुणा	गुणा	NN	0	n	m	sg	3	d
+100	100	QC		num				
+मीटर	मीटर	NN	0	n	m	sg	3	d
+रिले	रिले	JJ		unk				
+रेस	रेस	NN		unk				
+में	में	PSP		psp				
+पालेंद्र	पालेंद्र	XC		unk				
+,	,	SYM		punc				
+जयदीप	जयदीप	XC		unk				
+,	,	SYM		punc				
+गौरव	गौरव	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+भानु	भानु	XC	0	n	m	sg	3	d
+प्रताप	प्रताप	XC	0	n	m	sg	3	d
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+एक-एक	एक-एक	XC		unk				
+गोल्ड	गोल्ड	XC		unk				
+हासिल	हासिल	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+प्रधानाचार्य	प्रधानाचार्य	JJ	0	n	m	sg	3	d
+रश्मि	रश्मि	XC	0	n	f	sg	3	d
+ग्रोवर	ग्रोवर	NNP		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+प्रदर्शन	प्रदर्शन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+डीपीएस	डीपीएस	XC		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+50	50	QC		num				
+प्वांइट्स	प्वांइट्स	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+प्रथम	प्रथम	QO		adj	any	any		any
+स्थान	स्थान	NN	0	n	m	sg	3	d
+मिला	मिला	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+1.21	1.21	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+पुरस्कार	पुरस्कार	NN	0	n	m	sg	3	d
+राशि	राशि	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+चेक	चेक	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पीवीसी	पीवीसी	JJ		unk				
+स्वप्निल	स्वप्निल	XC		unk				
+जैन	जैन	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+खिलाडियों	खिलाडी	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+बधाई	बधाई	NN	0	n	f	sg	3	d
+देते	दे	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+नाम	नाम	NN	0	n	m	sg	3	d
+विश्वस्तर	विश्वस्तर	NN		unk				
+पर	पर	PSP		psp				
+चमकाया	चमका	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सभी	सभी	QF	0	n	m	sg	3	d
+छह	छह	QC		adj	any	any		any
+एथलीट्स	एथलीट्स	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+सम्मान	सम्मान	NN	0	n	m	sg	3	d
+समारोह	समारोह	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

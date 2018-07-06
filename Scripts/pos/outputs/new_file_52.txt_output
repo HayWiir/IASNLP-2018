@@ -1,0 +1,264 @@
+सारण	सारण	NN		adj	any	any		any
+.	.	SYM		punc				
+</s>
+<s>
+डेरनी	डेरनी	XC		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पिरारी	पिरारी	JJ		unk				
+बाजार	बाजार	NN	0	n	m	sg	3	d
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+सुतिहार	सुतिहार	NN		unk				
+कटसा	कटसा	NN		unk				
+मुख्य	मुख्य	JJ		adj	any	any		any
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+शुभम	शुभम	XC		unk				
+हार्डवेयर	हार्डवेयर	XC		unk				
+मशीनरी	मशीनरी	NN	0	n	f	sg	3	d
+स्टोर	स्टोर	JJ		unk				
+दुकान	दुकान	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मुख्य	मुख्य	JJ		adj	any	any		any
+गेट	गेट	NN		unk				
+तोडकर	तोड	VM	कर	v	any	any	any	
+करीब	करीब	RB		adj	any	any		any
+तीन	तीन	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+चोरों	चोर	NN	0	n	m	pl	3	o
+द्वारा	द्वारा	PSP		psp				
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+बताया	बता	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+सुतिहार-कटसा	सुतिहार-कटसा	NN		unk				
+मुख्य	मुख्य	JJ		adj	any	any		any
+सडक	सडक	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+पिरारी	पिरारी	JJ		unk				
+पुल	पुल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सटे	सट	JJ	एं	v	any	sg	2	
+दक्षिण	दक्षिण	XC	0	n	m	sg	3	d
+शुभम	शुभम	XC		unk				
+हार्डवेयर	हार्डवेयर	XC		unk				
+मशीनरी	मशीनरी	NN	0	n	f	sg	3	d
+स्टोर्स	स्टोर्स	NN		unk				
+में	में	PSP		psp				
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रात	रात	NN	0	n	f	sg	3	d
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+हार्डवेयर	हार्डवेयर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+सामान	सामान	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+नकद	नकद	NN	0	n	m	sg	3	d
+48	48	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+सहित	सहित	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+लाख	लाख	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+संपत्ति	संपत्ति	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कोठिया	कोठिया	XC		unk				
+ग्राम	ग्राम	XC	0	n	m	sg	3	d
+वासी	वासी	XC	0	n	f	sg	3	d
+रवींद्र	रवींद्र	XC		unk				
+कुमार	कुमार	XC	0	n	m	sg	3	d
+शर्मा	शर्मा	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+रोज	रोज	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+भांति	भांति	PSP		unk				
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रात	रात	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+दुकान	दुकान	NN	0	n	f	sg	3	d
+बंद	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+घर	घर	NN	0	n	m	sg	3	d
+चला	चला	VM	0	v	any	any	any	
+आया	आ	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सुबह	सुबह	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+मै	मै	PRP		unk				
+दुकान	दुकान	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+गया	गया	VM		unk				
+तो	तो	RP		avy				
+देखा	देख	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+दुकान	दुकान	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मुख्य	मुख्य	JJ		adj	any	any		any
+गेट	गेट	NN		unk				
+को	को	PSP		psp				
+तोडकर	तोड	VM	कर	v	any	any	any	
+मेरा	मेरा	PRP		unk				
+हार्डवेयर	हार्डवेयर	NN		unk				
+सामान	सामान	NN	0	n	m	sg	3	d
+16	16	QC		num				
+पीस	पीस	NN	0	v	any	any	any	
+मोटर	मोटर	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+10	10	QC		num				
+लीटर	लीटर	NN		unk				
+वाला	वाला	PSP	0	n	m	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+बाल्टी	बाल्टी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+नायलन	नायलन	NN		unk				
+पिस्टन	पिस्टन	NN		unk				
+सहित	सहित	PSP		psp				
+48	48	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+नगद	नगद	NN	0	n	f	sg	3	d
+सहित	सहित	PSP		psp				
+अन्य	अन्य	JJ		adj	any	any		any
+सामान	सामान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चोरी	चोरी	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+घटना	घटना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+डेरनी	डेरनी	XC		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सूचना	सूचना	NN	0	n	f	sg	3	d
+मिलते	मिल	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+घटनास्थल	घटनास्थल	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+पहुंचकर	पहुंचकर	VM		unk				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+वारदात	वारदात	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+गहन	गहन	JJ		adj	any	any		any
+छानबीन	छानबीन	NN	0	n	f	sg	3	d
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+दुकान	दुकान	NN	0	n	f	sg	3	d
+मालिक	मालिक	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+डेरनी	डेरनी	XC		unk				
+थाने	थाना	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+के	का	PSP	का	psp	m	sg		o
+विरूद्ध	विरूद्ध	JJ		unk				
+प्राथमिकी	प्राथमिकी	NN		unk				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+उक्त	उक्त	JJ		adj	any	any		any
+घटना	घटना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+सामान	सामान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बरामदगी	बरामदगी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+गहन	गहन	JJ		adj	any	any		any
+छापेमारी	छापेमारी	NN		unk				
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+थानाध्यक्ष	थानाध्यक्ष	JJ		unk				
+सलाहुद्दीन	सलाहुद्दीन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+उक्त	उक्त	JJ		adj	any	any		any
+घटना	घटना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+सक्रिय	सक्रिय	JJ	0	n	m	sg	3	d
+रूप	रूप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+काम	काम	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शीघ्र	शीघ्र	RB		adv				
+ही	ही	RP		adv				
+कांड	कांड	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+उद्भेदन	उद्भेदन	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+चोरी	चोरी	NN	0	n	f	sg	3	d
+गए	गए	VM		unk				
+सामानों	सामान	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+बरामदगी	बरामदगी	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

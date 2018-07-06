@@ -1,0 +1,459 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+नोएडा	नोएडा	NNP		unk				
+:	:	SYM		punc				
+नोएडा	नोएडा	XC		unk				
+ग्रेटर	ग्रेटर	XC		unk				
+नोएडा	नोएडा	XC		unk				
+मेट्रो	मेट्रो	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+अंतिम	अंतिम	JJ	0	n	m	sg	3	d
+चरण	चरण	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+तेजी	तेजी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+सकेगा	सक	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+एनसीआर	एनसीआर	XC		unk				
+प्लानिंग	प्लानिंग	XC		unk				
+बोर्ड	बोर्ड	NN	0	n	m	sg	3	d
+(	(	SYM		punc				
+एनसीआरपीबी	एनसीआरपीबी	NN		unk				
+)	)	SYM		punc				
+द्वारा	द्वारा	PSP		psp				
+परियोजना	परियोजना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+वित्तीय	वित्तीय	JJ	0	n	m	sg	3	d
+सहायता	सहायता	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+सौ	सौ	QC	0	n	m	sg	3	d
+करोड	करोड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लोन	लोन	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+किस्त	किस्त	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+स्वीकृति	स्वीकृति	NN	0	n	m	sg	3	d
+जारी	जारी	JJ	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+परियोजना	परियोजना	NN	0	n	f	sg	3	d
+हेतु	हेतु	PSP		psp				
+फंडिंग	फंडिंग	NN		unk				
+पैटर्न	पैटर्न	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+कुल	कुल	QF		adj	any	any		any
+ऋण	ऋण	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+धनराशि	धनराशि	NN	0	n	m	sg	3	d
+1587	1587	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+से	से	PSP	0	v	any	any	any	
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+930	930	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+एनसीआर	एनसीआर	XC		unk				
+प्लानिंग	प्लानिंग	XC		unk				
+बोर्ड	बोर्ड	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+जारी	जारी	JJ	0	n	f	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+स्वीकृति	स्वीकृति	NN	0	n	m	sg	3	d
+जारी	जारी	JJ	0	n	f	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+कुल	कुल	QF		adj	any	any		any
+धनराशि	धनराशि	NN	0	n	m	sg	3	d
+1130	1130	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+ऋण	ऋण	NN	0	n	m	sg	3	d
+सात	सात	QC	0	n	m	sg	3	d
+प्रतिशत	प्रतिशत	NN	0	n	m	sg	3	d
+वार्षिक	वार्षिक	JJ		adj	any	any		any
+ब्याज	ब्याज	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+दर	दर	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+जारी	जारी	JJ	0	n	f	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+धनराशि	धनराशि	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जारी	जारी	JJ	0	n	f	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+परियोजना	परियोजना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंतिम	अंतिम	JJ	0	n	m	sg	3	d
+चरण	चरण	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+गति	गति	NN	0	n	f	sg	3	d
+मिलेगी	मिल	VM	गा	v	f	sg	2	
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+शेष	शेष	JJ	0	n	m	sg	3	d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+तेजी	तेजी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+होगा	हो	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नोएडा	नोएडा	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+ग्रेटर	ग्रेटर	XC		unk				
+नोएडा	नोएडा	XC		unk				
+मेट्रो	मेट्रो	XC		unk				
+रूट	रूट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+5503	5503	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+खर्च	खर्च	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+रूट	रूट	NN		unk				
+पर	पर	PSP		psp				
+कुल	कुल	QF		adj	any	any		any
+22	22	QC		num				
+स्टेशन	स्टेशन	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मेट्रो	मेट्रो	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+इस	इस	DEM		pn	any	sg	3	o
+ट्रेक	ट्रेक	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+कुल	कुल	QF		adj	any	any		any
+लंबाई	लंबाई	NN	0	n	f	sg	3	d
+29.7	29.7	QC		num				
+किलोमीटर	किलोमीटर	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जनवरी	जनवरी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+ट्रैक	ट्रैक	NN		unk				
+पर	पर	PSP		psp				
+ट्रायल	ट्रायल	NN		unk				
+किया	कर	VM	या	v	m	sg	any	
+जाना	जान	VAUX	या	v	m	sg	any	
+प्रस्तावित	प्रस्तावित	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+तीन	तीन	QC	0	n	m	sg	3	d
+माह	माह	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+ट्रायल	ट्रायल	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+मेट्रो	मेट्रो	NNP		unk				
+को	को	PSP		psp				
+यात्रियों	यात्री	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+खोले	खोल	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+की	का	PSP	का	psp	f	sg		d
+तैयारी	तैयारी	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मेट्रो	मेट्रो	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+इस	इस	DEM		pn	any	sg	3	o
+परियोजना	परियोजना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सबसे	सबसे	INTF		adj	any	any		any
+बडी	बडी	JJ		adj	f	any		any
+बाधक	बाधक	JJ		adj	any	any		any
+फंड	फंड	NN	0	n	m	sg	3	d
+थी	था	VM	था	v	f	sg	any	
+लेकिन	लेकिन	CC		avy				
+यह	यह	DEM	0	pn	any	sg	3	d
+गतिरोध	गतिरोध	NN		unk				
+भी	भी	RP		adv				
+समाप्त	समाप्त	JJ	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एनसीआर	एनसीआर	XC		unk				
+प्लानिंग	प्लानिंग	XC		unk				
+बोर्ड	बोर्ड	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+सौ	सौ	QC	0	n	m	sg	3	d
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+किश्त	किश्त	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जारी	जारी	JJ	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	DEM		adv				
+में	में	PSP		psp				
+अब	अब	PRP		adv				
+तक	तक	RP		avy				
+एनसीआर	एनसीआर	XC		unk				
+प्लानिंग	प्लानिंग	XC		unk				
+बोर्ड	बोर्ड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जरिए	जरिये	PSP		psp				
+कुल	कुल	QF		adj	any	any		any
+1130	1130	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+मिल	मिल	VM	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+,	,	SYM		punc				
+बजट	बजट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ग्राफ	ग्राफ	NN		unk				
+देखे	देख	VM	एं	v	any	sg	2	
+तो	तो	CC		avy				
+केंद्र	केंद्र	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+,	,	SYM		punc				
+नोएडा	नोएडा	NNP		unk				
+व	व	CC		avy				
+ग्रेटर	ग्रेटर	XC		unk				
+नोएडा	नोएडा	NNP		unk				
+प्राधिकरण	प्राधिकरण	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+मेट्रो	मेट्रो	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+कुल	कुल	QF		adj	any	any		any
+1941.24	1941.24	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+केंद्र	केंद्र	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+एक	एक	QC		adj	any	any		any
+रुपया	रुपया	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+नहीं	नहीं	NEG		adv				
+दिया	दे	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जबकि	जबकि	CC		avy				
+केंद्र	केंद्र	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+परियोजना	परियोजना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+970	970	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पैसे	पैसा	NN	0	n	m	pl	3	d
+न	न	NEG		adv				
+मिलने	मिल	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+वजह	वजह	NN	0	n	f	sg	3	d
+प्रदेश	प्रदेश	NN	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+एमओयू	एमओयू	NN		unk				
+साइन	साइन	NN		unk				
+नहीं	नहीं	NEG		adv				
+होना	हो	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जबकि	जबकि	CC		avy				
+एनएमआरसी	एनएमआरसी	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+चार	चार	QC		adj	any	any		any
+बार	बार	RP		adv				
+रिमाइंडर	रिमाइंडर	NN		unk				
+जारी	जारी	JJ	0	n	f	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+चुका	चुका	VAUX	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+नोएडा	नोएडा	JJ		unk				
+प्राधिकरण	प्राधिकरण	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+679.43	679.43	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+से	से	PSP	0	v	any	any	any	
+210.03	210.03	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+ग्रेटर	ग्रेटर	XC		unk				
+नोएडा	नोएडा	NNP		unk				
+प्राधिकरण	प्राधिकरण	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+291.18	291.18	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+से	से	PSP	0	v	any	any	any	
+90.01	90.01	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+जा	जा	VAUX	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP:?		adv				
+एनसीआर	एनसीआर	NN		unk				
+प्लानिंग	प्लानिंग	XC		unk				
+बोर्ड	बोर्ड	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तरफ	तरफ	NST		adv				
+से	से	PSP	0	v	any	any	any	
+1587	1587	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+दिए	दे	VM	या	v	m	pl	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसमे	इसमे	PRP		unk				
+930	930	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+जा	जा	VAUX	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+,	,	SYM		punc				
+परियोजना	परियोजना	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+कुल	कुल	QF		adj	any	any		any
+339	339	QC		num				
+करोड	करोड	NN	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लैंड	लैंड	XC		unk				
+कास्ट	कास्ट	NN		unk				
+और	और	CC		adv				
+टैक्स	टैक्स	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+306	306	QC		num				
+करोड	करोड	XC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+शामिल	शामिल	JJ		adj	any	any		any
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

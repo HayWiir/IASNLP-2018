@@ -1,0 +1,200 @@
+मझौंवा	मझौंवा	NN		unk				
+(	(	SYM		punc				
+बलिया	बलिया	NNP		unk				
+)	)	SYM		punc				
+:	:	SYM		punc				
+हल्दी	हल्दी	JJ	0	n	f	sg	3	d
+चट्टी	चट्टी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+स्टेट	स्टेट	XC	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+सोमवार	सोमवार	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+दोपहर	दोपहर	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+खडी	खडी	JJ		unk				
+बंद	बंद	JJ		adj	any	any		any
+बोलेरो	बोलेरो	NN		unk				
+से	से	PSP	0	v	any	any	any	
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+92	92	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपए	रुपया	NN	0	n	m	pl		d
+उडा	उडा	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+तहरीर	तहरीर	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+दे	दे	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बजहरा	बजहरा	JJ		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+शिवशंकर	शिवशंकर	XC		unk				
+चौधरी	चौधरी	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+रिश्तेदार	रिश्तेदार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+स्टेट	स्टेट	XC	0	n	m	sg	3	d
+बैंक	बैंक	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शाखा	शाखा	NN	0	n	f	sg	3	d
+हल्दी	हल्दी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+92	92	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+निकाले	निकाल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+92	92	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+,	,	SYM		punc				
+बैंक	बैंक	NN	0	n	m	sg	3	d
+पासबुक	पासबुक	VM	0	n	f	sg	3	d
+,	,	SYM		punc				
+आधार	आधार	NN	0	n	m	sg	3	d
+कार्ड	कार्ड	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+कागज	कागज	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+एक	एक	QC		adj	any	any		any
+पलास्टिक	पलास्टिक	NN		unk				
+में	में	PSP		psp				
+रखकर	रख	VM	कर	v	any	any	any	
+बोलेरो	बोलेरो	VM		unk				
+गाडी	गाडी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+रख	रख	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बाद	बाद	NST		adv				
+गाडी	गाडी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लाक	लाक	VM		unk				
+कर	कर	VAUX	0	v	any	any	any	
+दोनों	दोना	JJ	0	n	m	pl	3	o
+लोग	लोग	NN	0	n	m	sg	3	d
+चट्टी	चट्टी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+सामान	सामान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+खरीदारी	खरीदारी	NN	0	n	f	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+बीच	बीच	NST		psp				
+चोरों	चोर	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+उनकी	उनकी	PRP		unk				
+बंद	बंद	JJ		adj	any	any		any
+गाडी	गाडी	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पैसों	पैसा	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+भरा	भरा	JJ		adj	m	sg		d
+पैसा	पैसा	NN	0	n	m	sg	3	d
+निकाल	निकाल	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुछ	कुछ	QF		adj	any	any		d
+देर	देर	NN		adv				
+बाद	बाद	NST		adv				
+जब	जब	PRP		adv				
+शिव	शिव	XC	0	n	m	sg	3	d
+शंकर	शंकर	NN	0	n	m	sg	3	d
+लौटे	लौट	VM	एं	v	any	sg	2	
+तो	तो	CC		avy				
+गाडी	गाडी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+गेट	गेट	NN		unk				
+खुला	खुला	JJ		adj	m	sg		d
+देख	देख	VM	0	v	any	any	any	
+वह	वह	PRP	0	pn	any	sg	3	d
+दंग	दंग	NN	0	n	m	sg	3	d
+रह	रह	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+गाडी	गाडी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अंदर	अंदर	NST	0	n	m	sg	3	d
+देखा	देख	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+पैसा	पैसा	NN	0	n	m	sg	3	d
+गायब	गायब	JJ		adj	any	any		any
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+उनके	उनके	PRP		unk				
+होश	होश	NN	0	n	m	sg	3	d
+उड	उड	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसकी	इसकी	PRP		pn	f	sg	3	d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+तत्काल	तत्काल	RB		adv				
+थानाध्यक्ष	थानाध्यक्ष	NN		unk				
+को	को	PSP		psp				
+दी	दे	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+काफी	काफी	QF	0	n	f	sg	3	d
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+भी	भी	RP		adv				
+चोरों	चोर	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+पता	पता	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+चल	चल	VM	0	v	any	any	any	
+सका	सक	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

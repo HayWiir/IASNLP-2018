@@ -1,0 +1,242 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+सोहना	सोहना	XC		unk				
+:	:	SYM		punc				
+सोहना-दमदमा	सोहना-दमदमा	XC		unk				
+रोड	रोड	NNP	0	n	f	sg	3	d
+दौला	दौला	NN		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+की	का	PSP	का	psp	f	sg		d
+मोड	मोड	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+चार	चार	QC		adj	any	any		any
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+कार	कार	NN	0	n	f	sg	3	d
+सवार	सवार	JJ	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+परिवार	परिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+मारा-पीटा	मारा-पीटा	VM		unk				
+तथा	तथा	CC		adv				
+50	50	QC		num				
+हजार	हजार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+नकदी	नकदी	NN	0	n	f	sg	3	d
+लूट	लूट	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपियों	आरोपियों	NN		unk				
+में	में	PSP		psp				
+से	से	PSP	0	v	any	any	any	
+दो	दो	QC	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पहचान	पहचान	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+उनकी	उनकी	PRP		unk				
+तलाश	तलाश	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+लगी	लग	VM	या	v	f	sg	any	
+हुई	हो	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+खेडला	खेडला	NN		unk				
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+संजीव	संजीव	NN		unk				
+ने	ने	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+दी	दे	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+तथा	तथा	CC		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+भाई	भाई	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+सेंट्रो	सेंट्रो	XC		unk				
+कार	कार	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+शनिवार	शनिवार	JJ	0	n	m	sg	3	d
+शाम	शाम	NN	0	n	f	sg	3	d
+गांव	गाँव	NN	0	n	m	sg		d
+सांप	सांप	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+नगली	नगली	NN		unk				
+स्थित	स्थित	JJ	0	n	m	sg	3	d
+ससुराल	ससुराल	NN	0	n	f	sg	3	d
+जा	जा	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+दौला	दौला	NN		unk				
+मोड	मोड	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+उसकी	उसकी	PRP		unk				
+कार	कार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आगे	आगा	NST	0	n	m	pl	3	d
+दो	दो	QC	0	n	m	sg	3	d
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+बाइक	बाइक	NN		unk				
+लगा	लगा	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बाइक	बाइक	NN		unk				
+पर	पर	PSP		psp				
+पीछे	पीछा	NST	0	n	m	pl	3	d
+भी	भी	RP		adv				
+युवक	युवक	NN	0	n	m	sg	3	d
+बैठे	बैठ	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+रास्ता	रास्ता	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+होने	हो	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+संजीव	संजीव	NN		unk				
+ने	ने	PSP		psp				
+कार	कार	NN	0	n	f	sg	3	d
+रोक	रोक	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+तो	तो	CC		avy				
+बाइक	बाइक	NN		unk				
+से	से	PSP	0	v	any	any	any	
+आए	आ	VM	एं	v	any	sg	2	
+चारों	चार	QC	0	n	m	pl	3	o
+युवक	युवक	NN	0	n	m	sg	3	d
+उसके	उसके	PRP		unk				
+पास	पास	NST		adv				
+आए	आ	VM	एं	v	any	sg	2	
+और	और	CC		adv				
+संजीव	संजीव	NN		unk				
+तथा	तथा	CC		adv				
+उसके	उसके	PRP		unk				
+भाई	भाई	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+बुरी	बुरी	JJ	0	n	f	sg	3	d
+तरह	तरह	NN		adv				
+से	से	PSP	0	v	any	any	any	
+पीटा	पीट	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+50	50	QC		num				
+हजार	हजार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रकम	रकम	NN	0	n	f	sg	3	d
+लूट	लूट	VM	0	v	any	any	any	
+ली	ले	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+संजीव	संजीव	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उसकी	उसकी	PRP		unk				
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+विरोध	विरोध	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+उसके	उसके	PRP		unk				
+साथ	साथ	NST		adv				
+भी	भी	RP		adv				
+गाली-गलौज	गाली-गलौज	NN		n	f	sg	3	d
+व	व	CC		avy				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+.	.	SYM		punc				
+</s>
+<s>
+संजीव	संजीव	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+युवकों	युवक	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+चेहरे	चेहरा	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+रुमाल	रुमाल	NN	0	n	m	sg	3	d
+बांध	बांध	VM	0	n	m	sg	3	d
+रखा	रखा	VAUX	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+दो	दो	QC	0	n	m	sg	3	d
+युवकों	युवक	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+पहचान	पहचान	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+वे	वह	PRP	0	pn	any	pl	3	d
+दमदमा	दमदमा	NN		unk				
+गांव	गाँव	NN	0	n	m	sg		d
+निवासी	निवासी	JJ	0	n	f	sg	3	d
+कवि	कवि	NN	0	n	m	sg	3	d
+व	व	CC		avy				
+गणेश	गणेश	NN	0	n	m	sg	3	d
+थे	था	VM	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+बताते	बता	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+शोर	शोर	NN	0	n	m	sg	3	d
+सुनकर	सुन	VM	कर	v	any	any	any	
+लोग	लोग	NN	0	n	m	sg	3	d
+पहुंचे	पहुंचे	VM		unk				
+तो	तो	CC		avy				
+बदमाश	बदमाश	NN	0	n	m	sg	3	d
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+परिवार	परिवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+छोड	छोड	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+भाग	भाग	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+थाना	थाना	VM	0	n	m	sg	3	d
+प्रभारी	प्रभारी	NN		adj	f	any		any
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+आरोपियों	आरोपियों	NN		unk				
+को	को	PSP		psp				
+पकडने	पकड	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+प्रयास	प्रयास	NN	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>

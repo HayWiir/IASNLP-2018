@@ -1,0 +1,395 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवददाता	संवददाता	VM		unk				
+,	,	SYM		punc				
+रतनपुरा	रतनपुरा	XC		unk				
+(	(	SYM		punc				
+मऊ	मऊ	NN		unk				
+)	)	SYM		punc				
+:	:	SYM		punc				
+हलधरपुर	हलधरपुर	NNP		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चकरा	चकरा	NN	0	v	any	any	any	
+ग्राम	ग्राम	NN	0	n	m	sg	3	d
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+पैसों	पैसा	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लेन-देन	लेन-देन	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+विवाद	विवाद	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+युवक	युवक	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+उसके	उसके	PRP		unk				
+दोस्त	दोस्त	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+ही	ही	RP		adv				
+गोली	गोली	JJ	0	n	f	sg	3	d
+मार	मार	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+गोली	गोली	JJ	0	n	f	sg	3	d
+युवक	युवक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+कनपटी	कनपटी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+लगी	लग	VM	या	v	f	sg	any	
+मारने	मार	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+युवक	युवक	NN	0	n	m	sg	3	d
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+गोली	गोली	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+घायल	घायल	JJ		adj	any	any		any
+युवक	युवक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+परिजन	परिजन	NN	0	n	m	sg	3	d
+उसे	उसे	PRP		unk				
+उपचार	उपचार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+मऊ	मऊ	NN		unk				
+ले	ले	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+वहां	वहाँ	PRP		adv				
+प्राथमिक	प्राथमिक	JJ		adj	any	any		any
+उपचार	उपचार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+गंभीर	गंभीर	JJ		adj	any	any		any
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+देखते	देख	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसे	उसे	PRP		unk				
+वाराणसी	वाराणसी	JJ	0	n	f	sg	3	d
+रेफर	रेफर	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नामजद	नामजद	JJ		adj	any	any		any
+तहरीर	तहरीर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अधार	अधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+धारा	धारा	NN	0	n	f	sg	3	d
+307	307	QC		num				
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+वाद	वाद	NN	0	n	m	sg	3	d
+पंजीकृत	पंजीकृत	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+आरोपी	आरोपी	JJ		unk				
+युवक	युवक	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तलाश	तलाश	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जुट	जुट	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चकरा	चकरा	VM	0	v	any	any	any	
+बाजार	बाजार	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मुस्तफा	मुस्तफा	NN		unk				
+22	22	QC		num				
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+पुत्र	पुत्र	NN	0	n	m	sg	3	d
+मुस्तकीन	मुस्तकीन	NN		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+भाई	भाई	NN	0	n	m	sg	3	d
+मुर्तजा	मुर्तजा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+मोटरसाइकिल	मोटरसाइकिल	JJ	0	n	f	sg	3	d
+रिपेय	रिपेय	NN		unk				
+¨	¨	JJ		unk				
+रग	रग	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+दुकान	दुकान	NN	0	n	f	sg	3	d
+चलाता	चला	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मुस्तफा	मुस्तफा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+लगभग	लगभग	RB		adv				
+एक	एक	QC		adj	any	any		any
+वर्ष	वर्ष	NN	0	n	m	sg	3	d
+पूर्व	पूर्व	NST		adv				
+उसने	उसने	PRP		unk				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+गांव	गाँव	NN	0	n	m	sg		d
+के	का	PSP	का	psp	m	sg		o
+ही	ही	RP		adv				
+सोनू	सोनू	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+परन्तु	परंतु	CC		avy				
+जब	जब	PRP		adv				
+वादे	वादा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+मुताबिक	मुताबिक	JJ		adj	any	any		any
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बात	बात	NN	0	n	f	sg	3	d
+नही	नही	NEG		unk				
+बनी	बन	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+मुस्तफा	मुस्तफा	JJ		unk				
+सोनू	सोनू	NN		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+अपने	अपना	PRP	0	n	m	pl	3	d
+दिये	दे	VM	या	v	m	pl	any	
+पैसे	पैसा	NN	0	n	m	pl	3	d
+वापस	वापस	JJ		adj	any	any		any
+मांगने	मांगने	VM		unk				
+लगा	लगा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+परन्तु	परंतु	CC		avy				
+सोनू	सोनू	XC		unk				
+हीला	हीला	XC		unk				
+हवाली	हवाली	NNP		unk				
+करता	कर	VM	ता	v	m	sg	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कुछ	कुछ	QF		adj	any	any		d
+दिनो	दिनो	NN		unk				
+पूर्व	पूर्व	NST		adv				
+सोनू	सोनू	NN		unk				
+ने	ने	PSP		psp				
+25	25	QC		num				
+नवम्बर	नवंबर	NN	0	n	m	sg		d
+को	को	PSP		psp				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+वापस	वापस	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+बात	बात	NN	0	n	f	sg	3	d
+कही	कह	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सोनू	सोनू	XC		unk				
+25	25	QC		num				
+नवम्बर	नवंबर	NN	0	n	m	sg		d
+को	को	PSP		psp				
+मुस्तफा	मुस्तफा	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+पाई	पा	VAUX	या	v	f	sg	any	
+व	व	CC		avy				
+30	30	QC		num				
+नवम्बर	नवंबर	NN	0	n	m	sg		d
+को	को	PSP		psp				
+उसके	उसके	PRP		unk				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+वापस	वापस	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+देगा	दे	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वादे	वादा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+मुताबिक	मुताबिक	JJ		adj	any	any		any
+30	30	QC		num				
+नवम्बर	नवंबर	NN	0	n	m	sg		d
+को	को	PSP		psp				
+जब	जब	PRP		adv				
+सोनू	सोनू	XC		unk				
+मुस्तफा	मुस्तफा	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+दुकान	दुकान	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पहुचा	पहुचा	VM		unk				
+तब	तब	PRP		adv				
+देर	देर	JJ		adv				
+साय	साय	NN	0	n	m	sg	3	d
+मुस्तफा	मुस्तफा	NN		unk				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+दुकान	दुकान	NN	0	n	f	sg	3	d
+बन्द	बंद	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सोनू	सोनू	XC		unk				
+मुस्तफा	मुस्तफा	NNP		unk				
+को	को	PSP		psp				
+बाइक	बाइक	NN		unk				
+से	से	PSP	0	v	any	any	any	
+बैठा	बैठा	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+गाव	गाव	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पूरब	पूरब	NN	0	n	m	sg	3	d
+कुछ	कुछ	QF		adj	any	any		d
+दूरी	दूरी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+निर्जन	निर्जन	JJ	0	n	m	sg	3	d
+स्थान	स्थान	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+ले	ले	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+और	और	CC		adv				
+वही	वही	PRP	0	n	f	sg	3	d
+उसके	उसके	PRP		unk				
+कनपटी	कनपटी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+गोली	गोली	JJ	0	n	f	sg	3	d
+मार	मार	VM	0	v	any	any	any	
+फरार	फरार	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+गोली	गोली	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आवाज	आवाज	NN	0	n	f	sg	3	d
+सुनकर	सुन	VM	कर	v	any	any	any	
+जब	जब	PRP		adv				
+आस	आस	QC	0	n	f	sg	3	d
+पास	पास	NST		adv				
+के	का	PSP	का	psp	m	sg		o
+लोग	लोग	NN	0	n	m	sg	3	d
+वहा	वहा	PRP	0	n	m	sg	3	d
+पहुचे	पहुचे	VM		unk				
+तो	तो	CC		avy				
+मुस्तफा	मुस्तफा	NN		unk				
+वहा	वहा	PRP	0	n	m	sg	3	d
+गंभीर	गंभीर	JJ		adj	any	any		any
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+तडप	तडप	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लोगो	लोगो	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+मुस्तफा	मुस्तफा	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+परिजन	परिजन	NN	0	n	m	sg	3	d
+वहां	वहाँ	PRP		adv				
+पहुंचे	पहुंचे	VM		unk				
+और	और	CC		adv				
+उसे	उसे	PRP		unk				
+तुरन्त	तुरन्त	RB		adv				
+उपचार	उपचार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+मऊ	मऊ	NN		unk				
+ले	ले	VM	0	v	any	any	any	
+गये	गये	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+परन्तु	परंतु	CC		avy				
+प्राथमिक	प्राथमिक	JJ		adj	any	any		any
+उपचार	उपचार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+चिकित्सको	चिकित्सको	NN		unk				
+ने	ने	PSP		psp				
+उसे	उसे	PRP		unk				
+वाराणसी	वाराणसी	NN	0	n	f	sg	3	d
+भेज	भेज	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+जहा	जहा	VAUX		unk				
+उसका	उसका	PRP	0	v	any	any	any	
+उपचार	उपचार	NN	0	n	m	sg	3	d
+चल	चल	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+घटना	घटना	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सूचना	सूचना	NN	0	n	f	sg	3	d
+थानाध्यक्ष	थानाध्यक्ष	JJ		unk				
+हलधरपुर	हलधरपुर	NN		unk				
+भी	भी	RP		adv				
+पहुंचे	पहुंचे	VM		unk				
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जायजा	जायजा	NN	0	n	m	sg	3	d
+लिया	ले	VM	या	v	m	sg	any	
+तथा	तथा	CC		adv				
+तहरीर	तहरीर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+सोनू	सोनू	XC		unk				
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विरूद्ध	विरूद्ध	JJ		unk				
+धारा	धारा	NN	0	n	f	sg	3	d
+307	307	QC		num				
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+मुकदमा	मुकदमा	NN	0	n	m	sg	3	d
+पंजीकृत	पंजीकृत	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+जाच	जाच	NN		unk				
+में	में	PSP		psp				
+जुट	जुट	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

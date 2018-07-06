@@ -1,0 +1,591 @@
+गुलशन	गुलशन	XC	0	n	m	sg	3	d
+राय	राय	XC	0	n	f	sg	3	d
+खत्री	खत्री	NN		unk				
+नई	नई	JJ		adj	f	any		any
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+..	..	XC		unk				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+अब	अब	PRP		adv				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+नया	नया	JJ		adj	m	sg		d
+एक्ट	एक्ट	NN		unk				
+तैयार	तैयार	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+एक्सपर्ट	एक्सपर्ट	XC		unk				
+कमिटी	कमिटी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+गठन	गठन	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+कमिटी	कमिटी	NN		unk				
+अगले	अगला	JJ		adj	m	sg		o
+6	6	QC		num				
+महीने	महीना	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+बदले	बदल	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+हालात	हालात	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+देखते	देख	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नए	नया	JJ		adj	m	sg		o
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ड्राफ्ट	ड्राफ्ट	NN	0	n	m	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+करेगी	कर	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मानना	मान	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+चूंकि	चूंकि	CC		avy				
+संविधान	संविधान	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मुताबिक	मुताबिक	JJ		adj	any	any		any
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नए	नया	JJ		adj	m	sg		o
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+बनाने	बना	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+अधिकार	अधिकार	NN	0	n	m	sg	3	d
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+है	है	VM	है	v	any	sg	2	
+इसलिए	इसलिये	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+बना	बना	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यानी	यानी	CC		avy				
+अब	अब	PRP		adv				
+नए	नया	JJ		adj	m	sg		o
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+सीधे	सीधे	JJ		adv				
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+कंट्रोल	कंट्रोल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ला	ला	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+उसे	उसे	PRP		unk				
+अभी	अभी	PRP		adv				
+केंद्र	केंद्र	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+जद्दोजहद	जद्दोजहद	NN		unk				
+करनी	कर	VM	ना	v	f	sg	any	
+पड़	पड़	NNP		unk				
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ड्राफ्ट	ड्राफ्ट	NN	0	n	m	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बनी	बन	VM	या	v	f	sg	any	
+कमिटी	कमिटी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+चेयरमैन	चेयरमैन	NN	0	n	m	sg	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+शहरी	शहरी	JJ		adj	f	any		any
+विकास	विकास	NN	0	n	m	sg	3	d
+मंत्रालय	मंत्रालय	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पूर्व	पूर्व	NST		adv				
+जॉइंट	जॉइंट	XC		unk				
+सेक्रेटरी	सेक्रेटरी	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+.	.	SYM		punc				
+</s>
+<s>
+धर्मराजन	धर्मराजन	NNP		unk				
+को	को	PSP		psp				
+बनाया	बना	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP:?		adv				
+अर्बन	अर्बन	XC		unk				
+पॉलिसी	पॉलिसी	NNP		unk				
+एक्सपर्ट	एक्सपर्ट	XC		unk				
+आर	आर	XC	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+एम	एम	XC	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+कपूर	कपूर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+प्लानिंग	प्लानिंग	XC		unk				
+कमिशन	कमिशन	NN		unk				
+में	में	PSP		psp				
+शहरी	शहरी	JJ		adj	f	any		any
+विकास	विकास	NN	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पूर्व	पूर्व	JJ		adj	any	any		any
+कंसलटेंट	कंसलटेंट	XC		unk				
+बी	बी	NNP	0	n	f	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+एन	एन	XC		unk				
+.	.	SYM		punc				
+</s>
+<s>
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+शहरी	शहरी	JJ		adj	f	any		any
+विकास	विकास	NN	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पूर्व	पूर्व	NST		adv				
+कंसलटेंट	कंसलटेंट	NN		unk				
+आर	आर	XC	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+डी	डी	NN		unk				
+.	.	SYM		punc				
+</s>
+<s>
+गुप्ता	गुप्ता	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+सदस्य	सदस्य	NN	0	n	m	sg	3	d
+बनाया	बना	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+चीफ	चीफ	XC		adj	any	any		any
+सेक्रेटरी	सेक्रेटरी	XC	0	n	m	sg	3	d
+राकेश	राकेश	XC	0	n	m	sg	3	d
+मेहता	मेहता	NNP		unk				
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+सिलसिले	सिलसिला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+26	26	QC		num				
+फरवरी	फरवरी	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+औपचारिक	औपचारिक	JJ		adj	any	any		any
+तौर	तौर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+आदेश	आदेश	NN	0	n	m	sg	3	d
+जारी	जारी	JJ	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इनमें	इनमें	PRP		pn	any	pl	3	o
+कहा	कह	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+एक्सपर्ट	एक्सपर्ट	XC		unk				
+कमिटी	कमिटी	NN		unk				
+को	को	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+छह	छह	QC		adj	any	any		any
+महीने	महीना	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+फाइनल	फाइनल	NN	0	n	m	sg	3	d
+करनी	कर	VM	ना	v	f	sg	any	
+होगी	हो	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+कमिटी	कमिटी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+यह	यह	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+कहा	कह	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+एनडीएमसी	एनडीएमसी	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+बाहरी	बाहरी	JJ		adj	f	any		any
+हिस्से	हिस्सा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+नया	नया	JJ		adj	m	sg		d
+डीएमसी	डीएमसी	JJ		unk				
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ड्राफ्ट	ड्राफ्ट	NN	0	n	m	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+करे	कर	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+कमिटी	कमिटी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कहा	कह	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+चाहे	चाहे	CC:?		adv				
+तो	तो	RP		avy				
+इस	इस	PRP		pn	any	sg	3	o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+एक्सपर्ट	एक्सपर्ट	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+सलाह	सलाह	NN	0	n	f	sg	3	d
+या	या	CC		avy				
+सहायता	सहायता	NN	0	n	f	sg	3	d
+ले	ले	VM	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP:?		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+चाहे	चाहे	CC:?		adv				
+तो	तो	RP		avy				
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+कमिटियों	कमिटियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+सिफारिशों	सिफारिश	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+भी	भी	RP		adv				
+अध्ययन	अध्ययन	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+सकी	सक	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+अलावा	अलावा	PSP:?		adv				
+उसे	उसे	PRP		unk				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सचिवों	सचिव	NN	0	n	m	pl	3	o
+या	या	CC		avy				
+अन्य	अन्य	JJ		adj	any	any		any
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+सलाह	सलाह	NN	0	n	f	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+छूट	छूट	NN	0	v	any	any	any	
+होगी	हो	VM	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+कमिटी	कमिटी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+गठन	गठन	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+3	3	QC		num				
+फरवरी	फरवरी	NNP	0	n	f	sg	3	d
+को	को	PSP		psp				
+कैबिनेट	कैबिनेट	XC	0	n	m	sg	3	d
+बैठक	बैठक	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लिए	ले	VAUX	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+फैसले	फैसला	NN	0	n	m	pl	3	d
+(	(	SYM		punc				
+नंबर	नंबर	NN	0	n	m	sg	3	d
+1612	1612	QC		num				
+)	)	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दरअसल	दरअसल	NN		adv				
+,	,	SYM		punc				
+अभी	अभी	RDP		adv				
+जो	जो	PRP		avy				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	JJ	0	n	m	sg	3	d
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+वह	वह	PRP	0	pn	any	sg	3	d
+संसद	संसद	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पारित	पारित	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ज्यादातर	ज्यादातर	JJ		unk				
+अधिकार	अधिकार	NN	0	n	m	sg	3	d
+केंद्र	केंद्र	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+लेकिन	लेकिन	CC		avy				
+अब	अब	PRP		adv				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+तर्क	तर्क	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+जिस	जो	DEM	0	pn	any	sg	3	o
+वक्त	वक्त	NN	0	n	m	sg	3	d
+यह	यह	DEM	0	pn	any	sg	3	d
+एक्ट	एक्ट	NN		unk				
+बना	बना	VM	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+,	,	SYM		punc				
+तब	तब	PRP		adv				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+वजह	वजह	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ही	ही	RP		adv				
+अधिकार	अधिकार	NN	0	n	m	sg	3	d
+रहा	रह	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+लेकिन	लेकिन	CC		avy				
+दूसरे	दूसरा	JJ	0	n	m	pl	3	d
+राज्यों	राज्य	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मातहत	मातहत	NN	0	n	m	sg	3	d
+आते	आ	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अब	अब	PRP		adv				
+चूंकि	चूंकि	CC		avy				
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	XC	0	n	m	sg	3	d
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अधीन	अधीन	JJ		adj	any	any		any
+ही	ही	RP		adv				
+होना	हो	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कहना	कह	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+जब	जब	PRP		adv				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+नया	नया	JJ		adj	m	sg		d
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	JJ	0	n	m	sg	3	d
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+बनाने	बना	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+ही	ही	RP		adv				
+अधिकार	अधिकार	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+तो	तो	CC		avy				
+केंद्र	केंद्र	NN	0	n	m	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+आधे	आधा	QF	0	n	m	pl	3	d
+अधूरे	अधूरा	JJ		adj	m	sg		o
+अधिकार	अधिकार	NN	0	n	m	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+बजाय	बजाय	PSP:?		adv				
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+नए	नया	JJ		adj	m	sg		o
+सिरे	सिरा	NN	0	n	m	pl	3	d
+से	से	PSP	0	v	any	any	any	
+मौजूदा	मौजूदा	JJ		adj	m	sg		d
+परिस्थितियों	परिस्थिति	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अनुरूप	अनुरूप	PSP:?		adj	any	any		any
+तैयार	तैयार	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+जाए	जा	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+गौरतलब	गौरतलब	NN		unk				
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+बनाने	बना	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+यह	यह	DEM	0	pn	any	sg	3	d
+कवायद	कवायद	NN	0	n	m	sg	3	d
+तब	तब	PRP		adv				
+शुरू	शुरू	NN		avy				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+,	,	SYM		punc				
+जब	जब	PRP		adv				
+केंद्र	केंद्र	XC	0	n	m	sg	3	d
+सरकार	सरकार	NNP	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+पहले	पहले	NST		adv				
+नगर	नगर	NN	0	n	m	sg	3	d
+निगम	निगम	JJ	0	n	m	sg	3	d
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	NN	0	n	m	sg	3	d
+दिल्ली	दिल्ली	NNP	0	n	f	sg	3	d
+सरकार	सरकार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+23	23	QC		num				
+अधिकार	अधिकार	NN	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+फैसला	फैसला	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+लेकिन	लेकिन	CC		avy				
+बाद	बाद	NST		adv				
+में	में	PSP		psp				
+उनमें	उनमें	PRP		unk				
+भी	भी	RP		adv				
+कटौती	कटौती	NN	0	n	f	sg	3	d
+करके	कर	VM	कर	v	any	any	any	
+दिए	दे	VAUX	या	v	m	pl	any	
+जाने	जान	VAUX	एं	v	any	sg	2	
+वाले	वाला	PSP	0	n	m	pl	3	d
+अधिकारों	अधिकार	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+तादाद	तादाद	NN	0	n	m	sg	3	d
+17	17	QC		num				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>

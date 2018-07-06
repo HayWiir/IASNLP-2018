@@ -1,0 +1,161 @@
+जागरण	जागरण	NN	0	n	m	sg	3	d
+संवाददाता	संवाददाता	NN		unk				
+,	,	SYM		punc				
+बटाला	बटाला	NN		unk				
+:	:	SYM		punc				
+थाना	थाना	VM	0	n	m	sg	3	d
+फतेहगढ़	फतेहगढ़	NNP		punc				
+चूडियां	चूडियां	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+उसके	उसके	PRP		unk				
+बेटों	बेटा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+कृषि	कृषि	XC	0	n	f	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+दिलवाने	दिलवाने	VM		unk				
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+ठगी	ठगी	NN	0	n	f	sg	3	d
+मारने	मार	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+आरोप	आरोप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एएसआइ	एएसआइ	XC		unk				
+नंद	नंद	XC	0	n	m	sg	3	d
+लाल	लाल	NNP		adj	any	any		any
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+बिक्रम	बिक्रम	JJ		unk				
+¨	¨	NN		unk				
+सह	सह	JJ	0	v	any	any	any	
+वासी	वासी	NN	0	n	f	sg	3	d
+व्हीला	व्हीला	JJ		unk				
+तेजा	तेजा	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+कि	कि	CC		avy				
+पवन	पवन	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+वासी	वासी	NN	0	n	f	sg	3	d
+व्हीला	व्हीला	JJ		unk				
+तेजा	तेजा	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+उसके	उसके	PRP		unk				
+बेटों	बेटा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+कृषि	कृषि	XC	0	n	f	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+दिलवाने	दिलवाने	VM		unk				
+का	का	PSP	का	psp	m	sg		d
+झांसा	झाँसा	NN	0	n	m	sg		d
+देकर	दे	VM	कर	v	any	any	any	
+उससे	उससे	PRP		unk				
+6	6	QC		num				
+लाख	लाख	QC		adj	any	any		any
+साठ	साठ	QC	0	n	m	sg	3	d
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+ले	ले	VM	0	v	any	any	any	
+लिए	ले	VAUX	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+पैसे	पैसा	NN	0	n	m	pl	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+आरोपियों	आरोपियों	NN		unk				
+न	न	NEG		adv				
+उसके	उसके	PRP		unk				
+बेटों	बेटा	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+कृषि	कृषि	XC	0	n	f	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+नौकरी	नौकरी	NN	0	n	f	sg	3	d
+दिलवाई	दिलवाई	VM		unk				
+और	और	CC		adv				
+न	न	NEG		adv				
+ही	ही	RP		adv				
+उसके	उसके	PRP		unk				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+लौटाए	लौटा	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+इंस्पेक्टर	इंस्पेक्टर	XC	0	n	m	sg	3	d
+सुखपाल	सुखपाल	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	XC	0	v	any	any	any	
+इंचार्ज	इंचार्ज	XC	0	n	m	sg	3	d
+एंटी	एंटी	XC		unk				
+फ्राड	फ्राड	NN		unk				
+स्टाफ	स्टाफ	XC		unk				
+बटाला	बटाला	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+एसएसपी	एसएसपी	JJ		unk				
+बटाला	बटाला	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+निर्देशों	निर्देश	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+थाना	थाना	VM	0	n	m	sg	3	d
+फतेहगढ़	फतेहगढ़	NNP		punc				
+चूडियां	चूडियां	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+पवन	पवन	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+भादंस	भादंस	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+धारा	धारा	NN	0	n	f	sg	3	d
+420,471	420,471	QC		num				
+के	का	PSP	का	psp	m	sg		o
+तहत	तहत	JJ	0	n	m	sg	3	d
+मामला	मामला	NN	0	n	m	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,452 @@
+संवाद	संवाद	JJ	0	n	m	sg	3	d
+सहयोगी	सहयोगी	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+कलायत	कलायत	NN		unk				
+:	:	SYM		punc				
+हरियाणा	हरियाणा	XC		unk				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+परिवहन	परिवहन	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+द्वारा	द्वारा	PSP		psp				
+यात्रियों	यात्री	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+बस	बस	RP	0	v	any	any	any	
+सेवा	सेवा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+नाम	नाम	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+नियमों	नियम	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+विरुद्ध	विरुद्ध	JJ		psp				
+किराया	किराया	NN	0	n	m	sg	3	d
+वसूलने	वसूल	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+प्रकाश	प्रकाश	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+गांव	गाँव	NN	0	n	m	sg		d
+बात्ता	बात्ता	NN		unk				
+निवासी	निवासी	NN	0	n	f	sg	3	d
+सामाजिक	सामाजिक	JJ		adj	any	any		any
+कार्यकर्ता	कार्यकर्ता	NN	0	n	m	sg	3	d
+संजीव	संजीव	XC		unk				
+राणा	राणा	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दी	दे	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+संविधान	संविधान	NN	0	n	m	sg	3	d
+दिवस	दिवस	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+नागरिकों	नागरिक	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+अधिकारों	अधिकार	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+हो	हो	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+इस	इस	DEM		pn	any	sg	3	o
+हनन	हनन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+राणा	राणा	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+न्यायालय	न्यायालय	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+दरवाजा	दरवाजा	NN	0	n	m	sg	3	d
+खटखटाने	खटखटा	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+निर्णय	निर्णय	NN	0	n	m	sg	3	d
+लिया	ले	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+संदर्भ	संदर्भ	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+एडवोकेट	एडवोकेट	XC	0	n	m	sg	3	d
+योगेंद्र	योगेंद्र	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+समक्ष	समक्ष	JJ		adj	any	any		any
+तथ्य	तथ्य	NN	0	n	m	sg	3	d
+पेश	पेश	JJ	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+शिकायतकर्ता	शिकायतकर्ता	NN		unk				
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+नीति	नीति	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+गांव	गाँव	NN	0	n	m	sg		d
+बात्ता	बात्ता	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कैथल	कैथल	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+किराया	किराया	NN	0	n	m	sg	3	d
+13	13	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+60	60	QC		num				
+पैसे	पैसा	NN	0	n	m	pl	3	d
+बनता	बन	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जबकि	जबकि	CC		avy				
+यात्रियों	यात्री	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+20	20	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वसूले	वसूल	VM	एं	v	any	sg	2	
+जा	जा	VAUX	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+दोनों	दोना	JJ	0	n	m	pl	3	o
+स्थानों	स्थान	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+की	का	PSP	का	psp	f	sg		d
+दूरी	दूरी	NN	0	n	f	sg	3	d
+16	16	QC		num				
+किलोमीटर	किलोमीटर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+कम	कम	QF		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+यात्रियों	यात्री	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+चूना	चूना	NN	0	n	m	sg	3	d
+लगाने	लगा	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+यह	यह	DEM	0	pn	any	sg	3	d
+मामला	मामला	NN	0	n	m	sg	3	d
+सीएम	सीएम	XC		unk				
+¨	¨	NNP		unk				
+वडो	वडो	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+माध्यम	माध्यम	NN		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+सरकार	सरकार	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+संज्ञान	संज्ञान	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लाया	ला	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+बावजूद	बावजूद	PSP:?	0	n	m	sg	3	d
+इसके	इसके	PRP		pn	m	pl	3	d
+राज्य	राज्य	XC	0	n	m	sg	3	d
+परिहवन	परिहवन	NN		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+मनमानी	मनमानी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+अडा	अडा	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+प्रति	प्रति	RP:?		adv				
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+करीब	करीब	RB		adj	any	any		any
+चार	चार	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+अतिरिक्त	अतिरिक्त	JJ		adj	any	any		any
+वसूली	वसूली	NN	0	n	f	sg	3	d
+उच्च	उच्च	JJ		adj	any	any		any
+स्तरीय	स्तरीय	JJ	0	n	m	sg	3	d
+जांच	जांच	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+बसों	बस	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+विशेषकर	विशेषकर	RB		unk				
+विद्यार्थी	विद्यार्थी	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+मजदूर	मजदूर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+छोटे	छोटा	RDP		adj	m	sg		o
+कर्मी	कर्मी	NN		adj	f	any		any
+और	और	CC		adv				
+गरीब	गरीब	JJ		adj	any	any		any
+तबका	तबका	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+यात्रा	यात्रा	NN	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+तरह	तरह	NN		adv				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+कमजोर	कमजोर	JJ		adj	any	any		any
+तबकों	तबका	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+हितों	हित	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+नीतियों	नीतियों	NN		unk				
+बनाने	बना	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+दावे	दावा	NN	0	n	m	pl	3	d
+कर	कर	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+विपरीत	विपरीत	JJ		psp				
+राज्य	राज्य	NN	0	n	m	sg	3	d
+परिहवन	परिहवन	NN		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+अधिक	अधिक	QF		adv				
+किराया	किराया	NN	0	n	m	sg	3	d
+वसूली	वसूली	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बॉक्स	बॉक्स	XC		unk				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+परिहवन	परिहवन	NN		unk				
+विभाग	विभाग	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+भेजा	भेज	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+नोटिस	नोटिस	NN	0	n	m	sg	3	d
+:	:	SYM		punc				
+अधिवक्ता	अधिवक्ता	NN	0	n	m	sg	3	d
+योगेंद्र	योगेंद्र	XC		unk				
+¨	¨	NNP		unk				
+सह	सह	NN	0	v	any	any	any	
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+जो	जो	PRP		avy				
+तथ्य	तथ्य	NN	0	n	m	sg	3	d
+पेश	पेश	JJ	0	n	m	sg	3	d
+किए	कर	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+उसके	उसके	PRP		unk				
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+सर्व	सर्व	JJ		adj	any	any		any
+प्रथम	प्रथम	QO		adj	any	any		any
+राज्य	राज्य	XC	0	n	m	sg	3	d
+परिवहन	परिवहन	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+नोटिस	नोटिस	NN	0	n	m	sg	3	d
+भेजा	भेज	VM	या	v	m	sg	any	
+जाएगा	जा	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+उपरांत	उपरान्त	PSP:?		psp				
+आगामी	आगामी	JJ		adj	f	any		any
+कार्रवाई	कार्रवाई	NN		unk				
+अमल	अमल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लाई	ला	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+न्यायालय	न्यायालय	NN	0	n	m	sg	3	d
+निश्चित	निश्चित	JJ	0	n	m	sg	3	d
+तौर	तौर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+आम	आम	JJ	0	n	m	sg	3	d
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+राहत	राहत	NN	0	n	f	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+करेगा	कर	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बॉक्स	बॉक्स	NN		unk				
+30	30	QC		num				
+से	से	PSP	0	v	any	any	any	
+25	25	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+किराया	किराया	NN	0	n	m	sg	3	d
+निर्धारित	निर्धारित	JJ		adj	any	any		any
+करवा	करवा	VM	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैंअमित	हैंअमित	JJ		unk				
+राणा	राणा	XC	0	n	m	sg	3	d
+:	:	SYM		punc				
+एडवोकेट	एडवोकेट	XC	0	n	m	sg	3	d
+अमित	अमित	XC		adj	any	any		any
+राणा	राणा	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+नियमों	नियम	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+विरुद्ध	विरुद्ध	JJ		psp				
+किराया	किराया	NN	0	n	m	sg	3	d
+वसूलने	वसूल	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+मामला	मामला	NN	0	n	m	sg	3	d
+नया	नया	JJ		adj	m	sg		d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+कडी	कडी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+कलायत	कलायत	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कैथल	कैथल	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+का	का	PSP	का	psp	m	sg		d
+किराया	किराया	NN	0	n	m	sg	3	d
+30	30	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वसूला	वसूल	VM	या	v	m	sg	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+,	,	SYM		punc				
+जबकि	जबकि	CC		avy				
+सरकारी	सरकारी	JJ	0	n	f	sg	3	d
+मानदंडों	मानदंडों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+अनुसार	अनुसार	PSP:?		psp				
+यह	यह	DEM	0	pn	any	sg	3	d
+25	25	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+होना	हो	VM	ना	v	m	sg	any	
+चाहिए	चाह	VAUX	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+मैंने	मैं	PRP	ने	pn	any	sg	1	o
+प्रमुखता	प्रमुखता	NN		unk				
+से	से	PSP	0	v	any	any	any	
+उठाया	उठा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+परिवहन	परिवहन	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+गलती	गलती	NN	0	n	f	sg	3	d
+दुरुस्त	दुरुस्त	JJ	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+25	25	QC		num				
+रुपये	रुपया	NN	0	n	m	pl	3	d
+किराया	किराया	NN	0	n	m	sg	3	d
+तय	तय	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वर्जन	वर्जन	NN	0	n	m	sg	3	d
+जीएम	जीएम	NN		unk				
+बोले	बोल	VM	एं	v	any	sg	2	
+,	,	SYM		punc				
+जांच	जांच	NN		unk				
+करवाउंगा	करवाउंगा	VM		unk				
+:	:	SYM		punc				
+मामला	मामला	NN	0	n	m	sg	3	d
+आज	आज	NN		adv				
+ही	ही	RP		adv				
+उनके	उनके	PRP		unk				
+संज्ञान	संज्ञान	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दूरी	दूरी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+किराया	किराया	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+अन्य	अन्य	JJ		adj	any	any		any
+तथ्यों	तथ्य	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+यात्रियों	यात्री	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+राहत	राहत	NN	0	n	f	sg	3	d
+प्रदान	प्रदान	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+-	-	SYM		punc				
+रामकुमार	रामकुमार	NNP		unk				
+,	,	SYM		punc				
+महाप्रबंधक	महाप्रबंधक	NN		unk				
+,	,	SYM		punc				
+हरियाणा	हरियाणा	XC		unk				
+राज्य	राज्य	XC	0	n	m	sg	3	d
+परिवहन	परिवहन	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
